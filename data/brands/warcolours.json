@@ -1,0 +1,2508 @@
+{
+  "brand": "Warcolours",
+  "slug": "warcolours",
+  "md_file": "Warcolours.md",
+  "logo": "logos/Warcolours.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "warcolours/layer-paints--black",
+      "name": "Black",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--black",
+      "name": "Black",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/paints-for-undercoating--black",
+      "name": "Black",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-1",
+      "name": "Blue 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9EDBEE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jodhpur Blue",
+        "hex": "#9BD7E9",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-2",
+      "name": "Blue 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#008DB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinnaker Blue",
+        "hex": "#018CB6",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-3",
+      "name": "Blue 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0464B1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cobalt Stone",
+        "hex": "#0264AE",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-4",
+      "name": "Blue 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0043AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indian Peafowl",
+        "hex": "#0044AA",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-5",
+      "name": "Blue 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#002053",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clarinet",
+        "hex": "#002255",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--blue-glaze",
+      "name": "Blue Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#4E91C8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azure Blue",
+        "hex": "#4D91C6",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-grey-1",
+      "name": "Blue Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#D1E1FA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fly a Kite",
+        "hex": "#C8DAF5",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-grey-2",
+      "name": "Blue Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#99B3D8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mont Blanc",
+        "hex": "#9EB6D8",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-grey-3",
+      "name": "Blue Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#708BB6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Debutante Ball",
+        "hex": "#6E8DBB",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-grey-4",
+      "name": "Blue Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#526989",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aurora Borealis",
+        "hex": "#556B87",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--blue-grey-5",
+      "name": "Blue Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#293543",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Anchors Aweigh",
+        "hex": "#2B3441",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--brown-1",
+      "name": "Brown 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E17767",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Coral",
+        "hex": "#E57568",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--brown-2",
+      "name": "Brown 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9E3724",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brownish Red",
+        "hex": "#9E3623",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--brown-3",
+      "name": "Brown 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#702619",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazelnut Kisses",
+        "hex": "#742719",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--brown-4",
+      "name": "Brown 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#5D4239",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shaved Chocolate",
+        "hex": "#5A4039",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--brown-5",
+      "name": "Brown 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#423B43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nevermore",
+        "hex": "#403940",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--brown-glaze",
+      "name": "Brown Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#C07E71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Faneuil Brick",
+        "hex": "#BB7B6D",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--burnt-sienna",
+      "name": "Burnt Sienna",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#CE2B00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pleasant Pomegranate",
+        "hex": "#CC3300",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--cool-grey-1",
+      "name": "Cool Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C6C6C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Polish",
+        "hex": "#C6C6C6",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--cool-grey-2",
+      "name": "Cool Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A5A5A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainy Grey",
+        "hex": "#A5A5A5",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--cool-grey-3",
+      "name": "Cool Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#828282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trolley Grey",
+        "hex": "#818181",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--cool-grey-4",
+      "name": "Cool Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#4C4C4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shadowed Steel",
+        "hex": "#4B4B4B",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--cool-grey-5",
+      "name": "Cool Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#191919",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thamar Black",
+        "hex": "#181818",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--dark-green",
+      "name": "Dark Green",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#006215",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thuja Green",
+        "hex": "#11610F",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--emerald-1",
+      "name": "Emerald 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00E592",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aqua Green",
+        "hex": "#12E193",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--emerald-2",
+      "name": "Emerald 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00C57D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Times Square Screens",
+        "hex": "#20C073",
+        "delta_e": 1.99
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--emerald-3",
+      "name": "Emerald 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#009960",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Gloss",
+        "hex": "#00955E",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--emerald-4",
+      "name": "Emerald 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#007247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diisha Green",
+        "hex": "#007044",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--emerald-5",
+      "name": "Emerald 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#005532",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Card Table Green",
+        "hex": "#00512C",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--flesh-1",
+      "name": "Flesh 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FEF8BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Break of Day",
+        "hex": "#FFFABD",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--flesh-2",
+      "name": "Flesh 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFE9BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Favourite Afternoon",
+        "hex": "#FFE9BA",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--flesh-3",
+      "name": "Flesh 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC69B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gumdrops",
+        "hex": "#FFC69D",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--flesh-4",
+      "name": "Flesh 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#D77779",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Cedar",
+        "hex": "#D87678",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--flesh-5",
+      "name": "Flesh 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A07C62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tender Twig",
+        "hex": "#A17E64",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--fluorescent-green",
+      "name": "Fluorescent Green",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#8EFF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skywalker Green",
+        "hex": "#8FFE08",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--fluorescent-orange",
+      "name": "Fluorescent Orange",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFBE00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amber",
+        "hex": "#FFBF00",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--fluorescent-pink",
+      "name": "Fluorescent Pink",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FE00A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shocking Pink",
+        "hex": "#FE02A2",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--fluorescent-yellow",
+      "name": "Fluorescent Yellow",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E9FF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "High Voltage",
+        "hex": "#EEFF11",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--green-1",
+      "name": "Green 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E2FF11",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lime Jelly",
+        "hex": "#E3FF00",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--green-2",
+      "name": "Green 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#6EFF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Green",
+        "hex": "#66FF00",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--green-3",
+      "name": "Green 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00B738",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toxic Sludge",
+        "hex": "#00BB33",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--green-4",
+      "name": "Green 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#009A2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peppermint Toad",
+        "hex": "#009933",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--green-5",
+      "name": "Green 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#026721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paradise Palms",
+        "hex": "#006622",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--green-glaze",
+      "name": "Green Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#9AFF4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Irradiated Green",
+        "hex": "#AAFF55",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "warcolours/paints-for-undercoating--grey",
+      "name": "Grey",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#828282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trolley Grey",
+        "hex": "#818181",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--marine-1",
+      "name": "Marine 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#8BC5ED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wasurenagusa Blue",
+        "hex": "#89C3EB",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--marine-2",
+      "name": "Marine 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#4AA8EE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cerulean",
+        "hex": "#55AAEE",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--marine-3",
+      "name": "Marine 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#007DDA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soothing Sapphire",
+        "hex": "#307DD3",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--marine-4",
+      "name": "Marine 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#005AA3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parachuting",
+        "hex": "#00589B",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--marine-5",
+      "name": "Marine 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#003A52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duskwood",
+        "hex": "#123D55",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-antique-gold",
+      "name": "Metallic Antique Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C5AB18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citronette",
+        "hex": "#C4AA27",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-black",
+      "name": "Metallic Black",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#373737",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lacquered Liquorice",
+        "hex": "#383838",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-black-copper",
+      "name": "Metallic Black Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#4B1C14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tobi Brown",
+        "hex": "#4C221B",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-blue",
+      "name": "Metallic Blue",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#292FFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivid Blue",
+        "hex": "#152EFF",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-bright-gold",
+      "name": "Metallic Bright Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#DFB308",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Frame",
+        "hex": "#E2B31B",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-brown",
+      "name": "Metallic Brown",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#D0A91E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armageddon Dust",
+        "hex": "#D3A907",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-choco",
+      "name": "Metallic Choco",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C67F23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yamabukicha Gold",
+        "hex": "#CB7E1F",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-copper",
+      "name": "Metallic Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#AA441E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Potter’s Clay",
+        "hex": "#A64826",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-crimson",
+      "name": "Metallic Crimson",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FE4A49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Frog",
+        "hex": "#FF4444",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-dark-copper",
+      "name": "Metallic Dark Copper",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#793C2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stone Age Queen",
+        "hex": "#7A3F2B",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-dark-green",
+      "name": "Metallic Dark Green",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#74DE3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tirisfal Lime",
+        "hex": "#75DE2F",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-emerald",
+      "name": "Metallic Emerald",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#298B52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lake Green",
+        "hex": "#2E8B57",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-green",
+      "name": "Metallic Green",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#E4FF56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Ooze",
+        "hex": "#E1FE52",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-lemon",
+      "name": "Metallic Lemon",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C58641",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Automn Fox",
+        "hex": "#C38743",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-pale-gold",
+      "name": "Metallic Pale Gold",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FEE185",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daffodil Yellow",
+        "hex": "#FFE285",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-pewter",
+      "name": "Metallic Pewter",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#747474",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Industrial Revolution",
+        "hex": "#737373",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-pink",
+      "name": "Metallic Pink",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FE69BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kisses",
+        "hex": "#FF66BB",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-red",
+      "name": "Metallic Red",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#F11718",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roman Empire Red",
+        "hex": "#EE1111",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-sand",
+      "name": "Metallic Sand",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#FEFF5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canary",
+        "hex": "#FDFF63",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-silver",
+      "name": "Metallic Silver",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#979797",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Grey",
+        "hex": "#989898",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-sky",
+      "name": "Metallic Sky",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#4491FD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polar Glow",
+        "hex": "#5097FC",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-turquoise",
+      "name": "Metallic Turquoise",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#38DB5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Priestess",
+        "hex": "#11DD55",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-ultramarine",
+      "name": "Metallic Ultramarine",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#7E35FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Szöllősi Grape",
+        "hex": "#8020FF",
+        "delta_e": 2.47
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-violet",
+      "name": "Metallic Violet",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#7906AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shade of Violet",
+        "hex": "#8601AF",
+        "delta_e": 2.29
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-white",
+      "name": "Metallic White",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#C9C9C9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silverback",
+        "hex": "#CBCBCB",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "warcolours/metallic-paints--metallic-yellow",
+      "name": "Metallic Yellow",
+      "code": null,
+      "set": "Metallic paints",
+      "hex": "#89811F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fickle Pickle",
+        "hex": "#8B851B",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--ochre-1",
+      "name": "Ochre 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E5E1BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swan Dance",
+        "hex": "#E5E1BD",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--ochre-2",
+      "name": "Ochre 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFD66A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hint of Honey",
+        "hex": "#FFD66D",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--ochre-3",
+      "name": "Ochre 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#DB9D2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saffron Sunset",
+        "hex": "#DA9E35",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--ochre-4",
+      "name": "Ochre 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CD8F16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "End of Summer",
+        "hex": "#CC8F15",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--ochre-5",
+      "name": "Ochre 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#B87F18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nouveau Green",
+        "hex": "#B88127",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--olive-1",
+      "name": "Olive 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFF764",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dodie Yellow",
+        "hex": "#FEF65B",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--olive-2",
+      "name": "Olive 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CAE500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poisonous Pesto",
+        "hex": "#CAE80A",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--olive-3",
+      "name": "Olive 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#93A80B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Augustus Asparagus",
+        "hex": "#90AA0B",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--olive-4",
+      "name": "Olive 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#596801",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Serrano Pepper",
+        "hex": "#556600",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--olive-5",
+      "name": "Olive 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#3F4900",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "No Emissions Green",
+        "hex": "#404C02",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-baby-blue",
+      "name": "One-coat Baby-blue",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#4C84FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flickery C64",
+        "hex": "#4F81FF",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-beige",
+      "name": "One-coat Beige",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FFD775",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Glaze",
+        "hex": "#FFD775",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-black",
+      "name": "One-coat Black",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-blue",
+      "name": "One-coat Blue",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#4C00FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overdue Blue",
+        "hex": "#4400FF",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-green",
+      "name": "One-coat Green",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#01B62B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toxic Sludge",
+        "hex": "#00BB33",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-magenta",
+      "name": "One-coat Magenta",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF01A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nemesia",
+        "hex": "#FF00A0",
+        "delta_e": 0.18
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-ochre",
+      "name": "One-coat Ochre",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#DB9D2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saffron Sunset",
+        "hex": "#DA9E35",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-orange",
+      "name": "One-coat Orange",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF7701",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lucky Orange",
+        "hex": "#FF7700",
+        "delta_e": 0.06
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-pink",
+      "name": "One-coat Pink",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF62D7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Illicit Pink",
+        "hex": "#FF5CCD",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-purple",
+      "name": "One-coat Purple",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#BD2F85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Red Violet",
+        "hex": "#BB3385",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-red",
+      "name": "One-coat Red",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#DD000C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stoplight",
+        "hex": "#DD1111",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-red-orange",
+      "name": "One-coat Red-orange",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FF4400",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inferno Orange",
+        "hex": "#FF4400",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-turquoise",
+      "name": "One-coat Turquoise",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#01B78F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chromophobia Green",
+        "hex": "#06B48B",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-violet",
+      "name": "One-coat Violet",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#BD26FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Neon Purple",
+        "hex": "#BC13FE",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-yellow",
+      "name": "One-coat Yellow",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#FFF000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Rose",
+        "hex": "#FFF000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/one-coat-paints--one-coat-yellow-green",
+      "name": "One-coat Yellow-green",
+      "code": null,
+      "set": "One-coat paints",
+      "hex": "#98EA24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorpion Venom",
+        "hex": "#97EA10",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FF6801",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burtuqali Orange",
+        "hex": "#FF6700",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--orange-1",
+      "name": "Orange 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FACF8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Puff Pastry Yellow",
+        "hex": "#FCCF8B",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--orange-2",
+      "name": "Orange 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FDB843",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Just Ducky",
+        "hex": "#FFBA45",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--orange-3",
+      "name": "Orange 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F48124",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Consumed by Fire",
+        "hex": "#F5811A",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--orange-4",
+      "name": "Orange 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E55926",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flame",
+        "hex": "#E25822",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--orange-5",
+      "name": "Orange 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E33F3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vermilion Cinnabar",
+        "hex": "#E34244",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--pink-1",
+      "name": "Pink 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC1DE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Romance",
+        "hex": "#FFC4DD",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--pink-2",
+      "name": "Pink 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F287B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cochonnet",
+        "hex": "#FF88BB",
+        "delta_e": 2.14
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--pink-3",
+      "name": "Pink 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#BF2559",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Rose",
+        "hex": "#C51959",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--pink-4",
+      "name": "Pink 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#911D42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Refined Chianti",
+        "hex": "#8C1B3C",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--pink-5",
+      "name": "Pink 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#400B1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "What We Do in the Shadows",
+        "hex": "#441122",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--pink-glaze",
+      "name": "Pink Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#EB89A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose Glory",
+        "hex": "#E585A5",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--purple-1",
+      "name": "Purple 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFC9E9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soulmate Pink",
+        "hex": "#FFC8E9",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--purple-2",
+      "name": "Purple 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#E65EB2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crumbly Lipstick",
+        "hex": "#EE66BB",
+        "delta_e": 2.44
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--purple-3",
+      "name": "Purple 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#BD2F85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Red Violet",
+        "hex": "#BB3385",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--purple-4",
+      "name": "Purple 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#6A2C51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebizome Purple",
+        "hex": "#6D2B50",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--purple-5",
+      "name": "Purple 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#26121D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Cherry",
+        "hex": "#2C1620",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--raw-sienna",
+      "name": "Raw Sienna",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#D88100",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Pepper",
+        "hex": "#DA7D00",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--red",
+      "name": "Red",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#E00809",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bern Red",
+        "hex": "#E20909",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--red-1",
+      "name": "Red 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#DA2127",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Hot Chili Pepper",
+        "hex": "#DB1D27",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--red-2",
+      "name": "Red 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C01F27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Carpet",
+        "hex": "#BC2026",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--red-3",
+      "name": "Red 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#A71A22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ecstatic Red",
+        "hex": "#AA1122",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--red-4",
+      "name": "Red 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#83141A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Falu Red",
+        "hex": "#801818",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--red-5",
+      "name": "Red 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#430B0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "English Breakfast",
+        "hex": "#441111",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--red-glaze",
+      "name": "Red Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#EC8A8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flamingo Dream",
+        "hex": "#EE888B",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--sepia",
+      "name": "Sepia",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#8B4201",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Pancakes",
+        "hex": "#884400",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-black",
+      "name": "Transparent Black",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#262624",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nero",
+        "hex": "#252525",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-blue",
+      "name": "Transparent Blue",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#579DD0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tall Waves",
+        "hex": "#5C9BCC",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-blue-grey",
+      "name": "Transparent Blue Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#5F6772",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "British Shorthair",
+        "hex": "#5F6672",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-brown",
+      "name": "Transparent Brown",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#B86E61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Water Persimmon",
+        "hex": "#B56C60",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-cool-grey",
+      "name": "Transparent Cool Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#797979",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel",
+        "hex": "#797979",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-emerald",
+      "name": "Transparent Emerald",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#489A83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenway",
+        "hex": "#419A7D",
+        "delta_e": 2.04
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-flesh",
+      "name": "Transparent Flesh",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#988879",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toffee Fingers",
+        "hex": "#968678",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-green",
+      "name": "Transparent Green",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#6E9276",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Watercress",
+        "hex": "#6E9377",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-marine",
+      "name": "Transparent Marine",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#708BC2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dayflower Blue",
+        "hex": "#758CBF",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-ochre",
+      "name": "Transparent Ochre",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#9E844B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greek Olive",
+        "hex": "#A08650",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-olive",
+      "name": "Transparent Olive",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#828C58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scarabœus Nobilis",
+        "hex": "#7D8C55",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-orange",
+      "name": "Transparent Orange",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#FF8E6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salmon Orange",
+        "hex": "#FF8C69",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-pink",
+      "name": "Transparent Pink",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#E87C9E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Carnation",
+        "hex": "#ED7A9E",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-purple",
+      "name": "Transparent Purple",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#D774A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Orchid",
+        "hex": "#D979A2",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-red",
+      "name": "Transparent Red",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#E86A6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zahri Pink",
+        "hex": "#EC6D71",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-turquoise",
+      "name": "Transparent Turquoise",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#599BA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Oasis",
+        "hex": "#579AA5",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-violet",
+      "name": "Transparent Violet",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#987ABA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lavender Purple",
+        "hex": "#967BB6",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-warm-grey",
+      "name": "Transparent Warm Grey",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#908D88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bygone",
+        "hex": "#918E8A",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-white",
+      "name": "Transparent White",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#EDEDED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Edgar",
+        "hex": "#EDEDED",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/transparent-paints--transparent-yellow",
+      "name": "Transparent Yellow",
+      "code": null,
+      "set": "Transparent paints",
+      "hex": "#FEF552",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Cattleya",
+        "hex": "#FFF44F",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--turquoise-1",
+      "name": "Turquoise 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#33E0DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fish Boy",
+        "hex": "#11DDDD",
+        "delta_e": 2.12
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--turquoise-2",
+      "name": "Turquoise 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#01B1AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Laguna Green",
+        "hex": "#01B1AF",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--turquoise-3",
+      "name": "Turquoise 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#0093A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brilliant",
+        "hex": "#0094A7",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--turquoise-4",
+      "name": "Turquoise 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#00535B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cathedral View",
+        "hex": "#015158",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--turquoise-5",
+      "name": "Turquoise 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#002327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teal Spill",
+        "hex": "#032425",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--ultramarine",
+      "name": "Ultramarine",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#420CFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blustering Blue",
+        "hex": "#4411FF",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--vermilion",
+      "name": "Vermilion",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#A70003",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Pentacle",
+        "hex": "#A60000",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--violet-1",
+      "name": "Violet 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#CAB2FE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teasel Dipsacus",
+        "hex": "#CEAEFA",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--violet-2",
+      "name": "Violet 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#9B66FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Hedonist",
+        "hex": "#AA66FF",
+        "delta_e": 2.63
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--violet-3",
+      "name": "Violet 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#840092",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Feather Boa",
+        "hex": "#880099",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--violet-4",
+      "name": "Violet 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#560182",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pigment Indigo",
+        "hex": "#4D0082",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--violet-5",
+      "name": "Violet 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#250038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Purple",
+        "hex": "#280137",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--warm-grey-1",
+      "name": "Warm Grey 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#C0BDB6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ooid Sand",
+        "hex": "#C2BEB6",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--warm-grey-2",
+      "name": "Warm Grey 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#AAA295",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Intellectual Grey",
+        "hex": "#A8A093",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--warm-grey-3",
+      "name": "Warm Grey 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#767269",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Fischer",
+        "hex": "#757166",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--warm-grey-4",
+      "name": "Warm Grey 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#494641",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebony Keys",
+        "hex": "#4A4741",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--warm-grey-5",
+      "name": "Warm Grey 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#1E1D1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco’s Black",
+        "hex": "#1C1C1A",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--white",
+      "name": "White",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/paints-for-undercoating--white",
+      "name": "White",
+      "code": null,
+      "set": "Paints for undercoating",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--white",
+      "name": "White",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/inks-for-shading-and-glazing--yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Inks for Shading and Glazing",
+      "hex": "#FFC208",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Yipee",
+        "hex": "#FFC217",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--yellow-1",
+      "name": "Yellow 1",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFFCDF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spring Heat",
+        "hex": "#FFFDDD",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--yellow-2",
+      "name": "Yellow 2",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFF000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Rose",
+        "hex": "#FFF000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--yellow-3",
+      "name": "Yellow 3",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FFD416",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inca Yellow",
+        "hex": "#FFD301",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--yellow-4",
+      "name": "Yellow 4",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#FCC218",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marigold",
+        "hex": "#FCC006",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "warcolours/layer-paints--yellow-5",
+      "name": "Yellow 5",
+      "code": null,
+      "set": "Layer paints",
+      "hex": "#F9A626",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lush Honeycomb",
+        "hex": "#FCA81B",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "warcolours/glazing-paints--yellow-glaze",
+      "name": "Yellow Glaze",
+      "code": null,
+      "set": "Glazing paints",
+      "hex": "#FEF65D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dodie Yellow",
+        "hex": "#FEF65B",
+        "delta_e": 0.18
+      }
+    }
+  ]
+}

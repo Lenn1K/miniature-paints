@@ -23,10 +23,63 @@ Feel free to use or improve any of these paints in your own personal projects.
 |  <a href="paints/Pantone.md"> <img src="logos/Pantone.png" height="70" /> <br/> Pantone</a>|  <a href="paints/RAL.md"> <img src="logos/RAL.png" height="70" /> <br/> RAL</a>|  <a href="paints/Reaper.md"> <img src="logos/Reaper.png" height="70" /> <br/> Reaper</a>|
 |  <a href="paints/Revell.md"> <img src="logos/Revell.png" height="70" /> <br/> Revell</a>|  <a href="paints/Scale75.md"> <img src="logos/Scale75.png" height="70" /> <br/> Scale75</a>|  <a href="paints/Tamiya.md"> <img src="logos/Tamiya.png" height="70" /> <br/> Tamiya</a>|
 |  <a href="paints/TomColor.md"> <img src="logos/TomColor.png" height="70" /> <br/> Tom Color</a>|  <a href="paints/TurboDork.md"> <img src="logos/TurboDork.png" height="70" /> <br/> Turbo Dork</a>|  <a href="paints/Vallejo.md"> <img src="logos/Vallejo.png" height="70" /> <br/> Vallejo</a>|
-|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>||
+|  <a href="paints/Warcolours.md"> <img src="logos/Warcolours.png" height="70" /> <br/> Warcolours</a>|
 <!-- END -->
 
 Are you missing your favorite brand? Let me know @ <a href="mailto:paintmaster@rickfleuren.nl">paintmaster@rickfleuren.nl</a>
+
+## Fork: Datenpipeline (Lenn1K)
+
+Seit dem Fork ist **`data/brands/*.json` die einzige Quelle**. `paints/*.md`, `dist/` und die
+Markenübersicht oben werden daraus erzeugt – nicht von Hand bearbeiten.
+
+```
+data/brands/<marke>.json        Quelle (eine Datei pro Marke)
+data/combinations/*.json        Farbkombinationen (z. B. Vallejo Highlight/Base/Shadow)
+dist/paints.json                flache Liste aller Farben inkl. rgb – für die App
+dist/brands.json                Markenübersicht
+paints/*.md                     generierte Tabellen (Format wie im Original)
+reports/*.md                    Berichte der letzten Läufe
+pipeline/                       Migration, Importer, Scraper, Build
+```
+
+### Datenmodell (pro Farbe)
+
+| Feld | Bedeutung |
+|---|---|
+| `id` | stabil: `<marke>/<code>` oder `<marke>/<serie>--<name>` |
+| `name`, `code`, `set` | Name, Herstellercode (oder `null`), Serie |
+| `hex` | Farbwert oder `null`, wenn noch nicht bekannt |
+| `status` | `active`, `new` (vom Scraper gefunden, ungeprüft), `discontinued` |
+| `names` | weitere Sprachen, z. B. `{"es": "Blanco"}` |
+| `color_source` | Herkunft des Farbwerts |
+| `alt_colors` | abweichende Farbwerte anderer Quellen inkl. ΔE2000 – nie automatisch übernommen |
+| `nearest_color_name` | nächster Name aus meodai/color-names inkl. ΔE2000 |
+| `url`, `image`, `first_seen`, `last_seen` | aus den Herstellerseiten |
+
+### Quellen
+
+| Quelle | Inhalt | Lizenz |
+|---|---|---|
+| Original-Repo (Miniature Painter Pro) | Farbwerte aller Marken | MIT |
+| [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) | spanische Namen, Kombinationen Vallejo Model Color | **keine Lizenz angegeben** |
+| [meodai/color-names](https://github.com/meodai/color-names) | Farbnamen | MIT |
+| Herstellerseiten | neue Produkte, Links (Vallejo, AK, Army Painter, Green Stuff World) | – |
+
+### Befehle
+
+```bash
+pip install -r requirements.txt
+python -m pipeline.import_ferror        # Vallejo Model Color (Ferror)
+python -m pipeline.sync_shops           # Herstellerseiten; --brands ak vallejo
+python -m pipeline.import_colornames    # Farbnamen zuordnen
+python -m pipeline.build                # Markdown + dist erzeugen
+python -m pytest -q tests
+```
+
+Die GitHub Action `.github/workflows/update.yml` führt das montags aus und öffnet einen PR.
+Neue Farben aus den Shops haben `hex: null` – den Farbwert trägst du im JSON nach und setzt
+`status` auf `active`.
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.

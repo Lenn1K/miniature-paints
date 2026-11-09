@@ -1,0 +1,2215 @@
+{
+  "brand": "Coat D Armes",
+  "slug": "coatdarmes",
+  "md_file": "CoatDArmes.md",
+  "logo": "logos/CoatDArmes.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "coatdarmes/160",
+      "name": "Amethest Purple",
+      "code": "160",
+      "set": "Fantasy Range",
+      "hex": "#675A92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Just a Fairytale",
+        "hex": "#6C5D97",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "coatdarmes/155",
+      "name": "Angel Green",
+      "code": "155",
+      "set": "Fantasy Range",
+      "hex": "#3B413F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dead Sea Mud",
+        "hex": "#3A403B",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "coatdarmes/149",
+      "name": "Angel Red",
+      "code": "149",
+      "set": "Fantasy Range",
+      "hex": "#FE5339",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Soda",
+        "hex": "#FA5B3D",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "coatdarmes/132",
+      "name": "Aquamarine",
+      "code": "132",
+      "set": "Fantasy Range",
+      "hex": "#3A7289",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bengal Blue",
+        "hex": "#38738B",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "coatdarmes/153",
+      "name": "Armour",
+      "code": "153",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#6D746D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Agave Green",
+        "hex": "#70766E",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "coatdarmes/521",
+      "name": "Army Green",
+      "code": "521",
+      "set": "World War II Range",
+      "hex": "#4C5947",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Mile",
+        "hex": "#4D5947",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "coatdarmes/116",
+      "name": "Barbarian Leather",
+      "code": "116",
+      "set": "Fantasy Range",
+      "hex": "#8B5D43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Western Pursuit",
+        "hex": "#8D5E41",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "coatdarmes/239",
+      "name": "Bavarian Blue",
+      "code": "239",
+      "set": "Military Range",
+      "hex": "#2F9CF1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Blue of Bel Air",
+        "hex": "#069AF3",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "coatdarmes/163",
+      "name": "Beaten Copper",
+      "code": "163",
+      "set": "Fantasy Range",
+      "hex": "#C96F4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Damask",
+        "hex": "#CB6F4A",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "coatdarmes/529",
+      "name": "Beige Brown",
+      "code": "529",
+      "set": "World War II Range",
+      "hex": "#8A654B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnished Brandy",
+        "hex": "#8B664E",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "coatdarmes/130",
+      "name": "Billous Brown",
+      "code": "130",
+      "set": "Fantasy Range",
+      "hex": "#C98651",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cork Brown",
+        "hex": "#CC8855",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "coatdarmes/102",
+      "name": "Black",
+      "code": "102",
+      "set": "Military Range",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/102~2",
+      "name": "Black",
+      "code": "102",
+      "set": "Fantasy Range",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/154",
+      "name": "Black",
+      "code": "154",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#646B64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cannon Grey",
+        "hex": "#646C64",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "coatdarmes/515",
+      "name": "Black Green",
+      "code": "515",
+      "set": "World War II Range",
+      "hex": "#405046",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Cottage",
+        "hex": "#42544C",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "coatdarmes/104",
+      "name": "Blood Red",
+      "code": "104",
+      "set": "Fantasy Range",
+      "hex": "#D83F37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dangerously Red",
+        "hex": "#D84139",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "coatdarmes/121",
+      "name": "Bogey Green",
+      "code": "121",
+      "set": "Fantasy Range",
+      "hex": "#487149",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Adventure",
+        "hex": "#446D46",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "coatdarmes/112",
+      "name": "Bone",
+      "code": "112",
+      "set": "Fantasy Range",
+      "hex": "#F4DAA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fireflies",
+        "hex": "#F6DAA7",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "coatdarmes/131",
+      "name": "Brass",
+      "code": "131",
+      "set": "Fantasy Range",
+      "hex": "#CAA07A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kenya",
+        "hex": "#CCA179",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "coatdarmes/509",
+      "name": "Brick Red",
+      "code": "509",
+      "set": "World War II Range",
+      "hex": "#794D40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Liqueur",
+        "hex": "#784D40",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "coatdarmes/107",
+      "name": "Bright Gold",
+      "code": "107",
+      "set": "Fantasy Range",
+      "hex": "#ABA073",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Throw Rug",
+        "hex": "#ADA274",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "coatdarmes/501",
+      "name": "British Khaki",
+      "code": "501",
+      "set": "World War II Range",
+      "hex": "#7A6844",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lizard",
+        "hex": "#7B6943",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "coatdarmes/238",
+      "name": "British Scarlet",
+      "code": "238",
+      "set": "Military Range",
+      "hex": "#F5333C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trial by Fire",
+        "hex": "#EF3939",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "coatdarmes/232",
+      "name": "Bronze",
+      "code": "232",
+      "set": "Military Range",
+      "hex": "#D1C0B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bongo Drum",
+        "hex": "#D2C2B2",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "coatdarmes/228",
+      "name": "Buff",
+      "code": "228",
+      "set": "Military Range",
+      "hex": "#DED19D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Woven",
+        "hex": "#E0D1A0",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "coatdarmes/147",
+      "name": "Burnt Orange",
+      "code": "147",
+      "set": "Fantasy Range",
+      "hex": "#FF8041",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Tango",
+        "hex": "#FF8243",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "coatdarmes/230",
+      "name": "Camouflage Green",
+      "code": "230",
+      "set": "Military Range",
+      "hex": "#6B845C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tee Off",
+        "hex": "#68855A",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "coatdarmes/109",
+      "name": "Chainmail",
+      "code": "109",
+      "set": "Fantasy Range",
+      "hex": "#BAB8C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coveted Gem",
+        "hex": "#B6B3BF",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "coatdarmes/219",
+      "name": "Chesnut Brown",
+      "code": "219",
+      "set": "Military Range",
+      "hex": "#543E31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kenpō Brown",
+        "hex": "#543F32",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "coatdarmes/519",
+      "name": "Chocolate Brown",
+      "code": "519",
+      "set": "World War II Range",
+      "hex": "#5A5444",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walnut Grove",
+        "hex": "#5C5644",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "coatdarmes/207",
+      "name": "Dark Blue",
+      "code": "207",
+      "set": "Military Range",
+      "hex": "#48508F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beaded Blue",
+        "hex": "#494D8B",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "coatdarmes/234",
+      "name": "Dark Earth",
+      "code": "234",
+      "set": "Military Range",
+      "hex": "#55584F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Twilight Forest",
+        "hex": "#54574F",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "coatdarmes/402",
+      "name": "Dark Earth",
+      "code": "402",
+      "set": "Brushscape Range",
+      "hex": "#42412F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "coatdarmes/111",
+      "name": "Dark Elf Green",
+      "code": "111",
+      "set": "Fantasy Range",
+      "hex": "#394A44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Mooring",
+        "hex": "#3D4C46",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "coatdarmes/216",
+      "name": "Dark Flesh",
+      "code": "216",
+      "set": "Military Range",
+      "hex": "#3E373E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nevermore",
+        "hex": "#403940",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "coatdarmes/209",
+      "name": "Dark Green",
+      "code": "209",
+      "set": "Military Range",
+      "hex": "#456A59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "June Ivy",
+        "hex": "#416858",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "coatdarmes/405",
+      "name": "Dark Green",
+      "code": "405",
+      "set": "Brushscape Range",
+      "hex": "#35614A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Vale",
+        "hex": "#38614C",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "coatdarmes/212",
+      "name": "Dark Grey",
+      "code": "212",
+      "set": "Military Range",
+      "hex": "#526760",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Collard Green",
+        "hex": "#536861",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "coatdarmes/534",
+      "name": "Dark Leather",
+      "code": "534",
+      "set": "World War II Range",
+      "hex": "#5E533D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hiking Boots",
+        "hex": "#5E5440",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "coatdarmes/229",
+      "name": "Dark Sand",
+      "code": "229",
+      "set": "Military Range",
+      "hex": "#CAB876",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Marinade",
+        "hex": "#C7B778",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "coatdarmes/404",
+      "name": "Dark Sand",
+      "code": "404",
+      "set": "Brushscape Range",
+      "hex": "#7D7640",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steppe Green",
+        "hex": "#7D7640",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/161",
+      "name": "Deadly Nightshade",
+      "code": "161",
+      "set": "Fantasy Range",
+      "hex": "#404B4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mount Etna",
+        "hex": "#3D484C",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "coatdarmes/506",
+      "name": "Desert Sand",
+      "code": "506",
+      "set": "World War II Range",
+      "hex": "#DFA96B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Corn Maze",
+        "hex": "#DEAA6E",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "coatdarmes/517",
+      "name": "Desert Yellow",
+      "code": "517",
+      "set": "World War II Range",
+      "hex": "#E1C96F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dijon Mustard",
+        "hex": "#E2CA73",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "coatdarmes/146",
+      "name": "Dusky Yellow",
+      "code": "146",
+      "set": "Fantasy Range",
+      "hex": "#FDCA31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunglow",
+        "hex": "#FFCC33",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "coatdarmes/143",
+      "name": "Dwarven Bronze",
+      "code": "143",
+      "set": "Fantasy Range",
+      "hex": "#D6A48B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shetland Pony",
+        "hex": "#D6A48D",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "coatdarmes/124",
+      "name": "Dwarven Flesh",
+      "code": "124",
+      "set": "Fantasy Range",
+      "hex": "#D58C7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zanci",
+        "hex": "#D38977",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "coatdarmes/123",
+      "name": "Elven Flesh",
+      "code": "123",
+      "set": "Fantasy Range",
+      "hex": "#FFA88A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Super Sepia",
+        "hex": "#FFAA88",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "coatdarmes/122",
+      "name": "Elven Grey",
+      "code": "122",
+      "set": "Fantasy Range",
+      "hex": "#CED7D4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sheer Elegance",
+        "hex": "#CFD8D5",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "coatdarmes/164",
+      "name": "Emerald Green",
+      "code": "164",
+      "set": "Fantasy Range",
+      "hex": "#398C54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shamrock Field",
+        "hex": "#358D52",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "coatdarmes/127",
+      "name": "Enchanted Blue",
+      "code": "127",
+      "set": "Fantasy Range",
+      "hex": "#7B74AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Mountain Majesty",
+        "hex": "#7A70A8",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "coatdarmes/128",
+      "name": "Enchanted Green",
+      "code": "128",
+      "set": "Fantasy Range",
+      "hex": "#8EB894",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Bonnet",
+        "hex": "#8BB490",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "coatdarmes/106",
+      "name": "Enchanted Silver",
+      "code": "106",
+      "set": "Fantasy Range",
+      "hex": "#AEB2BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "A Month of Sundays",
+        "hex": "#B0B2BC",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "coatdarmes/537",
+      "name": "Faded Khaki",
+      "code": "537",
+      "set": "World War II Range",
+      "hex": "#838270",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hanover Pewter",
+        "hex": "#848472",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "coatdarmes/513",
+      "name": "Faded Olive",
+      "code": "513",
+      "set": "World War II Range",
+      "hex": "#6F926A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aspen Green",
+        "hex": "#72926B",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "coatdarmes/166",
+      "name": "Fester Blue",
+      "code": "166",
+      "set": "Fantasy Range",
+      "hex": "#37698C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Drake’s Neck",
+        "hex": "#31668A",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "coatdarmes/126",
+      "name": "Festering Brown",
+      "code": "126",
+      "set": "Fantasy Range",
+      "hex": "#B5955C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Expedition",
+        "hex": "#B49356",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "coatdarmes/518",
+      "name": "Field Blue",
+      "code": "518",
+      "set": "World War II Range",
+      "hex": "#616F6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wrapped in Twilight",
+        "hex": "#5F6D6E",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "coatdarmes/502",
+      "name": "Field Drab",
+      "code": "502",
+      "set": "World War II Range",
+      "hex": "#797864",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Ivy",
+        "hex": "#787866",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "coatdarmes/227",
+      "name": "Field Grey",
+      "code": "227",
+      "set": "World War II Range",
+      "hex": "#5A6658",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Aloeswood",
+        "hex": "#5A6457",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "coatdarmes/227~2",
+      "name": "Field Grey",
+      "code": "227",
+      "set": "Military Range",
+      "hex": "#5A6658",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Aloeswood",
+        "hex": "#5A6457",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "coatdarmes/105",
+      "name": "Flame Orange",
+      "code": "105",
+      "set": "Fantasy Range",
+      "hex": "#E87651",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Koeksister",
+        "hex": "#E97551",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "coatdarmes/213",
+      "name": "Flesh",
+      "code": "213",
+      "set": "Military Range",
+      "hex": "#FFF4CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stereotypical Duck",
+        "hex": "#FFF5CF",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "coatdarmes/536",
+      "name": "Forest Green",
+      "code": "536",
+      "set": "World War II Range",
+      "hex": "#4B8634",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overgrown Mausoleum",
+        "hex": "#448833",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "coatdarmes/108",
+      "name": "Goblin Green",
+      "code": "108",
+      "set": "Fantasy Range",
+      "hex": "#657C52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Club",
+        "hex": "#60784F",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "coatdarmes/159",
+      "name": "Golden Yellow",
+      "code": "159",
+      "set": "Fantasy Range",
+      "hex": "#FEB101",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Frenzy",
+        "hex": "#FEB101",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/208",
+      "name": "Grass Green",
+      "code": "208",
+      "set": "Military Range",
+      "hex": "#68905C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Irish Charm",
+        "hex": "#69905B",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "coatdarmes/401",
+      "name": "Grass Green",
+      "code": "401",
+      "set": "Brushscape Range",
+      "hex": "#799855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Moss",
+        "hex": "#769958",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "coatdarmes/505",
+      "name": "Green Grey",
+      "code": "505",
+      "set": "World War II Range",
+      "hex": "#4C665D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pine Haven",
+        "hex": "#486358",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "coatdarmes/141",
+      "name": "Grey Primer",
+      "code": "141",
+      "set": "Fantasy Range",
+      "hex": "#8A584D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Potter’s Rock",
+        "hex": "#88564C",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "coatdarmes/142",
+      "name": "Gun Metal",
+      "code": "142",
+      "set": "Fantasy Range",
+      "hex": "#917F75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carmel Mission",
+        "hex": "#927F76",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "coatdarmes/120",
+      "name": "Hairy Brown",
+      "code": "120",
+      "set": "Fantasy Range",
+      "hex": "#6C4C3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arabic Coffee",
+        "hex": "#6F4D3F",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "coatdarmes/165",
+      "name": "Hawk Turquoise",
+      "code": "165",
+      "set": "Fantasy Range",
+      "hex": "#0291B9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Danube",
+        "hex": "#0094BB",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "coatdarmes/167",
+      "name": "Hideous Blue",
+      "code": "167",
+      "set": "Fantasy Range",
+      "hex": "#3F7EAA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beijing Blue",
+        "hex": "#3E7DAA",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "coatdarmes/117",
+      "name": "High Elf Blue",
+      "code": "117",
+      "set": "Fantasy Range",
+      "hex": "#3D6799",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Too Blue",
+        "hex": "#3D6695",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "coatdarmes/224",
+      "name": "Horse Tone – Bay",
+      "code": "224",
+      "set": "Military Range",
+      "hex": "#DB7E55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Coral",
+        "hex": "#DA7C55",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "coatdarmes/235",
+      "name": "Horse Tone – Brown",
+      "code": "235",
+      "set": "Military Range",
+      "hex": "#665C43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cold Pressed",
+        "hex": "#665B42",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "coatdarmes/223",
+      "name": "Horse Tone – Chesnut",
+      "code": "223",
+      "set": "Military Range",
+      "hex": "#754F4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "False Morel",
+        "hex": "#784D4C",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "coatdarmes/221",
+      "name": "Horse Tone – Dun",
+      "code": "221",
+      "set": "Military Range",
+      "hex": "#BC9D66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buffalo Hide",
+        "hex": "#BB9F6A",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "coatdarmes/236",
+      "name": "Horse Tone – Grey",
+      "code": "236",
+      "set": "Military Range",
+      "hex": "#B0BBB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Tweed",
+        "hex": "#B0BAB5",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "coatdarmes/222",
+      "name": "Horse Tone – Roan",
+      "code": "222",
+      "set": "Military Range",
+      "hex": "#AD9887",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Woodland Stone",
+        "hex": "#B09B89",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "coatdarmes/168",
+      "name": "Ink Wash Yellow",
+      "code": "168",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#FFFD32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Giraffe",
+        "hex": "#FEFE33",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "coatdarmes/516",
+      "name": "Iron Grey",
+      "code": "516",
+      "set": "World War II Range",
+      "hex": "#475555",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "All Nighter",
+        "hex": "#455454",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "coatdarmes/532",
+      "name": "Italian Red Earth",
+      "code": "532",
+      "set": "World War II Range",
+      "hex": "#D66C30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Drop",
+        "hex": "#D56C30",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "coatdarmes/158",
+      "name": "Jade Green",
+      "code": "158",
+      "set": "Fantasy Range",
+      "hex": "#149D8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flamboyant Teal",
+        "hex": "#129C8B",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "coatdarmes/531",
+      "name": "Japanese Uniform",
+      "code": "531",
+      "set": "World War II Range",
+      "hex": "#B59816",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kalliene Yellow",
+        "hex": "#B59808",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "coatdarmes/535",
+      "name": "Jungle Green",
+      "code": "535",
+      "set": "World War II Range",
+      "hex": "#3F8431",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Meadow Green",
+        "hex": "#418638",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "coatdarmes/225",
+      "name": "Khaki",
+      "code": "225",
+      "set": "Military Range",
+      "hex": "#C0B973",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kohlrabi",
+        "hex": "#C0B76C",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "coatdarmes/217",
+      "name": "Leather Brown",
+      "code": "217",
+      "set": "Military Range",
+      "hex": "#BE8E66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tatami Tan",
+        "hex": "#BA8C64",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "coatdarmes/156",
+      "name": "Leprous Brown",
+      "code": "156",
+      "set": "Fantasy Range",
+      "hex": "#FC7B37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Temptatious Tangerine",
+        "hex": "#FF7733",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "coatdarmes/206",
+      "name": "Light Blue",
+      "code": "206",
+      "set": "Military Range",
+      "hex": "#6377B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ultramarine Blue",
+        "hex": "#657ABB",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "coatdarmes/403",
+      "name": "Light Earth",
+      "code": "403",
+      "set": "Brushscape Range",
+      "hex": "#6F7051",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toy Tank Green",
+        "hex": "#6D6F4F",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "coatdarmes/211",
+      "name": "Light Grey",
+      "code": "211",
+      "set": "Military Range",
+      "hex": "#FCFDF7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blanca Peak",
+        "hex": "#F8F9F4",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "coatdarmes/408",
+      "name": "Light Sand",
+      "code": "408",
+      "set": "Brushscape Range",
+      "hex": "#E7CFA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Wood",
+        "hex": "#EAD2A2",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "coatdarmes/233",
+      "name": "Linen",
+      "code": "233",
+      "set": "Military Range",
+      "hex": "#F2E9C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pear Sorbet",
+        "hex": "#F3EAC3",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "coatdarmes/151",
+      "name": "Lupin Grey",
+      "code": "151",
+      "set": "Fantasy Range",
+      "hex": "#BEE0F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arctic Paradise",
+        "hex": "#B8DFF8",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "coatdarmes/113",
+      "name": "Magic Metal",
+      "code": "113",
+      "set": "Fantasy Range",
+      "hex": "#62422B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Irish Coffee",
+        "hex": "#62422B",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/148",
+      "name": "Marine Blue",
+      "code": "148",
+      "set": "Fantasy Range",
+      "hex": "#2F67A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Distant Blue",
+        "hex": "#2C66A0",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "coatdarmes/231",
+      "name": "Mid Grey",
+      "code": "231",
+      "set": "Military Range",
+      "hex": "#B2A7A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Centennial Rose",
+        "hex": "#B3A7A6",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "coatdarmes/510",
+      "name": "Mid Stone",
+      "code": "510",
+      "set": "World War II Range",
+      "hex": "#9A7C33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fernweh",
+        "hex": "#977B2F",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "coatdarmes/503",
+      "name": "Military Green",
+      "code": "503",
+      "set": "World War II Range",
+      "hex": "#3D5C4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ethereal Woods",
+        "hex": "#3E5E4E",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "coatdarmes/406",
+      "name": "Muddy Green",
+      "code": "406",
+      "set": "Brushscape Range",
+      "hex": "#434A21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Tone",
+        "hex": "#434C28",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "coatdarmes/162",
+      "name": "Nauseous Blue",
+      "code": "162",
+      "set": "Fantasy Range",
+      "hex": "#3D4A90",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Merlin’s Robe",
+        "hex": "#444C8F",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "coatdarmes/226",
+      "name": "Olive",
+      "code": "226",
+      "set": "Military Range",
+      "hex": "#54674B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thraka Green Wash",
+        "hex": "#4F6446",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "coatdarmes/226~2",
+      "name": "Olive",
+      "code": "226",
+      "set": "World War II Range",
+      "hex": "#54674B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thraka Green Wash",
+        "hex": "#4F6446",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "coatdarmes/508",
+      "name": "Olive Drab",
+      "code": "508",
+      "set": "World War II Range",
+      "hex": "#545744",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Freshwater Marsh",
+        "hex": "#535644",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "coatdarmes/105~2",
+      "name": "Orange",
+      "code": "105",
+      "set": "Military Range",
+      "hex": "#E87651",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Koeksister",
+        "hex": "#E97551",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "coatdarmes/215",
+      "name": "Oriental Flesh",
+      "code": "215",
+      "set": "Military Range",
+      "hex": "#F6C77F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cheddar Chunk",
+        "hex": "#F9C982",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "coatdarmes/514",
+      "name": "Pale Green",
+      "code": "514",
+      "set": "World War II Range",
+      "hex": "#7BB783",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Absinthe Green",
+        "hex": "#76B583",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "coatdarmes/522",
+      "name": "Pale Sand",
+      "code": "522",
+      "set": "World War II Range",
+      "hex": "#E7CD90",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lol Yellow",
+        "hex": "#E7CD8B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "coatdarmes/504",
+      "name": "Panzer Grey",
+      "code": "504",
+      "set": "World War II Range",
+      "hex": "#3A453D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Forest",
+        "hex": "#3C463E",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "coatdarmes/118",
+      "name": "Poison Purple",
+      "code": "118",
+      "set": "Fantasy Range",
+      "hex": "#5D4569",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Beret",
+        "hex": "#5C466B",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "coatdarmes/210",
+      "name": "Purple",
+      "code": "210",
+      "set": "Military Range",
+      "hex": "#C74B6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vibrant Red",
+        "hex": "#C24C6A",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "coatdarmes/125",
+      "name": "Putrid Green",
+      "code": "125",
+      "set": "Fantasy Range",
+      "hex": "#A5B183",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Guacamole",
+        "hex": "#A2B07E",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "coatdarmes/119",
+      "name": "Rat Brown",
+      "code": "119",
+      "set": "Fantasy Range",
+      "hex": "#7E4941",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deco Red",
+        "hex": "#824942",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "coatdarmes/104~2",
+      "name": "Red",
+      "code": "104",
+      "set": "Military Range",
+      "hex": "#D83F37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dangerously Red",
+        "hex": "#D84139",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "coatdarmes/520",
+      "name": "Red Brown",
+      "code": "520",
+      "set": "World War II Range",
+      "hex": "#79493D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fire Roasted",
+        "hex": "#79483E",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "coatdarmes/110",
+      "name": "Royal Blue",
+      "code": "110",
+      "set": "Fantasy Range",
+      "hex": "#324669",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hydrogen Blue",
+        "hex": "#33476D",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "coatdarmes/145",
+      "name": "Ruby Red",
+      "code": "145",
+      "set": "Fantasy Range",
+      "hex": "#FE0000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fire Engine",
+        "hex": "#FE0002",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "coatdarmes/237",
+      "name": "Russet Red",
+      "code": "237",
+      "set": "Military Range",
+      "hex": "#BA4244",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snakebite",
+        "hex": "#BB4444",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "coatdarmes/528",
+      "name": "Russian Brown",
+      "code": "528",
+      "set": "World War II Range",
+      "hex": "#7A8461",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Relict",
+        "hex": "#7B8762",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "coatdarmes/530",
+      "name": "Russian Green",
+      "code": "530",
+      "set": "World War II Range",
+      "hex": "#4D5D38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stinging Nettle",
+        "hex": "#495D39",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "coatdarmes/407",
+      "name": "Sandy Brown",
+      "code": "407",
+      "set": "Brushscape Range",
+      "hex": "#85643B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coyote Brown",
+        "hex": "#81613C",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "coatdarmes/152",
+      "name": "Scorpion Green",
+      "code": "152",
+      "set": "Fantasy Range",
+      "hex": "#4FC60A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Harlequin Green",
+        "hex": "#46CB18",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "coatdarmes/507",
+      "name": "Sea Grey",
+      "code": "507",
+      "set": "World War II Range",
+      "hex": "#97C9C0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jamaica Bay",
+        "hex": "#95CBC4",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "coatdarmes/150",
+      "name": "Shadow Grey",
+      "code": "150",
+      "set": "Fantasy Range",
+      "hex": "#637FA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Violet",
+        "hex": "#647D9E",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "coatdarmes/144",
+      "name": "Shocking Pink",
+      "code": "144",
+      "set": "Fantasy Range",
+      "hex": "#DFA8C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Beauty",
+        "hex": "#DCA7C2",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "coatdarmes/220",
+      "name": "Silver",
+      "code": "220",
+      "set": "Military Range",
+      "hex": "#D5D9E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "So Blue-Berry",
+        "hex": "#D4D8E3",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "coatdarmes/533",
+      "name": "Slate Grey",
+      "code": "533",
+      "set": "World War II Range",
+      "hex": "#556363",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calcite Grey Green",
+        "hex": "#52605F",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "coatdarmes/103",
+      "name": "Sun Yellow",
+      "code": "103",
+      "set": "Military Range",
+      "hex": "#FFFF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow",
+        "hex": "#FFFF00",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/103~2",
+      "name": "Sun Yellow",
+      "code": "103",
+      "set": "Fantasy Range",
+      "hex": "#FFFF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow",
+        "hex": "#FFFF00",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/214",
+      "name": "Suntanned Flesh",
+      "code": "214",
+      "set": "Military Range",
+      "hex": "#DDA78F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose Tattoo",
+        "hex": "#E1A890",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "coatdarmes/169",
+      "name": "Super Wash Black",
+      "code": "169",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/172",
+      "name": "Super Wash Blue",
+      "code": "172",
+      "set": "Fantasy Range",
+      "hex": "#384861",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silent Sea",
+        "hex": "#3A4A63",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "coatdarmes/177",
+      "name": "Super Wash Dark Brown",
+      "code": "177",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#66584B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mink Brown",
+        "hex": "#67594C",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "coatdarmes/170",
+      "name": "Super Wash Green",
+      "code": "170",
+      "set": "Fantasy Range",
+      "hex": "#81AB7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Haven",
+        "hex": "#84A97C",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "coatdarmes/175",
+      "name": "Super Wash Light Brown",
+      "code": "175",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#6C4645",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moroccan Leather",
+        "hex": "#6D4444",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "coatdarmes/176",
+      "name": "Super Wash Mid Brown",
+      "code": "176",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#825D42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Wood",
+        "hex": "#855E42",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "coatdarmes/174",
+      "name": "Super Wash Purple",
+      "code": "174",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#5F3E5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackberry Wine",
+        "hex": "#5C3C55",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "coatdarmes/171",
+      "name": "Super Wash Red",
+      "code": "171",
+      "set": "Fantasy Range",
+      "hex": "#9C5158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cuban Rhythm",
+        "hex": "#9B555D",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "coatdarmes/173",
+      "name": "Super Wash Yellow",
+      "code": "173",
+      "set": "Fantasy Range - Ink Wash",
+      "hex": "#FFFF69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Supercalifragilisticexpialidocious",
+        "hex": "#FFFF69",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/524",
+      "name": "Tan Earth",
+      "code": "524",
+      "set": "World War II Range",
+      "hex": "#91824B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lucky Bamboo",
+        "hex": "#93834B",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "coatdarmes/511",
+      "name": "Tank Blue Grey",
+      "code": "511",
+      "set": "World War II Range",
+      "hex": "#4D5B5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight in NY",
+        "hex": "#4E5A59",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "coatdarmes/527",
+      "name": "Tank Drab",
+      "code": "527",
+      "set": "World War II Range",
+      "hex": "#6C6D4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Herbal Whispers",
+        "hex": "#6B6D4E",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "coatdarmes/512",
+      "name": "Tank Green",
+      "code": "512",
+      "set": "World War II Range",
+      "hex": "#397D4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kemp Kelly",
+        "hex": "#437B48",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "coatdarmes/526",
+      "name": "Tank Light Grey",
+      "code": "526",
+      "set": "World War II Range",
+      "hex": "#F0F5EF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mineral Spring",
+        "hex": "#EDF2EC",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "coatdarmes/115",
+      "name": "Tanned Flesh",
+      "code": "115",
+      "set": "Fantasy Range",
+      "hex": "#DD9A65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coyote",
+        "hex": "#DC9B68",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "coatdarmes/240",
+      "name": "Unbleached Wool",
+      "code": "240",
+      "set": "Military Range",
+      "hex": "#D9E0B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lime Granita",
+        "hex": "#DCE1B8",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "coatdarmes/525",
+      "name": "Uniform Grey",
+      "code": "525",
+      "set": "World War II Range",
+      "hex": "#6A8893",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jeans Indigo",
+        "hex": "#6D8994",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "coatdarmes/409",
+      "name": "Urban Grey",
+      "code": "409",
+      "set": "Brushscape Range",
+      "hex": "#6D5C55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hunting Boots",
+        "hex": "#6B5A54",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "coatdarmes/523",
+      "name": "Us Dark Green",
+      "code": "523",
+      "set": "World War II Range",
+      "hex": "#455B4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vinca & Vine",
+        "hex": "#45584C",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "coatdarmes/129",
+      "name": "Vampire Red",
+      "code": "129",
+      "set": "Fantasy Range",
+      "hex": "#B32E1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardinal’s Cassock",
+        "hex": "#B33125",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "coatdarmes/157",
+      "name": "Warlock Purple",
+      "code": "157",
+      "set": "Fantasy Range",
+      "hex": "#C6385E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Lolly",
+        "hex": "#C8385A",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "coatdarmes/101",
+      "name": "White",
+      "code": "101",
+      "set": "Fantasy Range",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/101~2",
+      "name": "White",
+      "code": "101",
+      "set": "Military Range",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "coatdarmes/114",
+      "name": "Wizard Blue",
+      "code": "114",
+      "set": "Fantasy Range",
+      "hex": "#396298",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Regatta",
+        "hex": "#376298",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "coatdarmes/218",
+      "name": "Wood Brown",
+      "code": "218",
+      "set": "Military Range",
+      "hex": "#59371C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kuro Brown",
+        "hex": "#583822",
+        "delta_e": 1.85
+      }
+    }
+  ]
+}

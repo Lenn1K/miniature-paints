@@ -1,0 +1,2719 @@
+{
+  "brand": "RAL",
+  "slug": "ral",
+  "md_file": "RAL.md",
+  "logo": "logos/RAL.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "ral/7038",
+      "name": "Agate grey",
+      "code": "7038",
+      "set": "RAL Color System",
+      "hex": "#BABDBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Quiet Time",
+        "hex": "#B8BCB8",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "ral/7016",
+      "name": "Anthracite grey",
+      "code": "7016",
+      "set": "RAL Color System",
+      "hex": "#262E38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney Sweep",
+        "hex": "#272F38",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "ral/3014",
+      "name": "Antique pink",
+      "code": "3014",
+      "set": "RAL Color System",
+      "hex": "#D96675",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Feverish",
+        "hex": "#DD6677",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "ral/5009",
+      "name": "Azure blue",
+      "code": "5009",
+      "set": "RAL Color System",
+      "hex": "#174570",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Epic Adventure",
+        "hex": "#0E426F",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "ral/7012",
+      "name": "Basalt grey",
+      "code": "7012",
+      "set": "RAL Color System",
+      "hex": "#4A5459",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Country Sky",
+        "hex": "#49545A",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "ral/1001",
+      "name": "Beige",
+      "code": "1001",
+      "set": "RAL Color System",
+      "hex": "#D2AA5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Afghan Sand",
+        "hex": "#D3A95C",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "ral/8024",
+      "name": "Beige brown",
+      "code": "8024",
+      "set": "RAL Color System",
+      "hex": "#6E4030",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heartwood",
+        "hex": "#6F4232",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "ral/7006",
+      "name": "Beige grey",
+      "code": "7006",
+      "set": "RAL Color System",
+      "hex": "#6B6157",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carriage",
+        "hex": "#6C6358",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "ral/3012",
+      "name": "Beige red",
+      "code": "3012",
+      "set": "RAL Color System",
+      "hex": "#CC8273",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canyon Clay",
+        "hex": "#CB7D6F",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "ral/5004",
+      "name": "Black blue",
+      "code": "5004",
+      "set": "RAL Color System",
+      "hex": "#030D1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melanophobia",
+        "hex": "#01081C",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "ral/8022",
+      "name": "Black brown",
+      "code": "8022",
+      "set": "RAL Color System",
+      "hex": "#0D080D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chyornyi Black",
+        "hex": "#0F0809",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "ral/6012",
+      "name": "Black green",
+      "code": "6012",
+      "set": "RAL Color System",
+      "hex": "#1F2E2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ardósia",
+        "hex": "#232F2C",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "ral/7021",
+      "name": "Black grey",
+      "code": "7021",
+      "set": "RAL Color System",
+      "hex": "#1A2129",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Infinity",
+        "hex": "#222831",
+        "delta_e": 2.46
+      }
+    },
+    {
+      "id": "ral/6015",
+      "name": "Black olive",
+      "code": "6015",
+      "set": "RAL Color System",
+      "hex": "#292B26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bitter Liquorice",
+        "hex": "#262926",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "ral/3007",
+      "name": "Black red",
+      "code": "3007",
+      "set": "RAL Color System",
+      "hex": "#2E121A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Cherry",
+        "hex": "#2C1620",
+        "delta_e": 3.03
+      }
+    },
+    {
+      "id": "ral/6004",
+      "name": "Blue green",
+      "code": "6004",
+      "set": "RAL Color System",
+      "hex": "#0D3B2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coach Green",
+        "hex": "#003527",
+        "delta_e": 2.2
+      }
+    },
+    {
+      "id": "ral/7031",
+      "name": "Blue grey",
+      "code": "7031",
+      "set": "RAL Color System",
+      "hex": "#4D5C6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Harbour",
+        "hex": "#495867",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "ral/4005",
+      "name": "Blue lilac",
+      "code": "4005",
+      "set": "RAL Color System",
+      "hex": "#633D9C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poppy Pompadour",
+        "hex": "#6B3FA0",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "ral/6007",
+      "name": "Bottle green",
+      "code": "6007",
+      "set": "RAL Color System",
+      "hex": "#1C2617",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kuro Green",
+        "hex": "#1B2B1B",
+        "delta_e": 2.86
+      }
+    },
+    {
+      "id": "ral/2008",
+      "name": "Bright red orange",
+      "code": "2008",
+      "set": "RAL Color System",
+      "hex": "#FA4F29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flame Angelfish",
+        "hex": "#FD4C29",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "ral/5007",
+      "name": "Brillant blue",
+      "code": "5007",
+      "set": "RAL Color System",
+      "hex": "#264F87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Mode",
+        "hex": "#234E86",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "ral/1032",
+      "name": "Broom yellow",
+      "code": "1032",
+      "set": "RAL Color System",
+      "hex": "#E3A329",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Sulphur",
+        "hex": "#E8A320",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "ral/1011",
+      "name": "Brown beige",
+      "code": "1011",
+      "set": "RAL Color System",
+      "hex": "#AD7A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Release the Hounds",
+        "hex": "#AC7C2E",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "ral/6008",
+      "name": "Brown green",
+      "code": "6008",
+      "set": "RAL Color System",
+      "hex": "#21211A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petroleum",
+        "hex": "#21211D",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "ral/7013",
+      "name": "Brown grey",
+      "code": "7013",
+      "set": "RAL Color System",
+      "hex": "#474238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Black",
+        "hex": "#49433B",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "ral/3011",
+      "name": "Brown red",
+      "code": "3011",
+      "set": "RAL Color System",
+      "hex": "#781417",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mythical Wine",
+        "hex": "#7A0A14",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "ral/5019",
+      "name": "Capri blue",
+      "code": "5019",
+      "set": "RAL Color System",
+      "hex": "#0A4278",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Twilight Blue",
+        "hex": "#0A437A",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "ral/3002",
+      "name": "Carmine red",
+      "code": "3002",
+      "set": "RAL Color System",
+      "hex": "#A31A1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Ruby",
+        "hex": "#A81C1D",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "ral/7033",
+      "name": "Cement grey",
+      "code": "7033",
+      "set": "RAL Color System",
+      "hex": "#7A8275",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lush Sage",
+        "hex": "#7B8476",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "ral/8015",
+      "name": "Chestnut brown",
+      "code": "8015",
+      "set": "RAL Color System",
+      "hex": "#4D1F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Torrefacto Roast",
+        "hex": "#4E241E",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "ral/8017",
+      "name": "Chocolate brown",
+      "code": "8017",
+      "set": "RAL Color System",
+      "hex": "#2E1C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hornblende",
+        "hex": "#332222",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "ral/6020",
+      "name": "Chrome green",
+      "code": "6020",
+      "set": "RAL Color System",
+      "hex": "#263829",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Leather Jacket",
+        "hex": "#253529",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "ral/4004",
+      "name": "Claret violet",
+      "code": "4004",
+      "set": "RAL Color System",
+      "hex": "#5C082B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fig Balsamic",
+        "hex": "#550022",
+        "delta_e": 2.33
+      }
+    },
+    {
+      "id": "ral/8003",
+      "name": "Clay brown",
+      "code": "8003",
+      "set": "RAL Color System",
+      "hex": "#733B24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "New Amber",
+        "hex": "#6D3B24",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "ral/5013",
+      "name": "Cobalt blue",
+      "code": "5013",
+      "set": "RAL Color System",
+      "hex": "#001245",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Latex",
+        "hex": "#001144",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "ral/7023",
+      "name": "Concrete grey",
+      "code": "7023",
+      "set": "RAL Color System",
+      "hex": "#7A7D75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Attitude Grey",
+        "hex": "#7C7D75",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "ral/8004",
+      "name": "Copper brown",
+      "code": "8004",
+      "set": "RAL Color System",
+      "hex": "#85382B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grill Master",
+        "hex": "#863B2C",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "ral/3016",
+      "name": "Coral red",
+      "code": "3016",
+      "set": "RAL Color System",
+      "hex": "#A62426",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Harissa Red",
+        "hex": "#A52A2A",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "ral/9001",
+      "name": "Cream",
+      "code": "9001",
+      "set": "RAL Color System",
+      "hex": "#FCFCF0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enoki",
+        "hex": "#F8FAEE",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "ral/1027",
+      "name": "Curry",
+      "code": "1027",
+      "set": "RAL Color System",
+      "hex": "#997521",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glazed Chestnut",
+        "hex": "#967217",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "ral/1007",
+      "name": "Daffodil yellow",
+      "code": "1007",
+      "set": "RAL Color System",
+      "hex": "#DD9F23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zamesi Desert",
+        "hex": "#DDA026",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "ral/1033",
+      "name": "Dahlia yellow",
+      "code": "1033",
+      "set": "RAL Color System",
+      "hex": "#FF9436",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Energy Orange",
+        "hex": "#FF9532",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "ral/2011",
+      "name": "Deep orange",
+      "code": "2011",
+      "set": "RAL Color System",
+      "hex": "#ED5C00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poppy Flower",
+        "hex": "#EC5800",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "ral/5023",
+      "name": "Distant blue",
+      "code": "5023",
+      "set": "RAL Color System",
+      "hex": "#2E528F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightly Activities",
+        "hex": "#2E5090",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "ral/7037",
+      "name": "Dusty grey",
+      "code": "7037",
+      "set": "RAL Color System",
+      "hex": "#7A7D80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cowboy Spur",
+        "hex": "#7A7F82",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "ral/6001",
+      "name": "Emerald green",
+      "code": "6001",
+      "set": "RAL Color System",
+      "hex": "#266651",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ore Mountains Green",
+        "hex": "#2B6551",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "ral/8007",
+      "name": "Fawn brown",
+      "code": "8007",
+      "set": "RAL Color System",
+      "hex": "#5E3321",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chubby Chocolate",
+        "hex": "#613521",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "ral/6025",
+      "name": "Fern green",
+      "code": "6025",
+      "set": "RAL Color System",
+      "hex": "#4A6E33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Botanical",
+        "hex": "#4D6E2F",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "ral/6009",
+      "name": "Fir green",
+      "code": "6009",
+      "set": "RAL Color System",
+      "hex": "#17291C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kuro Green",
+        "hex": "#1B2B1B",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "ral/3000",
+      "name": "Flame red",
+      "code": "3000",
+      "set": "RAL Color System",
+      "hex": "#AB1F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ketchup Later",
+        "hex": "#A91C1C",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "ral/1004",
+      "name": "Golden yellow",
+      "code": "1004",
+      "set": "RAL Color System",
+      "hex": "#E0B000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mortal Yellow",
+        "hex": "#DEAD00",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "ral/7026",
+      "name": "Granite grey",
+      "code": "7026",
+      "set": "RAL Color System",
+      "hex": "#263338",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dracula Orchid",
+        "hex": "#2C3539",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "ral/9011",
+      "name": "Graphite black",
+      "code": "9011",
+      "set": "RAL Color System",
+      "hex": "#0D121A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Edition",
+        "hex": "#0C121B",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "ral/7024",
+      "name": "Graphite grey",
+      "code": "7024",
+      "set": "RAL Color System",
+      "hex": "#303845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Battle",
+        "hex": "#2F3844",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "ral/6010",
+      "name": "Grass green",
+      "code": "6010",
+      "set": "RAL Color System",
+      "hex": "#366926",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Radical Green",
+        "hex": "#326A2B",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "ral/5008",
+      "name": "Gray blue",
+      "code": "5008",
+      "set": "RAL Color System",
+      "hex": "#1A2938",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abyssal Anchorfish Blue",
+        "hex": "#1B2632",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "ral/1000",
+      "name": "Green beige",
+      "code": "1000",
+      "set": "RAL Color System",
+      "hex": "#CCCC99",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegetarian Vulture",
+        "hex": "#CCCC99",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "ral/5001",
+      "name": "Green blue",
+      "code": "5001",
+      "set": "RAL Color System",
+      "hex": "#0A3354",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beyond the Stars",
+        "hex": "#0A3251",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "ral/8000",
+      "name": "Green brown",
+      "code": "8000",
+      "set": "RAL Color System",
+      "hex": "#7D5C38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Iris",
+        "hex": "#7F5D3B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "ral/7009",
+      "name": "Green grey",
+      "code": "7009",
+      "set": "RAL Color System",
+      "hex": "#4D524A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shade-Grown",
+        "hex": "#4E5147",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "ral/9007",
+      "name": "Grey aluminium",
+      "code": "9007",
+      "set": "RAL Color System",
+      "hex": "#7D7A78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brushed Nickel",
+        "hex": "#7D7A79",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "ral/1019",
+      "name": "Grey beige",
+      "code": "1019",
+      "set": "RAL Color System",
+      "hex": "#A38C7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Powder",
+        "hex": "#A58C7B",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "ral/8019",
+      "name": "Grey brown",
+      "code": "8019",
+      "set": "RAL Color System",
+      "hex": "#2B2629",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Onyx",
+        "hex": "#2A272C",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "ral/6006",
+      "name": "Grey olive",
+      "code": "6006",
+      "set": "RAL Color System",
+      "hex": "#292B2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bunker",
+        "hex": "#292C2F",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "ral/9002",
+      "name": "Grey white",
+      "code": "9002",
+      "set": "RAL Color System",
+      "hex": "#F0EDE6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carrara",
+        "hex": "#EEEBE4",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "ral/4003",
+      "name": "Heather violet",
+      "code": "4003",
+      "set": "RAL Color System",
+      "hex": "#C9388C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magenta Pink",
+        "hex": "#CC338B",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "ral/1005",
+      "name": "Honey yellow",
+      "code": "1005",
+      "set": "RAL Color System",
+      "hex": "#C98721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chicken Masala",
+        "hex": "#CC8822",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "ral/7011",
+      "name": "Iron grey",
+      "code": "7011",
+      "set": "RAL Color System",
+      "hex": "#404A54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dutch Licorice",
+        "hex": "#404B56",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "ral/1014",
+      "name": "Ivory",
+      "code": "1014",
+      "set": "RAL Color System",
+      "hex": "#F0D6AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Straw Hat",
+        "hex": "#F0D5A8",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "ral/9005",
+      "name": "Jet black",
+      "code": "9005",
+      "set": "RAL Color System",
+      "hex": "#03050A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eight Ball",
+        "hex": "#03050A",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "ral/7008",
+      "name": "Khaki grey",
+      "code": "7008",
+      "set": "RAL Color System",
+      "hex": "#695438",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graveyard Earth",
+        "hex": "#68553A",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "ral/6002",
+      "name": "Leaf green",
+      "code": "6002",
+      "set": "RAL Color System",
+      "hex": "#265721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Nori",
+        "hex": "#2D5E22",
+        "delta_e": 2.57
+      }
+    },
+    {
+      "id": "ral/1012",
+      "name": "Lemon yellow",
+      "code": "1012",
+      "set": "RAL Color System",
+      "hex": "#E3B838",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Last Sunlight",
+        "hex": "#E5B73B",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "ral/5012",
+      "name": "Light blue",
+      "code": "5012",
+      "set": "RAL Color System",
+      "hex": "#2973B8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Campanula",
+        "hex": "#3473B7",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "ral/6027",
+      "name": "Light green",
+      "code": "6027",
+      "set": "RAL Color System",
+      "hex": "#7DCCBD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jolly Jade",
+        "hex": "#77CCBB",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "ral/7035",
+      "name": "Light grey",
+      "code": "7035",
+      "set": "RAL Color System",
+      "hex": "#D4D9DB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snow Quartz",
+        "hex": "#D2D8DA",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "ral/1015",
+      "name": "Light ivory",
+      "code": "1015",
+      "set": "RAL Color System",
+      "hex": "#FCEBCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Moon",
+        "hex": "#FDEDCF",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "ral/3015",
+      "name": "Light pink",
+      "code": "3015",
+      "set": "RAL Color System",
+      "hex": "#E89CB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Always Rosey",
+        "hex": "#E79DB3",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "ral/2007",
+      "name": "Luminous bright orange",
+      "code": "2007",
+      "set": "RAL Color System",
+      "hex": "#FF7521",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Oranje",
+        "hex": "#FF7722",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "ral/3026",
+      "name": "Luminous bright red",
+      "code": "3026",
+      "set": "RAL Color System",
+      "hex": "#FC1414",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fury",
+        "hex": "#FF0011",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "ral/2005",
+      "name": "Luminous orange",
+      "code": "2005",
+      "set": "RAL Color System",
+      "hex": "#FC1C14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spicy",
+        "hex": "#FF1111",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "ral/3024",
+      "name": "Luminous red",
+      "code": "3024",
+      "set": "RAL Color System",
+      "hex": "#FC0A1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Virtual Boy",
+        "hex": "#FE0215",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "ral/1026",
+      "name": "Luminous yellow",
+      "code": "1026",
+      "set": "RAL Color System",
+      "hex": "#FFFF0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Yellow",
+        "hex": "#FFFF05",
+        "delta_e": 0.07
+      }
+    },
+    {
+      "id": "ral/8016",
+      "name": "Mahogany brown",
+      "code": "8016",
+      "set": "RAL Color System",
+      "hex": "#3D1F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Mahogany",
+        "hex": "#432722",
+        "delta_e": 2.65
+      }
+    },
+    {
+      "id": "ral/1006",
+      "name": "Maize yellow",
+      "code": "1006",
+      "set": "RAL Color System",
+      "hex": "#E3A729",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Goldenrod",
+        "hex": "#E2A829",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "ral/6018",
+      "name": "May green",
+      "code": "6018",
+      "set": "RAL Color System",
+      "hex": "#4FA833",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ballyhoo",
+        "hex": "#58A83B",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "ral/1028",
+      "name": "Melon yellow",
+      "code": "1028",
+      "set": "RAL Color System",
+      "hex": "#FF8C1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Madness",
+        "hex": "#FD8C23",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "ral/6029",
+      "name": "Mint green",
+      "code": "6029",
+      "set": "RAL Color System",
+      "hex": "#127826",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Glutton",
+        "hex": "#007722",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "ral/6033",
+      "name": "Mint turquoise",
+      "code": "6033",
+      "set": "RAL Color System",
+      "hex": "#428C78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perky",
+        "hex": "#408E7C",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "ral/6005",
+      "name": "Moss green",
+      "code": "6005",
+      "set": "RAL Color System",
+      "hex": "#0A381F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Off-Road Green",
+        "hex": "#003723",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "ral/7003",
+      "name": "Moss grey",
+      "code": "7003",
+      "set": "RAL Color System",
+      "hex": "#707061",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Organic",
+        "hex": "#747261",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "ral/7005",
+      "name": "Mouse grey",
+      "code": "7005",
+      "set": "RAL Color System",
+      "hex": "#616969",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Le Luxe",
+        "hex": "#5E6869",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "ral/5022",
+      "name": "Night blue",
+      "code": "5022",
+      "set": "RAL Color System",
+      "hex": "#00084F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Blue",
+        "hex": "#040348",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "ral/8011",
+      "name": "Nut brown",
+      "code": "8011",
+      "set": "RAL Color System",
+      "hex": "#47261C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Brown",
+        "hex": "#47241A",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "ral/8001",
+      "name": "Ocher brown",
+      "code": "8001",
+      "set": "RAL Color System",
+      "hex": "#91522E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chelsea Gem",
+        "hex": "#95532F",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "ral/1024",
+      "name": "Ochre yellow",
+      "code": "1024",
+      "set": "RAL Color System",
+      "hex": "#B58C4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Acorn",
+        "hex": "#B68D4C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "ral/8008",
+      "name": "Olive brown",
+      "code": "8008",
+      "set": "RAL Color System",
+      "hex": "#633D24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cassiterite Brown",
+        "hex": "#623C1F",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "ral/6022",
+      "name": "Olive drab",
+      "code": "6022",
+      "set": "RAL Color System",
+      "hex": "#2B261C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melon Seed",
+        "hex": "#332C22",
+        "delta_e": 2.42
+      }
+    },
+    {
+      "id": "ral/6003",
+      "name": "Olive green",
+      "code": "6003",
+      "set": "RAL Color System",
+      "hex": "#3D452E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rifle Green",
+        "hex": "#414833",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "ral/7002",
+      "name": "Olive grey",
+      "code": "7002",
+      "set": "RAL Color System",
+      "hex": "#7A7561",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lapwing Grey Green",
+        "hex": "#7A7562",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "ral/1020",
+      "name": "Olive yellow",
+      "code": "1020",
+      "set": "RAL Color System",
+      "hex": "#9C8F61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pineapple Sage",
+        "hex": "#9C8F60",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "ral/6026",
+      "name": "Opal green",
+      "code": "6026",
+      "set": "RAL Color System",
+      "hex": "#0A5C33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crusoe",
+        "hex": "#165B31",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "ral/8023",
+      "name": "Orange brown",
+      "code": "8023",
+      "set": "RAL Color System",
+      "hex": "#9C4529",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fluorescent Fire",
+        "hex": "#984427",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "ral/3031",
+      "name": "Orient red",
+      "code": "3031",
+      "set": "RAL Color System",
+      "hex": "#A61C2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hong Kong Taxi",
+        "hex": "#A8102A",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "ral/3009",
+      "name": "Oxide red",
+      "code": "3009",
+      "set": "RAL Color System",
+      "hex": "#5E2121",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Oxide",
+        "hex": "#5D1F1E",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "ral/1013",
+      "name": "Oyster white",
+      "code": "1013",
+      "set": "RAL Color System",
+      "hex": "#FFF5E3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silky Tofu",
+        "hex": "#FFF5E4",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "ral/8025",
+      "name": "Pale brown",
+      "code": "8025",
+      "set": "RAL Color System",
+      "hex": "#664A3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Chicory",
+        "hex": "#664B40",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "ral/6021",
+      "name": "Pale green",
+      "code": "6021",
+      "set": "RAL Color System",
+      "hex": "#85A67A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Haven",
+        "hex": "#84A97C",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "ral/9018",
+      "name": "Papyrus white",
+      "code": "9018",
+      "set": "RAL Color System",
+      "hex": "#DBE3DE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slightly Zen",
+        "hex": "#DCE4DD",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "ral/5024",
+      "name": "Pastel blue",
+      "code": "5024",
+      "set": "RAL Color System",
+      "hex": "#578CAB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cosmopolitan",
+        "hex": "#528BAB",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "ral/6019",
+      "name": "Pastel green",
+      "code": "6019",
+      "set": "RAL Color System",
+      "hex": "#BFE3BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Menthol",
+        "hex": "#C2E4BC",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "ral/2003",
+      "name": "Pastel orange",
+      "code": "2003",
+      "set": "RAL Color System",
+      "hex": "#FF6336",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Halloween",
+        "hex": "#FE653C",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "ral/6034",
+      "name": "Pastel turquoise",
+      "code": "6034",
+      "set": "RAL Color System",
+      "hex": "#7DBDB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Aqua",
+        "hex": "#77BCB6",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "ral/4009",
+      "name": "Pastel violet",
+      "code": "4009",
+      "set": "RAL Color System",
+      "hex": "#9E7394",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Screen Gem",
+        "hex": "#9D7798",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "ral/1034",
+      "name": "Pastel yellow",
+      "code": "1034",
+      "set": "RAL Color System",
+      "hex": "#F7995C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ridgeback",
+        "hex": "#EF985C",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "ral/6000",
+      "name": "Patina green",
+      "code": "6000",
+      "set": "RAL Color System",
+      "hex": "#337854",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amazon",
+        "hex": "#387B54",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "ral/7032",
+      "name": "Pebble grey",
+      "code": "7032",
+      "set": "RAL Color System",
+      "hex": "#BDBAAB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenwood",
+        "hex": "#BCBAAB",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "ral/5014",
+      "name": "Pigeon blue",
+      "code": "5014",
+      "set": "RAL Color System",
+      "hex": "#4D6999",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Odyssey",
+        "hex": "#4F6997",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "ral/6028",
+      "name": "Pine green",
+      "code": "6028",
+      "set": "RAL Color System",
+      "hex": "#264A33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moselle Green",
+        "hex": "#2E4E36",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "ral/7036",
+      "name": "Platinum grey",
+      "code": "7036",
+      "set": "RAL Color System",
+      "hex": "#9E969C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidcote",
+        "hex": "#9C949B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "ral/2004",
+      "name": "Pure orange",
+      "code": "2004",
+      "set": "RAL Color System",
+      "hex": "#F23B1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Primal Rage",
+        "hex": "#F4301C",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "ral/9010",
+      "name": "Pure white",
+      "code": "9010",
+      "set": "RAL Color System",
+      "hex": "#FAFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polar Bear in a Blizzard",
+        "hex": "#FCFFFF",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "ral/3004",
+      "name": "Purple red",
+      "code": "3004",
+      "set": "RAL Color System",
+      "hex": "#690F14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Adana Kebabı",
+        "hex": "#661111",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "ral/4007",
+      "name": "Purple violet",
+      "code": "4007",
+      "set": "RAL Color System",
+      "hex": "#380A2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greek Aubergine",
+        "hex": "#3D0734",
+        "delta_e": 2.09
+      }
+    },
+    {
+      "id": "ral/7039",
+      "name": "Quartz grey",
+      "code": "7039",
+      "set": "RAL Color System",
+      "hex": "#615E59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Walnut",
+        "hex": "#615D58",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "ral/1021",
+      "name": "Rape yellow",
+      "code": "1021",
+      "set": "RAL Color System",
+      "hex": "#FCBD1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunflower Valley",
+        "hex": "#FDBD27",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "ral/3027",
+      "name": "Raspberry red",
+      "code": "3027",
+      "set": "RAL Color System",
+      "hex": "#B51233",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warlord",
+        "hex": "#BA0033",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "ral/8012",
+      "name": "Red brown",
+      "code": "8012",
+      "set": "RAL Color System",
+      "hex": "#541F1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Crimson",
+        "hex": "#582124",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "ral/4001",
+      "name": "Red lilac",
+      "code": "4001",
+      "set": "RAL Color System",
+      "hex": "#824030",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mattar Paneer",
+        "hex": "#884433",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "ral/2001",
+      "name": "Red orange",
+      "code": "2001",
+      "set": "RAL Color System",
+      "hex": "#BA2E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Pie",
+        "hex": "#BD2C22",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "ral/4002",
+      "name": "Red violet",
+      "code": "4002",
+      "set": "RAL Color System",
+      "hex": "#8F2640",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rumba Red",
+        "hex": "#902A40",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "ral/6013",
+      "name": "Reed green",
+      "code": "6013",
+      "set": "RAL Color System",
+      "hex": "#75734F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gratefully Grass",
+        "hex": "#71714E",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "ral/6011",
+      "name": "Reseda green",
+      "code": "6011",
+      "set": "RAL Color System",
+      "hex": "#5E7D4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glade Green",
+        "hex": "#5F8151",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "ral/3017",
+      "name": "Rose",
+      "code": "3017",
+      "set": "RAL Color System",
+      "hex": "#D13654",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Match Head",
+        "hex": "#D63756",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "ral/3003",
+      "name": "Ruby red",
+      "code": "3003",
+      "set": "RAL Color System",
+      "hex": "#8A1214",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Netherworld",
+        "hex": "#881111",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "ral/1017",
+      "name": "Saffron yellow",
+      "code": "1017",
+      "set": "RAL Color System",
+      "hex": "#FFAB59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soul Side",
+        "hex": "#FFAA55",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "ral/2012",
+      "name": "Salmon orange",
+      "code": "2012",
+      "set": "RAL Color System",
+      "hex": "#DE5247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blossoming Dynasty",
+        "hex": "#DE5346",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "ral/3022",
+      "name": "Salmon pink",
+      "code": "3022",
+      "set": "RAL Color System",
+      "hex": "#D9594F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Capocollo",
+        "hex": "#D9544D",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "ral/1002",
+      "name": "Sand yellow",
+      "code": "1002",
+      "set": "RAL Color System",
+      "hex": "#D0A818",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prehnite Yellow",
+        "hex": "#D0A700",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "ral/5003",
+      "name": "Sapphire blue",
+      "code": "5003",
+      "set": "RAL Color System",
+      "hex": "#001745",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cetacean Blue",
+        "hex": "#001440",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "ral/8014",
+      "name": "Sepia brown",
+      "code": "8014",
+      "set": "RAL Color System",
+      "hex": "#38261C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wetlands Swamp",
+        "hex": "#372418",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "ral/9004",
+      "name": "Signal black",
+      "code": "9004",
+      "set": "RAL Color System",
+      "hex": "#1C1C21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inkwell Inception",
+        "hex": "#1E1E21",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "ral/5005",
+      "name": "Signal blue",
+      "code": "5005",
+      "set": "RAL Color System",
+      "hex": "#002E7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Below the Surface",
+        "hex": "#0A2F7C",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "ral/8002",
+      "name": "Signal brown",
+      "code": "8002",
+      "set": "RAL Color System",
+      "hex": "#6E3B3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuscan Russet",
+        "hex": "#723D3B",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "ral/6032",
+      "name": "Signal green",
+      "code": "6032",
+      "set": "RAL Color System",
+      "hex": "#298A40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Green",
+        "hex": "#218845",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "ral/7004",
+      "name": "Signal grey",
+      "code": "7004",
+      "set": "RAL Color System",
+      "hex": "#9C9CA6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Colorado Peak",
+        "hex": "#9C9BA7",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "ral/2010",
+      "name": "Signal orange",
+      "code": "2010",
+      "set": "RAL Color System",
+      "hex": "#D44529",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pompeii Red",
+        "hex": "#D1462C",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "ral/3001",
+      "name": "Signal red",
+      "code": "3001",
+      "set": "RAL Color System",
+      "hex": "#A3171A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Romantic Thriller",
+        "hex": "#A2101B",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "ral/4008",
+      "name": "Signal violet",
+      "code": "4008",
+      "set": "RAL Color System",
+      "hex": "#7D1F7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Count’s Wardrobe",
+        "hex": "#772277",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "ral/9003",
+      "name": "Signal white",
+      "code": "9003",
+      "set": "RAL Color System",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "ral/1003",
+      "name": "Signal yellow",
+      "code": "1003",
+      "set": "RAL Color System",
+      "hex": "#FFCC00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "USC Gold",
+        "hex": "#FFCC00",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "ral/7044",
+      "name": "Silk grey",
+      "code": "7044",
+      "set": "RAL Color System",
+      "hex": "#C2BFB8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ooid Sand",
+        "hex": "#C2BEB6",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "ral/7001",
+      "name": "Silver grey",
+      "code": "7001",
+      "set": "RAL Color System",
+      "hex": "#8794A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Norwegian Night",
+        "hex": "#8896AA",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "ral/5015",
+      "name": "Sky blue",
+      "code": "5015",
+      "set": "RAL Color System",
+      "hex": "#1761AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Les Cavaliers Beach",
+        "hex": "#0F63B3",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "ral/7015",
+      "name": "Slate grey",
+      "code": "7015",
+      "set": "RAL Color System",
+      "hex": "#3D4252",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lava Stone",
+        "hex": "#3C4151",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "ral/7000",
+      "name": "Squirrel grey",
+      "code": "7000",
+      "set": "RAL Color System",
+      "hex": "#738591",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Adirondack Blue",
+        "hex": "#74858F",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "ral/5020",
+      "name": "Steel blue",
+      "code": "5020",
+      "set": "RAL Color System",
+      "hex": "#053333",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nora’s Forest",
+        "hex": "#003333",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "ral/5011",
+      "name": "Steel blue",
+      "code": "5011",
+      "set": "RAL Color System",
+      "hex": "#002B70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Jinn’s",
+        "hex": "#002D72",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "ral/7030",
+      "name": "Stone grey",
+      "code": "7030",
+      "set": "RAL Color System",
+      "hex": "#918F87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Grey Green",
+        "hex": "#939087",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "ral/3018",
+      "name": "Strawberry red",
+      "code": "3018",
+      "set": "RAL Color System",
+      "hex": "#CF2942",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sovereign Red",
+        "hex": "#CE243F",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "ral/1016",
+      "name": "Sulfur yellow",
+      "code": "1016",
+      "set": "RAL Color System",
+      "hex": "#FFF542",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Cattleya",
+        "hex": "#FFF44F",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "ral/7010",
+      "name": "Tarpaulin grey",
+      "code": "7010",
+      "set": "RAL Color System",
+      "hex": "#4A4F4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iron River",
+        "hex": "#4D504B",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "ral/7045",
+      "name": "Telegrau 1",
+      "code": "7045",
+      "set": "RAL Color System",
+      "hex": "#8F949E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lilac Fields",
+        "hex": "#8F939D",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "ral/7046",
+      "name": "Telegrau 2",
+      "code": "7046",
+      "set": "RAL Color System",
+      "hex": "#78828C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bay Wharf",
+        "hex": "#747F89",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "ral/7047",
+      "name": "Telegrau 4",
+      "code": "7047",
+      "set": "RAL Color System",
+      "hex": "#D9D6DB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Etude Lilac",
+        "hex": "#D5D2D7",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "ral/4010",
+      "name": "Telemagenta",
+      "code": "4010",
+      "set": "RAL Color System",
+      "hex": "#BF1773",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treasured Love",
+        "hex": "#BB2277",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "ral/8028",
+      "name": "Terra brown",
+      "code": "8028",
+      "set": "RAL Color System",
+      "hex": "#402E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bistre",
+        "hex": "#3D2B1F",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "ral/3013",
+      "name": "Tomato red",
+      "code": "3013",
+      "set": "RAL Color System",
+      "hex": "#961F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Port Wine",
+        "hex": "#98211A",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "ral/9017",
+      "name": "Traffic black",
+      "code": "9017",
+      "set": "RAL Color System",
+      "hex": "#14171C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aswad Black",
+        "hex": "#17181C",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "ral/5017",
+      "name": "Traffic blue",
+      "code": "5017",
+      "set": "RAL Color System",
+      "hex": "#003B80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azure Dragon",
+        "hex": "#053976",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "ral/6024",
+      "name": "Traffic green",
+      "code": "6024",
+      "set": "RAL Color System",
+      "hex": "#249140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Ribbon",
+        "hex": "#288F3D",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "ral/2009",
+      "name": "Traffic orange",
+      "code": "2009",
+      "set": "RAL Color System",
+      "hex": "#EB3B1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thermic Orange",
+        "hex": "#EB3318",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "ral/4006",
+      "name": "Traffic purple",
+      "code": "4006",
+      "set": "RAL Color System",
+      "hex": "#910F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "8 Bit Eggplant",
+        "hex": "#990066",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "ral/3020",
+      "name": "Traffic red",
+      "code": "3020",
+      "set": "RAL Color System",
+      "hex": "#C71712",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Crush",
+        "hex": "#C71414",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "ral/9016",
+      "name": "Traffic white",
+      "code": "9016",
+      "set": "RAL Color System",
+      "hex": "#FCFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polar Bear in a Blizzard",
+        "hex": "#FCFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "ral/1023",
+      "name": "Traffic yellow",
+      "code": "1023",
+      "set": "RAL Color System",
+      "hex": "#FCBD1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunflower Valley",
+        "hex": "#FDBD27",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "ral/5018",
+      "name": "Turquoise blue",
+      "code": "5018",
+      "set": "RAL Color System",
+      "hex": "#389482",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perky",
+        "hex": "#408E7C",
+        "delta_e": 2.25
+      }
+    },
+    {
+      "id": "ral/6016",
+      "name": "Turquoise green",
+      "code": "6016",
+      "set": "RAL Color System",
+      "hex": "#0F7033",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawaiian Ti Leaf",
+        "hex": "#1D7033",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "ral/5002",
+      "name": "Ultramarine blue",
+      "code": "5002",
+      "set": "RAL Color System",
+      "hex": "#000F75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Major Tom",
+        "hex": "#001177",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "ral/7022",
+      "name": "Umbra grey",
+      "code": "7022",
+      "set": "RAL Color System",
+      "hex": "#3D3D3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iridium",
+        "hex": "#3D3C3A",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "ral/7042",
+      "name": "Verkehrsgrau A",
+      "code": "7042",
+      "set": "RAL Color System",
+      "hex": "#8F9699",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Russian",
+        "hex": "#8E9598",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "ral/7043",
+      "name": "Verkehrsgrau B",
+      "code": "7043",
+      "set": "RAL Color System",
+      "hex": "#404545",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark River",
+        "hex": "#3E4445",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "ral/2002",
+      "name": "Vermilion",
+      "code": "2002",
+      "set": "RAL Color System",
+      "hex": "#CC241C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Red",
+        "hex": "#CE261C",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "ral/5000",
+      "name": "Violet blue",
+      "code": "5000",
+      "set": "RAL Color System",
+      "hex": "#17336B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Navy",
+        "hex": "#13336F",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "ral/5021",
+      "name": "Water blue",
+      "code": "5021",
+      "set": "RAL Color System",
+      "hex": "#1A7A63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ultramarine Green",
+        "hex": "#007A64",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "ral/9006",
+      "name": "White aluminium",
+      "code": "9006",
+      "set": "RAL Color System",
+      "hex": "#A6ABB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dutch Jug",
+        "hex": "#A5ABB6",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "ral/7040",
+      "name": "Window grey",
+      "code": "7040",
+      "set": "RAL Color System",
+      "hex": "#9EA3B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Falls",
+        "hex": "#9FA6B3",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "ral/3005",
+      "name": "Wine red",
+      "code": "3005",
+      "set": "RAL Color System",
+      "hex": "#4F121A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maroon Oak",
+        "hex": "#520C17",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "ral/6017",
+      "name": "Yellow green",
+      "code": "6017",
+      "set": "RAL Color System",
+      "hex": "#408236",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Meadow Green",
+        "hex": "#418638",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "ral/7034",
+      "name": "Yellow grey",
+      "code": "7034",
+      "set": "RAL Color System",
+      "hex": "#8F8770",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mirrored Willow",
+        "hex": "#8E876E",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "ral/6014",
+      "name": "Yellow olive",
+      "code": "6014",
+      "set": "RAL Color System",
+      "hex": "#333026",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Green",
+        "hex": "#302F27",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "ral/2000",
+      "name": "Yellow orange",
+      "code": "2000",
+      "set": "RAL Color System",
+      "hex": "#E05E1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ferocious Fox",
+        "hex": "#E25D1B",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "ral/1018",
+      "name": "Zinc yellow",
+      "code": "1018",
+      "set": "RAL Color System",
+      "hex": "#FFD64D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Westfall Yellow",
+        "hex": "#FCD450",
+        "delta_e": 0.7
+      }
+    }
+  ]
+}

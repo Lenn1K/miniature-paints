@@ -1,0 +1,5028 @@
+{
+  "brand": "Scale75",
+  "slug": "scale75",
+  "md_file": "Scale75.md",
+  "logo": "logos/Scale75.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "scale75/scale-color-range--abyssal-blue",
+      "name": "Abyssal Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#292A2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Sky",
+        "hex": "#292B31",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--acid-green",
+      "name": "Acid Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C4D964",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citrus Lime",
+        "hex": "#C3DC68",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "scale75/fx-range--acid-pink",
+      "name": "Acid Pink",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F81DFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sixteen Million Pink",
+        "hex": "#FD02FF",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--adriatic-blue",
+      "name": "Adriatic Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#128A9B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parrot Flight",
+        "hex": "#018DA1",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--african-shadow",
+      "name": "African Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#56424B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grapes of Wrath",
+        "hex": "#58424C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--airnrhod-blue",
+      "name": "Airnrhod Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#39398F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perfect Dark",
+        "hex": "#313390",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--aldebaran-red",
+      "name": "Aldebaran Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#BE331E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Guards Red",
+        "hex": "#C0361B",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "scale75/artist-range--alizarin-green",
+      "name": "Alizarin Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#26944B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paperboy’s Lawn",
+        "hex": "#249148",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--amarth-blue",
+      "name": "Amarth Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#0582C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Water Raceway",
+        "hex": "#0083C8",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--amber-alchemy",
+      "name": "Amber Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#B89E85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cup of Cocoa",
+        "hex": "#BAA087",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "scale75/warfront-range--american-olive",
+      "name": "American Olive",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#736737",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sphagnum Moss",
+        "hex": "#75693D",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--amethyst-alchemy",
+      "name": "Amethyst Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#9F8EB0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saffron Blossom Mauve",
+        "hex": "#9C8AAB",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--ancestral-blue",
+      "name": "Ancestral Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#61ABC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Mist",
+        "hex": "#5BACC3",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--antares-red",
+      "name": "Antares Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#C11E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Evil Sunz Scarlet",
+        "hex": "#C2191F",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--anthartic-grey",
+      "name": "Anthartic Grey",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#42424C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flint Purple",
+        "hex": "#42424D",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--arabic-shadow",
+      "name": "Arabic Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7C6833",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "By Gum",
+        "hex": "#816A38",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--arbuckles-brown",
+      "name": "Arbuckles Brown",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#3C2922",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tree House",
+        "hex": "#3B2820",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--arcane-purple",
+      "name": "Arcane Purple",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#350D4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oily Purple",
+        "hex": "#2D0F47",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--ardenes-green",
+      "name": "Ardenes Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#566345",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jalapeño Bouquet",
+        "hex": "#576648",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--arphen-jade",
+      "name": "Arphen Jade",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#035D53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Country Meadow",
+        "hex": "#1A5A4E",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "scale75/artist-range--art-black",
+      "name": "Art Black",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#101010",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chaos Black",
+        "hex": "#0F0F0F",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "scale75/artist-range--art-white",
+      "name": "Art White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--artic-blue",
+      "name": "Artic Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#888FA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusty Heather",
+        "hex": "#8990A3",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--artic-blue",
+      "name": "Artic Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#9FB3BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dockside Blue",
+        "hex": "#A0B3BC",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--baal-crimson",
+      "name": "Baal Crimson",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E11A39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Incubation Red",
+        "hex": "#DA1D38",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--basic-flesh",
+      "name": "Basic Flesh",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D0B393",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baker’s Bread",
+        "hex": "#D0B393",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--basilisk-green",
+      "name": "Basilisk Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#3D5152",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Watch",
+        "hex": "#3C4F4E",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--beherit-red",
+      "name": "Beherit Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E2390E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vulcan Fire",
+        "hex": "#E6390D",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--belladonna-green",
+      "name": "Belladonna Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#4CA579",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shamrock Green",
+        "hex": "#4EA77D",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--bering-blue",
+      "name": "Bering Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#6C8997",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "South Pacific",
+        "hex": "#698694",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--birch",
+      "name": "Birch",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#EFD2B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crescent Cream",
+        "hex": "#EDD1B1",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--black",
+      "name": "Black",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2C2C2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shoe Wax",
+        "hex": "#2B2B2B",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--black-forest-green",
+      "name": "Black Forest Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#004834",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "UP Forest Green",
+        "hex": "#014431",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "scale75/artist-range--black-ink",
+      "name": "Black Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1B1A18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Siyâh Black",
+        "hex": "#1C1B1A",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--black-leather",
+      "name": "Black Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#422A2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Red",
+        "hex": "#3C2727",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--black-metal",
+      "name": "Black Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#484848",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pig Iron",
+        "hex": "#484848",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--blackert-brown",
+      "name": "Blackert Brown",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#B8825C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Southern Barrens Mud",
+        "hex": "#B98258",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--blood-red",
+      "name": "Blood Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#912727",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Mandarin",
+        "hex": "#8E2323",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--bloodfest-crimson",
+      "name": "Bloodfest Crimson",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#6A033B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Purple",
+        "hex": "#66033C",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--boreal-green",
+      "name": "Boreal Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#00563E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacramento State Green",
+        "hex": "#00563F",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--bosh-chesnut",
+      "name": "Bosh Chesnut",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#69452F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Axe Handle",
+        "hex": "#6B4730",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--braineater-azure",
+      "name": "Braineater Azure",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#676AAF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mediaeval",
+        "hex": "#696DB0",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "scale75/warfront-range--braun",
+      "name": "Braun",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E5C89E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Faint Fawn",
+        "hex": "#E2C59C",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "scale75/fx-range--brilli-white",
+      "name": "Brilli White",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--brown-gray",
+      "name": "Brown Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7B7170",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sophomore",
+        "hex": "#7D7170",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--brown-leather",
+      "name": "Brown Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4D2C1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Wood Grain",
+        "hex": "#4F301F",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "scale75/artist-range--buff",
+      "name": "Buff",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#B29D82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mission Hills",
+        "hex": "#B29C7F",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "scale75/artist-range--burgundy-wine-red",
+      "name": "Burgundy Wine Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#5A2212",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peaty Brown",
+        "hex": "#552211",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "scale75/artist-range--burnt-sienna",
+      "name": "Burnt Sienna",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#7C2D06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reddish Brown",
+        "hex": "#7F2B0A",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "scale75/artist-range--burnt-sienna-umber",
+      "name": "Burnt Sienna Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4C2A20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Couch",
+        "hex": "#4E2A20",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "scale75/artist-range--burnt-skin",
+      "name": "Burnt Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#654023",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Van Dyke Brown",
+        "hex": "#664228",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "scale75/artist-range--burnt-umber",
+      "name": "Burnt Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#51402C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Bronze",
+        "hex": "#51412D",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--cantabric-blue",
+      "name": "Cantabric Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#164765",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forest Blues",
+        "hex": "#0D4462",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--caribbean-blue",
+      "name": "Caribbean Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#75B6B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spring Water Turquoise",
+        "hex": "#7AB5AE",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--caspian-blue",
+      "name": "Caspian Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2A4F58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Deep",
+        "hex": "#294F58",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "scale75/artist-range--chesknut-ink",
+      "name": "Chesknut Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#40362D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Batch Brew",
+        "hex": "#45392F",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--chink-orange",
+      "name": "Chink Orange",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#B2621B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dirty Brown",
+        "hex": "#B5651E",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--citrine-alchemy",
+      "name": "Citrine Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#EFE1C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatched Roof",
+        "hex": "#EFE0C6",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "scale75/soil-works--city-dust",
+      "name": "City Dust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C6C1BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dim",
+        "hex": "#C8C2BE",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "scale75/artist-range--cobalt-blue",
+      "name": "Cobalt Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#005E91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buccaneer Blue",
+        "hex": "#035B8D",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--cobalt-metal",
+      "name": "Cobalt Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#7FA2B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cascade",
+        "hex": "#7B9EB0",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "scale75/artist-range--cobalt-violet-grey",
+      "name": "Cobalt Violet Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#73768B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Little Theatre",
+        "hex": "#73778F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--cokum-copper",
+      "name": "Cokum Copper",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#A37021",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buckthorn Brown",
+        "hex": "#A76F1F",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "scale75/artist-range--coral-red",
+      "name": "Coral Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F73724",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Card",
+        "hex": "#FF3322",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "scale75/artist-range--cork-brown",
+      "name": "Cork Brown",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#9F8D78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sandy Ridge",
+        "hex": "#A18E77",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--corrupted-stamina",
+      "name": "Corrupted Stamina",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#699D0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gecko’s Dream",
+        "hex": "#669900",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "scale75/warfront-range--cremeweiss",
+      "name": "Cremeweiss",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FCFCE0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lamb’s Wool",
+        "hex": "#FFFFE3",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "scale75/artist-range--crimsom",
+      "name": "Crimsom",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C22335",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lolita",
+        "hex": "#BF2735",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "scale75/artist-range--crimson-ink",
+      "name": "Crimson Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#9F1C2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cut Ruby",
+        "hex": "#A01C2D",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "scale75/artist-range--dark-brown-ochre",
+      "name": "Dark Brown Ochre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1E1317",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bats Cloak",
+        "hex": "#1F1518",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "scale75/warfront-range--dark-earth",
+      "name": "Dark Earth",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#643722",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chubby Chocolate",
+        "hex": "#613521",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--dark-kraken",
+      "name": "Dark Kraken",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#194A5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ethereal Dance",
+        "hex": "#1A4A5A",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "scale75/soil-works--dark-mud",
+      "name": "Dark Mud",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#210200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ponzu Brown",
+        "hex": "#220000",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "scale75/artist-range--dark-prussian-blue",
+      "name": "Dark Prussian Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#252430",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Haiti",
+        "hex": "#2C2A35",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "scale75/soil-works--dark-rust",
+      "name": "Dark Rust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#6B3729",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Root Brown",
+        "hex": "#6B3226",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "scale75/soil-works--dark-sand",
+      "name": "Dark Sand",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#D4BB92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pebble Path",
+        "hex": "#D5BC94",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "scale75/soil-works--dark-stains",
+      "name": "Dark Stains",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--dark-ultramarine",
+      "name": "Dark Ultramarine",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#32297A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Space Rodeo",
+        "hex": "#332277",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "scale75/artist-range--dark-violet",
+      "name": "Dark Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#481A3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Violet Carmine",
+        "hex": "#531745",
+        "delta_e": 2.85
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--dead-flesh",
+      "name": "Dead Flesh",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#7F6662",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zanzibar",
+        "hex": "#7E6765",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--decay-black",
+      "name": "Decay Black",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#1C1C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eerie Black",
+        "hex": "#1B1B1B",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--decayed-metal",
+      "name": "Decayed Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#5D4038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thoroughfare",
+        "hex": "#5B3D34",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--deep-blue",
+      "name": "Deep Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#383B4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "India Ink",
+        "hex": "#3C3D4C",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "scale75/warfront-range--deep-ocean",
+      "name": "Deep Ocean",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#000B2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squid’s Ink",
+        "hex": "#041330",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--deep-red",
+      "name": "Deep Red",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#701B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Surya Red",
+        "hex": "#70191F",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--demon-brown",
+      "name": "Demon Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#66271E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Leather",
+        "hex": "#60281E",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "scale75/warfront-range--desert-yellow",
+      "name": "Desert Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D9AF75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mustard Field",
+        "hex": "#D8B076",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--despair-green",
+      "name": "Despair Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#17383D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nordic",
+        "hex": "#1D393C",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--dragon-blood",
+      "name": "Dragon Blood",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#810622",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oxblood",
+        "hex": "#800020",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--drain-life",
+      "name": "Drain Life",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E69464",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Outgoing Orange",
+        "hex": "#E6955F",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--dubai-brown",
+      "name": "Dubai Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#583D22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beech Brown",
+        "hex": "#574128",
+        "delta_e": 2.42
+      }
+    },
+    {
+      "id": "scale75/warfront-range--dunkelbraun-brown",
+      "name": "Dunkelbraun Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#413028",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Granite Brown",
+        "hex": "#3D2D24",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "scale75/warfront-range--dunkelgelb-44",
+      "name": "Dunkelgelb 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#DED1B1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Lattice",
+        "hex": "#E1D4B4",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "scale75/warfront-range--dunkelgelb-yellow",
+      "name": "Dunkelgelb Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#CBB550",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hollywood",
+        "hex": "#C7AF4A",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "scale75/warfront-range--dunkelgrau-gray",
+      "name": "Dunkelgrau Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#57585A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Concrete",
+        "hex": "#57595D",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "scale75/soil-works--dust-in-summertime",
+      "name": "Dust In Summertime",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#727556",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Finch",
+        "hex": "#75785A",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--dwarven-gold",
+      "name": "Dwarven Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D68D2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turmeric Tea",
+        "hex": "#D88E2D",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "scale75/artist-range--earth-green",
+      "name": "Earth Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4A3C2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Simmered Seaweed",
+        "hex": "#4C3D30",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--eclipse-grey",
+      "name": "Eclipse Grey",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#363636",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphite Smudge",
+        "hex": "#343434",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--eldandil-violet",
+      "name": "Eldandil Violet",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#2B1A3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackcurrant",
+        "hex": "#2E183B",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "scale75/fx-range--electric-blue",
+      "name": "Electric Blue",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#021AFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Blue",
+        "hex": "#021BF9",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--elixir-green",
+      "name": "Elixir Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#005C4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Green",
+        "hex": "#005F50",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--elven-gold",
+      "name": "Elven Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CDAB47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Haystack",
+        "hex": "#CFAC47",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--emerald-alchemy",
+      "name": "Emerald Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#78A098",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vizcaya",
+        "hex": "#7B9E98",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "scale75/artist-range--emerald-green",
+      "name": "Emerald Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#165341",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bagpiper",
+        "hex": "#1C5544",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--endurance-brown",
+      "name": "Endurance Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#773F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walnut",
+        "hex": "#773F1A",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--estus-yellow",
+      "name": "Estus Yellow",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FEE459",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Backlit Lemon",
+        "hex": "#FFDF4F",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--evil-root",
+      "name": "Evil Root",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#F07E4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sizzling Sunset",
+        "hex": "#EB7E4D",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--fairy-blood",
+      "name": "Fairy Blood",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#414874",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Constellation Blue",
+        "hex": "#3C4670",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--fall-green",
+      "name": "Fall Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#C9D161",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sonic Lime",
+        "hex": "#C5D061",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--field-gray",
+      "name": "Field Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#66736C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sirocco",
+        "hex": "#68766E",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "scale75/warfront-range--field-grey-1",
+      "name": "Field Grey 1",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#39553C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlander",
+        "hex": "#3A533D",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "scale75/warfront-range--field-grey-2",
+      "name": "Field Grey 2",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3F4C45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Mooring",
+        "hex": "#3D4C46",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "scale75/warfront-range--flat-black",
+      "name": "Flat Black",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#1C1C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eerie Black",
+        "hex": "#1B1B1B",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "scale75/warfront-range--flight-blue",
+      "name": "Flight Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#01688B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bondi",
+        "hex": "#16698C",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--frenzy-orange",
+      "name": "Frenzy Orange",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#EC6001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shu Red",
+        "hex": "#EB6101",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--fuchsia",
+      "name": "Fuchsia",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AA336B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Maroon",
+        "hex": "#B0306A",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "scale75/soil-works--fuel-and-grease",
+      "name": "Fuel And Grease",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#EEEAE9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timeless Day",
+        "hex": "#ECE9E8",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--full-healing",
+      "name": "Full Healing",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FEEF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flat Yellow",
+        "hex": "#FFF005",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--garnet-alchemy",
+      "name": "Garnet Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#88424D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Russet",
+        "hex": "#853C47",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "scale75/warfront-range--gelbraun-brown",
+      "name": "Gelbraun Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D5AC74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inheritance",
+        "hex": "#D7AE77",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--gobi-brown",
+      "name": "Gobi Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#6E5A3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gun Corps Brown",
+        "hex": "#6B593C",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--goblin-flesh",
+      "name": "Goblin Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#77B840",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ultra Green",
+        "hex": "#7EBA4D",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "scale75/artist-range--golden-flesh",
+      "name": "Golden Flesh",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#E2A76D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ninjin Orange",
+        "hex": "#E5AA70",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--golden-skin",
+      "name": "Golden Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#EDC89C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden City Moon",
+        "hex": "#ECC799",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--golem-grey",
+      "name": "Golem Grey",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#2C3031",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cod Grey",
+        "hex": "#2D3032",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--graphene-gray",
+      "name": "Graphene Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4A515B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Evening Cityscape",
+        "hex": "#4B535C",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--graphite",
+      "name": "Graphite",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#8B8C87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heavy Rain",
+        "hex": "#898A86",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "scale75/warfront-range--grau",
+      "name": "Grau",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E8D5C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mother of Pearl",
+        "hex": "#E9D5C3",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "scale75/warfront-range--graugrun-gray",
+      "name": "Graugrun Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#A08848",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Madagascar",
+        "hex": "#9D8544",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "scale75/soil-works--grease",
+      "name": "Grease",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#3E2D25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Granite Brown",
+        "hex": "#3D2D24",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "scale75/artist-range--green-grey",
+      "name": "Green Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2C3033",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cod Grey",
+        "hex": "#2D3032",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "scale75/soil-works--green-moss",
+      "name": "Green Moss",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#1C7C23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azure Radiance",
+        "hex": "#007F1F",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "scale75/warfront-range--green-ochre",
+      "name": "Green Ochre",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#948123",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Palm",
+        "hex": "#938326",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--greenskin-flesh",
+      "name": "Greenskin Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#006F34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Column of Oak Green",
+        "hex": "#006F37",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--grey-spell",
+      "name": "Grey Spell",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#808FB0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Luxury",
+        "hex": "#818EB1",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--grizzly-brown",
+      "name": "Grizzly Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#50181B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinel Red",
+        "hex": "#59181C",
+        "delta_e": 2.14
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--harvester-flesh",
+      "name": "Harvester Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#D0A791",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rundlet Peach",
+        "hex": "#D3AA94",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--hastur-purple",
+      "name": "Hastur Purple",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#740331",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Claret",
+        "hex": "#771133",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--health-red",
+      "name": "Health Red",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C31610",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blood Kiss",
+        "hex": "#C30B0A",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--heavy-metal",
+      "name": "Heavy Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#9C9DA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smokey Stone",
+        "hex": "#9A9DA2",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--hellbound-flesh",
+      "name": "Hellbound Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#9CB1AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Morning",
+        "hex": "#9EB0AA",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--hiril-blue",
+      "name": "Hiril Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#4AA9BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moonstone",
+        "hex": "#3AA8C1",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--huldra-blue",
+      "name": "Huldra Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#234256",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indigo Go-Go",
+        "hex": "#234156",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--human-flesh",
+      "name": "Human Flesh",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#DAAB97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fortune’s Prize",
+        "hex": "#DAA994",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--hykey-yellow",
+      "name": "Hykey Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#EFD491",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oat Straw",
+        "hex": "#F1D694",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--indian-shadow",
+      "name": "Indian Shadow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#673D3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Garnet",
+        "hex": "#653A3D",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-black",
+      "name": "Inktense Black",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#292929",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chromaphobic Black",
+        "hex": "#292929",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-blue",
+      "name": "Inktense Blue",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#012861",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Leviathan",
+        "hex": "#032A62",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-chesnut",
+      "name": "Inktense Chesnut",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#803C15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Orange",
+        "hex": "#873E1A",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-green",
+      "name": "Inktense Green",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#043E32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coach Green",
+        "hex": "#003527",
+        "delta_e": 3.01
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-red",
+      "name": "Inktense Red",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#A91E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Menace",
+        "hex": "#AA2121",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-violet",
+      "name": "Inktense Violet",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#49196F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsidian Shell",
+        "hex": "#441166",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-wood",
+      "name": "Inktense Wood",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#493326",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Brown",
+        "hex": "#4B3526",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "scale75/inktensity-range--inktense-yellow",
+      "name": "Inktense Yellow",
+      "code": null,
+      "set": "Inktensity Range",
+      "hex": "#E3BE15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lilikoi",
+        "hex": "#E1BF03",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--innsmouth-blue",
+      "name": "Innsmouth Blue",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#00596B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oceanside",
+        "hex": "#015A6B",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "scale75/artist-range--intense-yellow",
+      "name": "Intense Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F2CB02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Daishin Yellow",
+        "hex": "#F0CA00",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--irati-green",
+      "name": "Irati Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#008721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fatal Fields",
+        "hex": "#008822",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--iroko",
+      "name": "Iroko",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B28F4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Mustard",
+        "hex": "#B28C4B",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--ishtar-pink",
+      "name": "Ishtar Pink",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FC9363",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atomic Tangerine",
+        "hex": "#FF9966",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "scale75/artist-range--jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2FBEAF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turquoise Topaz",
+        "hex": "#13BBAF",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--jorildyn-turquoise",
+      "name": "Jorildyn Turquoise",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#067DA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celadon Blue",
+        "hex": "#007BA7",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--kalahari-orange",
+      "name": "Kalahari Orange",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#A3563C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Persimmon Varnish",
+        "hex": "#9F563A",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--kunzite-alchemy",
+      "name": "Kunzite Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CA9FBB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Idyllic Pink",
+        "hex": "#C89EB7",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "scale75/warfront-range--leaden-sky",
+      "name": "Leaden Sky",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#404F70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Astronaut",
+        "hex": "#445172",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "scale75/artist-range--lemon-yellow",
+      "name": "Lemon Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EBEA52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pineapple High",
+        "hex": "#EBEB57",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--lendanis-grey",
+      "name": "Lendanis Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#8B8DA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Violet Verbena",
+        "hex": "#898CA3",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--leviathan-blue",
+      "name": "Leviathan Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#005E70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ocean Radiance",
+        "hex": "#016072",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--life-red",
+      "name": "Life Red",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E63217",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thermic Orange",
+        "hex": "#EB3318",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "scale75/artist-range--light-moss-green",
+      "name": "Light Moss Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#61701B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fern Frond",
+        "hex": "#657220",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "scale75/soil-works--light-rust",
+      "name": "Light Rust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C1682C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Spice",
+        "hex": "#C66B30",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--light-skin",
+      "name": "Light Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#E2B890",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pancho",
+        "hex": "#DFB992",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "scale75/artist-range--light-skin",
+      "name": "Light Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D3B5AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castilian Pink",
+        "hex": "#D4B3AA",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "scale75/warfront-range--light-sky",
+      "name": "Light Sky",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#7890B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ashton Skies",
+        "hex": "#7B8EB0",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "scale75/artist-range--light-ultramarine",
+      "name": "Light Ultramarine",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#263E88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Oblivion",
+        "hex": "#26428B",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--lilith-yellow",
+      "name": "Lilith Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FDEA83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citrus Punch",
+        "hex": "#FDEA83",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--lime-green",
+      "name": "Lime Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#ACE44A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dynamic Green",
+        "hex": "#A7E142",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--love-affair",
+      "name": "Love Affair",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E92B37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Imperial Red",
+        "hex": "#EC2938",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "scale75/artist-range--magenta",
+      "name": "Magenta",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C60A85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Violet Red",
+        "hex": "#C71585",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--magic-blue",
+      "name": "Magic Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#147797",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pristine Seas",
+        "hex": "#007799",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--mana-regeneration",
+      "name": "Mana Regeneration",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#0184D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calgar Blue",
+        "hex": "#0485D1",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--marduk-yellow",
+      "name": "Marduk Yellow",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FFEF00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tweety",
+        "hex": "#FFEF00",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--mars-orange",
+      "name": "Mars Orange",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AF6631",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Date Fruit Brown",
+        "hex": "#AF642B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--mayhem-red",
+      "name": "Mayhem Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#9F0D20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Estroruby",
+        "hex": "#9B101F",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--mediterranean-blue",
+      "name": "Mediterranean Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#4D73B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ramjet",
+        "hex": "#4C73AF",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "scale75/soil-works--medium-wet",
+      "name": "Medium Wet",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--merm-green",
+      "name": "Merm Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#455236",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Shade Wash",
+        "hex": "#45523A",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "scale75/soil-works--mid-ground-earth",
+      "name": "Mid Ground / Earth",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#C8AD7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Common Chalcedony",
+        "hex": "#C8AD7F",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--misfits-green",
+      "name": "Misfits Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#004B31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alaskan Moss",
+        "hex": "#05472A",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--miskatonic-grey",
+      "name": "Miskatonic Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BBB7B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Concrete",
+        "hex": "#BAB6B2",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--mojave-white",
+      "name": "Mojave White",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D2CEB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Sage",
+        "hex": "#D1CEB4",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--moonray-flesh",
+      "name": "Moonray Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#F0D7A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Double Cream",
+        "hex": "#F2D9A3",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--moonstone-alchemy",
+      "name": "Moonstone Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#BC937F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Belfry Brick",
+        "hex": "#BB937F",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "scale75/artist-range--moss-green",
+      "name": "Moss Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#43492F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matsuba Green",
+        "hex": "#454D32",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--nacar",
+      "name": "Nacar",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#9B9F90",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Laurel Leaf",
+        "hex": "#969B8B",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "scale75/artist-range--naples-yellow",
+      "name": "Naples Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#DAAC22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Samovar",
+        "hex": "#DFAF2B",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--navy-blue",
+      "name": "Navy Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#253B6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mystification",
+        "hex": "#2A4071",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--necro-gold",
+      "name": "Necro Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#574E31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--necro-grey",
+      "name": "Necro Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#303038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smiler’s Mist",
+        "hex": "#313138",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-blue",
+      "name": "Neon Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#0E81D6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Electron Blue",
+        "hex": "#0881D1",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-green",
+      "name": "Neon Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#62F687",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thallium Flame",
+        "hex": "#58F898",
+        "delta_e": 2.77
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-orange",
+      "name": "Neon Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FF9E0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Fruit",
+        "hex": "#FE9E13",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-pink",
+      "name": "Neon Pink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FE3F47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunburnt Cyclops",
+        "hex": "#FF404C",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-red",
+      "name": "Neon Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EF321D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Rampage",
+        "hex": "#EE3322",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "scale75/artist-range--neon-yellow",
+      "name": "Neon Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EDFE5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Unripe Banana",
+        "hex": "#F0FF57",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ocean-blue",
+      "name": "Ocean Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#0C2140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Eclipse",
+        "hex": "#112244",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ocean-gray",
+      "name": "Ocean Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#556477",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Shadow",
+        "hex": "#566373",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "scale75/soil-works--odorless-thinner",
+      "name": "Odorless Thinner",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#DFDFDF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kingly Cloud",
+        "hex": "#DEDEDE",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "scale75/artist-range--off-white",
+      "name": "Off White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#DFD3B9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish White",
+        "hex": "#DED1B7",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--ogre-brown",
+      "name": "Ogre Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#C07704",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Coating",
+        "hex": "#BB7711",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--old-copper",
+      "name": "Old Copper",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#97604C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ginger Gold",
+        "hex": "#996251",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "scale75/warfront-range--olive-brown",
+      "name": "Olive Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#434631",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Country House Green",
+        "hex": "#414634",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "scale75/artist-range--olive-green",
+      "name": "Olive Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#585135",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "scale75/warfront-range--olivegrun-44",
+      "name": "Olivegrun 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#93A45D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zesty Apple",
+        "hex": "#92A360",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "scale75/warfront-range--olivegrun-green",
+      "name": "Olivegrun Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#5A6432",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gretchin Green",
+        "hex": "#5D6732",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "scale75/warfront-range--orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#E9670F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Flycatcher Crest",
+        "hex": "#EE6600",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "scale75/artist-range--orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D45B14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Bisque",
+        "hex": "#D15915",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--orange-leather",
+      "name": "Orange Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#A06337",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camel Brown",
+        "hex": "#A56639",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "scale75/fx-range--orange-neon",
+      "name": "Orange Neon",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F96401",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chos Garden Marigold",
+        "hex": "#FF6301",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--orcish-dermis",
+      "name": "Orcish Dermis",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#DB7D73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marmalade Magic",
+        "hex": "#DF7F73",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "scale75/artist-range--oxford-blue",
+      "name": "Oxford Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#434EA8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dazzling Blue",
+        "hex": "#3850A0",
+        "delta_e": 2.75
+      }
+    },
+    {
+      "id": "scale75/soil-works--pale-dust",
+      "name": "Pale Dust",
+      "code": null,
+      "set": "Soil Works",
+      "hex": "#EAD1BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Puppy Paws",
+        "hex": "#EAD2BC",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "scale75/warfront-range--pale-earth",
+      "name": "Pale Earth",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#5F4125",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Satoimo Brown",
+        "hex": "#644222",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--pale-skin",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#F1D9CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pinkwash",
+        "hex": "#F2DBD2",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "scale75/artist-range--pale-skin",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F3D6CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Awe",
+        "hex": "#F0D6CF",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "scale75/warfront-range--panzer-grey",
+      "name": "Panzer Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#30383B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Sable",
+        "hex": "#313739",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "scale75/warfront-range--panzer-yellow",
+      "name": "Panzer Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D6C78C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Asparagus Yellow",
+        "hex": "#DAC98E",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--paralyze-blue",
+      "name": "Paralyze Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#3579C0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mykonos",
+        "hex": "#387ABE",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "scale75/artist-range--pastel-blue",
+      "name": "Pastel Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#44646F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Juniper Berry Blue",
+        "hex": "#3F626E",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "scale75/artist-range--pastel-green",
+      "name": "Pastel Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#929D97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tranquillity",
+        "hex": "#8E9B96",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "scale75/artist-range--pastel-pink",
+      "name": "Pastel Pink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D97ABA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Punk",
+        "hex": "#D983BD",
+        "delta_e": 2.16
+      }
+    },
+    {
+      "id": "scale75/artist-range--pastel-violet",
+      "name": "Pastel Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#804A95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murasaki Purple",
+        "hex": "#884898",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--peanut-butter",
+      "name": "Peanut Butter",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BB8103",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Gold",
+        "hex": "#BE8400",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "scale75/artist-range--pearl-grey",
+      "name": "Pearl Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#867980",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honed Steel",
+        "hex": "#867C83",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--peridot-alchemy",
+      "name": "Peridot Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#8A8D78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sabiseiji Grey",
+        "hex": "#898A74",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "scale75/artist-range--permanent-orange",
+      "name": "Permanent Orange",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#FF6B0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burtuqali Orange",
+        "hex": "#FF6700",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--petroleum-gray",
+      "name": "Petroleum Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#554D4B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Off the Beaten Path",
+        "hex": "#534C4B",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--phoenix-egg",
+      "name": "Phoenix Egg",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#E5D0A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lucent Yellow",
+        "hex": "#E4D0A5",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--phoenix-feather",
+      "name": "Phoenix Feather",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#D18A5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunny Horizon",
+        "hex": "#D0875A",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--pink-flesh",
+      "name": "Pink Flesh",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#D1928D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Resounding Rose",
+        "hex": "#CD8E89",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "scale75/artist-range--pink-flesh",
+      "name": "Pink Flesh",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#BD7066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shepherd’s Warning",
+        "hex": "#C06F68",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "scale75/artist-range--pistachio-green-ink",
+      "name": "Pistachio Green Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C0CF18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garlic Pesto",
+        "hex": "#BFCF00",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "scale75/artist-range--primary-blue",
+      "name": "Primary Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#1A76B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biloxi Blue",
+        "hex": "#0075B8",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "scale75/artist-range--primary-red",
+      "name": "Primary Red",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D53036",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Akuma",
+        "hex": "#D63136",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "scale75/artist-range--primary-yellow",
+      "name": "Primary Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F4E915",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Titanium Yellow",
+        "hex": "#EEE600",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "scale75/primers--primer-surface-black",
+      "name": "Primer Surface Black",
+      "code": null,
+      "set": "Primers",
+      "hex": "#101318",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aswad Black",
+        "hex": "#17181C",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "scale75/primers--primer-surface-gray",
+      "name": "Primer Surface Gray",
+      "code": null,
+      "set": "Primers",
+      "hex": "#646464",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hard Coal",
+        "hex": "#656464",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "scale75/primers--primer-surface-white",
+      "name": "Primer Surface White",
+      "code": null,
+      "set": "Primers",
+      "hex": "#C9CFD5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ephemeral Mist",
+        "hex": "#C7CDD3",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "scale75/artist-range--prusian-blue",
+      "name": "Prusian Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#06293D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murky Depths",
+        "hex": "#02273A",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "scale75/fx-range--psychedelic-purple",
+      "name": "Psychedelic Purple",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#BB1CFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Neon Purple",
+        "hex": "#BC13FE",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--pure-copper",
+      "name": "Pure Copper",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#CC744C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Carrot",
+        "hex": "#CC764F",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--purity-white",
+      "name": "Purity White",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--purple",
+      "name": "Purple",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#912360",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celestial Dragon",
+        "hex": "#992266",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--rage-brown",
+      "name": "Rage Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#7C2B16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caponata",
+        "hex": "#822A10",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--ragweed-orange",
+      "name": "Ragweed Orange",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#DF6A27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lusty Orange",
+        "hex": "#E26D28",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--rainy-gray",
+      "name": "Rainy Gray",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#8B8683",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Detective Coat",
+        "hex": "#8B8685",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "scale75/artist-range--raw-sienna",
+      "name": "Raw Sienna",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#654226",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Van Dyke Brown",
+        "hex": "#664228",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "scale75/artist-range--raw-umber",
+      "name": "Raw Umber",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#765F33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Florentine Dream",
+        "hex": "#755C32",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "scale75/fx-range--red-ecstasy",
+      "name": "Red Ecstasy",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#F81803",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Cherry",
+        "hex": "#F81404",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "scale75/warfront-range--red-label",
+      "name": "Red Label",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#DF0617",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Baby",
+        "hex": "#E10D18",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--red-leather",
+      "name": "Red Leather",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#5F3634",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Leaf Red",
+        "hex": "#623836",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "scale75/artist-range--red-ochre",
+      "name": "Red Ochre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#80362D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crabapple",
+        "hex": "#87382F",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--remove-mana",
+      "name": "Remove Mana",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#0D2736",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murky Depths",
+        "hex": "#02273A",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--replenish-blue",
+      "name": "Replenish Blue",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#01479C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fright Night",
+        "hex": "#004499",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--resurrection-flesh",
+      "name": "Resurrection Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#BB8B65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tatami Tan",
+        "hex": "#BA8C64",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--riff-green",
+      "name": "Riff Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#1A2D29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swamp Thing",
+        "hex": "#162825",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--rlyeh-grey",
+      "name": "Rlyeh Grey",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#464B4E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witchcraft",
+        "hex": "#474C50",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "scale75/warfront-range--rotbraun-44",
+      "name": "Rotbraun 44",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#905024",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roasted Pecan",
+        "hex": "#93542B",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "scale75/warfront-range--rotbraun-primer-red",
+      "name": "Rotbraun Primer Red",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#925447",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prairie Clay",
+        "hex": "#935444",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "scale75/warfront-range--rotbraun-red",
+      "name": "Rotbraun Red",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#52341A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Catacombs",
+        "hex": "#513116",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--rotten-pus",
+      "name": "Rotten Pus",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FBB400",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Summer",
+        "hex": "#F9B500",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--ruby-alchemy",
+      "name": "Ruby Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D37887",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Shade",
+        "hex": "#CD7584",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "scale75/warfront-range--russian-green",
+      "name": "Russian Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#584F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "scale75/warfront-range--russian-light-green",
+      "name": "Russian Light Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#635111",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Brown",
+        "hex": "#645403",
+        "delta_e": 2.42
+      }
+    },
+    {
+      "id": "scale75/warfront-range--russian-uniform",
+      "name": "Russian Uniform",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#695928",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fir Green",
+        "hex": "#67592A",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-golden-brown",
+      "name": "SS Camo Golden Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#F0A001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rowdy Orange",
+        "hex": "#EAA007",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "scale75/warfront-range--sahara-sand",
+      "name": "Sahara Sand",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#EFD066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grand Casino Gold",
+        "hex": "#EDCD62",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sahara-yellow",
+      "name": "Sahara Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#AA852D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Porchetta Crust",
+        "hex": "#AA8736",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--salmon-fury",
+      "name": "Salmon Fury",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#EB5650",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amour",
+        "hex": "#EE5851",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "scale75/warfront-range--sand-yellow",
+      "name": "Sand Yellow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#EAC581",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Bamboo",
+        "hex": "#EAC37E",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sandalwood",
+      "name": "Sandalwood",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B89086",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mauve Blush",
+        "hex": "#B69289",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "scale75/artist-range--sap-green",
+      "name": "Sap Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#033417",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Haunted Hills",
+        "hex": "#003311",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--savage-beige",
+      "name": "Savage Beige",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#F3D783",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rapunzel",
+        "hex": "#F6D77F",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--shadow-black",
+      "name": "Shadow Black",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#1D1F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petroleum",
+        "hex": "#21211D",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "scale75/warfront-range--shadow-blue",
+      "name": "Shadow Blue",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#2A3245",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dress Blues",
+        "hex": "#2A3244",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--sharpnel-red",
+      "name": "Sharpnel Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#6E290A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Centipede Brown",
+        "hex": "#6D2400",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sherwood-green",
+      "name": "Sherwood Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7D853A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Sapling",
+        "hex": "#7C8635",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sky-blue",
+      "name": "Sky Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#2496C8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Germander Speedwell",
+        "hex": "#0094C8",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "scale75/artist-range--sky-blue",
+      "name": "Sky Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#C0E4ED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diminished Blue",
+        "hex": "#BCE1EB",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "scale75/warfront-range--slate-gray",
+      "name": "Slate Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#372B15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Tumbleweed",
+        "hex": "#37290E",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--slimer-green",
+      "name": "Slimer Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#5A9032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maximum Green",
+        "hex": "#5E8C31",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "scale75/warfront-range--smoke-gray",
+      "name": "Smoke Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#886859",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Suede Leather",
+        "hex": "#896757",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sol-yellow",
+      "name": "Sol Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#ECCB00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Honey",
+        "hex": "#EECC00",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--spectral-wolf",
+      "name": "Spectral Wolf",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#AB9FA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nobel",
+        "hex": "#A99D9D",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--speed-metal",
+      "name": "Speed Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#D4D4D6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rapunzel Silver",
+        "hex": "#D2D2D4",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "scale75/fx-range--speed-yellow",
+      "name": "Speed Yellow",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#FFFE00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yell for Yellow",
+        "hex": "#FFFE00",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--spring-green",
+      "name": "Spring Green",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#5D9F35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Radiant Foliage",
+        "hex": "#659C35",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--spring-green",
+      "name": "Spring Green",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7FB953",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ultra Green",
+        "hex": "#7EBA4D",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-dark-brown",
+      "name": "Ss Camo Dark Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#220B05",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dwarf Fortress",
+        "hex": "#1D0200",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-dark-green",
+      "name": "Ss Camo Dark Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#2A331E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Range Green",
+        "hex": "#283123",
+        "delta_e": 3.07
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-gray-brown",
+      "name": "Ss Camo Gray Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#6F4F36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee",
+        "hex": "#6F4E37",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-grey",
+      "name": "Ss Camo Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#8F8063",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mushroom Forest",
+        "hex": "#8E8062",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-highlights",
+      "name": "Ss Camo Highlights",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FAB861",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cochin Chicken",
+        "hex": "#F8B862",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-italian-green",
+      "name": "Ss Camo Italian Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3F5232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zen Garden Olive",
+        "hex": "#445533",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-light-green",
+      "name": "Ss Camo Light Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#7E8126",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trendy Green",
+        "hex": "#7E8424",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-medium-brown",
+      "name": "Ss Camo Medium Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#825D31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Brown",
+        "hex": "#825E2F",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-medium-green",
+      "name": "Ss Camo Medium Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#4D5025",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Private Green",
+        "hex": "#4F531F",
+        "delta_e": 2.26
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-ocher-brown",
+      "name": "Ss Camo Ocher Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#CFAE5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert",
+        "hex": "#CCAD60",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-red-brown",
+      "name": "Ss Camo Red Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#593A1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moelleux au Chocolat",
+        "hex": "#553311",
+        "delta_e": 2.44
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-top-lights",
+      "name": "Ss Camo Top Lights",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FBC77E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beige Topaz",
+        "hex": "#FFC87C",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-top-shadows",
+      "name": "Ss Camo Top Shadows",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#343428",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "El Paso",
+        "hex": "#39392C",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "scale75/warfront-range--ss-camo-yellow-sand",
+      "name": "Ss Camo Yellow Sand",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#C0A56E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hashibami Brown",
+        "hex": "#BFA46F",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--sulfur-yellow",
+      "name": "Sulfur Yellow",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#FED500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinag Gold",
+        "hex": "#FFD500",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--sunset-purple",
+      "name": "Sunset Purple",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#622E54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Mauve",
+        "hex": "#692B57",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--surfer-orc-flesh",
+      "name": "Surfer Orc Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#00A58B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brilliant Turquoise",
+        "hex": "#00A68B",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "scale75/fx-range--techno-green",
+      "name": "Techno Green",
+      "code": null,
+      "set": "FX Range",
+      "hex": "#44FA05",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plutonium",
+        "hex": "#35FA00",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--tenere-yellow",
+      "name": "Tenere Yellow",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#E5C76F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bee Pollen",
+        "hex": "#EBCA70",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--tesla-blue",
+      "name": "Tesla Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#414D97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Ultramarine",
+        "hex": "#404F95",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--thar-brown",
+      "name": "Thar Brown",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#B09F81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Edamame",
+        "hex": "#B19F80",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--thrash-metal",
+      "name": "Thrash Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#544943",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Havana Coffee",
+        "hex": "#554941",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--tiamat-orange",
+      "name": "Tiamat Orange",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#E97329",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Landscape",
+        "hex": "#E47227",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--tindalos-red",
+      "name": "Tindalos Red",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#5B2922",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caput Mortuum",
+        "hex": "#592720",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "scale75/warfront-range--titanium-gray",
+      "name": "Titanium Gray",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#41342B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slugger",
+        "hex": "#42342B",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "scale75/artist-range--titanium-grey",
+      "name": "Titanium Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#404445",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metropolitan Silhouette",
+        "hex": "#3E4244",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--toad-green",
+      "name": "Toad Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#475139",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Shade Wash",
+        "hex": "#45523A",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--tourmaline-alchemy",
+      "name": "Tourmaline Alchemy",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#E7A8B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Love at First Sight",
+        "hex": "#E5A5B1",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--toxic-waste-green",
+      "name": "Toxic Waste Green",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#C7D538",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fuego Verde",
+        "hex": "#C2D62E",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "scale75/artist-range--turquoise",
+      "name": "Turquoise",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#03435F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Neptune’s Wrath",
+        "hex": "#11425D",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "scale75/artist-range--turquoise-blue",
+      "name": "Turquoise Blue",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#15998E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Dynasty",
+        "hex": "#00988E",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "scale75/artist-range--turquoise-ink",
+      "name": "Turquoise Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#204C50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Immersed",
+        "hex": "#204F54",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--undead-dragon",
+      "name": "Undead Dragon",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#B6C8BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Cyclone",
+        "hex": "#B9CABD",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "scale75/fantasy-games-range--undead-flesh",
+      "name": "Undead Flesh",
+      "code": null,
+      "set": "Fantasy & Games Range",
+      "hex": "#A8B170",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timothy Grass",
+        "hex": "#ADB274",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "scale75/warfront-range--us-dark-brown",
+      "name": "Us Dark Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#AE8A72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Praline",
+        "hex": "#AD8B75",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "scale75/warfront-range--us-green",
+      "name": "Us Green",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#474632",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "scale75/warfront-range--us-medium-brown",
+      "name": "Us Medium Brown",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#D4AD84",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Santa Fe Tan",
+        "hex": "#D5AD85",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "scale75/artist-range--vanilla-white",
+      "name": "Vanilla White",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#EDE8D4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Instant Relief",
+        "hex": "#EDE7D2",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "scale75/artist-range--vanilla-yellow",
+      "name": "Vanilla Yellow",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#D8CC68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acacia",
+        "hex": "#DBCD64",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--victorian-brass",
+      "name": "Victorian Brass",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#B6843B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Millionaire",
+        "hex": "#B6843C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--viking-gold",
+      "name": "Viking Gold",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#8D591F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Afghan Carpet",
+        "hex": "#905E26",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "scale75/artist-range--violet",
+      "name": "Violet",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#2A1C51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silent Orbit",
+        "hex": "#231C4D",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--violet-blue",
+      "name": "Violet Blue",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#604673",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Presley Purple",
+        "hex": "#634875",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "scale75/artist-range--violet-grey",
+      "name": "Violet Grey",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#72727C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Funk",
+        "hex": "#747582",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--walnut",
+      "name": "Walnut",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#7D6450",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Folk Guitar",
+        "hex": "#7A634F",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--werewolf-brown",
+      "name": "Werewolf Brown",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#553C35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vixen",
+        "hex": "#573D37",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "scale75/warfront-range--white",
+      "name": "White",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--white",
+      "name": "White",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/artist-range--white-ink",
+      "name": "White Ink",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#F7F7F7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lynx White",
+        "hex": "#F7F7F7",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "scale75/metal-n-alchemy-range--white-metal",
+      "name": "White Metal",
+      "code": null,
+      "set": "Metal N Alchemy Range",
+      "hex": "#F1F1F1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snowflake",
+        "hex": "#EFF0F0",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "scale75/scale-color-range--white-sands",
+      "name": "White Sands",
+      "code": null,
+      "set": "Scale Color Range",
+      "hex": "#F6E1C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Howdy Neighbor",
+        "hex": "#F9E4C8",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--wild-beast",
+      "name": "Wild Beast",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#CA854E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cork Brown",
+        "hex": "#CC8855",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "scale75/warfront-range--winter-grey",
+      "name": "Winter Grey",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#6E6E70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoked Pearl",
+        "hex": "#6F6E70",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "scale75/warfront-range--winter-shadow",
+      "name": "Winter Shadow",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#3A3C39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zeus",
+        "hex": "#3B3C38",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "scale75/artist-range--wood",
+      "name": "Wood",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#60483E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Northern Territory",
+        "hex": "#5E463C",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "scale75/warfront-range--yellow-code",
+      "name": "Yellow Code",
+      "code": null,
+      "set": "Warfront  Range",
+      "hex": "#FFCB06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Philippine Yellow",
+        "hex": "#FECB00",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "scale75/artist-range--yellow-ocre",
+      "name": "Yellow Ocre",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#A0702E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buttered Rum",
+        "hex": "#9D702E",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "scale75/artist-range--yellow-oxide",
+      "name": "Yellow Oxide",
+      "code": null,
+      "set": "Artist Range",
+      "hex": "#4B3527",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Brown",
+        "hex": "#4B3526",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--zombie-skin",
+      "name": "Zombie Skin",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#A6A869",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elf Slippers",
+        "hex": "#A6A865",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "scale75/instant-colors-range--zucchini-green",
+      "name": "Zucchini Green",
+      "code": null,
+      "set": "Instant Colors Range",
+      "hex": "#405B32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turf",
+        "hex": "#415B36",
+        "delta_e": 1.15
+      }
+    }
+  ]
+}

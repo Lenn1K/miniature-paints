@@ -1,0 +1,2536 @@
+{
+  "brand": "Duncan",
+  "slug": "duncan",
+  "md_file": "Duncan.md",
+  "logo": "logos/Duncan.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "duncan/wave-2--abyss-blue",
+      "name": "Abyss Blue",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#334A66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Royal",
+        "hex": "#364C68",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "duncan/wave-3--ambush-yellow",
+      "name": "Ambush Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#E3CC73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Papaya",
+        "hex": "#E5CE77",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "duncan/wave-1--amethyst-rayne",
+      "name": "Amethyst Rayne",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#524169",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Haunted Candelabra",
+        "hex": "#57446A",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "duncan/wave-3--amphora-red",
+      "name": "Amphora Red",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#482124",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Red Brown",
+        "hex": "#4A2125",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "duncan/wave-2--amulet-purple",
+      "name": "Amulet Purple",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#BEACD2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Gladiola",
+        "hex": "#C1ABD4",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "duncan/wave-1--ancient-forest",
+      "name": "Ancient Forest",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#715B52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yorkshire Brown",
+        "hex": "#735C53",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "duncan/wave-3--ancient-gold",
+      "name": "Ancient Gold",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#776742",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eminent Bronze",
+        "hex": "#7A6841",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "duncan/wave-3--antiquity-green",
+      "name": "Antiquity Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#367D7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lenny Jadepeg",
+        "hex": "#397C79",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "duncan/wave-3--apocalypse-sky",
+      "name": "Apocalypse Sky",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#E34E3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Furious Piñata",
+        "hex": "#E34D41",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "duncan/wave-1--archaic-sepia-wash",
+      "name": "Archaic Sepia Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#A48773",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chanterelle Sauce",
+        "hex": "#A28776",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "duncan/wave-2--ares-flesh",
+      "name": "Ares Flesh",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#DEC287",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Tint",
+        "hex": "#DEC283",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "duncan/wave-2--argonaut-skin",
+      "name": "Argonaut Skin",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#A78E6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rodeo Roundup",
+        "hex": "#A68E6D",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "duncan/wave-2--ashen-grey",
+      "name": "Ashen Grey",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#4E5248",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shade-Grown",
+        "hex": "#4E5147",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "duncan/wave-2--asmodeus-red",
+      "name": "Asmodeus Red",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#8E4847",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forbidden Red",
+        "hex": "#8A4646",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "duncan/wave-3--aztec-turquoise-wash",
+      "name": "Aztec Turquoise Wash",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#939EA0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stone Fence",
+        "hex": "#929C9C",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "duncan/wave-1--barbarian-brawn",
+      "name": "Barbarian Brawn",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#8F5E54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bold Brick",
+        "hex": "#8C5E55",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "duncan/wave-2--bard-skin",
+      "name": "Bard Skin",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#956F61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Temptation",
+        "hex": "#956E5F",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "duncan/wave-2--batle-axe-brass",
+      "name": "Batle Axe Brass",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#D4A97D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Band-Aid",
+        "hex": "#D7A97C",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "duncan/wave-1--battle-mud-wash",
+      "name": "Battle Mud Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#796A5D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Namibia",
+        "hex": "#7C6D61",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "duncan/wave-1--berserker-red",
+      "name": "Berserker Red",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#4D1A15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Cordovan",
+        "hex": "#511B18",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "duncan/wave-2--blue-glaze",
+      "name": "Blue Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#5A79BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Android Base",
+        "hex": "#5A79BA",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "duncan/wave-3--blue-steel",
+      "name": "Blue Steel",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#7F8C8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seastone",
+        "hex": "#7D8B8A",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "duncan/wave-1--boar-hide",
+      "name": "Boar Hide",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#724438",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcanic Brick",
+        "hex": "#72453A",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "duncan/wave-3--bone-wash",
+      "name": "Bone Wash",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#B6A8A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Object of Desire",
+        "hex": "#B7A8A8",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "duncan/wave-3--boot-strap-brown",
+      "name": "Boot Strap Brown",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#8E674B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Webcap Brown",
+        "hex": "#8F684B",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "duncan/wave-3--carapace-green",
+      "name": "Carapace Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#4F955A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ineffable Forest",
+        "hex": "#4F9153",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "duncan/wave-1--carcharodon-grey",
+      "name": "Carcharodon Grey",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#959496",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Formal Grey",
+        "hex": "#97969A",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "duncan/wave-1--celestial-blue",
+      "name": "Celestial Blue",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#6991C0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eyeshadow Blue",
+        "hex": "#6B94C5",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "duncan/wave-3--centurion-red",
+      "name": "Centurion Red",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#E63132",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose Madder",
+        "hex": "#E33636",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "duncan/wave-2--cerberus-brown",
+      "name": "Cerberus Brown",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#DFAD58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lemon Poppy",
+        "hex": "#E1AE58",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "duncan/wave-3--chaos-bronze",
+      "name": "Chaos Bronze",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#A68B6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tannin",
+        "hex": "#A68B6D",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "duncan/wave-1--cold-corpse-blue",
+      "name": "Cold Corpse Blue",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#50555C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Edge of Black",
+        "hex": "#54585E",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "duncan/wave-3--contagion-green",
+      "name": "Contagion Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#8B9E7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Florence",
+        "hex": "#8A9B76",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "duncan/wave-2--craven-yellow",
+      "name": "Craven Yellow",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#ECEB69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crash Dummy",
+        "hex": "#EEEE66",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "duncan/wave-1--cuirass-leather",
+      "name": "Cuirass Leather",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#514239",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oxford Brown",
+        "hex": "#504139",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "duncan/wave-2--cursed-blue",
+      "name": "Cursed Blue",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#4199B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sports Blue",
+        "hex": "#399BB4",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "duncan/wave-3--cyber-pink",
+      "name": "Cyber Pink",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#C64B8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mulberry Yoghurt",
+        "hex": "#C54B8C",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "duncan/wave-1--dark-sun-yellow",
+      "name": "Dark Sun Yellow",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#C38639",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Back to School",
+        "hex": "#C1853B",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "duncan/wave-3--death-metal",
+      "name": "Death Metal",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#69655D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cumberland Grey",
+        "hex": "#68655D",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "duncan/wave-1--death-reaper",
+      "name": "Death Reaper",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#434142",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spade Black",
+        "hex": "#424142",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "duncan/wave-3--decadent-purple",
+      "name": "Decadent Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#C1BED3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Twilight Pearl",
+        "hex": "#BFBCD2",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "duncan/wave-1--demon-red",
+      "name": "Demon Red",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#D21116",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dragon’s Lair",
+        "hex": "#D50C15",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "duncan/wave-1--doom-death-black",
+      "name": "Doom Death Black",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#3C3936",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Knights of the Desert",
+        "hex": "#403C39",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "duncan/wave-1--dragon-fang",
+      "name": "Dragon Fang",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#9E8461",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mother Lode",
+        "hex": "#A28761",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "duncan/wave-1--dragon-s-gold",
+      "name": "Dragon's Gold",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#CDA24E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Sheaf",
+        "hex": "#CCA24D",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "duncan/wave-2--dread-red",
+      "name": "Dread Red",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#6E3E3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Covered Bridge",
+        "hex": "#6A3C3B",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "duncan/wave-2--druid-flesh",
+      "name": "Druid Flesh",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#533D33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsidian Brown",
+        "hex": "#523E35",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "duncan/wave-2--dry-rust-brown",
+      "name": "Dry Rust Brown",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#BA773F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cray",
+        "hex": "#BC763C",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "duncan/wave-1--dungeon-stone-grey",
+      "name": "Dungeon Stone Grey",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#5C5E5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphic Charcoal",
+        "hex": "#5C5E5F",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "duncan/wave-1--dust-bowl",
+      "name": "Dust Bowl",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#7D6349",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Boot",
+        "hex": "#7C644B",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "duncan/wave-2--dwarven-iron",
+      "name": "Dwarven Iron",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#898884",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic French Grey",
+        "hex": "#888782",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-1--dwarven-skin",
+      "name": "Dwarven Skin",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#B07C62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tobey Rattan",
+        "hex": "#AD785C",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "duncan/wave-2--eidolon-grey",
+      "name": "Eidolon Grey",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#535548",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "duncan/wave-3--elder-robe",
+      "name": "Elder Robe",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#2259A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Miracle at Wrigley",
+        "hex": "#255BA2",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "duncan/wave-3--elixir-green",
+      "name": "Elixir Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#7EC68F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Good Luck Charm",
+        "hex": "#86C994",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "duncan/wave-1--elven-skin",
+      "name": "Elven Skin",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#C49774",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Moon",
+        "hex": "#C29978",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "duncan/wave-1--elysium-blue",
+      "name": "Elysium Blue",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#5179AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sage Blossom Blue",
+        "hex": "#4E78A9",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "duncan/wave-3--emperor-red",
+      "name": "Emperor Red",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#A03140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Radish",
+        "hex": "#A42E41",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "duncan/wave-3--emperor-s-purple",
+      "name": "Emperor's Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#7A6089",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seer’s Cloak",
+        "hex": "#745D83",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "duncan/wave-3--enchantment-blue",
+      "name": "Enchantment Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#347DAA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vermeer Blue",
+        "hex": "#2B7CAF",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "duncan/wave-3--enchantress-purple",
+      "name": "Enchantress Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#593662",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Damson Mauve",
+        "hex": "#583563",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "duncan/wave-3--enticing-purple",
+      "name": "Enticing Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#7F7A8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purpletone",
+        "hex": "#837F92",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "duncan/wave-1--ethereal-green",
+      "name": "Ethereal Green",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#567F2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Master Chief",
+        "hex": "#507D2A",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "duncan/wave-2--evil-eye-red",
+      "name": "Evil Eye Red",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#C15D4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Martian Ironearth",
+        "hex": "#C15A4B",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "duncan/wave-1--fanatic-orange",
+      "name": "Fanatic Orange",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#D94A2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spicy Orange",
+        "hex": "#DA482D",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "duncan/wave-3--faust-blue",
+      "name": "Faust Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#45515B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Navy",
+        "hex": "#45505B",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "duncan/wave-2--field-grey",
+      "name": "Field Grey",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#6C715E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shutters",
+        "hex": "#6C705E",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "duncan/wave-3--fire-opal",
+      "name": "Fire Opal",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#C36E4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spice Route",
+        "hex": "#C26E4B",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "duncan/wave-3--flak-gun-yellow",
+      "name": "Flak Gun Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#C5AA5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hedgehog Cactus Yellow Green",
+        "hex": "#C4AA5E",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "duncan/wave-2--flaming-forge-orange",
+      "name": "Flaming Forge Orange",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#E9A544",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acorn Squash",
+        "hex": "#EDA740",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "duncan/wave-1--flesh-wash",
+      "name": "Flesh Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#C4A678",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medallion",
+        "hex": "#C3A679",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "duncan/wave-3--frost-blue",
+      "name": "Frost Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#78969D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ocean Melody",
+        "hex": "#7D999F",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "duncan/wave-2--fury-green",
+      "name": "Fury Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#6C6B4B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Capulet Olive",
+        "hex": "#6E6D4A",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "duncan/wave-2--ghoul-green",
+      "name": "Ghoul Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#52BD97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Expressionism Green",
+        "hex": "#52BC9A",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "duncan/wave-2--gigawatt-blue",
+      "name": "Gigawatt Blue",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#57B7E8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Frolic",
+        "hex": "#64B6E2",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "duncan/wave-1--glistening-gold",
+      "name": "Glistening Gold",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#9B8664",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Delta",
+        "hex": "#9B8767",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "duncan/wave-1--glistening-gums",
+      "name": "Glistening Gums",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#995779",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Fan Fuchsia",
+        "hex": "#975476",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "duncan/wave-3--gloss-varnish",
+      "name": "Gloss Varnish",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#A5A5A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainy Grey",
+        "hex": "#A5A5A5",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "duncan/wave-2--goblinoid-green",
+      "name": "Goblinoid Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#89B76A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nasturtium Leaf",
+        "hex": "#87B369",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "duncan/wave-1--gravestone-blue",
+      "name": "Gravestone Blue",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#7A8896",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spartan Blue",
+        "hex": "#7A8898",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "duncan/wave-2--green-beret",
+      "name": "Green Beret",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#ABAB87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meditation Time",
+        "hex": "#A7A987",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "duncan/wave-2--green-glaze",
+      "name": "Green Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#95CB74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Orchard",
+        "hex": "#93C96A",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "duncan/wave-1--griffon-claw",
+      "name": "Griffon Claw",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#9E9084",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chatura Beige",
+        "hex": "#A09287",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "duncan/wave-2--gung-ho-green",
+      "name": "Gung-ho Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#A8A264",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mediaeval Sulphur",
+        "hex": "#A79F5C",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "duncan/wave-2--gyzmo-fur",
+      "name": "Gyzmo Fur",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#D28950",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flaming Torch",
+        "hex": "#D2864E",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "duncan/wave-3--hazard-yellow-wash",
+      "name": "Hazard Yellow Wash",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#E5C0B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mellow Marrow",
+        "hex": "#E8C2B4",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "duncan/wave-3--heirloom-gold",
+      "name": "Heirloom Gold",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#C69C53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Creole Mustard",
+        "hex": "#C69B4E",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "duncan/wave-2--helion-red-wash",
+      "name": "Helion Red Wash",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#865453",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Conifer Cone",
+        "hex": "#885555",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "duncan/wave-2--hellspawn-red",
+      "name": "Hellspawn Red",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#BE392E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cadillac Coupe",
+        "hex": "#C0362C",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "duncan/wave-2--hot-pink",
+      "name": "Hot Pink",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#E184A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Chrysanthemum",
+        "hex": "#DD84A3",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "duncan/wave-2--hydra-green",
+      "name": "Hydra Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#344B4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphite Black Green",
+        "hex": "#32494B",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-3--incubus-purple",
+      "name": "Incubus Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#6A696C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scapa Flow",
+        "hex": "#6B6A6C",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "duncan/wave-3--inferno-orange",
+      "name": "Inferno Orange",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#CE4A32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawaiian Ahi Poke",
+        "hex": "#D24833",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "duncan/wave-3--ion-blue",
+      "name": "Ion Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#B7D5D8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rhythmic Blue",
+        "hex": "#B8D5D7",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "duncan/wave-1--ivory-tusk",
+      "name": "Ivory Tusk",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#D2C7BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Chamois Beige",
+        "hex": "#D1C6BE",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "duncan/wave-2--jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#2E7968",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Census",
+        "hex": "#327A68",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-1--keleton-legion",
+      "name": "Keleton Legion",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#AF966C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emperor’s Gold",
+        "hex": "#B0976D",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "duncan/wave-2--kobold-grey",
+      "name": "Kobold Grey",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#858B75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aloe Thorn",
+        "hex": "#888B73",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "duncan/wave-2--kronos-flesh",
+      "name": "Kronos Flesh",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#BF9A6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardboard",
+        "hex": "#C19A6C",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "duncan/wave-3--legion-green",
+      "name": "Legion Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#2A6A66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "North Sea",
+        "hex": "#316C69",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "duncan/wave-2--leviathan-blue",
+      "name": "Leviathan Blue",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#3A7BBF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mykonos",
+        "hex": "#387ABE",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "duncan/wave-2--magi-purple-wash",
+      "name": "Magi Purple Wash",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#4F3350",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shadow Purple",
+        "hex": "#4E334E",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "duncan/wave-2--manticore-ochre",
+      "name": "Manticore Ochre",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#D69744",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hint of Caramel",
+        "hex": "#D5933D",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "duncan/wave-1--marine-blue",
+      "name": "Marine Blue",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#43496F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Cobalt",
+        "hex": "#424769",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "duncan/wave-3--matt-varnish",
+      "name": "Matt Varnish",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#DCDCDD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diamond Stud",
+        "hex": "#DCDBDC",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "duncan/wave-1--merald-green",
+      "name": "Merald Green",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#3C5C43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horsetail",
+        "hex": "#3D5D42",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "duncan/wave-3--mythic-turquoise",
+      "name": "Mythic Turquoise",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#599E9C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caulerpa Lentillifera",
+        "hex": "#599C99",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "duncan/wave-1--mythril-blade",
+      "name": "Mythril Blade",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#7D7F7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mt. Rushmore",
+        "hex": "#7F8181",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "duncan/wave-1--necrosis-green-wash",
+      "name": "Necrosis Green Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#7B8A69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swedish Clover",
+        "hex": "#7B8867",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "duncan/wave-2--neo-pink",
+      "name": "Neo Pink",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#F3BCD7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flamingo Feather",
+        "hex": "#F8BDD9",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "duncan/wave-2--noble-steed-brown",
+      "name": "Noble Steed Brown",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#755339",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Leather & Lace",
+        "hex": "#76563E",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "duncan/wave-1--oblivion-black-wash",
+      "name": "Oblivion Black Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#454344",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenish Black",
+        "hex": "#454445",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-3--omega-blue",
+      "name": "Omega Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#58B9B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hygiene Green",
+        "hex": "#5DBCB4",
+        "delta_e": 2.05
+      }
+    },
+    {
+      "id": "duncan/wave-1--orange-flare",
+      "name": "Orange Flare",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#EB7140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aurora Orange",
+        "hex": "#EC7042",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "duncan/wave-2--orange-glaze",
+      "name": "Orange Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#F89F5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bergamot Orange",
+        "hex": "#F59D59",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "duncan/wave-2--orc-hide",
+      "name": "Orc Hide",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#7B9B68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mosslands",
+        "hex": "#779966",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "duncan/wave-2--overlord-brass",
+      "name": "Overlord Brass",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#D6AF83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Cloud",
+        "hex": "#D4AF85",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "duncan/wave-3--oxidation-green",
+      "name": "Oxidation Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#34444C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gale Force",
+        "hex": "#35454E",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "duncan/wave-2--paladin-flesh",
+      "name": "Paladin Flesh",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#76564B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bigfoot",
+        "hex": "#715145",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "duncan/wave-3--pale-skin",
+      "name": "Pale Skin",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#CAAA7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Downing Straw",
+        "hex": "#CAAB7D",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "duncan/wave-3--panzer-yellow",
+      "name": "Panzer Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#A58E42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ecru Olive",
+        "hex": "#A08942",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "duncan/wave-2--perisher-pink",
+      "name": "Perisher Pink",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#BA6368",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terra Rosa",
+        "hex": "#BB6569",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "duncan/wave-3--pestilence-green",
+      "name": "Pestilence Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#D3DF95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charming Green",
+        "hex": "#D4E092",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "duncan/wave-1--plate-armour",
+      "name": "Plate Armour",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#787979",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel",
+        "hex": "#797979",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "duncan/wave-2--platinum-crown",
+      "name": "Platinum Crown",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#CEC2A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stylish",
+        "hex": "#CEC1A5",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "duncan/wave-2--purple-glaze",
+      "name": "Purple Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#B679AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eccentric Magenta",
+        "hex": "#B576A7",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "duncan/wave-1--rc-flesh-wash",
+      "name": "RC Flesh Wash",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#52854C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beanpole",
+        "hex": "#4E8747",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "duncan/wave-2--ranger-cloak",
+      "name": "Ranger Cloak",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#7D8351",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oregano",
+        "hex": "#7F8353",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "duncan/wave-2--ray-gun-glow",
+      "name": "Ray Gun Glow",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#47B0C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aqua Verde",
+        "hex": "#56B3C3",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "duncan/wave-2--red-glaze",
+      "name": "Red Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#F38366",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slippery Salmon",
+        "hex": "#F87E63",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "duncan/wave-3--red-rage",
+      "name": "Red Rage",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#6A342A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Root Brown",
+        "hex": "#6B3226",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "duncan/wave-3--relic-blue",
+      "name": "Relic Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#2B7FBB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honolulu Blue",
+        "hex": "#007FBF",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "duncan/wave-3--ritz-o-tin",
+      "name": "Ritz O'Tin",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#968273",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Brown",
+        "hex": "#968374",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "duncan/wave-2--rodent-grey",
+      "name": "Rodent Grey",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#707263",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magic Mountain",
+        "hex": "#717462",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "duncan/wave-1--royal-cloak",
+      "name": "Royal Cloak",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#5B4249",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bruised Burgundy",
+        "hex": "#5B4148",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "duncan/wave-1--runic-purple",
+      "name": "Runic Purple",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#9B8DB4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Agate",
+        "hex": "#988EB4",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "duncan/wave-1--rust-orange",
+      "name": "Rust Orange",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#B94D37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glowing Coals",
+        "hex": "#BC4D39",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "duncan/wave-1--sandstone",
+      "name": "Sandstone",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#927B68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nest",
+        "hex": "#917B68",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "duncan/wave-1--sanguine-scarlet",
+      "name": "Sanguine Scarlet",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#961714",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carnivore",
+        "hex": "#991111",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "duncan/wave-2--satyr-brown",
+      "name": "Satyr Brown",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#D59657",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bakelite Gold",
+        "hex": "#D7995D",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "duncan/wave-3--scabbard-brown",
+      "name": "Scabbard Brown",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#7B5E46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ridgeline",
+        "hex": "#7A5D46",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "duncan/wave-3--scarab-red",
+      "name": "Scarab Red",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#B04045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pomegranate",
+        "hex": "#B53D45",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "duncan/wave-1--scorched-earth",
+      "name": "Scorched Earth",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#594C48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charred Hickory",
+        "hex": "#5B4E4A",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "duncan/wave-3--seafarer-blue",
+      "name": "Seafarer Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#4A9CC7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Bluebird",
+        "hex": "#4C98C2",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "duncan/wave-2--sentient-turquoise",
+      "name": "Sentient Turquoise",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#3A83A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dirty Blue",
+        "hex": "#3F829D",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "duncan/wave-3--septric-green",
+      "name": "Septric Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#ABB337",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vintage Chartreuse",
+        "hex": "#A3B22E",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "duncan/wave-3--serpent-eye-yellow",
+      "name": "Serpent Eye Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#F5D10D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wu-Tang Gold",
+        "hex": "#F8D106",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "duncan/wave-3--shadow-blue",
+      "name": "Shadow Blue",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#4F646B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Masuhana Blue",
+        "hex": "#4D646C",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-1--sir-coates-silver",
+      "name": "Sir Coates Silver",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#4D4F4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Oak",
+        "hex": "#4E4F4E",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "duncan/wave-1--skulker-yellow",
+      "name": "Skulker Yellow",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#F49E00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mad for Mango",
+        "hex": "#F8A200",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "duncan/wave-3--smoke-grey-wash",
+      "name": "Smoke Grey Wash",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#FBFCFB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emptiness",
+        "hex": "#FCFDFC",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "duncan/wave-3--solar-flare",
+      "name": "Solar Flare",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#EE7F21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro Nectarine",
+        "hex": "#EF7D16",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "duncan/wave-1--sorceror-s-cloak",
+      "name": "Sorceror's Cloak",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#78588D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ghostly Purple",
+        "hex": "#7B5D92",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "duncan/wave-1--spartan-bronze",
+      "name": "Spartan Bronze",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#644534",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copra",
+        "hex": "#654636",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "duncan/wave-3--spectral-purple",
+      "name": "Spectral Purple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#995A9A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heath Spotted Orchid",
+        "hex": "#9F5F9F",
+        "delta_e": 2.04
+      }
+    },
+    {
+      "id": "duncan/wave-2--steampunk-copper",
+      "name": "Steampunk Copper",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#B5623C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Dream",
+        "hex": "#B8623B",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-3--sun-bleach-yellow",
+      "name": "Sun Bleach Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#F5E350",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blacksmith Fire",
+        "hex": "#F7E856",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "duncan/wave-1--sword-hilt-burgundy",
+      "name": "Sword Hilt Burgundy",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#773D4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vintage Merlot",
+        "hex": "#763D4B",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "duncan/wave-2--talisman-green",
+      "name": "Talisman Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#79C042",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Conceptual",
+        "hex": "#7AC34F",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "duncan/wave-2--tempest-blue-wash",
+      "name": "Tempest Blue Wash",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#3E5165",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Mosaic",
+        "hex": "#3D5267",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "duncan/wave-1--temple-stone",
+      "name": "Temple Stone",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#A39179",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Hideaway",
+        "hex": "#A2917B",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "duncan/wave-2--top-brass",
+      "name": "Top Brass",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#B59155",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Egg",
+        "hex": "#B29155",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "duncan/wave-3--traitor-green",
+      "name": "Traitor Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#2F534F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidden Depths",
+        "hex": "#305451",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "duncan/wave-2--troll-snot-green",
+      "name": "Troll Snot Green",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#9CC575",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jade Lime",
+        "hex": "#9DCA7B",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "duncan/wave-1--trooper-white",
+      "name": "Trooper White",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#ECEADF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prismatic Pearl",
+        "hex": "#EAE8DD",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "duncan/wave-3--twin-suns-yellow",
+      "name": "Twin Suns Yellow",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#E5E6AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bit of Lime",
+        "hex": "#E1E5AC",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "duncan/wave-1--ur-cloak",
+      "name": "Ur Cloak",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#91524D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ragin’ Cajun",
+        "hex": "#8D514C",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "duncan/wave-3--vambrace-brown",
+      "name": "Vambrace Brown",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#9C745C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timber Trail",
+        "hex": "#A1755C",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "duncan/wave-1--vampire-fang",
+      "name": "Vampire Fang",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#CBB89B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wildwood",
+        "hex": "#CDB99B",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "duncan/wave-3--von-evile-pimple",
+      "name": "Von Evile Pimple",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#22012E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coal Mine",
+        "hex": "#220033",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "duncan/wave-3--war-master-green",
+      "name": "War Master Green",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#3A4140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dying Light",
+        "hex": "#364141",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "duncan/wave-1--wasteland-brown",
+      "name": "Wasteland Brown",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#856C5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wandering Road",
+        "hex": "#876D5E",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "duncan/wave-1--white-star",
+      "name": "White Star",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "duncan/wave-2--witching-hour-blue",
+      "name": "Witching Hour Blue",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#326AB3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dover Straits",
+        "hex": "#326AB1",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "duncan/wave-1--wizard-grey",
+      "name": "Wizard Grey",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#6D6B6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scapa Flow",
+        "hex": "#6B6A6C",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "duncan/wave-1--wolf-grey",
+      "name": "Wolf Grey",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#627587",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Space Convoy",
+        "hex": "#667788",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "duncan/wave-1--wyvern-green",
+      "name": "Wyvern Green",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#404942",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Olive",
+        "hex": "#3E4740",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "duncan/wave-1--yellow-flame",
+      "name": "Yellow Flame",
+      "code": null,
+      "set": "Wave 1",
+      "hex": "#F8AF2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangerine Twist",
+        "hex": "#F8AD1B",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "duncan/wave-2--yellow-glaze",
+      "name": "Yellow Glaze",
+      "code": null,
+      "set": "Wave 2",
+      "hex": "#F2F075",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunny",
+        "hex": "#F2F27A",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "duncan/wave-3--zombie-rot",
+      "name": "Zombie Rot",
+      "code": null,
+      "set": "Wave 3",
+      "hex": "#B1B679",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timothy Grass",
+        "hex": "#ADB274",
+        "delta_e": 1.16
+      }
+    }
+  ]
+}

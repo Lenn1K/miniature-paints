@@ -1,0 +1,1361 @@
+{
+  "brand": "Arteza",
+  "slug": "arteza",
+  "md_file": "Arteza.md",
+  "logo": "logos/Arteza.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "arteza/a201",
+      "name": "Aztec Gold",
+      "code": "A201",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CD8B45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raw Linen",
+        "hex": "#CC8844",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "arteza/a403",
+      "name": "Bordeaux Red",
+      "code": "A403",
+      "set": "Acrylic Premium Paints",
+      "hex": "#7B2D33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Syrah",
+        "hex": "#792E35",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "arteza/a201~2",
+      "name": "Brilliant Red",
+      "code": "A201",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C80F15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Venetian Red",
+        "hex": "#C80815",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "arteza/a202",
+      "name": "Bronze",
+      "code": "A202",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A8724E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bran",
+        "hex": "#A9704C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "arteza/a303",
+      "name": "Burnt Sienna",
+      "code": "A303",
+      "set": "Acrylic Premium Paints",
+      "hex": "#863625",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kofta Brown",
+        "hex": "#883322",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "arteza/a305",
+      "name": "Burnt Umber",
+      "code": "A305",
+      "set": "Acrylic Premium Paints",
+      "hex": "#663D34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sekkasshoku Brown",
+        "hex": "#683F36",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "arteza/a205",
+      "name": "Carmine Red",
+      "code": "A205",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C31723",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rossini Red",
+        "hex": "#C4091E",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "arteza/a502",
+      "name": "Cerulean Blue",
+      "code": "A502",
+      "set": "Acrylic Premium Paints",
+      "hex": "#0388D4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calgar Blue",
+        "hex": "#0485D1",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "arteza/a607",
+      "name": "Chromium Oxide Green",
+      "code": "A607",
+      "set": "Acrylic Premium Paints",
+      "hex": "#1C4E40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "English Green",
+        "hex": "#1B4D3F",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "arteza/a501",
+      "name": "Cobalt Blue",
+      "code": "A501",
+      "set": "Acrylic Premium Paints",
+      "hex": "#4C98F0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Karimun Blue",
+        "hex": "#2196F3",
+        "delta_e": 3.06
+      }
+    },
+    {
+      "id": "arteza/a203",
+      "name": "Cochineal Red",
+      "code": "A203",
+      "set": "Acrylic Premium Paints",
+      "hex": "#AE0207",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Volcano",
+        "hex": "#AB0102",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "arteza/a002",
+      "name": "Cold Gray",
+      "code": "A002",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B2C1D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elevated",
+        "hex": "#B3C3D4",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "arteza/a206",
+      "name": "Crimson Red",
+      "code": "A206",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B11823",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mammary Red",
+        "hex": "#B00B1E",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "arteza/a610",
+      "name": "Deep Green",
+      "code": "A610",
+      "set": "Acrylic Premium Paints",
+      "hex": "#375B5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arctic Nights",
+        "hex": "#345C61",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "arteza/a103",
+      "name": "Deep Yellow",
+      "code": "A103",
+      "set": "Acrylic Premium Paints",
+      "hex": "#E27B02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "First of Fall",
+        "hex": "#E47901",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "arteza/a602",
+      "name": "Emerald Green",
+      "code": "A602",
+      "set": "Acrylic Premium Paints",
+      "hex": "#25C0A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jade Mountain",
+        "hex": "#34C2A7",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "arteza/a127",
+      "name": "Gold",
+      "code": "A127",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E4B463",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buzzworthy",
+        "hex": "#E6B261",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "arteza/a703",
+      "name": "Gold",
+      "code": "A703",
+      "set": "Acrylic Premium Paints",
+      "hex": "#CC883A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Beige",
+        "hex": "#CC8833",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "arteza/a003",
+      "name": "Gray",
+      "code": "A003",
+      "set": "Acrylic Premium Paints",
+      "hex": "#928E95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aragonite Grey",
+        "hex": "#948E96",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "arteza/a107",
+      "name": "Indian Yellow",
+      "code": "A107",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EE7A1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Therapeutic Toucan",
+        "hex": "#EE7711",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "arteza/a100",
+      "name": "Lemon Yellow",
+      "code": "A100",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EEDF63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garlic Butter",
+        "hex": "#EDDF5E",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "arteza/a108",
+      "name": "Light Apricot",
+      "code": "A108",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FEE6C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fricassée",
+        "hex": "#FFE6C2",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "arteza/a603",
+      "name": "Light Sap Green",
+      "code": "A603",
+      "set": "Acrylic Premium Paints",
+      "hex": "#1A5924",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "O Tannenbaum",
+        "hex": "#005522",
+        "delta_e": 2.25
+      }
+    },
+    {
+      "id": "arteza/a401",
+      "name": "Magenta Light",
+      "code": "A401",
+      "set": "Acrylic Premium Paints",
+      "hex": "#C11174",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Anxiety",
+        "hex": "#C20078",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "arteza/a005",
+      "name": "Mars Black",
+      "code": "A005",
+      "set": "Acrylic Premium Paints",
+      "hex": "#131318",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Piano Black",
+        "hex": "#17171A",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "arteza/a306",
+      "name": "Mars Brown",
+      "code": "A306",
+      "set": "Acrylic Premium Paints",
+      "hex": "#200604",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dwarf Fortress",
+        "hex": "#1D0200",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "arteza/a302",
+      "name": "Mars Orange",
+      "code": "A302",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BC5035",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Ochre",
+        "hex": "#BB4F35",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "arteza/a404",
+      "name": "Mauve Pole",
+      "code": "A404",
+      "set": "Acrylic Premium Paints",
+      "hex": "#6F59A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sumire Violet",
+        "hex": "#7058A3",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "arteza/a604",
+      "name": "Mid Green",
+      "code": "A604",
+      "set": "Acrylic Premium Paints",
+      "hex": "#04633A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fun Green",
+        "hex": "#15633D",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "arteza/a102",
+      "name": "Mid Yellow",
+      "code": "A102",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F5CC0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Daze",
+        "hex": "#F7CF1B",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "arteza/a105",
+      "name": "Naples Yellow",
+      "code": "A105",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FACE9A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bagel",
+        "hex": "#F6CD9B",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "arteza/a800",
+      "name": "Neon Pink",
+      "code": "A800",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FD5A97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fuchsia Fever",
+        "hex": "#FF5599",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "arteza/a608",
+      "name": "Olive Green",
+      "code": "A608",
+      "set": "Acrylic Premium Paints",
+      "hex": "#455032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matsuba Green",
+        "hex": "#454D32",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "arteza/a109",
+      "name": "Orange Red",
+      "code": "A109",
+      "set": "Acrylic Premium Paints",
+      "hex": "#EE3A18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arcade Fire",
+        "hex": "#EE3311",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "arteza/a108~2",
+      "name": "Orange Yellow",
+      "code": "A108",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F1652D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Basketball",
+        "hex": "#EE6730",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "arteza/a301",
+      "name": "Oxide Yellow",
+      "code": "A301",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BA7335",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acorn Spice",
+        "hex": "#B87439",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "arteza/a601",
+      "name": "Pale Green",
+      "code": "A601",
+      "set": "Acrylic Premium Paints",
+      "hex": "#03A45E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alhambra Green",
+        "hex": "#00A465",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "arteza/a004",
+      "name": "Payne's Gray",
+      "code": "A004",
+      "set": "Acrylic Premium Paints",
+      "hex": "#3B3A40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Graphite",
+        "hex": "#3A383F",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "arteza/a215",
+      "name": "Pearl Amaranth Red",
+      "code": "A215",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#EA6355",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emberglow",
+        "hex": "#EA6759",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "arteza/a230",
+      "name": "Pearl Cactus Green",
+      "code": "A230",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#619F8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Succulent Green",
+        "hex": "#5E9B86",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "arteza/a206~2",
+      "name": "Pearl Canary Yellow",
+      "code": "A206",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#BBA533",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grassy Ochre",
+        "hex": "#B8A336",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "arteza/a233",
+      "name": "Pearl Chartreuse",
+      "code": "A233",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A9A54D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "The Goods",
+        "hex": "#AAA651",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "arteza/a129",
+      "name": "Pearl Copper Gold",
+      "code": "A129",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A66643",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amazonian",
+        "hex": "#AA6644",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "arteza/a729",
+      "name": "Pearl Copper Gold",
+      "code": "A729",
+      "set": "Acrylic Premium Paints",
+      "hex": "#BB7446",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spice Cake",
+        "hex": "#B87243",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "arteza/a130",
+      "name": "Pearl Deep Brown",
+      "code": "A130",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#664632",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buckeye",
+        "hex": "#674834",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "arteza/a733",
+      "name": "Pearl Deep Brown",
+      "code": "A733",
+      "set": "Acrylic Premium Paints",
+      "hex": "#865F43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vaquero Boots",
+        "hex": "#855F43",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "arteza/a210",
+      "name": "Pearl Electrlc Blue",
+      "code": "A210",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#0594DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kahu Blue",
+        "hex": "#0093D6",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "arteza/a225",
+      "name": "Pearl Glacier Blue",
+      "code": "A225",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#92B8C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tahoe Blue",
+        "hex": "#94B8C1",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "arteza/a213",
+      "name": "Pearl Golden Hour",
+      "code": "A213",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#C39736",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Leisure",
+        "hex": "#C19634",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "arteza/a218",
+      "name": "Pearl Hot Pink",
+      "code": "A218",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E0448E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prunus Avium",
+        "hex": "#DD4492",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "arteza/a223",
+      "name": "Pearl Lilac",
+      "code": "A223",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#B4ABC1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Violet Bouquet",
+        "hex": "#B9B1C8",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "arteza/a211",
+      "name": "Pearl Lime Green",
+      "code": "A211",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#86A96D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wyvern Green",
+        "hex": "#86A96F",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "arteza/a221",
+      "name": "Pearl Magenta",
+      "code": "A221",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#9F1E63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raspberry Magenta",
+        "hex": "#9A1A60",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "arteza/a203~2",
+      "name": "Pearl Marmalade",
+      "code": "A203",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A4462D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toasted Paprika",
+        "hex": "#A34631",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "arteza/a232",
+      "name": "Pearl Olive Green",
+      "code": "A232",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#758351",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turf War",
+        "hex": "#738050",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "arteza/a207",
+      "name": "Pearl Papya Orange",
+      "code": "A207",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#F28340",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Construction Zone",
+        "hex": "#EE8442",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "arteza/a228",
+      "name": "Pearl Pastel Green",
+      "code": "A228",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#88A38E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Envy",
+        "hex": "#8BA58F",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "arteza/a216",
+      "name": "Pearl Pink",
+      "code": "A216",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#BC869D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winsome Rose",
+        "hex": "#C28BA1",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "arteza/a208",
+      "name": "Pearl Pink Tulip",
+      "code": "A208",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CC3943",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poinsettia",
+        "hex": "#CC3842",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "arteza/a234",
+      "name": "Pearl Pistachio Green",
+      "code": "A234",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#97B28A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Easygoing Green",
+        "hex": "#98B389",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "arteza/a220",
+      "name": "Pearl Raspberry Red",
+      "code": "A220",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#CC374C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Puree",
+        "hex": "#C9344C",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "arteza/a218~2",
+      "name": "Pearl Rose",
+      "code": "A218",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#B83650",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raspberry Wine",
+        "hex": "#B63753",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "arteza/a217",
+      "name": "Pearl Rose Quartz",
+      "code": "A217",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#AF5C7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indian Pink",
+        "hex": "#AD5B78",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "arteza/a209",
+      "name": "Pearl Royal Purple",
+      "code": "A209",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#4E3880",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Galactic Compass",
+        "hex": "#48357B",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "arteza/a229",
+      "name": "Pearl Sage Green",
+      "code": "A229",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#A5BAB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gin Berry",
+        "hex": "#A3B9B6",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "arteza/a736",
+      "name": "Pearl Sapphire Blue",
+      "code": "A736",
+      "set": "Acrylic Premium Paints",
+      "hex": "#064A96",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iron Blue",
+        "hex": "#114B91",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "arteza/a227",
+      "name": "Pearl Sea Green",
+      "code": "A227",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#377C74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pearl Green",
+        "hex": "#377B70",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "arteza/a224",
+      "name": "Pearl Sky Blue",
+      "code": "A224",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#8FBCD8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Simply Posh",
+        "hex": "#8CB9D4",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "arteza/a204",
+      "name": "Pearl Space Grey",
+      "code": "A204",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#464C51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sooty Lashes",
+        "hex": "#474D52",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "arteza/a222",
+      "name": "Pearl Strawberry Red",
+      "code": "A222",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#99322D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Redbox",
+        "hex": "#94332F",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "arteza/a214",
+      "name": "Pearl Tangerine Orange",
+      "code": "A214",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#D7682C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Drop",
+        "hex": "#D56C30",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "arteza/a226",
+      "name": "Pearl Turquoise",
+      "code": "A226",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#027095",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropic Sea",
+        "hex": "#016F92",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "arteza/a205~2",
+      "name": "Pearl White",
+      "code": "A205",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E6E3DE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arctic Cotton",
+        "hex": "#E6E3DF",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "arteza/a504",
+      "name": "Phthalo Blue",
+      "code": "A504",
+      "set": "Acrylic Premium Paints",
+      "hex": "#252E6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Schiava Blue",
+        "hex": "#192961",
+        "delta_e": 2.38
+      }
+    },
+    {
+      "id": "arteza/a609",
+      "name": "Phthalo Green",
+      "code": "A609",
+      "set": "Acrylic Premium Paints",
+      "hex": "#214445",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pine Hollow",
+        "hex": "#204242",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "arteza/a400",
+      "name": "Pink",
+      "code": "A400",
+      "set": "Acrylic Premium Paints",
+      "hex": "#FEB6DB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bubblegum Heart",
+        "hex": "#FFBADF",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "arteza/a505",
+      "name": "Prussian Blue",
+      "code": "A505",
+      "set": "Acrylic Premium Paints",
+      "hex": "#343A5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mangosteen",
+        "hex": "#383E5D",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "arteza/a605",
+      "name": "Prussian Green",
+      "code": "A605",
+      "set": "Acrylic Premium Paints",
+      "hex": "#0A451F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Pond",
+        "hex": "#014420",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "arteza/a300",
+      "name": "Raw Sienna",
+      "code": "A300",
+      "set": "Acrylic Premium Paints",
+      "hex": "#B88247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arrakis Spice",
+        "hex": "#BB8246",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "arteza/a307",
+      "name": "Raw Umber",
+      "code": "A307",
+      "set": "Acrylic Premium Paints",
+      "hex": "#3E2E29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinese Ink",
+        "hex": "#3F312B",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "arteza/a402",
+      "name": "Rose",
+      "code": "A402",
+      "set": "Acrylic Premium Paints",
+      "hex": "#D21F60",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emperor’s Heartbeat",
+        "hex": "#CF2560",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "arteza/a204~2",
+      "name": "Rose Madder",
+      "code": "A204",
+      "set": "Acrylic Premium Paints",
+      "hex": "#930708",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carnage Red",
+        "hex": "#940008",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "arteza/a304",
+      "name": "Sangria Red",
+      "code": "A304",
+      "set": "Acrylic Premium Paints",
+      "hex": "#590C0B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampiric Council",
+        "hex": "#5C0C0C",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "arteza/a202~2",
+      "name": "Scarlet Red",
+      "code": "A202",
+      "set": "Acrylic Premium Paints",
+      "hex": "#E32421",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lust",
+        "hex": "#E62020",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "arteza/a734",
+      "name": "Silver",
+      "code": "A734",
+      "set": "Acrylic Premium Paints",
+      "hex": "#ACABB1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sylph",
+        "hex": "#ADAAB1",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "arteza/a128",
+      "name": "Silver",
+      "code": "A128",
+      "set": "Acrylic Pearl Paints",
+      "hex": "#E7E9E8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Radisson",
+        "hex": "#E5E7E6",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "arteza/a500",
+      "name": "Sky Blue",
+      "code": "A500",
+      "set": "Acrylic Premium Paints",
+      "hex": "#56B1E7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sanctuary Spa",
+        "hex": "#66B2E4",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "arteza/a001",
+      "name": "Titanium White",
+      "code": "A001",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F8F8F8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "arteza/a503",
+      "name": "Ultramarine Blue",
+      "code": "A503",
+      "set": "Acrylic Premium Paints",
+      "hex": "#12309D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meatball Blue",
+        "hex": "#0032A0",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "arteza/a308",
+      "name": "Vandyke Brown",
+      "code": "A308",
+      "set": "Acrylic Premium Paints",
+      "hex": "#2E201B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kenpōzome Black",
+        "hex": "#2E211B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "arteza/a200",
+      "name": "Vermillion Red",
+      "code": "A200",
+      "set": "Acrylic Premium Paints",
+      "hex": "#F2372B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Rampage",
+        "hex": "#EE3322",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "arteza/a405",
+      "name": "Violet",
+      "code": "A405",
+      "set": "Acrylic Premium Paints",
+      "hex": "#5A5075",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Benikakehana Purple",
+        "hex": "#5A4F74",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "arteza/a606",
+      "name": "Viridian Green",
+      "code": "A606",
+      "set": "Acrylic Premium Paints",
+      "hex": "#056065",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beau Vert",
+        "hex": "#0C6064",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "arteza/a600",
+      "name": "Yellow Green",
+      "code": "A600",
+      "set": "Acrylic Premium Paints",
+      "hex": "#368B30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Resplendent Growth",
+        "hex": "#3D8B37",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "arteza/a104",
+      "name": "Yellow Ochre",
+      "code": "A104",
+      "set": "Acrylic Premium Paints",
+      "hex": "#CE8E2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vibrant Amber",
+        "hex": "#D1902E",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "arteza/a101",
+      "name": "Yellow Pale",
+      "code": "A101",
+      "set": "Acrylic Premium Paints",
+      "hex": "#D2A702",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prehnite Yellow",
+        "hex": "#D0A700",
+        "delta_e": 0.57
+      }
+    }
+  ]
+}

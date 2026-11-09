@@ -1,0 +1,82 @@
+name: Farbdaten aktualisieren
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # montags 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      brands:
+        description: "Nur diese Marken scrapen (leer = alle), z. B. 'ak vallejo'"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Import Ferror (Vallejo Model Color)
+        run: python -m pipeline.import_ferror
+
+      - name: Hersteller-Shops abfragen
+        # Ein blockierter Shop soll den Rest nicht verhindern – Fehler stehen im Report
+        continue-on-error: true
+        run: |
+          if [ -n "${{ github.event.inputs.brands }}" ]; then
+            python -m pipeline.sync_shops --brands ${{ github.event.inputs.brands }} --save-raw raw/
+          else
+            python -m pipeline.sync_shops --save-raw raw/
+          fi
+
+      - name: Farbnamen (meodai/color-names) zuordnen
+        run: python -m pipeline.import_colornames
+
+      - name: Markdown + dist erzeugen
+        run: python -m pipeline.build
+
+      - name: Tests
+        run: python -m pytest -q tests
+
+      - name: Rohdaten als Artefakt (Debug)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ github.run_id }}
+          path: raw/
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Report sicherstellen
+        run: test -f reports/sync-shops.md || echo "Kein Sync-Report erzeugt – Log prüfen." > reports/sync-shops.md
+
+      - name: Pull Request erstellen
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: data-update
+          delete-branch: true
+          commit-message: "Farbdaten-Update ${{ github.run_id }}"
+          title: "Farbdaten-Update"
+          body-path: reports/sync-shops.md
+          add-paths: |
+            data/**
+            paints/**
+            dist/**
+            reports/**
+            README.md

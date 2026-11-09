@@ -1,0 +1,759 @@
+{
+  "brand": "Creature",
+  "slug": "creature",
+  "md_file": "Creature.md",
+  "logo": "logos/Creature.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "creature/mpa-053",
+      "name": "Black",
+      "code": "MPA-053",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#09070B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raven’s Coat",
+        "hex": "#030205",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "creature/mpa-040",
+      "name": "Black Brown",
+      "code": "MPA-040",
+      "set": "Monument Pro Acryl",
+      "hex": "#2C282A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Onyx",
+        "hex": "#2A272C",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "creature/mpa-046",
+      "name": "Blue",
+      "code": "MPA-046",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#081144",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Cove",
+        "hex": "#051040",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "creature/mpa-005",
+      "name": "Blue",
+      "code": "MPA-005",
+      "set": "Monument Pro Acryl",
+      "hex": "#105AC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "London Rain",
+        "hex": "#0055BB",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "creature/mpa-003",
+      "name": "Bold Pyrrole Red",
+      "code": "MPA-003",
+      "set": "Monument Pro Acryl",
+      "hex": "#D00903",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Epiphyllum",
+        "hex": "#D00000",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "creature/mpa-001",
+      "name": "Bold Titanium White",
+      "code": "MPA-001",
+      "set": "Monument Pro Acryl",
+      "hex": "#E7E3E2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diamonds in the Sky",
+        "hex": "#E5E2E1",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "creature/mpa-031",
+      "name": "Bright Gold",
+      "code": "MPA-031",
+      "set": "Monument Pro Acryl",
+      "hex": "#C99855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sugar Glazed Cashew",
+        "hex": "#CC9955",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "creature/mpa-022",
+      "name": "Bright Ivory",
+      "code": "MPA-022",
+      "set": "Monument Pro Acryl",
+      "hex": "#ECE6D0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abbey White",
+        "hex": "#ECE6D0",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "creature/mpa-045",
+      "name": "Bright Neutral Grey",
+      "code": "MPA-045",
+      "set": "Monument Pro Acryl",
+      "hex": "#B9BCB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Weathered Moss",
+        "hex": "#BABBB3",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "creature/mpa-015",
+      "name": "Bright Warm Grey",
+      "code": "MPA-015",
+      "set": "Monument Pro Acryl",
+      "hex": "#C7C8B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whispering Pine",
+        "hex": "#C8CAB5",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "creature/mpa-039",
+      "name": "Bright Yellow Green",
+      "code": "MPA-039",
+      "set": "Monument Pro Acryl",
+      "hex": "#82B704",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Lime",
+        "hex": "#84B701",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "creature/mpa-032",
+      "name": "Bronze",
+      "code": "MPA-032",
+      "set": "Monument Pro Acryl",
+      "hex": "#654B2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saluki Bronze",
+        "hex": "#65492A",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "creature/mpa-052",
+      "name": "Brown",
+      "code": "MPA-052",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#120B0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Optophobia",
+        "hex": "#130D0D",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "creature/mpa-037",
+      "name": "Burnt Orange",
+      "code": "MPA-037",
+      "set": "Monument Pro Acryl",
+      "hex": "#861E05",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mahogany Brown",
+        "hex": "#812308",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "creature/mpa-008",
+      "name": "Burnt Red",
+      "code": "MPA-008",
+      "set": "Monument Pro Acryl",
+      "hex": "#801C15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grubby Red",
+        "hex": "#811412",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "creature/mpa-020",
+      "name": "Camo Green",
+      "code": "MPA-020",
+      "set": "Monument Pro Acryl",
+      "hex": "#2C4D22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Green",
+        "hex": "#2A4F21",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "creature/mpa-002",
+      "name": "Coal Black",
+      "code": "MPA-002",
+      "set": "Monument Pro Acryl",
+      "hex": "#0B0B0B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raven",
+        "hex": "#0B0B0B",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "creature/mpa-027",
+      "name": "Copper",
+      "code": "MPA-027",
+      "set": "Monument Pro Acryl",
+      "hex": "#9E5423",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Bronze",
+        "hex": "#9C5221",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "creature/mpa-034",
+      "name": "Dark Blue",
+      "code": "MPA-034",
+      "set": "Monument Pro Acryl",
+      "hex": "#141D26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abyssal Anchorfish Blue",
+        "hex": "#1B2632",
+        "delta_e": 3.15
+      }
+    },
+    {
+      "id": "creature/mpa-036",
+      "name": "Dark Camo Green",
+      "code": "MPA-036",
+      "set": "Monument Pro Acryl",
+      "hex": "#233124",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Leather Jacket",
+        "hex": "#253529",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "creature/mpa-014",
+      "name": "Dark Grey Blue",
+      "code": "MPA-014",
+      "set": "Monument Pro Acryl",
+      "hex": "#0D3366",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Funnel Cloud",
+        "hex": "#113366",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "creature/mpa-044",
+      "name": "Dark Neutral Grey",
+      "code": "MPA-044",
+      "set": "Monument Pro Acryl",
+      "hex": "#292D2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bunker",
+        "hex": "#292C2F",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "creature/mpa-035",
+      "name": "Dark Purple",
+      "code": "MPA-035",
+      "set": "Monument Pro Acryl",
+      "hex": "#0F0C37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grim Reaper",
+        "hex": "#0F1039",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "creature/mpa-030",
+      "name": "Dark Silver",
+      "code": "MPA-030",
+      "set": "Monument Pro Acryl",
+      "hex": "#0D1215",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Is Back",
+        "hex": "#0F1519",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "creature/mpa-019",
+      "name": "Dark Umber",
+      "code": "MPA-019",
+      "set": "Monument Pro Acryl",
+      "hex": "#2F1C10",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zinnwaldite Brown",
+        "hex": "#2C1608",
+        "delta_e": 2.38
+      }
+    },
+    {
+      "id": "creature/mpa-016",
+      "name": "Dark Warm Grey",
+      "code": "MPA-016",
+      "set": "Monument Pro Acryl",
+      "hex": "#484D51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witchcraft",
+        "hex": "#474C50",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "creature/mpa-013",
+      "name": "Faded Ultramarine",
+      "code": "MPA-013",
+      "set": "Monument Pro Acryl",
+      "hex": "#7BA2DD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cue",
+        "hex": "#84A5DC",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "creature/mpa-017",
+      "name": "Golden Brown",
+      "code": "MPA-017",
+      "set": "Monument Pro Acryl",
+      "hex": "#DBAC44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiger Cub",
+        "hex": "#DEAE46",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "creature/mpa-006",
+      "name": "Golden Yellow",
+      "code": "MPA-006",
+      "set": "Monument Pro Acryl",
+      "hex": "#F3E21F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Xanthic",
+        "hex": "#F4E216",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "creature/mpa-004",
+      "name": "Green",
+      "code": "MPA-004",
+      "set": "Monument Pro Acryl",
+      "hex": "#269B41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gangly Gremlin",
+        "hex": "#239D42",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "creature/mpa-048",
+      "name": "Green",
+      "code": "MPA-048",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#0C3333",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Storm Green",
+        "hex": "#113333",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "creature/mpa-023",
+      "name": "Ivory",
+      "code": "MPA-023",
+      "set": "Monument Pro Acryl",
+      "hex": "#DFD3BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish White",
+        "hex": "#DED1B7",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "creature/mpa-021",
+      "name": "Jade",
+      "code": "MPA-021",
+      "set": "Monument Pro Acryl",
+      "hex": "#10545A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seaworld",
+        "hex": "#125459",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "creature/mpa-026",
+      "name": "Light Bronze",
+      "code": "MPA-026",
+      "set": "Monument Pro Acryl",
+      "hex": "#967E51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Boat",
+        "hex": "#957C4C",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "creature/mpa-018",
+      "name": "Light Umber",
+      "code": "MPA-018",
+      "set": "Monument Pro Acryl",
+      "hex": "#663820",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Searing Gorge Brown",
+        "hex": "#6B3B23",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "creature/mpa-011",
+      "name": "Magenta",
+      "code": "MPA-011",
+      "set": "Monument Pro Acryl",
+      "hex": "#BF3C6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spicy Purple",
+        "hex": "#B9396E",
+        "delta_e": 2.12
+      }
+    },
+    {
+      "id": "creature/mpa-009",
+      "name": "Mahogany",
+      "code": "MPA-009",
+      "set": "Monument Pro Acryl",
+      "hex": "#240D09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dwarf Fortress",
+        "hex": "#1D0200",
+        "delta_e": 2.49
+      }
+    },
+    {
+      "id": "creature/mpa-033",
+      "name": "Metallic Medium",
+      "code": "MPA-033",
+      "set": "Monument Pro Acryl",
+      "hex": "#DADBD5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mr. Kitty",
+        "hex": "#DBDBD4",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "creature/mpa-041",
+      "name": "Olive Flesh",
+      "code": "MPA-041",
+      "set": "Monument Pro Acryl",
+      "hex": "#D5C18F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monument Green",
+        "hex": "#D3C190",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "creature/mpa-007",
+      "name": "Orange",
+      "code": "MPA-007",
+      "set": "Monument Pro Acryl",
+      "hex": "#F67B00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carved Pumpkin",
+        "hex": "#FB7D07",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "creature/mpa-050",
+      "name": "Orange",
+      "code": "MPA-050",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#BC1700",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Prayer Flag",
+        "hex": "#BB1100",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "creature/mpa-043",
+      "name": "Pale Pink",
+      "code": "MPA-043",
+      "set": "Monument Pro Acryl",
+      "hex": "#FABEB3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruffled Parasol",
+        "hex": "#FBC0B4",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "creature/mpa-051",
+      "name": "Purple",
+      "code": "MPA-051",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#221B29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bleached Cedar",
+        "hex": "#2C2133",
+        "delta_e": 3.39
+      }
+    },
+    {
+      "id": "creature/mpa-010",
+      "name": "Purple",
+      "code": "MPA-010",
+      "set": "Monument Pro Acryl",
+      "hex": "#89338C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Sultan",
+        "hex": "#853682",
+        "delta_e": 2.16
+      }
+    },
+    {
+      "id": "creature/mpa-047",
+      "name": "Red",
+      "code": "MPA-047",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#910200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scoville Highness",
+        "hex": "#900405",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "creature/mpa-028",
+      "name": "Rich Gold",
+      "code": "MPA-028",
+      "set": "Monument Pro Acryl",
+      "hex": "#C88B2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chicken Masala",
+        "hex": "#CC8822",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "creature/mpa-042",
+      "name": "Shadow Flesh",
+      "code": "MPA-042",
+      "set": "Monument Pro Acryl",
+      "hex": "#974634",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mischief Maker",
+        "hex": "#954738",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "creature/mpa-025",
+      "name": "Silver",
+      "code": "MPA-025",
+      "set": "Monument Pro Acryl",
+      "hex": "#B3B8BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oyster Mushroom",
+        "hex": "#B8BCBE",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "creature/mpa-012",
+      "name": "Sky Blue",
+      "code": "MPA-012",
+      "set": "Monument Pro Acryl",
+      "hex": "#2DAEE8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lynx Screen Blue",
+        "hex": "#2CB1EB",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "creature/mpa-024",
+      "name": "Tan Flesh",
+      "code": "MPA-024",
+      "set": "Monument Pro Acryl",
+      "hex": "#DBAE88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Porcini",
+        "hex": "#D9AE86",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "creature/mpa-029",
+      "name": "White Gold",
+      "code": "MPA-029",
+      "set": "Monument Pro Acryl",
+      "hex": "#AC9C83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Pepper",
+        "hex": "#AE9E86",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "creature/mpa-049",
+      "name": "Yellow",
+      "code": "MPA-049",
+      "set": "Monument Pro Acryl Transparent",
+      "hex": "#E2AB06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mustard Yellow",
+        "hex": "#E1AD01",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "creature/mpa-038",
+      "name": "Yellow Ochre",
+      "code": "MPA-038",
+      "set": "Monument Pro Acryl",
+      "hex": "#BB841F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nouveau Green",
+        "hex": "#B88127",
+        "delta_e": 1.72
+      }
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "brand": "Turbo Dork",
+  "slug": "turbodork",
+  "md_file": "TurboDork.md",
+  "logo": "logos/TurboDork.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "turbodork/turbo-dork--absinthe",
+      "name": "Absinthe",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#40C385",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenish Teal",
+        "hex": "#32BF84",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--all-that-glitters",
+      "name": "All That Glitters",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D6B34F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Farm Straw",
+        "hex": "#D5B54C",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--appleseed",
+      "name": "Appleseed",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#44CC6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "UFO Green",
+        "hex": "#3CD070",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--bees-knees",
+      "name": "Bees Knees",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFE145",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gargoyle Gas",
+        "hex": "#FFDF46",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--black-ice",
+      "name": "Black Ice",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#5D6164",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blindfolded",
+        "hex": "#5A5E61",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--blue-steel",
+      "name": "Blue Steel",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#6993AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cruise",
+        "hex": "#6591A8",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--box-wine",
+      "name": "Box Wine",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B55B57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Poppy",
+        "hex": "#B85B57",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--bullion",
+      "name": "Bullion",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFC362",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Locust",
+        "hex": "#FFC367",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--cartridge-family",
+      "name": "Cartridge Family",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#F79A47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunshade",
+        "hex": "#FA9D49",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--cool-ranch",
+      "name": "Cool Ranch",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#495EA8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Bad Blue",
+        "hex": "#3C5AA2",
+        "delta_e": 2.51
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--curacao",
+      "name": "Curacao",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#4CCCD5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Serpent",
+        "hex": "#4BC7CF",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--da-ba-dee",
+      "name": "Da Ba Dee",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#4B94CB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perfect Sky",
+        "hex": "#4596CF",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--death-by",
+      "name": "Death By",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#805D49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spiced Cinnamon",
+        "hex": "#805B48",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--dork",
+      "name": "Dork",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#48D6FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Libra Blue Morpho",
+        "hex": "#4CD5FF",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--fahrenheit",
+      "name": "Fahrenheit",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FD6C4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blistering Mars",
+        "hex": "#FF6C51",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--gold-rush",
+      "name": "Gold Rush",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#F4BC64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crunch",
+        "hex": "#F2B95F",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--gordian-knot",
+      "name": "Gordian Knot",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#7BAA78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abomination",
+        "hex": "#77AA77",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--hotline",
+      "name": "Hotline",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FF6ABA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hot Pink Fusion",
+        "hex": "#FE69B6",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--life-on-mars",
+      "name": "Life On Mars",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#9E4C3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arabian Red",
+        "hex": "#A14C3F",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--maguro",
+      "name": "Maguro",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#90DDFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tranquil Pool",
+        "hex": "#88DDFF",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--malum-malus",
+      "name": "Malum Malus",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#54C85F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "UFO Green",
+        "hex": "#3CD070",
+        "delta_e": 3.54
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--multipass",
+      "name": "Multipass",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FF8251",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nārangī Orange",
+        "hex": "#FF8050",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--orange-you-glad",
+      "name": "Orange You Glad",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFD246",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lamplight",
+        "hex": "#FFD140",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--pearly-gates",
+      "name": "Pearly Gates",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--people-eater",
+      "name": "People Eater",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#935AAF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lusty Lavender",
+        "hex": "#8D5EB7",
+        "delta_e": 2.61
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--pucker",
+      "name": "Pucker",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FDE852",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paris Daisy",
+        "hex": "#FBEB50",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--purl-grey",
+      "name": "Purl Grey",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#9E97D9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dull Lavender",
+        "hex": "#A899E6",
+        "delta_e": 2.7
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--red-queen",
+      "name": "Red Queen",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B44C4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tainan Brick",
+        "hex": "#B54A4A",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--redrum",
+      "name": "Redrum",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D94E50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Re-Entry",
+        "hex": "#DD484E",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--sakura",
+      "name": "Sakura",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFB0CB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heartfelt",
+        "hex": "#FFADC9",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--silver-fox",
+      "name": "Silver Fox",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B5B9BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oyster Mushroom",
+        "hex": "#B8BCBE",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--six-shooter",
+      "name": "Six Shooter",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#757E82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peak Point",
+        "hex": "#768083",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--sparkle-motion",
+      "name": "Sparkle Motion",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#CFC9C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Misty Haze",
+        "hex": "#CEC9C3",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--spicy-meatball",
+      "name": "Spicy Meatball",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#D44F58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spiced Coral",
+        "hex": "#D55459",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--summoning-sickness",
+      "name": "Summoning Sickness",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#B2B954",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Fern",
+        "hex": "#B5B94C",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--syringa",
+      "name": "Syringa",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#CE8BAF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bossy-Pants Pink",
+        "hex": "#CB8EB1",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--taro",
+      "name": "Taro",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#DCB9E5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pretty Petunia",
+        "hex": "#D6B7E2",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--tin-star",
+      "name": "Tin Star",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#BFCACF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "New North",
+        "hex": "#C3CDD2",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--turbo",
+      "name": "Turbo",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#FFADCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heartfelt",
+        "hex": "#FFADC9",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "turbodork/turbo-dork--two-cents",
+      "name": "Two Cents",
+      "code": null,
+      "set": "Turbo Dork",
+      "hex": "#E48558",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orangevale",
+        "hex": "#E88354",
+        "delta_e": 1.0
+      }
+    }
+  ]
+}
