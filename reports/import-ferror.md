@@ -1,9 +1,22 @@
 # Import ferror/vallejo-model-color-data (2026-11-09)
 
-- spanische Namen ergänzt: 194
-- neue Farben: 0
+- spanische Namen ergänzt: 186
+- neue Farben: 8
 - Farbabweichungen > ΔE 2.0: 152 (als alt_colors abgelegt, nicht übernommen)
 - Kombinationen: 68 (übersprungen: 0)
+
+## Neu angelegt
+
+| Code | Name | Hex |
+|---|---|---|
+| 70.757 | Pacific Green | `#5A746B` (ungeprüft) |
+| 70.748 | Light Pink | `#DE8A9F` (ungeprüft) |
+| 70.755 | Light Emerald | `#0D8178` (ungeprüft) |
+| 70.747 | Faded Red | `#B85F58` (ungeprüft) |
+| 70.758 | Bright Green | `#6D8351` (ungeprüft) |
+| 70.753 | Light Blue Green | `#1B9CA6` (ungeprüft) |
+| 70.761 | Old Wood | `#F3A879` (ungeprüft) |
+| 70.765 | Desert Tan | `#D25386` (ungeprüft) |
 
 ## Abweichungen (bestehend vs. Ferror)
 

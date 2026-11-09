@@ -74,7 +74,7 @@ def smart_title(text: str) -> str:
     return " ".join(w if (i and w in SMALL_WORDS) else w[:1].upper() + w[1:] for i, w in enumerate(words))
 
 
-SET_WORDS = re.compile(r"\b(set|sets|bundle|case|box|pack|kit|collection|starter|display|expansion|"
+SET_WORDS = re.compile(r"\b(set|sets|bundle|triad|triads|case|box|pack|kit|collection|starter|display|expansion|"
                        r"tips|brush|brushes|palette|holder|rack)\b", re.I)
 
 

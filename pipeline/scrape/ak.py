@@ -56,7 +56,9 @@ class AKScraper(Scraper):
             return None
         sku = (item.get("sku") or "").strip().upper()
         title = clean(item.get("name", ""))
-        if not re.fullmatch(r"AK\d{3,6}", sku) or looks_like_set(title):
+        cat_text = " ".join(f"{c.get('name', '')} {c.get('slug', '')}" for c in item.get("categories", [])).lower()
+        if (not re.fullmatch(r"AK\d{3,6}", sku) or looks_like_set(title) or "set" in cat_text.split()
+                or re.search(r"\bsets?\b|briefcase|malet", cat_text + " " + title.lower())):
             self.skipped.append(f"{sku} {title}")
             return None
         parts = [p.strip() for p in re.split(r"\s+[–-]\s+", title) if p.strip()]
@@ -69,9 +71,9 @@ class AKScraper(Scraper):
                 break
         if sub is None and len(parts) > 1 and parts[1].lower() in SUBRANGES:
             sub = SUBRANGES[parts[1].lower()]
-        if sub is None:
-            self.unmapped.add(" / ".join(clean(c.get("name", "")) for c in item.get("categories", [])))
-            sub = smart_title(parts[1]) if len(parts) > 1 else "Unbekannt"
+        if sub is None:  # lieber auslassen und im Report melden als falsch einsortieren
+            self.unmapped.add(f"{sku} {title} – " + " / ".join(clean(c.get("name", "")) for c in item.get("categories", [])))
+            return None
         img = (item.get("images") or [{}])[0].get("src")
         return Product(name=name, set=f"{sub}{suffix}", code=sku, url=link, image=img,
                        extra={"title": title})

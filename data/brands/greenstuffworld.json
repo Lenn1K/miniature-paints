@@ -47,54 +47,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/fluor-metallic--acrylic-ink-green",
-      "name": "Acrylic Ink - Green",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3772-fluor-acrylic-ink-green.html",
-      "image": "https://www.greenstuffworld.com/19662-large_default/fluor-acrylic-ink-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--acrylic-ink-magenta",
-      "name": "Acrylic Ink - Magenta",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3774-fluor-acrylic-ink-magenta.html",
-      "image": "https://www.greenstuffworld.com/19668-large_default/fluor-acrylic-ink-magenta.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--acrylic-ink-orange",
-      "name": "Acrylic Ink - Orange",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3773-fluor-acrylic-ink-orange.html",
-      "image": "https://www.greenstuffworld.com/19666-large_default/fluor-acrylic-ink-orange.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--acrylic-ink-yellow",
-      "name": "Acrylic Ink - Yellow",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3771-fluor-acrylic-ink-yellow.html",
-      "image": "https://www.greenstuffworld.com/19706-large_default/fluor-acrylic-ink-yellow.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/wash-ink--aether-blue",
       "name": "Aether Blue",
       "code": null,
@@ -109,114 +61,6 @@
         "hex": "#6F6ED1",
         "delta_e": 1.85
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-blue",
-      "name": "Airbrush Paint - BLUE",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4832-fluorescent-airbrush-paint-blue.html",
-      "image": "https://www.greenstuffworld.com/34773-large_default/fluorescent-airbrush-paint-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-lime-green",
-      "name": "Airbrush Paint - Lime Green",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4820-fluorescent-airbrush-paint-lime-green.html",
-      "image": "https://www.greenstuffworld.com/34751-large_default/fluorescent-airbrush-paint-lime-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-orange",
-      "name": "Airbrush Paint - ORANGE",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4828-fluorescent-airbrush-paint-orange.html",
-      "image": "https://www.greenstuffworld.com/34761-large_default/fluorescent-airbrush-paint-orange.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-pink",
-      "name": "Airbrush Paint - Pink",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4830-fluorescent-airbrush-paint-pink.html",
-      "image": "https://www.greenstuffworld.com/34767-large_default/fluorescent-airbrush-paint-pink.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-red",
-      "name": "Airbrush Paint - RED",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4829-fluorescent-airbrush-paint-red.html",
-      "image": "https://www.greenstuffworld.com/34764-large_default/fluorescent-airbrush-paint-red.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-violet",
-      "name": "Airbrush Paint - VIOLET",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4831-fluorescent-airbrush-paint-violet.html",
-      "image": "https://www.greenstuffworld.com/34768-large_default/fluorescent-airbrush-paint-violet.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-yellow",
-      "name": "Airbrush Paint - YELLOW",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4826-fluorescent-airbrush-paint-yellow.html",
-      "image": "https://www.greenstuffworld.com/34755-large_default/fluorescent-airbrush-paint-yellow.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--airbrush-paint-yellow-orange",
-      "name": "Airbrush Paint - YELLOW-ORANGE",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4827-fluorescent-airbrush-paint-yellow-orange.html",
-      "image": "https://www.greenstuffworld.com/34757-large_default/fluorescent-airbrush-paint-yellow-orange.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--alien-ooze-10ml",
-      "name": "Alien Ooze 10ml",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/effect-paints/4934-fluor-alien-ooze-10ml.html",
-      "image": "https://www.greenstuffworld.com/35604-large_default/fluor-alien-ooze-10ml.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -540,18 +384,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--blazing-yellow",
-      "name": "Blazing Yellow",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3205-opaque-colors-blazing-yellow.html",
-      "image": "https://www.greenstuffworld.com/29434-large_default/opaque-colors-blazing-yellow.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/fluor-metallic--blue",
       "name": "Blue",
       "code": null,
@@ -566,18 +398,6 @@
         "hex": "#6688FF",
         "delta_e": 1.2
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--blue-base",
-      "name": "Blue Base",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3200-opaque-colors-blue-base.html",
-      "image": "https://www.greenstuffworld.com/30122-large_default/opaque-colors-blue-base.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -906,18 +726,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/metallic-colors--cosmic-silver",
-      "name": "Cosmic Silver",
-      "code": null,
-      "set": "Metallic Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4269-metallic-paint-cosmic-silver.html",
-      "image": "https://www.greenstuffworld.com/32330-large_default/metallic-paint-cosmic-silver.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--coyote-brown",
       "name": "Coyote Brown",
       "code": null,
@@ -1003,18 +811,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--dark-concrete",
-      "name": "Dark Concrete",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3211-opaque-colors-dark-concrete.html",
-      "image": "https://www.greenstuffworld.com/30165-large_default/opaque-colors-dark-concrete.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/metallic-colors--dark-elder-bronze",
       "name": "Dark Elder Bronze",
       "code": null,
@@ -1029,30 +825,6 @@
         "hex": "#37290E",
         "delta_e": 2.92
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--dark-evergreen",
-      "name": "Dark Evergreen",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3199-opaque-colors-dark-evergreen.html",
-      "image": "https://www.greenstuffworld.com/30183-large_default/opaque-colors-dark-evergreen.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--dark-rose-tan",
-      "name": "Dark Rose Tan",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3204-opaque-colors-dark-rose-tan.html",
-      "image": "https://www.greenstuffworld.com/29427-large_default/opaque-colors-dark-rose-tan.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1085,18 +857,6 @@
         "hex": "#4477DD",
         "delta_e": 0.59
       }
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--dead-flesh",
-      "name": "Dead Flesh",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3197-opaque-colors-dead-flesh.html",
-      "image": "https://www.greenstuffworld.com/30886-large_default/opaque-colors-dead-flesh.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--deck-grey",
@@ -1147,18 +907,6 @@
         "hex": "#957B38",
         "delta_e": 0.61
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--donkey-grey",
-      "name": "Donkey Grey",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3215-opaque-colors-donkey-grey.html",
-      "image": "https://www.greenstuffworld.com/30898-large_default/opaque-colors-donkey-grey.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1360,18 +1108,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--feral-brown",
-      "name": "Feral Brown",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3195-opaque-colors-feral-brown.html",
-      "image": "https://www.greenstuffworld.com/30894-large_default/opaque-colors-feral-brown.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--field-green-grey",
       "name": "Field Green-grey",
       "code": null,
@@ -1386,18 +1122,6 @@
         "hex": "#1E4D2B",
         "delta_e": 2.0
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--firethorn-brown",
-      "name": "Firethorn Brown",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3194-opaque-colors-firethorn-brown.html",
-      "image": "https://www.greenstuffworld.com/30179-large_default/opaque-colors-firethorn-brown.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1554,18 +1278,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--glazier-blue",
-      "name": "Glazier Blue",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3212-opaque-colors-glazier-blue.html",
-      "image": "https://www.greenstuffworld.com/30169-large_default/opaque-colors-glazier-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/dipping-inks--glorious-magenta-dip",
       "name": "Glorious Magenta Dip",
       "code": null,
@@ -1597,18 +1309,6 @@
         "hex": "#FFA035",
         "delta_e": 0.38
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--golden-brown",
-      "name": "Golden Brown",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3206-opaque-colors-golden-brown.html",
-      "image": "https://www.greenstuffworld.com/30153-large_default/opaque-colors-golden-brown.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1663,18 +1363,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--granite-grey",
-      "name": "Granite Grey",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3196-opaque-colors-granite-grey.html",
-      "image": "https://www.greenstuffworld.com/30890-large_default/opaque-colors-granite-grey.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/dipping-inks--green-ghost-dip",
       "name": "Green Ghost Dip",
       "code": null,
@@ -1706,18 +1394,6 @@
         "hex": "#004444",
         "delta_e": 1.62
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/dipping-inks--green-stone-dip",
-      "name": "Green Stone Dip",
-      "code": null,
-      "set": "Dipping Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/dipping-inks/3326-dipping-ink-17-ml-green-stone-dip.html",
-      "image": "https://www.greenstuffworld.com/29009-large_default/dipping-ink-17-ml-green-stone-dip.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1767,18 +1443,6 @@
         "hex": "#A9B0B6",
         "delta_e": 1.03
       }
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--gypsum-white",
-      "name": "Gypsum White",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3213-opaque-colors-gypsum-white.html",
-      "image": "https://www.greenstuffworld.com/29436-large_default/opaque-colors-gypsum-white.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--hellfire-red",
@@ -1917,18 +1581,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--khaki-bone",
-      "name": "Khaki Bone",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3214-opaque-colors-khaki-bone.html",
-      "image": "https://www.greenstuffworld.com/29094-large_default/opaque-colors-khaki-bone.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--komodo-khaki",
       "name": "Komodo Khaki",
       "code": null,
@@ -1960,18 +1612,6 @@
         "hex": "#044F3B",
         "delta_e": 0.97
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--lime-green",
-      "name": "LIME Green",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/754-fluor-paint-lime.html",
-      "image": "https://www.greenstuffworld.com/29206-large_default/fluor-paint-lime.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2023,18 +1663,6 @@
         "hex": "#431C53",
         "delta_e": 1.73
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--light-tan",
-      "name": "Light Tan",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3203-opaque-colors-light-tan.html",
-      "image": "https://www.greenstuffworld.com/29426-large_default/opaque-colors-light-tan.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2166,18 +1794,6 @@
         "hex": "#849B63",
         "delta_e": 0.63
       }
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--mead-violet",
-      "name": "Mead Violet",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3216-opaque-colors-mead-violet.html",
-      "image": "https://www.greenstuffworld.com/30902-large_default/opaque-colors-mead-violet.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--military-green",
@@ -2395,18 +2011,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--nightmare-purple",
-      "name": "Nightmare Purple",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3217-opaque-colors-nightmare-purple.html",
-      "image": "https://www.greenstuffworld.com/30906-large_default/opaque-colors-nightmare-purple.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/dipping-inks--nightsahde-purple-dip",
       "name": "Nightsahde Purple Dip",
       "code": null,
@@ -2421,18 +2025,6 @@
         "hex": "#4A2D57",
         "delta_e": 1.49
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/dipping-inks--nightshade-purple-dip",
-      "name": "Nightshade Purple Dip",
-      "code": null,
-      "set": "Dipping Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/dipping-inks/3315-dipping-ink-17-ml-nightshade-purple-dip.html",
-      "image": "https://www.greenstuffworld.com/29126-large_default/dipping-ink-17-ml-nightshade-purple-dip.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2518,138 +2110,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/acrylic-inks--opaque-blue",
-      "name": "Opaque - Blue",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3565-acrylic-ink-opaque-blue.html",
-      "image": "https://www.greenstuffworld.com/19696-large_default/acrylic-ink-opaque-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-brown",
-      "name": "Opaque - Brown",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3567-acrylic-ink-opaque-brown.html",
-      "image": "https://www.greenstuffworld.com/19700-large_default/acrylic-ink-opaque-brown.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-green",
-      "name": "Opaque - Green",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3568-acrylic-ink-opaque-green.html",
-      "image": "https://www.greenstuffworld.com/19702-large_default/acrylic-ink-opaque-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-red",
-      "name": "Opaque - Red",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3564-acrylic-ink-opaque-red.html",
-      "image": "https://www.greenstuffworld.com/19694-large_default/acrylic-ink-opaque-red.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-siena",
-      "name": "Opaque - Siena",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3770-acrylic-ink-opaque-siena.html",
-      "image": "https://www.greenstuffworld.com/19656-large_default/acrylic-ink-opaque-siena.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-yellow",
-      "name": "Opaque - Yellow",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3569-acrylic-ink-opaque-yellow.html",
-      "image": "https://www.greenstuffworld.com/19707-large_default/acrylic-ink-opaque-yellow.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-black",
-      "name": "Opaque- Black",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3561-acrylic-ink-opaque-black.html",
-      "image": "https://www.greenstuffworld.com/19688-large_default/acrylic-ink-opaque-black.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-light-brown",
-      "name": "Opaque- Light Brown",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3566-acrylic-ink-opaque-light-brown.html",
-      "image": "https://www.greenstuffworld.com/19698-large_default/acrylic-ink-opaque-light-brown.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-osl-white",
-      "name": "Opaque- OSL White",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3560-acrylic-ink-opaque-osl-white.html",
-      "image": "https://www.greenstuffworld.com/19686-large_default/acrylic-ink-opaque-osl-white.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-orange",
-      "name": "Opaque- Orange",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3563-acrylic-ink-opaque-orange.html",
-      "image": "https://www.greenstuffworld.com/19692-large_default/acrylic-ink-opaque-orange.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/acrylic-inks--opaque-turquoise",
-      "name": "Opaque- Turquoise",
-      "code": null,
-      "set": "Acrylic Inks",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3562-acrylic-ink-opaque-turquoise.html",
-      "image": "https://www.greenstuffworld.com/19690-large_default/acrylic-ink-opaque-turquoise.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/intensity-ink--opulentus-black",
       "name": "Opulentus Black",
       "code": null,
@@ -2681,18 +2141,6 @@
         "hex": "#FF7034",
         "delta_e": 1.15
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--orange-peel",
-      "name": "Orange Peel",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3207-opaque-colors-orange-peel.html",
-      "image": "https://www.greenstuffworld.com/30157-large_default/opaque-colors-orange-peel.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2730,18 +2178,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/intensity-ink--osl-white",
-      "name": "Osl White",
-      "code": null,
-      "set": "Intensity Ink",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/acrylic-inks/2949-intensity-ink-osl-white.html",
-      "image": "https://www.greenstuffworld.com/30399-large_default/intensity-ink-osl-white.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--overlord-olive",
       "name": "Overlord Olive",
       "code": null,
@@ -2756,222 +2192,6 @@
         "hex": "#3C3523",
         "delta_e": 1.83
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-borealis-green",
-      "name": "Paint BOREALIS GREEN",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/844-chameleon-paint-borealis-green.html",
-      "image": "https://www.greenstuffworld.com/28905-large_default/chameleon-paint-borealis-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-burning-gold",
-      "name": "Paint BURNING GOLD",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/685-chameleon-burning-gold.html",
-      "image": "https://www.greenstuffworld.com/29139-large_default/chameleon-burning-gold.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-celestial-azure",
-      "name": "Paint CELESTIAL AZURE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/684-chameleon-celestial-azure.html",
-      "image": "https://www.greenstuffworld.com/28884-large_default/chameleon-celestial-azure.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-cobalt-blue",
-      "name": "Paint COBALT BLUE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/677-chameleon-cobalt-blue.html",
-      "image": "https://www.greenstuffworld.com/29213-large_default/chameleon-cobalt-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-darth-blue",
-      "name": "Paint DARTH BLUE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/845-chameleon-darth-blue.html",
-      "image": "https://www.greenstuffworld.com/28900-large_default/chameleon-darth-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-emerald-getaway",
-      "name": "Paint EMERALD GETAWAY",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/688-chameleon-emerald-getaway.html",
-      "image": "https://www.greenstuffworld.com/28897-large_default/chameleon-emerald-getaway.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-evil-forest",
-      "name": "Paint EVIL FOREST",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/736-chameleon-evil-forest.html",
-      "image": "https://www.greenstuffworld.com/29146-large_default/chameleon-evil-forest.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-martian-green",
-      "name": "Paint MARTIAN GREEN",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/686-chameleon-martian-green.html",
-      "image": "https://www.greenstuffworld.com/29140-large_default/chameleon-martian-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-mystic-gold",
-      "name": "Paint MYSTIC GOLD",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/678-chameleon-paint-mystic-gold.html",
-      "image": "https://www.greenstuffworld.com/28879-large_default/chameleon-paint-mystic-gold.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-nebula-copper",
-      "name": "Paint NEBULA COPPER",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/683-chameleon-nebula-copper.html",
-      "image": "https://www.greenstuffworld.com/28883-large_default/chameleon-nebula-copper.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-pinky-blue",
-      "name": "Paint PINKY BLUE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/735-chameleon-pinky-blue.html",
-      "image": "https://www.greenstuffworld.com/28887-large_default/chameleon-pinky-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-psychotic-illusions",
-      "name": "Paint PSYCHOTIC ILLUSIONS",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/682-chameleon-psychotic-illusions.html",
-      "image": "https://www.greenstuffworld.com/28894-large_default/chameleon-psychotic-illusions.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-red-goblin",
-      "name": "Paint RED GOBLIN",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/687-chameleon-red-goblin.html",
-      "image": "https://www.greenstuffworld.com/29104-large_default/chameleon-red-goblin.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-royal-burgundy",
-      "name": "Paint ROYAL BURGUNDY",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/737-chameleon-paint-royal-burgundy.html",
-      "image": "https://www.greenstuffworld.com/29895-large_default/chameleon-paint-royal-burgundy.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-solar-anomalie",
-      "name": "Paint SOLAR ANOMALIE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/846-chameleon-solar-anomalie.html",
-      "image": "https://www.greenstuffworld.com/29175-large_default/chameleon-solar-anomalie.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-storm-surge-green",
-      "name": "Paint STORM SURGE GREEN",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/679-chameleon-storm-surge-green.html",
-      "image": "https://www.greenstuffworld.com/28882-large_default/chameleon-storm-surge-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-toxic-purple",
-      "name": "Paint TOXIC PURPLE",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/680-chameleon-toxic-purple.html",
-      "image": "https://www.greenstuffworld.com/28889-large_default/chameleon-toxic-purple.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-tropical-green",
-      "name": "Paint TROPICAL GREEN",
-      "code": null,
-      "set": "Chameleon Colorshift Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/681-chameleon-tropical-green.html",
-      "image": "https://www.greenstuffworld.com/29138-large_default/chameleon-tropical-green.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -3111,18 +2331,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--pickle-green",
-      "name": "Pickle Green",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3209-opaque-colors-pickle-green.html",
-      "image": "https://www.greenstuffworld.com/29090-large_default/opaque-colors-pickle-green.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/chameleon-colorshift-metallic--pinky-blue",
       "name": "Pinky Blue",
       "code": null,
@@ -3135,18 +2343,6 @@
         "hex": "#74CED2",
         "delta_e": 0.79
       }
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--primaris-red",
-      "name": "Primaris Red",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3202-opaque-colors-primaris-red.html",
-      "image": "https://www.greenstuffworld.com/30139-large_default/opaque-colors-primaris-red.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/gloss-surface--primer-black",
@@ -3295,18 +2491,6 @@
         "hex": "#372D52",
         "delta_e": 1.02
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--putrid-green",
-      "name": "Putrid Green",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3198-opaque-colors-putrid-green.html",
-      "image": "https://www.greenstuffworld.com/29076-large_default/opaque-colors-putrid-green.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -3661,18 +2845,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--scab-red",
-      "name": "Scab Red",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3201-opaque-colors-scab-red.html",
-      "image": "https://www.greenstuffworld.com/30131-large_default/opaque-colors-scab-red.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--scorched-wood",
       "name": "Scorched Wood",
       "code": null,
@@ -4007,18 +3179,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "greenstuffworld/opaque-colors--terror-grey-blue",
-      "name": "Terror Grey-Blue",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3210-opaque-colors-terror-grey-blue.html",
-      "image": "https://www.greenstuffworld.com/30161-large_default/opaque-colors-terror-grey-blue.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "greenstuffworld/acrylic-colors--tiger-brown",
       "name": "Tiger Brown",
       "code": null,
@@ -4112,18 +3272,6 @@
         "hex": "#3FB2A8",
         "delta_e": 1.16
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/fluor-metallic--turquoise",
-      "name": "Turquoise",
-      "code": null,
-      "set": "Fluor Metallic",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/1886-fluor-paint-turquoise.html",
-      "image": "https://www.greenstuffworld.com/30371-large_default/fluor-paint-turquoise.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4345,18 +3493,6 @@
         "hex": "#D9C6B2",
         "delta_e": 0.71
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "greenstuffworld/opaque-colors--wilted-green",
-      "name": "Wilted Green",
-      "code": null,
-      "set": "Opaque Colors",
-      "hex": null,
-      "status": "new",
-      "url": "https://www.greenstuffworld.com/en/opaque-colors/3208-opaque-colors-wilted-green.html",
-      "image": "https://www.greenstuffworld.com/29082-large_default/opaque-colors-wilted-green.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {

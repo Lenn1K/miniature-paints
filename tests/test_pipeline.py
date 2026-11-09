@@ -9,7 +9,7 @@ from pipeline.scrape.ak import AKScraper
 from pipeline.scrape.army_painter import ArmyPainterScraper
 from pipeline.scrape.base import Product, smart_title
 from pipeline.scrape.gsw import GreenStuffWorldScraper
-from pipeline.scrape.vallejo import PRODUCT_RE, code_from_digits
+from pipeline.scrape.vallejo import VallejoScraper
 
 
 @pytest.fixture
@@ -46,6 +46,10 @@ def test_ak_parse():
     es = {**en, "permalink": "https://ak-interactive.com/es/producto/white-intense/"}
     assert s.parse(es, " (3rd Gen)") is None
     assert s.parse({**en, "sku": "VIN-LW35067"}, " (3rd Gen)") is None
+    kit = {**en, "sku": "AK11688", "name": "German WWII Tank Interior Colors",
+           "categories": [{"name": "3GEN SETS B2B", "slug": "b2b-3gen-sets"}, {"name": "AFV Serie"}]}
+    assert s.parse(kit, " (3rd Gen)") is None
+    assert s.parse({**en, "name": "WHITE", "categories": [{"name": "Irgendwas"}]}, " (3rd Gen)") is None
 
 
 def test_gsw_parse():
@@ -56,11 +60,19 @@ def test_gsw_parse():
     assert (p.name, p.set) == ("Moon Mist Grey", "Acrylic Colors")
     assert s.parse("Empty Dropper Bottles 17ml with Mixing Balls", "u", None, None) is None
     assert s.parse("Opaque Acrylic Paint Set - Flesh Colours", "u", None, None) is None
+    assert s.parse("Fluor Airbrush Paint - RED", "u", None, None).name == "Red"
 
 
-def test_vallejo_url():
-    m = PRODUCT_RE.search("https://acrylicosvallejo.com/en/product/hobby/model-color/white-70951/")
-    assert (m["range"], m["slug"], code_from_digits(m["code"])) == ("model-color", "white", "70.951")
+def test_vallejo_parse():
+    s = VallejoScraper()
+    item = {"sku": "71.242", "name": "Traffic Blue", "images": [],
+            "permalink": "https://acrylicosvallejo.com/en/product/model-air-en/traffic-blue/",
+            "categories": [{"slug": "model-air-en"}]}
+    p = s.parse(item, "Model Air")
+    assert (p.name, p.set, p.code) == ("Traffic Blue", "Model Air", "71.242")
+    assert s.parse({**item, "sku": "76109"}, "Game Air").code == "76.109"
+    assert s.parse({**item, "name": "Acrylic Gloss Spray Varnish"}, "Hobby Paint") is None
+    assert s.parse({**item, "sku": "71.154", "name": "Bluelight Set"}, "Model Air") is None
 
 
 def test_smart_title():
