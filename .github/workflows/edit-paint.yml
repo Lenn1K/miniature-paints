@@ -1,0 +1,82 @@
+name: "Farbe bearbeiten"
+
+# IDs findest du in der Action "Status" oder in data/brands/<marke>.json
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "ID, z. B. vallejo/70-757"
+        required: true
+      hex:
+        description: "Farbwert #RRGGBB (leer = unverändert)"
+        required: false
+      alternative:
+        description: "ODER Kandidat aus alt_colors übernehmen (Quelle, z. B. ferror/vallejo-model-color-data)"
+        required: false
+      status:
+        description: "Status"
+        type: choice
+        options: [unverändert, active, new, discontinued]
+        default: unverändert
+      name:
+        description: "Neuer Name (leer = unverändert)"
+        required: false
+      serie:
+        description: "Neue Serie (leer = unverändert)"
+        required: false
+      ausgabe:
+        description: "Ergebnis"
+        type: choice
+        options: [direkt-auf-main, pull-request]
+        default: direkt-auf-main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Bearbeiten
+        env:
+          ID: ${{ inputs.id }}
+          HEX: ${{ inputs.hex }}
+          ALT: ${{ inputs.alternative }}
+          STATUS: ${{ inputs.status }}
+          NAME: ${{ inputs.name }}
+          SERIE: ${{ inputs.serie }}
+        run: |
+          set -o pipefail
+          python -m pipeline.edit_paint --id "$ID" --hex "$HEX" --use-alt "$ALT" \
+            --status "$STATUS" --name "$NAME" --set "$SERIE" | tee -a "$GITHUB_STEP_SUMMARY"
+      - run: python -m pipeline.build
+      - run: python -m pytest -q tests
+      - name: Direkt committen
+        if: inputs.ausgabe == 'direkt-auf-main'
+        env:
+          ID: ${{ inputs.id }}
+        run: |
+          git add data paints dist README.md
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Farbe $ID bearbeitet"
+          git push
+      - name: Pull Request erstellen
+        if: inputs.ausgabe == 'pull-request'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: edit-${{ github.run_id }}
+          delete-branch: true
+          commit-message: "Farbe bearbeitet (Run ${{ github.run_id }})"
+          title: "Farbe bearbeiten (Run ${{ github.run_id }})"
+          add-paths: |
+            data/**
+            paints/**
+            dist/**
+            README.md

@@ -1,0 +1,26 @@
+name: "Status"
+
+# Übersicht + offene Farben (ohne Farbwert) im Job Summary – nur lesend
+on:
+  workflow_dispatch:
+    inputs:
+      marke:
+        description: "Nur diese Marke (Slug, z. B. vallejo; leer = alle)"
+        required: false
+      limit:
+        description: "Max. offene Farben pro Marke"
+        default: "50"
+
+permissions:
+  contents: read
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - env:
+          MARKE: ${{ inputs.marke }}
+          LIMIT: ${{ inputs.limit }}
+        run: python -m pipeline.status --brand "$MARKE" --limit "${LIMIT:-50}" >> "$GITHUB_STEP_SUMMARY"

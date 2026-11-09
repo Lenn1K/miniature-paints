@@ -1,0 +1,22 @@
+name: "CI: Tests & Build-Check"
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Tests
+        run: python -m pytest -q tests
+      - name: Generierte Dateien aktuell?
+        run: |
+          python -m pipeline.build
+          if ! git diff --quiet -- paints dist README.md; then
+            echo "::error::paints/ oder dist/ sind nicht aktuell – 'python -m pipeline.build' ausführen"
+            git diff --stat -- paints dist README.md
+            exit 1
+          fi

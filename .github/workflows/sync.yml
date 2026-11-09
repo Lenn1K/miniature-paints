@@ -1,0 +1,113 @@
+name: "Sync: Hersteller & Quellen"
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # montags 04:17 UTC, alles
+  workflow_dispatch:
+    inputs:
+      vallejo:
+        description: "Vallejo"
+        type: boolean
+        default: true
+      ak:
+        description: "AK Interactive"
+        type: boolean
+        default: true
+      army_painter:
+        description: "Army Painter"
+        type: boolean
+        default: true
+      greenstuffworld:
+        description: "Green Stuff World"
+        type: boolean
+        default: true
+      ferror:
+        description: "Ferror (Vallejo Model Color) importieren"
+        type: boolean
+        default: true
+      farbnamen:
+        description: "Farbnamen (meodai) zuordnen"
+        type: boolean
+        default: true
+      ausgabe:
+        description: "Ergebnis"
+        type: choice
+        options: [pull-request, nur-bericht]
+        default: pull-request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ALL: ${{ github.event_name == 'schedule' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+
+      - name: Ferror importieren
+        if: env.ALL == 'true' || inputs.ferror
+        run: python -m pipeline.import_ferror
+
+      - name: Marken bestimmen
+        id: brands
+        run: |
+          b=""
+          if [ "$ALL" = true ] || [ "${{ inputs.vallejo }}" = true ]; then b="$b vallejo"; fi
+          if [ "$ALL" = true ] || [ "${{ inputs.ak }}" = true ]; then b="$b ak"; fi
+          if [ "$ALL" = true ] || [ "${{ inputs.army_painter }}" = true ]; then b="$b army-painter"; fi
+          if [ "$ALL" = true ] || [ "${{ inputs.greenstuffworld }}" = true ]; then b="$b greenstuffworld"; fi
+          echo "list=$b" >> "$GITHUB_OUTPUT"
+          echo "Marken:$b"
+
+      - name: Herstellerseiten abfragen
+        if: steps.brands.outputs.list != ''
+        continue-on-error: true   # ein blockierter Shop stoppt den Rest nicht
+        run: python -m pipeline.sync_shops --brands ${{ steps.brands.outputs.list }} --save-raw raw/
+
+      - name: Farbnamen zuordnen
+        if: env.ALL == 'true' || inputs.farbnamen
+        run: python -m pipeline.import_colornames
+
+      - run: python -m pipeline.build
+      - run: python -m pytest -q tests
+
+      - name: Bericht
+        if: always()
+        run: |
+          test -f reports/sync-shops.md || echo "Kein Shop-Sync in diesem Lauf." > reports/sync-shops.md
+          cat reports/sync-shops.md >> "$GITHUB_STEP_SUMMARY"
+          if [ -f reports/import-ferror.md ]; then { echo; head -8 reports/import-ferror.md; } >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - name: Rohdaten sichern (Debug)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ github.run_id }}
+          path: raw/
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Pull Request erstellen
+        if: env.ALL == 'true' || inputs.ausgabe == 'pull-request'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: data-update
+          delete-branch: true
+          commit-message: "Farbdaten-Sync ${{ github.run_id }}"
+          title: "Farbdaten-Sync"
+          body-path: reports/sync-shops.md
+          add-paths: |
+            data/**
+            paints/**
+            dist/**
+            reports/**
+            README.md

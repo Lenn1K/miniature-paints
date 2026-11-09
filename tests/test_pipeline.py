@@ -103,3 +103,16 @@ def test_markdown_up_to_date():
     for slug in lib.all_brand_slugs():
         b = lib.load_brand(slug)
         assert (lib.ROOT / "paints" / b["md_file"]).read_text(encoding="utf-8") == build_md(b), slug
+
+
+# ---------- Bearbeiten ----------
+
+def test_edit_paint(data_copy):
+    from pipeline.edit_paint import main
+    assert main(["--id", "vallejo/70-757", "--hex", "5a746b"]) == 0
+    p = next(x for x in lib.load_brand("vallejo")["paints"] if x["id"] == "vallejo/70-757")
+    assert (p["hex"], p["status"], p["color_source"]) == ("#5A746B", "active", "manuell")
+    assert main(["--id", "vallejo/70-748", "--use-alt", "ferror/vallejo-model-color-data"]) == 0
+    assert main(["--id", "vallejo/70-747", "--hex", "xyz"]) == 1
+    assert main(["--id", "vallejo/70-747", "--status", "active"]) == 1   # active ohne hex
+    assert main(["--id", "vallejo/gibtsnicht"]) == 1

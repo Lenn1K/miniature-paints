@@ -62,7 +62,7 @@ pipeline/                       Migration, Importer, Scraper, Build
 | Quelle | Inhalt | Lizenz |
 |---|---|---|
 | Original-Repo (Miniature Painter Pro) | Farbwerte aller Marken | MIT |
-| [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) | spanische Namen, Kombinationen Vallejo Model Color | **keine Lizenz angegeben** |
+| [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) | spanische Namen, Kombinationen Vallejo Model Color | keine Lizenz angegeben – nur private Nutzung |
 | [meodai/color-names](https://github.com/meodai/color-names) | Farbnamen | MIT |
 | Herstellerseiten | neue Produkte, Links (Vallejo, AK, Army Painter, Green Stuff World) | – |
 
@@ -77,9 +77,21 @@ python -m pipeline.build                # Markdown + dist erzeugen
 python -m pytest -q tests
 ```
 
-Die GitHub Action `.github/workflows/update.yml` führt das montags aus und öffnet einen PR.
-Neue Farben aus den Shops haben `hex: null` – den Farbwert trägst du im JSON nach und setzt
-`status` auf `active`.
+### GitHub Actions (Tab „Actions“ → Workflow wählen → „Run workflow“)
+
+| Action | Wofür | Schreibt |
+|---|---|---|
+| **Sync: Hersteller & Quellen** | Shops per Checkbox wählen, Ferror/Farbnamen an/aus; läuft zusätzlich montags automatisch | PR (oder nur Bericht) |
+| **Farbe bearbeiten** | Farbwert, Status, Name oder Serie einer ID setzen; Kandidat aus `alt_colors` übernehmen | direkt auf main oder PR |
+| **Status** | Übersicht + offene Farben ohne Farbwert mit IDs | nichts |
+| **Neu erzeugen** | automatisch nach Änderungen an `data/` auf main (z. B. Web-Editor); manuell mit Farbnamen-Neuzuordnung | direkt auf main |
+| **CI: Tests & Build-Check** | prüft jeden PR | nichts |
+
+Typischer Ablauf: Sync-PR mergen → **Status** zeigt neue Farben ohne Farbwert → per
+**Farbe bearbeiten** Hex eintragen (Status springt automatisch auf `active`).
+
+Repo-Einstellung nötig: *Settings → Actions → General → Workflow permissions* auf
+„Read and write“ und „Allow GitHub Actions to create and approve pull requests“ aktivieren.
 
 ## About [Miniature Painter Pro](https://miniaturepainterpro.app/)
 Miniature Painter Pro is for created for all your miniature painting joys. This tool has been developed to aid miniature painters in their quest for the perfect paint color. Use the color picker, save your paints in a palette, compare paints across brands and find complementary colors. When colors are missing from your own supply, you can compare them cross-brand or even mix them with existing paints you own.
