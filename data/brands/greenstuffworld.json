@@ -19,12 +19,15 @@
       "set": "Acrylic Colors",
       "hex": "#00134B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1037-acrylic-color-abyss-blue.html",
+      "image": "https://www.greenstuffworld.com/30042-large_default/acrylic-color-abyss-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Kantor Blue",
         "hex": "#001146",
         "delta_e": 0.96
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--acid-green-dip",
@@ -33,12 +36,63 @@
       "set": "Dipping Inks",
       "hex": "#455C0E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3312-dipping-ink-17-ml-acid-green-dip.html",
+      "image": "https://www.greenstuffworld.com/29540-large_default/dipping-ink-17-ml-acid-green-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Lustrian Undergrowth",
         "hex": "#415A09",
         "delta_e": 0.94
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--acrylic-ink-green",
+      "name": "Acrylic Ink - Green",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3772-fluor-acrylic-ink-green.html",
+      "image": "https://www.greenstuffworld.com/19662-large_default/fluor-acrylic-ink-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--acrylic-ink-magenta",
+      "name": "Acrylic Ink - Magenta",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3774-fluor-acrylic-ink-magenta.html",
+      "image": "https://www.greenstuffworld.com/19668-large_default/fluor-acrylic-ink-magenta.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--acrylic-ink-orange",
+      "name": "Acrylic Ink - Orange",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3773-fluor-acrylic-ink-orange.html",
+      "image": "https://www.greenstuffworld.com/19666-large_default/fluor-acrylic-ink-orange.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--acrylic-ink-yellow",
+      "name": "Acrylic Ink - Yellow",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3771-fluor-acrylic-ink-yellow.html",
+      "image": "https://www.greenstuffworld.com/19706-large_default/fluor-acrylic-ink-yellow.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--aether-blue",
@@ -47,12 +101,123 @@
       "set": "Wash Ink",
       "hex": "#666ED0",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/777-wash-ink-aether-blue.html",
+      "image": "https://www.greenstuffworld.com/30416-large_default/wash-ink-aether-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "C64 Purple",
         "hex": "#6F6ED1",
         "delta_e": 1.85
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-blue",
+      "name": "Airbrush Paint - BLUE",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4832-fluorescent-airbrush-paint-blue.html",
+      "image": "https://www.greenstuffworld.com/34773-large_default/fluorescent-airbrush-paint-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-lime-green",
+      "name": "Airbrush Paint - Lime Green",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4820-fluorescent-airbrush-paint-lime-green.html",
+      "image": "https://www.greenstuffworld.com/34751-large_default/fluorescent-airbrush-paint-lime-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-orange",
+      "name": "Airbrush Paint - ORANGE",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4828-fluorescent-airbrush-paint-orange.html",
+      "image": "https://www.greenstuffworld.com/34761-large_default/fluorescent-airbrush-paint-orange.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-pink",
+      "name": "Airbrush Paint - Pink",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4830-fluorescent-airbrush-paint-pink.html",
+      "image": "https://www.greenstuffworld.com/34767-large_default/fluorescent-airbrush-paint-pink.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-red",
+      "name": "Airbrush Paint - RED",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4829-fluorescent-airbrush-paint-red.html",
+      "image": "https://www.greenstuffworld.com/34764-large_default/fluorescent-airbrush-paint-red.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-violet",
+      "name": "Airbrush Paint - VIOLET",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4831-fluorescent-airbrush-paint-violet.html",
+      "image": "https://www.greenstuffworld.com/34768-large_default/fluorescent-airbrush-paint-violet.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-yellow",
+      "name": "Airbrush Paint - YELLOW",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4826-fluorescent-airbrush-paint-yellow.html",
+      "image": "https://www.greenstuffworld.com/34755-large_default/fluorescent-airbrush-paint-yellow.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--airbrush-paint-yellow-orange",
+      "name": "Airbrush Paint - YELLOW-ORANGE",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/4827-fluorescent-airbrush-paint-yellow-orange.html",
+      "image": "https://www.greenstuffworld.com/34757-large_default/fluorescent-airbrush-paint-yellow-orange.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--alien-ooze-10ml",
+      "name": "Alien Ooze 10ml",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/effect-paints/4934-fluor-alien-ooze-10ml.html",
+      "image": "https://www.greenstuffworld.com/35604-large_default/fluor-alien-ooze-10ml.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--amber-orange",
@@ -61,12 +226,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#F4B11A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/944-candy-ink-amber-orange.html",
+      "image": "https://www.greenstuffworld.com/29203-large_default/candy-ink-amber-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Spanish Yellow",
         "hex": "#F6B511",
         "delta_e": 1.42
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--amberglow-dip",
@@ -75,12 +243,15 @@
       "set": "Dipping Inks",
       "hex": "#642D0F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3314-dipping-ink-17-ml-amberglow-dip.html",
+      "image": "https://www.greenstuffworld.com/29534-large_default/dipping-ink-17-ml-amberglow-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Count Chocula",
         "hex": "#5E2D10",
         "delta_e": 1.61
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--amethyst-purple",
@@ -89,12 +260,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#D7A7F1",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/948-candy-ink-amethyst-purple.html",
+      "image": "https://www.greenstuffworld.com/30324-large_default/candy-ink-amethyst-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Petal Plush",
         "hex": "#DDAAEE",
         "delta_e": 1.94
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--ancient-sepia",
@@ -103,12 +277,15 @@
       "set": "Wash Ink",
       "hex": "#AAA168",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/774-wash-ink-ancient-sepia.html",
+      "image": "https://www.greenstuffworld.com/29169-large_default/wash-ink-ancient-sepia.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Acacia Tree",
         "hex": "#A69D64",
         "delta_e": 1.24
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--andalusian-earth",
@@ -117,12 +294,15 @@
       "set": "Wash Ink",
       "hex": "#766B59",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/773-wash-ink-andalusian-earth.html",
+      "image": "https://www.greenstuffworld.com/30434-large_default/wash-ink-andalusian-earth.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Toasted Walnut",
         "hex": "#746A5A",
         "delta_e": 0.95
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--anthrax-metal",
@@ -131,12 +311,15 @@
       "set": "Metallic Colors",
       "hex": "#7B7E83",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/911-metallic-paint-anthrax-metal.html",
+      "image": "https://www.greenstuffworld.com/30420-large_default/metallic-paint-anthrax-metal.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Tarnished Silver",
         "hex": "#797B80",
         "delta_e": 1.21
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--antique-gold",
@@ -145,12 +328,15 @@
       "set": "Metallic Colors",
       "hex": "#957E38",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/920-metallic-paint-antique-gold.html",
+      "image": "https://www.greenstuffworld.com/29033-large_default/metallic-paint-antique-gold.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cardueline Finch",
         "hex": "#957B38",
         "delta_e": 1.53
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--aqua-turquoise",
@@ -159,12 +345,15 @@
       "set": "Metallic Colors",
       "hex": "#9BD1D1",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/914-metallic-paint-aqua-turquoise.html",
+      "image": "https://www.greenstuffworld.com/29231-large_default/metallic-paint-aqua-turquoise.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Big Surf",
         "hex": "#96D0D1",
         "delta_e": 0.86
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--arachnid-green",
@@ -173,12 +362,15 @@
       "set": "Acrylic Colors",
       "hex": "#124244",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1883-acrylic-color-arachnid-green.html",
+      "image": "https://www.greenstuffworld.com/29201-large_default/acrylic-color-arachnid-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Tiber",
         "hex": "#184343",
         "delta_e": 1.14
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--arctic-blue",
@@ -187,12 +379,15 @@
       "set": "Acrylic Colors",
       "hex": "#14ADCC",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1871-acrylic-color-arctic-blue.html",
+      "image": "https://www.greenstuffworld.com/28987-large_default/acrylic-color-arctic-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Aquarius",
         "hex": "#2DB0CE",
         "delta_e": 1.17
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--arrakis-brown",
@@ -201,12 +396,15 @@
       "set": "Acrylic Colors",
       "hex": "#E39C28",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1857-acrylic-color-arrakis-brown.html",
+      "image": "https://www.greenstuffworld.com/29163-large_default/acrylic-color-arrakis-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Clarified Butter",
         "hex": "#E69C23",
         "delta_e": 0.7
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--atramentum-black",
@@ -215,12 +413,15 @@
       "set": "Wash Ink",
       "hex": "#515151",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/775-wash-ink-atramentum-black.html",
+      "image": "https://www.greenstuffworld.com/29130-large_default/wash-ink-atramentum-black.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fiftieth Shade of Grey",
         "hex": "#505050",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--azure-dip",
@@ -229,12 +430,15 @@
       "set": "Dipping Inks",
       "hex": "#094448",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3317-dipping-ink-17-ml-azure-dip.html",
+      "image": "https://www.greenstuffworld.com/29112-large_default/dipping-ink-17-ml-azure-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Incubi Darkness",
         "hex": "#0B474A",
         "delta_e": 1.13
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--banana-split",
@@ -243,12 +447,15 @@
       "set": "Acrylic Colors",
       "hex": "#F0E229",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1025-acrylic-color-banana-split.html",
+      "image": "https://www.greenstuffworld.com/30448-large_default/acrylic-color-banana-split.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "The Fifth Sun",
         "hex": "#F0E22C",
         "delta_e": 0.15
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--barrel-grey",
@@ -257,12 +464,15 @@
       "set": "Acrylic Colors",
       "hex": "#25221B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1187-acrylic-color-barrel-grey.html",
+      "image": "https://www.greenstuffworld.com/28958-large_default/acrylic-color-barrel-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Maire",
         "hex": "#2A2922",
         "delta_e": 2.54
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--bestial-brown",
@@ -271,12 +481,15 @@
       "set": "Acrylic Colors",
       "hex": "#2D1E01",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1063-acrylic-color-bestial-brown.html",
+      "image": "https://www.greenstuffworld.com/29054-large_default/acrylic-color-bestial-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Black Swan",
         "hex": "#332200",
         "delta_e": 2.27
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--black-green-stone-dip",
@@ -299,12 +512,15 @@
       "set": "Acrylic Colors",
       "hex": "#000000",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1072-acrylic-color-black-stallion.html",
+      "image": "https://www.greenstuffworld.com/29220-large_default/acrylic-color-black-stallion.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Black",
         "hex": "#000000",
         "delta_e": 0.0
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--blackroot-grey",
@@ -313,12 +529,27 @@
       "set": "Acrylic Colors",
       "hex": "#343436",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1877-acrylic-color-blackroot-grey.html",
+      "image": "https://www.greenstuffworld.com/29176-large_default/acrylic-color-blackroot-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Stiletto",
         "hex": "#323235",
         "delta_e": 0.92
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--blazing-yellow",
+      "name": "Blazing Yellow",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3205-opaque-colors-blazing-yellow.html",
+      "image": "https://www.greenstuffworld.com/29434-large_default/opaque-colors-blazing-yellow.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--blue",
@@ -327,12 +558,27 @@
       "set": "Fluor Metallic",
       "hex": "#5E88FF",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/769-fluor-paint-blue.html",
+      "image": "https://www.greenstuffworld.com/28845-large_default/fluor-paint-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Deep Denim",
         "hex": "#6688FF",
         "delta_e": 1.2
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--blue-base",
+      "name": "Blue Base",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3200-opaque-colors-blue-base.html",
+      "image": "https://www.greenstuffworld.com/30122-large_default/opaque-colors-blue-base.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--blue-glacier-dip",
@@ -341,12 +587,15 @@
       "set": "Dipping Inks",
       "hex": "#53A7CB",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3304-dipping-ink-17-ml-blue-glacier-dip.html",
+      "image": "https://www.greenstuffworld.com/27992-large_default/dipping-ink-17-ml-blue-glacier-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Mystic Blue",
         "hex": "#48A8D0",
         "delta_e": 1.14
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--bluebird-grey",
@@ -355,12 +604,15 @@
       "set": "Acrylic Colors",
       "hex": "#6F657D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1882-acrylic-color-bluebird-grey.html",
+      "image": "https://www.greenstuffworld.com/30752-large_default/acrylic-color-bluebird-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Victorian Iris",
         "hex": "#6D657E",
         "delta_e": 0.9
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--bluegrey-dusk",
@@ -369,12 +621,15 @@
       "set": "Acrylic Colors",
       "hex": "#2A2C41",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1066-acrylic-color-bluegrey-dusk.html",
+      "image": "https://www.greenstuffworld.com/30090-large_default/acrylic-color-bluegrey-dusk.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Black Violet",
         "hex": "#2B2C42",
         "delta_e": 0.73
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--blush-red",
@@ -383,12 +638,15 @@
       "set": "Wash Ink",
       "hex": "#DB746D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/776-wash-ink-blush-red.html",
+      "image": "https://www.greenstuffworld.com/30034-large_default/wash-ink-blush-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sweet Melon",
         "hex": "#E87973",
         "delta_e": 2.7
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--blushing-flesh",
@@ -397,12 +655,15 @@
       "set": "Acrylic Colors",
       "hex": "#DA523A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1056-acrylic-color-blushing-flesh.html",
+      "image": "https://www.greenstuffworld.com/29210-large_default/acrylic-color-blushing-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fire Island",
         "hex": "#D95137",
         "delta_e": 0.66
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--borealis-green",
@@ -425,12 +686,15 @@
       "set": "Acrylic Colors",
       "hex": "#802709",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1863-acrylic-color-brown-skin.html",
+      "image": "https://www.greenstuffworld.com/29412-large_default/acrylic-color-brown-skin.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Mahogany Brown",
         "hex": "#812308",
         "delta_e": 1.04
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--burgundy-dip",
@@ -439,12 +703,15 @@
       "set": "Dipping Inks",
       "hex": "#4F2330",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3309-dipping-ink-17-ml-burgundy-dip.html",
+      "image": "https://www.greenstuffworld.com/30774-large_default/dipping-ink-17-ml-burgundy-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Black Rose",
         "hex": "#532934",
         "delta_e": 1.78
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--burning-gold",
@@ -467,12 +734,15 @@
       "set": "Metallic Colors",
       "hex": "#C8606B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/916-metallic-paint-caesar-red.html",
+      "image": "https://www.greenstuffworld.com/29173-large_default/metallic-paint-caesar-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Desert Rose",
         "hex": "#CD616B",
         "delta_e": 1.19
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--camouflage-green",
@@ -481,12 +751,15 @@
       "set": "Acrylic Colors",
       "hex": "#63601B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1047-acrylic-color-camouflage-green.html",
+      "image": "https://www.greenstuffworld.com/30731-large_default/acrylic-color-camouflage-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Greenish Brown",
         "hex": "#696112",
         "delta_e": 2.45
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--canary-green",
@@ -495,12 +768,15 @@
       "set": "Acrylic Colors",
       "hex": "#D3DC65",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1875-acrylic-color-canary-green.html",
+      "image": "https://www.greenstuffworld.com/28995-large_default/acrylic-color-canary-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Chinese Green",
         "hex": "#D0DB61",
         "delta_e": 0.62
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--carnage-red",
@@ -509,12 +785,15 @@
       "set": "Acrylic Colors",
       "hex": "#C22B24",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1862-acrylic-color-carnage-red.html",
+      "image": "https://www.greenstuffworld.com/29406-large_default/acrylic-color-carnage-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cherry Pie",
         "hex": "#BD2C22",
         "delta_e": 1.06
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--celestial-azure",
@@ -537,12 +816,15 @@
       "set": "Acrylic Colors",
       "hex": "#323045",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1866-acrylic-color-chancellor-blue.html",
+      "image": "https://www.greenstuffworld.com/30121-large_default/acrylic-color-chancellor-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Oil Rush",
         "hex": "#333144",
         "delta_e": 0.94
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--choco-brown",
@@ -551,12 +833,15 @@
       "set": "Acrylic Colors",
       "hex": "#3F2001",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1061-acrylic-color-choco-brown.html",
+      "image": "https://www.greenstuffworld.com/28832-large_default/acrylic-color-choco-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dark Ebony",
         "hex": "#3D2004",
         "delta_e": 0.91
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--chrome-paint",
@@ -579,12 +864,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#FFF64F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/945-candy-ink-citrine-yellow.html",
+      "image": "https://www.greenstuffworld.com/30366-large_default/candy-ink-citrine-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Yellow Cattleya",
         "hex": "#FFF44F",
         "delta_e": 0.57
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--cobalt-blue",
@@ -607,12 +895,27 @@
       "set": "Dipping Inks",
       "hex": "#387971",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3325-dipping-ink-17-ml-cool-blue-dip.html",
+      "image": "https://www.greenstuffworld.com/29019-large_default/dipping-ink-17-ml-cool-blue-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pearl Green",
         "hex": "#377B70",
         "delta_e": 1.45
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--cosmic-silver",
+      "name": "Cosmic Silver",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4269-metallic-paint-cosmic-silver.html",
+      "image": "https://www.greenstuffworld.com/32330-large_default/metallic-paint-cosmic-silver.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--coyote-brown",
@@ -621,12 +924,15 @@
       "set": "Acrylic Colors",
       "hex": "#806B3E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1183-acrylic-color-coyote-brown.html",
+      "image": "https://www.greenstuffworld.com/30030-large_default/acrylic-color-coyote-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Blue Cheese Olive",
         "hex": "#80693D",
         "delta_e": 1.08
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--crimson-magenta",
@@ -635,12 +941,15 @@
       "set": "Intensity Ink",
       "hex": "#FF5A94",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/805-intensity-ink-crimson-magenta.html",
+      "image": "https://www.greenstuffworld.com/30480-large_default/intensity-ink-crimson-magenta.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fuchsia Fever",
         "hex": "#FF5599",
         "delta_e": 1.77
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--cutthroat-red",
@@ -649,12 +958,15 @@
       "set": "Acrylic Colors",
       "hex": "#8E1316",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1032-acrylic-color-cutthroat-red.html",
+      "image": "https://www.greenstuffworld.com/29574-large_default/acrylic-color-cutthroat-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Socialist",
         "hex": "#921A1C",
         "delta_e": 1.44
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--cyber-yellow",
@@ -663,12 +975,15 @@
       "set": "Acrylic Colors",
       "hex": "#F2D12C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1026-acrylic-color-cyber-yellow.html",
+      "image": "https://www.greenstuffworld.com/29571-large_default/acrylic-color-cyber-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Giallo",
         "hex": "#F1D236",
         "delta_e": 0.76
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--dark-beige",
@@ -677,12 +992,27 @@
       "set": "Acrylic Colors",
       "hex": "#715C41",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1181-acrylic-color-dark-beige.html",
+      "image": "https://www.greenstuffworld.com/29135-large_default/acrylic-color-dark-beige.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Muddy River",
         "hex": "#715D3D",
         "delta_e": 2.05
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--dark-concrete",
+      "name": "Dark Concrete",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3211-opaque-colors-dark-concrete.html",
+      "image": "https://www.greenstuffworld.com/30165-large_default/opaque-colors-dark-concrete.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--dark-elder-bronze",
@@ -691,12 +1021,39 @@
       "set": "Metallic Colors",
       "hex": "#3E2C14",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/909-metallic-paint-dark-elder-bronze.html",
+      "image": "https://www.greenstuffworld.com/28859-large_default/metallic-paint-dark-elder-bronze.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Brown Tumbleweed",
         "hex": "#37290E",
         "delta_e": 2.92
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--dark-evergreen",
+      "name": "Dark Evergreen",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3199-opaque-colors-dark-evergreen.html",
+      "image": "https://www.greenstuffworld.com/30183-large_default/opaque-colors-dark-evergreen.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--dark-rose-tan",
+      "name": "Dark Rose Tan",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3204-opaque-colors-dark-rose-tan.html",
+      "image": "https://www.greenstuffworld.com/29427-large_default/opaque-colors-dark-rose-tan.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--dark-umber",
@@ -705,12 +1062,15 @@
       "set": "Acrylic Colors",
       "hex": "#3B302E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1071-acrylic-color-dark-umber.html",
+      "image": "https://www.greenstuffworld.com/30744-large_default/acrylic-color-dark-umber.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Mole",
         "hex": "#392D2B",
         "delta_e": 1.06
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--darth-blue",
@@ -727,18 +1087,33 @@
       }
     },
     {
+      "id": "greenstuffworld/opaque-colors--dead-flesh",
+      "name": "Dead Flesh",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3197-opaque-colors-dead-flesh.html",
+      "image": "https://www.greenstuffworld.com/30886-large_default/opaque-colors-dead-flesh.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "greenstuffworld/acrylic-colors--deck-grey",
       "name": "Deck Grey",
       "code": null,
       "set": "Acrylic Colors",
       "hex": "#D1C2A3",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1190-acrylic-color-deck-grey.html",
+      "image": "https://www.greenstuffworld.com/29278-large_default/acrylic-color-deck-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Double Spanish White",
         "hex": "#D2C3A3",
         "delta_e": 0.4
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--deep-black-dip",
@@ -747,12 +1122,15 @@
       "set": "Dipping Inks",
       "hex": "#252525",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3308-dipping-ink-17-ml-deep-black-dip.html",
+      "image": "https://www.greenstuffworld.com/30779-large_default/dipping-ink-17-ml-deep-black-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Nero",
         "hex": "#252525",
         "delta_e": 0.0
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--desert-camo",
@@ -761,12 +1139,27 @@
       "set": "Acrylic Colors",
       "hex": "#947B3B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1184-acrylic-color-desert-camo.html",
+      "image": "https://www.greenstuffworld.com/30038-large_default/acrylic-color-desert-camo.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cardueline Finch",
         "hex": "#957B38",
         "delta_e": 0.61
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--donkey-grey",
+      "name": "Donkey Grey",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3215-opaque-colors-donkey-grey.html",
+      "image": "https://www.greenstuffworld.com/30898-large_default/opaque-colors-donkey-grey.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--dusty-blue-dip",
@@ -775,12 +1168,15 @@
       "set": "Dipping Inks",
       "hex": "#2C4655",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3324-dipping-ink-17-ml-dusty-blue-dip.html",
+      "image": "https://www.greenstuffworld.com/29022-large_default/dipping-ink-17-ml-dusty-blue-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Black Forest Blue",
         "hex": "#29485A",
         "delta_e": 1.45
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--dusty-rose",
@@ -789,12 +1185,15 @@
       "set": "Acrylic Colors",
       "hex": "#F0636B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1859-acrylic-color-dusty-rose.html",
+      "image": "https://www.greenstuffworld.com/29164-large_default/acrylic-color-dusty-rose.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Usubeni Red",
         "hex": "#F2666C",
         "delta_e": 0.86
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--dwarven-flesh",
@@ -803,12 +1202,15 @@
       "set": "Acrylic Colors",
       "hex": "#FF7D4B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1055-acrylic-color-dwarven-flesh.html",
+      "image": "https://www.greenstuffworld.com/30457-large_default/acrylic-color-dwarven-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Nārangī Orange",
         "hex": "#FF8050",
         "delta_e": 0.77
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--el-dorado",
@@ -817,12 +1219,15 @@
       "set": "Metallic Colors",
       "hex": "#BA931C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/924-metallic-paint-el-dorado.html",
+      "image": "https://www.greenstuffworld.com/29172-large_default/metallic-paint-el-dorado.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Prospector’s Find",
         "hex": "#BF961F",
         "delta_e": 1.19
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--elfwood-brown-dip",
@@ -831,12 +1236,15 @@
       "set": "Dipping Inks",
       "hex": "#4C361F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3322-dipping-ink-17-ml-elfwood-brown-dip.html",
+      "image": "https://www.greenstuffworld.com/30106-large_default/dipping-ink-17-ml-elfwood-brown-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Café Noir",
         "hex": "#4B3621",
         "delta_e": 0.8
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--elven-flesh",
@@ -845,12 +1253,15 @@
       "set": "Acrylic Colors",
       "hex": "#F2AA82",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1054-acrylic-color-elven-flesh.html",
+      "image": "https://www.greenstuffworld.com/29162-large_default/acrylic-color-elven-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Orange Liqueur",
         "hex": "#EDAA80",
         "delta_e": 1.54
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--ember-orange",
@@ -859,12 +1270,15 @@
       "set": "Acrylic Colors",
       "hex": "#D94A22",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1030-acrylic-color-ember-orange.html",
+      "image": "https://www.greenstuffworld.com/30477-large_default/acrylic-color-ember-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Crab Curry",
         "hex": "#D94B28",
         "delta_e": 1.08
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--emerald-getaway",
@@ -887,12 +1301,15 @@
       "set": "Acrylic Colors",
       "hex": "#6C4615",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1182-acrylic-color-english-field-brown.html",
+      "image": "https://www.greenstuffworld.com/28841-large_default/acrylic-color-english-field-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Very Coffee",
         "hex": "#664411",
         "delta_e": 1.81
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--evil-forest",
@@ -915,12 +1332,15 @@
       "set": "Acrylic Colors",
       "hex": "#F4793D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1858-acrylic-color-faded-orange.html",
+      "image": "https://www.greenstuffworld.com/29390-large_default/acrylic-color-faded-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sea Nettle",
         "hex": "#F47633",
         "delta_e": 1.4
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--fang-white",
@@ -929,12 +1349,27 @@
       "set": "Acrylic Colors",
       "hex": "#FFFBDD",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1851-acrylic-color-fang-white.html",
+      "image": "https://www.greenstuffworld.com/28965-large_default/acrylic-color-fang-white.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Rice Paper",
         "hex": "#FFFCDB",
         "delta_e": 1.06
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--feral-brown",
+      "name": "Feral Brown",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3195-opaque-colors-feral-brown.html",
+      "image": "https://www.greenstuffworld.com/30894-large_default/opaque-colors-feral-brown.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--field-green-grey",
@@ -943,12 +1378,27 @@
       "set": "Acrylic Colors",
       "hex": "#1B4724",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1178-acrylic-color-field-green-grey.html",
+      "image": "https://www.greenstuffworld.com/29268-large_default/acrylic-color-field-green-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cal Poly Pomona Green",
         "hex": "#1E4D2B",
         "delta_e": 2.0
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--firethorn-brown",
+      "name": "Firethorn Brown",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3194-opaque-colors-firethorn-brown.html",
+      "image": "https://www.greenstuffworld.com/30179-large_default/opaque-colors-firethorn-brown.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--flaming-orange",
@@ -957,12 +1407,15 @@
       "set": "Acrylic Colors",
       "hex": "#EA701B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1029-acrylic-color-flaming-orange.html",
+      "image": "https://www.greenstuffworld.com/30472-large_default/acrylic-color-flaming-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Vivid Tangelo",
         "hex": "#F07427",
         "delta_e": 1.86
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--flesh-rose",
@@ -971,12 +1424,15 @@
       "set": "Acrylic Colors",
       "hex": "#D16855",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1860-acrylic-color-flesh-rose.html",
+      "image": "https://www.greenstuffworld.com/29394-large_default/acrylic-color-flesh-rose.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Track and Field",
         "hex": "#D66352",
         "delta_e": 1.52
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--flubber-green",
@@ -985,12 +1441,15 @@
       "set": "Acrylic Colors",
       "hex": "#88B719",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1048-acrylic-color-flubber-green.html",
+      "image": "https://www.greenstuffworld.com/30736-large_default/acrylic-color-flubber-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dark Lime",
         "hex": "#84B701",
         "delta_e": 0.88
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--forest-green",
@@ -999,12 +1458,15 @@
       "set": "Acrylic Colors",
       "hex": "#003910",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1044-acrylic-color-forest-green.html",
+      "image": "https://www.greenstuffworld.com/30452-large_default/acrylic-color-forest-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Gameboy Contrast",
         "hex": "#0F380F",
         "delta_e": 1.97
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--foxhide-brown",
@@ -1013,12 +1475,15 @@
       "set": "Acrylic Colors",
       "hex": "#C16001",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1060-acrylic-color-foxhide-brown.html",
+      "image": "https://www.greenstuffworld.com/30078-large_default/acrylic-color-foxhide-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Crema",
         "hex": "#C16104",
         "delta_e": 0.29
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--gangrene",
@@ -1027,12 +1492,15 @@
       "set": "Acrylic Colors",
       "hex": "#3B4312",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1176-acrylic-color-gangrene.html",
+      "image": "https://www.greenstuffworld.com/30304-large_default/acrylic-color-gangrene.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dark Olive",
         "hex": "#373E02",
         "delta_e": 2.63
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--garnet-purple-dip",
@@ -1041,12 +1509,15 @@
       "set": "Dipping Inks",
       "hex": "#712F53",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3328-dipping-ink-17-ml-garnet-purple-dip.html",
+      "image": "https://www.greenstuffworld.com/29552-large_default/dipping-ink-17-ml-garnet-purple-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Bordeaux Red",
         "hex": "#6F2C4F",
         "delta_e": 1.0
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--gengis-khaki",
@@ -1055,12 +1526,15 @@
       "set": "Acrylic Colors",
       "hex": "#665B3B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1188-acrylic-color-gengis-khaki.html",
+      "image": "https://www.greenstuffworld.com/28852-large_default/acrylic-color-gengis-khaki.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Beach Casuarina",
         "hex": "#665A38",
         "delta_e": 0.79
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--gladius-bronze",
@@ -1069,12 +1543,27 @@
       "set": "Metallic Colors",
       "hex": "#E1A767",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/917-metallic-paint-gladius-bronze.html",
+      "image": "https://www.greenstuffworld.com/29016-large_default/metallic-paint-gladius-bronze.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "India Trade",
         "hex": "#E0A362",
         "delta_e": 1.18
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--glazier-blue",
+      "name": "Glazier Blue",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3212-opaque-colors-glazier-blue.html",
+      "image": "https://www.greenstuffworld.com/30169-large_default/opaque-colors-glazier-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--glorious-magenta-dip",
@@ -1083,12 +1572,15 @@
       "set": "Dipping Inks",
       "hex": "#7A2E4A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3327-dipping-ink-17-ml-glorious-magenta-dip.html",
+      "image": "https://www.greenstuffworld.com/29001-large_default/dipping-ink-17-ml-glorious-magenta-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Flirt",
         "hex": "#7A2E4D",
         "delta_e": 1.05
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--go-mango",
@@ -1097,12 +1589,27 @@
       "set": "Acrylic Colors",
       "hex": "#FFA032",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1027-acrylic-color-go-mango.html",
+      "image": "https://www.greenstuffworld.com/30460-large_default/acrylic-color-go-mango.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Blazing Bonfire",
         "hex": "#FFA035",
         "delta_e": 0.38
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--golden-brown",
+      "name": "Golden Brown",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3206-opaque-colors-golden-brown.html",
+      "image": "https://www.greenstuffworld.com/30153-large_default/opaque-colors-golden-brown.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--golden-cream",
@@ -1111,12 +1618,15 @@
       "set": "Acrylic Colors",
       "hex": "#FFCE53",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1854-acrylic-color-golden-cream.html",
+      "image": "https://www.greenstuffworld.com/30748-large_default/acrylic-color-golden-cream.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Canary Diamond",
         "hex": "#FFCE52",
         "delta_e": 0.11
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--gorgon-dark-green",
@@ -1125,12 +1635,15 @@
       "set": "Intensity Ink",
       "hex": "#6EA87F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/814-intensity-ink-gorgon-dark-green.html",
+      "image": "https://www.greenstuffworld.com/30878-large_default/intensity-ink-gorgon-dark-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Primavera",
         "hex": "#6FA77A",
         "delta_e": 1.27
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--goth-skin-dip",
@@ -1139,12 +1652,27 @@
       "set": "Dipping Inks",
       "hex": "#632D2B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3310-dipping-ink-17-ml-goth-skin-dip.html",
+      "image": "https://www.greenstuffworld.com/30768-large_default/dipping-ink-17-ml-goth-skin-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Rookwood Red",
         "hex": "#622F2D",
         "delta_e": 0.82
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--granite-grey",
+      "name": "Granite Grey",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3196-opaque-colors-granite-grey.html",
+      "image": "https://www.greenstuffworld.com/30890-large_default/opaque-colors-granite-grey.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--green-ghost-dip",
@@ -1153,12 +1681,15 @@
       "set": "Dipping Inks",
       "hex": "#1D5113",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3320-dipping-ink-17-ml-green-ghost-dip.html",
+      "image": "https://www.greenstuffworld.com/30126-large_default/dipping-ink-17-ml-green-ghost-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Patch of Land",
         "hex": "#225511",
         "delta_e": 1.67
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--green-shark-skin-dip",
@@ -1167,12 +1698,27 @@
       "set": "Dipping Inks",
       "hex": "#004542",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3300-dipping-ink-17-ml-green-shark-skin-dip.html",
+      "image": "https://www.greenstuffworld.com/30862-large_default/dipping-ink-17-ml-green-shark-skin-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dark Side",
         "hex": "#004444",
         "delta_e": 1.62
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--green-stone-dip",
+      "name": "Green Stone Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3326-dipping-ink-17-ml-green-stone-dip.html",
+      "image": "https://www.greenstuffworld.com/29009-large_default/dipping-ink-17-ml-green-stone-dip.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--grey-mist-dip",
@@ -1181,12 +1727,15 @@
       "set": "Dipping Inks",
       "hex": "#787878",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3299-dipping-ink-17-ml-grey-mist-dip.html",
+      "image": "https://www.greenstuffworld.com/30315-large_default/dipping-ink-17-ml-grey-mist-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Steel",
         "hex": "#797979",
         "delta_e": 0.4
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--grey-teal",
@@ -1195,12 +1744,15 @@
       "set": "Acrylic Colors",
       "hex": "#64857E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1872-acrylic-color-grey-teal.html",
+      "image": "https://www.greenstuffworld.com/29323-large_default/acrylic-color-grey-teal.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Marsh Creek",
         "hex": "#6B8781",
         "delta_e": 1.91
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--gunmetal-grey",
@@ -1217,18 +1769,33 @@
       }
     },
     {
+      "id": "greenstuffworld/opaque-colors--gypsum-white",
+      "name": "Gypsum White",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3213-opaque-colors-gypsum-white.html",
+      "image": "https://www.greenstuffworld.com/29436-large_default/opaque-colors-gypsum-white.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "greenstuffworld/acrylic-colors--hellfire-red",
       "name": "Hellfire Red",
       "code": null,
       "set": "Acrylic Colors",
       "hex": "#CB160F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1031-acrylic-color-hellfire-red.html",
+      "image": "https://www.greenstuffworld.com/29294-large_default/acrylic-color-hellfire-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Love Goddess",
         "hex": "#CD0D0D",
         "delta_e": 0.44
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--hulky-green-dip",
@@ -1237,12 +1804,15 @@
       "set": "Dipping Inks",
       "hex": "#094625",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3319-dipping-ink-17-ml-hulky-green-dip.html",
+      "image": "https://www.greenstuffworld.com/29087-large_default/dipping-ink-17-ml-hulky-green-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Moisty Mire",
         "hex": "#004422",
         "delta_e": 0.93
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--hunter-green",
@@ -1251,12 +1821,15 @@
       "set": "Acrylic Colors",
       "hex": "#017601",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1045-acrylic-color-hunter-green.html",
+      "image": "https://www.greenstuffworld.com/29224-large_default/acrylic-color-hunter-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Moth Green",
         "hex": "#007700",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--hydromiel-yellow",
@@ -1265,12 +1838,15 @@
       "set": "Intensity Ink",
       "hex": "#F5F092",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/806-intensity-ink-hydromiel-yellow.html",
+      "image": "https://www.greenstuffworld.com/29127-large_default/intensity-ink-hydromiel-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Milan",
         "hex": "#F6F493",
         "delta_e": 1.1
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--imperium-blue",
@@ -1279,12 +1855,15 @@
       "set": "Acrylic Colors",
       "hex": "#1A3085",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1038-acrylic-color-imperium-blue.html",
+      "image": "https://www.greenstuffworld.com/29070-large_default/acrylic-color-imperium-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Bavarian Blue",
         "hex": "#1C3382",
         "delta_e": 1.23
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--indigo-blue-dip",
@@ -1293,12 +1872,15 @@
       "set": "Dipping Inks",
       "hex": "#1C2F59",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3316-dipping-ink-17-ml-indigo-blue-dip.html",
+      "image": "https://www.greenstuffworld.com/29119-large_default/dipping-ink-17-ml-indigo-blue-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Ending Navy Blue",
         "hex": "#1C305C",
         "delta_e": 0.58
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--ivory-tusk",
@@ -1307,12 +1889,15 @@
       "set": "Acrylic Colors",
       "hex": "#F3DFBE",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1024-acrylic-color-ivory-tusk.html",
+      "image": "https://www.greenstuffworld.com/30098-large_default/acrylic-color-ivory-tusk.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cracked Wheat",
         "hex": "#F4DFBD",
         "delta_e": 0.4
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--jade-green",
@@ -1321,12 +1906,27 @@
       "set": "Candy Ink Metallic",
       "hex": "#9BFFD4",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/949-candy-ink-jade-green.html",
+      "image": "https://www.greenstuffworld.com/29333-large_default/candy-ink-jade-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pale Turquoise",
         "hex": "#A5FBD5",
         "delta_e": 1.88
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--khaki-bone",
+      "name": "Khaki Bone",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3214-opaque-colors-khaki-bone.html",
+      "image": "https://www.greenstuffworld.com/29094-large_default/opaque-colors-khaki-bone.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--komodo-khaki",
@@ -1335,12 +1935,15 @@
       "set": "Acrylic Colors",
       "hex": "#885A29",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1052-acrylic-color-komodo-khaki.html",
+      "image": "https://www.greenstuffworld.com/29160-large_default/acrylic-color-komodo-khaki.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Treacle",
         "hex": "#885D2D",
         "delta_e": 1.23
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--kraken-green",
@@ -1349,12 +1952,27 @@
       "set": "Acrylic Colors",
       "hex": "#034C39",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1043-acrylic-color-kraken-green.html",
+      "image": "https://www.greenstuffworld.com/29049-large_default/acrylic-color-kraken-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Raspberry Leaf Green",
         "hex": "#044F3B",
         "delta_e": 0.97
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--lime-green",
+      "name": "LIME Green",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/754-fluor-paint-lime.html",
+      "image": "https://www.greenstuffworld.com/29206-large_default/fluor-paint-lime.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--lapislazuli",
@@ -1363,12 +1981,15 @@
       "set": "Acrylic Colors",
       "hex": "#172C63",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1869-acrylic-color-lapislazuli.html",
+      "image": "https://www.greenstuffworld.com/29151-large_default/acrylic-color-lapislazuli.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Mythical Night",
         "hex": "#1C2E63",
         "delta_e": 0.81
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--leather-brown",
@@ -1377,12 +1998,15 @@
       "set": "Acrylic Colors",
       "hex": "#AF6816",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1058-acrylic-color-leather-brown.html",
+      "image": "https://www.greenstuffworld.com/30070-large_default/acrylic-color-leather-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pumpkin Spice",
         "hex": "#B2691A",
         "delta_e": 0.95
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--liche-purple",
@@ -1391,12 +2015,27 @@
       "set": "Acrylic Colors",
       "hex": "#441C5A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1036-acrylic-color-liche-purple.html",
+      "image": "https://www.greenstuffworld.com/30428-large_default/acrylic-color-liche-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Plunged Into Darkness",
         "hex": "#431C53",
         "delta_e": 1.73
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--light-tan",
+      "name": "Light Tan",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3203-opaque-colors-light-tan.html",
+      "image": "https://www.greenstuffworld.com/29426-large_default/opaque-colors-light-tan.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--lilac-purple",
@@ -1405,12 +2044,15 @@
       "set": "Acrylic Colors",
       "hex": "#B076B3",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1880-acrylic-color-lilac-purple.html",
+      "image": "https://www.greenstuffworld.com/28836-large_default/acrylic-color-lilac-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Moonlight Melody",
         "hex": "#AF73B0",
         "delta_e": 0.94
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--lime",
@@ -1433,12 +2075,15 @@
       "set": "Dipping Inks",
       "hex": "#605A02",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3313-dipping-ink-17-ml-limelight-dip.html",
+      "image": "https://www.greenstuffworld.com/29455-large_default/dipping-ink-17-ml-limelight-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Brussels Sprout Green",
         "hex": "#665E0D",
         "delta_e": 1.75
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--lollipop-magenta",
@@ -1447,12 +2092,15 @@
       "set": "Acrylic Colors",
       "hex": "#AB0061",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1034-acrylic-color-lollipop-magenta.html",
+      "image": "https://www.greenstuffworld.com/29066-large_default/acrylic-color-lollipop-magenta.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Banafsaji Purple",
         "hex": "#A50B5E",
         "delta_e": 1.09
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--majin-pink",
@@ -1461,12 +2109,15 @@
       "set": "Acrylic Colors",
       "hex": "#D5618E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1033-acrylic-color-majin-pink.html",
+      "image": "https://www.greenstuffworld.com/30727-large_default/acrylic-color-majin-pink.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Preppy Rose",
         "hex": "#D1668F",
         "delta_e": 1.2
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--malefic-purple",
@@ -1475,12 +2126,15 @@
       "set": "Acrylic Colors",
       "hex": "#110B49",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1174-acrylic-color-malefic-purple.html",
+      "image": "https://www.greenstuffworld.com/29105-large_default/acrylic-color-malefic-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Silent Twilight",
         "hex": "#0F084B",
         "delta_e": 1.03
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--marine-blue",
@@ -1489,12 +2143,15 @@
       "set": "Acrylic Colors",
       "hex": "#12407E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1039-acrylic-color-marine-blue.html",
+      "image": "https://www.greenstuffworld.com/29192-large_default/acrylic-color-marine-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Bracing Blue",
         "hex": "#014182",
         "delta_e": 1.19
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--martian-green",
@@ -1511,18 +2168,33 @@
       }
     },
     {
+      "id": "greenstuffworld/opaque-colors--mead-violet",
+      "name": "Mead Violet",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3216-opaque-colors-mead-violet.html",
+      "image": "https://www.greenstuffworld.com/30902-large_default/opaque-colors-mead-violet.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "greenstuffworld/acrylic-colors--military-green",
       "name": "Military Green",
       "code": null,
       "set": "Acrylic Colors",
       "hex": "#22260F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1175-acrylic-color-military-green.html",
+      "image": "https://www.greenstuffworld.com/30296-large_default/acrylic-color-military-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Liquorice Root",
         "hex": "#222200",
         "delta_e": 3.13
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--mint-twister",
@@ -1531,12 +2203,15 @@
       "set": "Acrylic Colors",
       "hex": "#00BAA3",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1881-acrylic-color-mint-twister.html",
+      "image": "https://www.greenstuffworld.com/29122-large_default/acrylic-color-mint-twister.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Aare River",
         "hex": "#00B89F",
         "delta_e": 0.9
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--mirage-blue",
@@ -1545,12 +2220,15 @@
       "set": "Acrylic Colors",
       "hex": "#36455A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1069-acrylic-color-mirage-blue.html",
+      "image": "https://www.greenstuffworld.com/30740-large_default/acrylic-color-mirage-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Spelunking",
         "hex": "#35465E",
         "delta_e": 1.18
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--misted-yellow-dip",
@@ -1559,12 +2237,15 @@
       "set": "Dipping Inks",
       "hex": "#8D611A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3331-dipping-ink-17-ml-misted-yellow-dip.html",
+      "image": "https://www.greenstuffworld.com/29340-large_default/dipping-ink-17-ml-misted-yellow-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Kumera",
         "hex": "#886221",
         "delta_e": 1.86
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--moon-mist-grey",
@@ -1573,12 +2254,15 @@
       "set": "Acrylic Colors",
       "hex": "#DCCFC9",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1884-acrylic-color-moon-mist-grey.html",
+      "image": "https://www.greenstuffworld.com/29332-large_default/acrylic-color-moon-mist-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pearls & Lace",
         "hex": "#DCD0CB",
         "delta_e": 0.59
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--moonstone-grey",
@@ -1587,12 +2271,15 @@
       "set": "Acrylic Colors",
       "hex": "#8C8C8C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1067-acrylic-color-moonstone-grey.html",
+      "image": "https://www.greenstuffworld.com/28916-large_default/acrylic-color-moonstone-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "More Than a Week",
         "hex": "#8D8D8D",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--morrow-purple-dip",
@@ -1601,12 +2288,15 @@
       "set": "Dipping Inks",
       "hex": "#786696",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3302-dipping-ink-17-ml-morrow-purple-dip.html",
+      "image": "https://www.greenstuffworld.com/30854-large_default/dipping-ink-17-ml-morrow-purple-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Purple Paradise",
         "hex": "#79669D",
         "delta_e": 1.81
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--moss-green",
@@ -1615,12 +2305,15 @@
       "set": "Wash Ink",
       "hex": "#6EAC56",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/780-wash-ink-moss-green.html",
+      "image": "https://www.greenstuffworld.com/30424-large_default/wash-ink-moss-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Techno Green",
         "hex": "#69AC58",
         "delta_e": 0.97
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--mustard-yellow",
@@ -1629,12 +2322,15 @@
       "set": "Acrylic Colors",
       "hex": "#936611",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1028-acrylic-color-mustard-yellow.html",
+      "image": "https://www.greenstuffworld.com/29221-large_default/acrylic-color-mustard-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Mandolin",
         "hex": "#97691E",
         "delta_e": 1.83
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--mystic-gold",
@@ -1657,12 +2353,15 @@
       "set": "Metallic Colors",
       "hex": "#EFF0F4",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/905-metallic-paint-mystic-white.html",
+      "image": "https://www.greenstuffworld.com/30022-large_default/metallic-paint-mystic-white.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Bright Grey",
         "hex": "#EBECF0",
         "delta_e": 0.84
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--nebula-copper",
@@ -1685,12 +2384,27 @@
       "set": "Metallic Colors",
       "hex": "#60BAF8",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/910-metallic-paint-neptunus-blue.html",
+      "image": "https://www.greenstuffworld.com/29058-large_default/metallic-paint-neptunus-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Hello Summer",
         "hex": "#55BBFF",
         "delta_e": 1.03
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--nightmare-purple",
+      "name": "Nightmare Purple",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3217-opaque-colors-nightmare-purple.html",
+      "image": "https://www.greenstuffworld.com/30906-large_default/opaque-colors-nightmare-purple.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--nightsahde-purple-dip",
@@ -1699,12 +2413,27 @@
       "set": "Dipping Inks",
       "hex": "#472D5A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/2434-dipping-ink-60-ml-nightsahde-purple-dip.html",
+      "image": "https://www.greenstuffworld.com/10456-large_default/dipping-ink-60-ml-nightsahde-purple-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Scarlet Gum",
         "hex": "#4A2D57",
         "delta_e": 1.49
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--nightshade-purple-dip",
+      "name": "Nightshade Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3315-dipping-ink-17-ml-nightshade-purple-dip.html",
+      "image": "https://www.greenstuffworld.com/29126-large_default/dipping-ink-17-ml-nightshade-purple-dip.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--nuclear-white",
@@ -1727,12 +2456,15 @@
       "set": "Dipping Inks",
       "hex": "#DE9390",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3305-dipping-ink-17-ml-nude-skin-dip.html",
+      "image": "https://www.greenstuffworld.com/29207-large_default/dipping-ink-17-ml-nude-skin-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dusty Cedar",
         "hex": "#DD9592",
         "delta_e": 0.65
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--ochre-desert",
@@ -1741,12 +2473,15 @@
       "set": "Acrylic Colors",
       "hex": "#E08500",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1057-acrylic-color-ochre-desert.html",
+      "image": "https://www.greenstuffworld.com/30464-large_default/acrylic-color-ochre-desert.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fulvous",
         "hex": "#E48400",
         "delta_e": 1.18
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--olive-brown-ops",
@@ -1755,12 +2490,15 @@
       "set": "Acrylic Colors",
       "hex": "#372D0A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1192-acrylic-color-olive-brown-ops.html",
+      "image": "https://www.greenstuffworld.com/30055-large_default/acrylic-color-olive-brown-ops.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Secret Passage",
         "hex": "#372A05",
         "delta_e": 1.82
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--olivegrove-green",
@@ -1769,12 +2507,147 @@
       "set": "Acrylic Colors",
       "hex": "#1B290F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1049-acrylic-color-olivegrove-green.html",
+      "image": "https://www.greenstuffworld.com/30058-large_default/acrylic-color-olivegrove-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Midnight Pines",
         "hex": "#17240B",
         "delta_e": 1.66
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-blue",
+      "name": "Opaque - Blue",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3565-acrylic-ink-opaque-blue.html",
+      "image": "https://www.greenstuffworld.com/19696-large_default/acrylic-ink-opaque-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-brown",
+      "name": "Opaque - Brown",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3567-acrylic-ink-opaque-brown.html",
+      "image": "https://www.greenstuffworld.com/19700-large_default/acrylic-ink-opaque-brown.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-green",
+      "name": "Opaque - Green",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3568-acrylic-ink-opaque-green.html",
+      "image": "https://www.greenstuffworld.com/19702-large_default/acrylic-ink-opaque-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-red",
+      "name": "Opaque - Red",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3564-acrylic-ink-opaque-red.html",
+      "image": "https://www.greenstuffworld.com/19694-large_default/acrylic-ink-opaque-red.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-siena",
+      "name": "Opaque - Siena",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3770-acrylic-ink-opaque-siena.html",
+      "image": "https://www.greenstuffworld.com/19656-large_default/acrylic-ink-opaque-siena.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-yellow",
+      "name": "Opaque - Yellow",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3569-acrylic-ink-opaque-yellow.html",
+      "image": "https://www.greenstuffworld.com/19707-large_default/acrylic-ink-opaque-yellow.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-black",
+      "name": "Opaque- Black",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3561-acrylic-ink-opaque-black.html",
+      "image": "https://www.greenstuffworld.com/19688-large_default/acrylic-ink-opaque-black.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-light-brown",
+      "name": "Opaque- Light Brown",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3566-acrylic-ink-opaque-light-brown.html",
+      "image": "https://www.greenstuffworld.com/19698-large_default/acrylic-ink-opaque-light-brown.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-osl-white",
+      "name": "Opaque- OSL White",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3560-acrylic-ink-opaque-osl-white.html",
+      "image": "https://www.greenstuffworld.com/19686-large_default/acrylic-ink-opaque-osl-white.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-orange",
+      "name": "Opaque- Orange",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3563-acrylic-ink-opaque-orange.html",
+      "image": "https://www.greenstuffworld.com/19692-large_default/acrylic-ink-opaque-orange.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/acrylic-inks--opaque-turquoise",
+      "name": "Opaque- Turquoise",
+      "code": null,
+      "set": "Acrylic Inks",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/3562-acrylic-ink-opaque-turquoise.html",
+      "image": "https://www.greenstuffworld.com/19690-large_default/acrylic-ink-opaque-turquoise.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--opulentus-black",
@@ -1783,12 +2656,15 @@
       "set": "Intensity Ink",
       "hex": "#515151",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/810-intensity-ink-opulentus-black.html",
+      "image": "https://www.greenstuffworld.com/29157-large_default/intensity-ink-opulentus-black.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fiftieth Shade of Grey",
         "hex": "#505050",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--orange",
@@ -1797,12 +2673,27 @@
       "set": "Fluor Metallic",
       "hex": "#F96E33",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/765-fluor-paint-orange.html",
+      "image": "https://www.greenstuffworld.com/29229-large_default/fluor-paint-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Bright Orange",
         "hex": "#FF7034",
         "delta_e": 1.15
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--orange-peel",
+      "name": "Orange Peel",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3207-opaque-colors-orange-peel.html",
+      "image": "https://www.greenstuffworld.com/30157-large_default/opaque-colors-orange-peel.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--orchid-purple",
@@ -1811,12 +2702,15 @@
       "set": "Metallic Colors",
       "hex": "#734472",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/925-metallic-paint-orchid-purple.html",
+      "image": "https://www.greenstuffworld.com/29232-large_default/metallic-paint-orchid-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Purple Passion",
         "hex": "#784674",
         "delta_e": 1.22
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--ork-flesh-dip",
@@ -1825,12 +2719,27 @@
       "set": "Dipping Inks",
       "hex": "#13331B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3318-dipping-ink-17-ml-ork-flesh-dip.html",
+      "image": "https://www.greenstuffworld.com/29450-large_default/dipping-ink-17-ml-ork-flesh-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Deep Fir",
         "hex": "#193925",
         "delta_e": 2.59
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--osl-white",
+      "name": "Osl White",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/2949-intensity-ink-osl-white.html",
+      "image": "https://www.greenstuffworld.com/30399-large_default/intensity-ink-osl-white.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--overlord-olive",
@@ -1839,12 +2748,231 @@
       "set": "Acrylic Colors",
       "hex": "#37321F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1180-acrylic-color-overlord-olive.html",
+      "image": "https://www.greenstuffworld.com/30026-large_default/acrylic-color-overlord-olive.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Devlan Mud Wash",
         "hex": "#3C3523",
         "delta_e": 1.83
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-borealis-green",
+      "name": "Paint BOREALIS GREEN",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/844-chameleon-paint-borealis-green.html",
+      "image": "https://www.greenstuffworld.com/28905-large_default/chameleon-paint-borealis-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-burning-gold",
+      "name": "Paint BURNING GOLD",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/685-chameleon-burning-gold.html",
+      "image": "https://www.greenstuffworld.com/29139-large_default/chameleon-burning-gold.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-celestial-azure",
+      "name": "Paint CELESTIAL AZURE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/684-chameleon-celestial-azure.html",
+      "image": "https://www.greenstuffworld.com/28884-large_default/chameleon-celestial-azure.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-cobalt-blue",
+      "name": "Paint COBALT BLUE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/677-chameleon-cobalt-blue.html",
+      "image": "https://www.greenstuffworld.com/29213-large_default/chameleon-cobalt-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-darth-blue",
+      "name": "Paint DARTH BLUE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/845-chameleon-darth-blue.html",
+      "image": "https://www.greenstuffworld.com/28900-large_default/chameleon-darth-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-emerald-getaway",
+      "name": "Paint EMERALD GETAWAY",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/688-chameleon-emerald-getaway.html",
+      "image": "https://www.greenstuffworld.com/28897-large_default/chameleon-emerald-getaway.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-evil-forest",
+      "name": "Paint EVIL FOREST",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/736-chameleon-evil-forest.html",
+      "image": "https://www.greenstuffworld.com/29146-large_default/chameleon-evil-forest.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-martian-green",
+      "name": "Paint MARTIAN GREEN",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/686-chameleon-martian-green.html",
+      "image": "https://www.greenstuffworld.com/29140-large_default/chameleon-martian-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-mystic-gold",
+      "name": "Paint MYSTIC GOLD",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/678-chameleon-paint-mystic-gold.html",
+      "image": "https://www.greenstuffworld.com/28879-large_default/chameleon-paint-mystic-gold.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-nebula-copper",
+      "name": "Paint NEBULA COPPER",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/683-chameleon-nebula-copper.html",
+      "image": "https://www.greenstuffworld.com/28883-large_default/chameleon-nebula-copper.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-pinky-blue",
+      "name": "Paint PINKY BLUE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/735-chameleon-pinky-blue.html",
+      "image": "https://www.greenstuffworld.com/28887-large_default/chameleon-pinky-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-psychotic-illusions",
+      "name": "Paint PSYCHOTIC ILLUSIONS",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/682-chameleon-psychotic-illusions.html",
+      "image": "https://www.greenstuffworld.com/28894-large_default/chameleon-psychotic-illusions.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-red-goblin",
+      "name": "Paint RED GOBLIN",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/687-chameleon-red-goblin.html",
+      "image": "https://www.greenstuffworld.com/29104-large_default/chameleon-red-goblin.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-royal-burgundy",
+      "name": "Paint ROYAL BURGUNDY",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/737-chameleon-paint-royal-burgundy.html",
+      "image": "https://www.greenstuffworld.com/29895-large_default/chameleon-paint-royal-burgundy.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-solar-anomalie",
+      "name": "Paint SOLAR ANOMALIE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/846-chameleon-solar-anomalie.html",
+      "image": "https://www.greenstuffworld.com/29175-large_default/chameleon-solar-anomalie.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-storm-surge-green",
+      "name": "Paint STORM SURGE GREEN",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/679-chameleon-storm-surge-green.html",
+      "image": "https://www.greenstuffworld.com/28882-large_default/chameleon-storm-surge-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-toxic-purple",
+      "name": "Paint TOXIC PURPLE",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/680-chameleon-toxic-purple.html",
+      "image": "https://www.greenstuffworld.com/28889-large_default/chameleon-toxic-purple.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--paint-tropical-green",
+      "name": "Paint TROPICAL GREEN",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/681-chameleon-tropical-green.html",
+      "image": "https://www.greenstuffworld.com/29138-large_default/chameleon-tropical-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--pale-flesh",
@@ -1853,12 +2981,15 @@
       "set": "Acrylic Colors",
       "hex": "#E8B9A7",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1053-acrylic-color-pale-flesh.html",
+      "image": "https://www.greenstuffworld.com/28951-large_default/acrylic-color-pale-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Embrace",
         "hex": "#E8B8A7",
         "delta_e": 0.59
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--papyrus-dip",
@@ -1867,12 +2998,15 @@
       "set": "Dipping Inks",
       "hex": "#6E4E1B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3332-dipping-ink-17-ml-papyrus-dip.html",
+      "image": "https://www.greenstuffworld.com/30760-large_default/dipping-ink-17-ml-papyrus-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Trojan Horse Brown",
         "hex": "#775020",
         "delta_e": 3.0
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--parchment",
@@ -1881,12 +3015,15 @@
       "set": "Acrylic Colors",
       "hex": "#E1C095",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1853-acrylic-color-parchment.html",
+      "image": "https://www.greenstuffworld.com/29281-large_default/acrylic-color-parchment.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dapper Dingo",
         "hex": "#E2C299",
         "delta_e": 0.73
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--peach-flesh",
@@ -1895,12 +3032,15 @@
       "set": "Acrylic Colors",
       "hex": "#E47700",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1059-acrylic-color-peach-flesh.html",
+      "image": "https://www.greenstuffworld.com/30066-large_default/acrylic-color-peach-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pumpkin Soup",
         "hex": "#E17701",
         "delta_e": 0.63
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--pecatum-flesh",
@@ -1909,12 +3049,15 @@
       "set": "Wash Ink",
       "hex": "#F4929F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/778-wash-ink-pecatum-flesh.html",
+      "image": "https://www.greenstuffworld.com/29132-large_default/wash-ink-pecatum-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cherry Foam",
         "hex": "#F392A0",
         "delta_e": 0.42
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--persian-violet",
@@ -1923,12 +3066,15 @@
       "set": "Metallic Colors",
       "hex": "#412480",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/926-metallic-paint-persian-violet.html",
+      "image": "https://www.greenstuffworld.com/29174-large_default/metallic-paint-persian-violet.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Galactic Civilization",
         "hex": "#442288",
         "delta_e": 1.52
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--phantom-violet",
@@ -1937,12 +3083,15 @@
       "set": "Acrylic Colors",
       "hex": "#7D367C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1865-acrylic-color-phantom-violet.html",
+      "image": "https://www.greenstuffworld.com/30319-large_default/acrylic-color-phantom-violet.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sparkling Grape",
         "hex": "#82387E",
         "delta_e": 1.17
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--phoenix-orange",
@@ -1951,12 +3100,27 @@
       "set": "Intensity Ink",
       "hex": "#F1A760",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/808-intensity-ink-phoenix-orange.html",
+      "image": "https://www.greenstuffworld.com/28980-large_default/intensity-ink-phoenix-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Lion of Menecrates",
         "hex": "#EEAA66",
         "delta_e": 1.36
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--pickle-green",
+      "name": "Pickle Green",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3209-opaque-colors-pickle-green.html",
+      "image": "https://www.greenstuffworld.com/29090-large_default/opaque-colors-pickle-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--pinky-blue",
@@ -1971,6 +3135,18 @@
         "hex": "#74CED2",
         "delta_e": 0.79
       }
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--primaris-red",
+      "name": "Primaris Red",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3202-opaque-colors-primaris-red.html",
+      "image": "https://www.greenstuffworld.com/30139-large_default/opaque-colors-primaris-red.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/gloss-surface--primer-black",
@@ -2063,12 +3239,15 @@
       "set": "Acrylic Colors",
       "hex": "#00416B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1867-acrylic-color-prussian-blue.html",
+      "image": "https://www.greenstuffworld.com/29303-large_default/acrylic-color-prussian-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Indigo Dye",
         "hex": "#00416C",
         "delta_e": 0.25
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--prussian-green",
@@ -2077,12 +3256,15 @@
       "set": "Acrylic Colors",
       "hex": "#152E1B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1191-acrylic-color-prussian-green.html",
+      "image": "https://www.greenstuffworld.com/30050-large_default/acrylic-color-prussian-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Méi Hēi Coal",
         "hex": "#123120",
         "delta_e": 1.96
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--psychotic-illusions",
@@ -2105,12 +3287,27 @@
       "set": "Dipping Inks",
       "hex": "#392E56",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3301-dipping-ink-17-ml-purple-vanity-dip.html",
+      "image": "https://www.greenstuffworld.com/30858-large_default/dipping-ink-17-ml-purple-vanity-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Midnight Pie",
         "hex": "#372D52",
         "delta_e": 1.02
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--putrid-green",
+      "name": "Putrid Green",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3198-opaque-colors-putrid-green.html",
+      "image": "https://www.greenstuffworld.com/29076-large_default/opaque-colors-putrid-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--quartz-magenta",
@@ -2119,12 +3316,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#EA86AA",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/946-candy-ink-quartz-magenta.html",
+      "image": "https://www.greenstuffworld.com/28959-large_default/candy-ink-quartz-magenta.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Aurora Pink",
         "hex": "#E881A6",
         "delta_e": 1.21
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--quicksand-brown",
@@ -2133,12 +3333,15 @@
       "set": "Acrylic Colors",
       "hex": "#7D4A1B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1064-acrylic-color-quicksand-brown.html",
+      "image": "https://www.greenstuffworld.com/29161-large_default/acrylic-color-quicksand-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Milk Chocolate",
         "hex": "#7F4E1E",
         "delta_e": 1.42
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--quicksilver",
@@ -2147,12 +3350,15 @@
       "set": "Metallic Colors",
       "hex": "#E0E3E8",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/912-metallic-paint-quicksilver.html",
+      "image": "https://www.greenstuffworld.com/29128-large_default/metallic-paint-quicksilver.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "White Iris",
         "hex": "#DFE2E7",
         "delta_e": 0.22
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--radiant-orange-dip",
@@ -2161,12 +3367,15 @@
       "set": "Dipping Inks",
       "hex": "#844406",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3330-dipping-ink-17-ml-radiant-orange-dip.html",
+      "image": "https://www.greenstuffworld.com/28996-large_default/dipping-ink-17-ml-radiant-orange-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Chocolate Pancakes",
         "hex": "#884400",
         "delta_e": 1.1
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--ranger-green",
@@ -2175,12 +3384,15 @@
       "set": "Acrylic Colors",
       "hex": "#38352E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1878-acrylic-color-ranger-green.html",
+      "image": "https://www.greenstuffworld.com/28823-large_default/acrylic-color-ranger-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Acadia",
         "hex": "#35312C",
         "delta_e": 1.95
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--red",
@@ -2189,12 +3401,15 @@
       "set": "Fluor Metallic",
       "hex": "#F03C25",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/766-fluor-paint-red.html",
+      "image": "https://www.greenstuffworld.com/29230-large_default/fluor-paint-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Tomato",
         "hex": "#EF4026",
         "delta_e": 0.56
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--red-cloak-dip",
@@ -2203,12 +3418,15 @@
       "set": "Dipping Inks",
       "hex": "#B2655D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3329-dipping-ink-17-ml-red-cloak-dip.html",
+      "image": "https://www.greenstuffworld.com/29440-large_default/dipping-ink-17-ml-red-cloak-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pineapple Blossom",
         "hex": "#B4655C",
         "delta_e": 0.59
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--red-goblin",
@@ -2231,12 +3449,15 @@
       "set": "Dipping Inks",
       "hex": "#BB2320",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3298-dipping-ink-17-ml-red-opulence-dip.html",
+      "image": "https://www.greenstuffworld.com/30866-large_default/dipping-ink-17-ml-red-opulence-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Red Inferno",
         "hex": "#BB1E1E",
         "delta_e": 0.53
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--red-truth",
@@ -2245,12 +3466,15 @@
       "set": "Acrylic Colors",
       "hex": "#EC2005",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1861-acrylic-color-red-truth.html",
+      "image": "https://www.greenstuffworld.com/29401-large_default/acrylic-color-red-truth.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Uproar Red",
         "hex": "#EE1100",
         "delta_e": 0.72
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--redwood-brown",
@@ -2259,12 +3483,15 @@
       "set": "Acrylic Colors",
       "hex": "#3E0D00",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1062-acrylic-color-redwood-brown.html",
+      "image": "https://www.greenstuffworld.com/29264-large_default/acrylic-color-redwood-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Red Bean",
         "hex": "#3D0C02",
         "delta_e": 0.98
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--rocket-green",
@@ -2273,12 +3500,15 @@
       "set": "Acrylic Colors",
       "hex": "#415E24",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1179-acrylic-color-rocket-green.html",
+      "image": "https://www.greenstuffworld.com/30299-large_default/acrylic-color-rocket-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Obscure Olive",
         "hex": "#4A5D23",
         "delta_e": 2.67
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--rose",
@@ -2287,12 +3517,15 @@
       "set": "Fluor Metallic",
       "hex": "#F470A1",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/767-fluor-paint-rose.html",
+      "image": "https://www.greenstuffworld.com/29212-large_default/fluor-paint-rose.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "French Pink",
         "hex": "#FD6C9E",
         "delta_e": 1.79
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--rotten-green",
@@ -2301,12 +3534,15 @@
       "set": "Acrylic Colors",
       "hex": "#77932C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1874-acrylic-color-rotten-green.html",
+      "image": "https://www.greenstuffworld.com/29117-large_default/acrylic-color-rotten-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Siskin Sprout",
         "hex": "#7A942E",
         "delta_e": 0.64
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--royal-burgundy",
@@ -2329,12 +3565,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#F5904C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/943-candy-ink-ruby-red.html",
+      "image": "https://www.greenstuffworld.com/29205-large_default/candy-ink-ruby-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Poppy Glow",
         "hex": "#F18C49",
         "delta_e": 1.14
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--sacra-purple",
@@ -2343,12 +3582,15 @@
       "set": "Intensity Ink",
       "hex": "#8869B9",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/812-intensity-ink-sacra-purple.html",
+      "image": "https://www.greenstuffworld.com/30395-large_default/intensity-ink-sacra-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Lavish Spending",
         "hex": "#8469BC",
         "delta_e": 1.3
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--sandstorm",
@@ -2357,12 +3599,15 @@
       "set": "Acrylic Colors",
       "hex": "#BF9F66",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1189-acrylic-color-sandstorm.html",
+      "image": "https://www.greenstuffworld.com/34427-large_default/acrylic-color-sandstorm.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Desert Moss",
         "hex": "#BEA166",
         "delta_e": 1.27
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--sangria-red",
@@ -2371,12 +3616,15 @@
       "set": "Acrylic Colors",
       "hex": "#5E0A0A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1035-acrylic-color-sangria-red.html",
+      "image": "https://www.greenstuffworld.com/29222-large_default/acrylic-color-sangria-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sacramental Red",
         "hex": "#5E0E0B",
         "delta_e": 0.65
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--sanguinem-red",
@@ -2385,12 +3633,15 @@
       "set": "Intensity Ink",
       "hex": "#FF6050",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/809-intensity-ink-sanguinem-red.html",
+      "image": "https://www.greenstuffworld.com/30874-large_default/intensity-ink-sanguinem-red.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pickled Salmon",
         "hex": "#FF6655",
         "delta_e": 1.1
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--sapphire-blue",
@@ -2399,12 +3650,27 @@
       "set": "Candy Ink Metallic",
       "hex": "#ACC9FF",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/950-candy-ink-sapphire-blue.html",
+      "image": "https://www.greenstuffworld.com/29204-large_default/candy-ink-sapphire-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Night Snow",
         "hex": "#AACCFF",
         "delta_e": 1.51
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--scab-red",
+      "name": "Scab Red",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3201-opaque-colors-scab-red.html",
+      "image": "https://www.greenstuffworld.com/30131-large_default/opaque-colors-scab-red.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--scorched-wood",
@@ -2413,12 +3679,15 @@
       "set": "Acrylic Colors",
       "hex": "#24110A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1177-acrylic-color-scorched-wood.html",
+      "image": "https://www.greenstuffworld.com/29110-large_default/acrylic-color-scorched-wood.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Severely Burnt Toast",
         "hex": "#241005",
         "delta_e": 1.2
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--sepia-vetus",
@@ -2427,12 +3696,15 @@
       "set": "Intensity Ink",
       "hex": "#ABA269",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/816-intensity-ink-sepia-vetus.html",
+      "image": "https://www.greenstuffworld.com/30882-large_default/intensity-ink-sepia-vetus.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Wavy Glass",
         "hex": "#AEA266",
         "delta_e": 1.17
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--seraphim-flesh-dip",
@@ -2441,12 +3713,15 @@
       "set": "Dipping Inks",
       "hex": "#BC6F51",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3306-dipping-ink-17-ml-seraphim-flesh-dip.html",
+      "image": "https://www.greenstuffworld.com/29133-large_default/dipping-ink-17-ml-seraphim-flesh-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Firenze",
         "hex": "#BC7256",
         "delta_e": 1.1
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--sharkfin-blue",
@@ -2455,12 +3730,15 @@
       "set": "Metallic Colors",
       "hex": "#95CAF6",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/907-metallic-paint-sharkfin-blue.html",
+      "image": "https://www.greenstuffworld.com/29171-large_default/metallic-paint-sharkfin-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Clear Sky",
         "hex": "#8ECCFE",
         "delta_e": 1.55
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--shiny-gold",
@@ -2469,12 +3747,15 @@
       "set": "Metallic Colors",
       "hex": "#BFA22C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/923-metallic-paint-shiny-gold.html",
+      "image": "https://www.greenstuffworld.com/28861-large_default/metallic-paint-shiny-gold.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Wet Leaf",
         "hex": "#B9A023",
         "delta_e": 1.57
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--sirenscale-green",
@@ -2483,12 +3764,15 @@
       "set": "Metallic Colors",
       "hex": "#05C18E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/915-metallic-paint-sirenscale-green.html",
+      "image": "https://www.greenstuffworld.com/29422-large_default/metallic-paint-sirenscale-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cōng Lǜ Green",
         "hex": "#01C08D",
         "delta_e": 0.28
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--skeleton-brown-dip",
@@ -2497,12 +3781,15 @@
       "set": "Dipping Inks",
       "hex": "#4E3E25",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3321-dipping-ink-17-ml-skeleton-brown-dip.html",
+      "image": "https://www.greenstuffworld.com/30116-large_default/dipping-ink-17-ml-skeleton-brown-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Witch’s Cottage",
         "hex": "#4C3D29",
         "delta_e": 1.96
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--skull-linen-dip",
@@ -2511,12 +3798,15 @@
       "set": "Dipping Inks",
       "hex": "#A2A19D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3297-dipping-ink-17-ml-skull-linen-dip.html",
+      "image": "https://www.greenstuffworld.com/30870-large_default/dipping-ink-17-ml-skull-linen-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Gateway Grey",
         "hex": "#A0A09C",
         "delta_e": 0.66
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--slate-grey",
@@ -2525,12 +3815,15 @@
       "set": "Acrylic Colors",
       "hex": "#565656",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1068-acrylic-color-slate-grey.html",
+      "image": "https://www.greenstuffworld.com/30473-large_default/acrylic-color-slate-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Stone Cold",
         "hex": "#555555",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--smoked-blue",
@@ -2539,12 +3832,15 @@
       "set": "Acrylic Colors",
       "hex": "#55677F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1870-acrylic-color-smoked-blue.html",
+      "image": "https://www.greenstuffworld.com/29115-large_default/acrylic-color-smoked-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dana",
         "hex": "#576780",
         "delta_e": 1.09
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--solar-anomalie",
@@ -2567,12 +3863,15 @@
       "set": "Acrylic Colors",
       "hex": "#7D6C72",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1879-acrylic-color-starship-grey.html",
+      "image": "https://www.greenstuffworld.com/30309-large_default/acrylic-color-starship-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Gothic Spire",
         "hex": "#7C6B6F",
         "delta_e": 1.07
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--steampunk-copper",
@@ -2581,12 +3880,15 @@
       "set": "Metallic Colors",
       "hex": "#DDA37E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/906-metallic-paint-steampunk-copper.html",
+      "image": "https://www.greenstuffworld.com/29029-large_default/metallic-paint-steampunk-copper.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Nice Tan",
         "hex": "#DBA37E",
         "delta_e": 0.53
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--steel-grey",
@@ -2595,12 +3897,15 @@
       "set": "Acrylic Colors",
       "hex": "#2A333C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1070-acrylic-color-steel-grey.html",
+      "image": "https://www.greenstuffworld.com/28920-large_default/acrylic-color-steel-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Chimney Sweep",
         "hex": "#272F38",
         "delta_e": 1.33
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--storm-surge-green",
@@ -2623,12 +3928,15 @@
       "set": "Acrylic Colors",
       "hex": "#0268B0",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1040-acrylic-color-summersea-blue.html",
+      "image": "https://www.greenstuffworld.com/28810-large_default/acrylic-color-summersea-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Wing Commander",
         "hex": "#0065AC",
         "delta_e": 1.1
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--sun-bleached-bone",
@@ -2637,12 +3945,15 @@
       "set": "Acrylic Colors",
       "hex": "#D1904E",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1051-acrylic-color-sun-bleached-bone.html",
+      "image": "https://www.greenstuffworld.com/29209-large_default/acrylic-color-sun-bleached-bone.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Cold Pilsner",
         "hex": "#D09351",
         "delta_e": 1.23
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--swamp-brown",
@@ -2651,12 +3962,15 @@
       "set": "Intensity Ink",
       "hex": "#A85D46",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/804-intensity-ink-swamp-brown.html",
+      "image": "https://www.greenstuffworld.com/30375-large_default/intensity-ink-swamp-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Colourful Leaves",
         "hex": "#AA5C43",
         "delta_e": 0.83
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--temple-ochre",
@@ -2665,12 +3979,15 @@
       "set": "Acrylic Colors",
       "hex": "#CA9F5B",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1855-acrylic-color-temple-ochre.html",
+      "image": "https://www.greenstuffworld.com/28814-large_default/acrylic-color-temple-ochre.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Warm Leather",
         "hex": "#C89F59",
         "delta_e": 0.86
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--tenebris-blue",
@@ -2679,12 +3996,27 @@
       "set": "Intensity Ink",
       "hex": "#676FD1",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/813-intensity-ink-tenebris-blue.html",
+      "image": "https://www.greenstuffworld.com/28988-large_default/intensity-ink-tenebris-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "C64 Purple",
         "hex": "#6F6ED1",
         "delta_e": 1.77
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--terror-grey-blue",
+      "name": "Terror Grey-Blue",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3210-opaque-colors-terror-grey-blue.html",
+      "image": "https://www.greenstuffworld.com/30161-large_default/opaque-colors-terror-grey-blue.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--tiger-brown",
@@ -2693,12 +4025,15 @@
       "set": "Acrylic Colors",
       "hex": "#F19200",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1856-acrylic-color-tiger-brown.html",
+      "image": "https://www.greenstuffworld.com/30094-large_default/acrylic-color-tiger-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Shiritorier’s Orange",
         "hex": "#F19000",
         "delta_e": 0.72
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/candy-ink-metallic--tiger-eye-brown",
@@ -2707,12 +4042,15 @@
       "set": "Candy Ink Metallic",
       "hex": "#E8C196",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/947-candy-ink-tiger-eye-brown.html",
+      "image": "https://www.greenstuffworld.com/30756-large_default/candy-ink-tiger-eye-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Laksa",
         "hex": "#E6BF95",
         "delta_e": 0.57
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/metallic-colors--tinmetal-grey",
@@ -2721,12 +4059,15 @@
       "set": "Metallic Colors",
       "hex": "#B9ADAD",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/908-metallic-paint-tinmetal-grey.html",
+      "image": "https://www.greenstuffworld.com/28849-large_default/metallic-paint-tinmetal-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fairy Bubbles",
         "hex": "#BCB0B1",
         "delta_e": 0.99
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/chameleon-colorshift-metallic--toxic-purple",
@@ -2763,12 +4104,27 @@
       "set": "Acrylic Colors",
       "hex": "#33AFA5",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1042-acrylic-color-tropical-turquoise.html",
+      "image": "https://www.greenstuffworld.com/28907-large_default/acrylic-color-tropical-turquoise.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Island Moment",
         "hex": "#3FB2A8",
         "delta_e": 1.16
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--turquoise",
+      "name": "Turquoise",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/1886-fluor-paint-turquoise.html",
+      "image": "https://www.greenstuffworld.com/30371-large_default/fluor-paint-turquoise.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--turquoise-ghost-dip",
@@ -2777,12 +4133,15 @@
       "set": "Dipping Inks",
       "hex": "#055145",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3311-dipping-ink-17-ml-turquoise-ghost-dip.html",
+      "image": "https://www.greenstuffworld.com/29545-large_default/dipping-ink-17-ml-turquoise-ghost-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Fjord Green",
         "hex": "#005043",
         "delta_e": 0.64
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--ultramar-blue",
@@ -2791,12 +4150,15 @@
       "set": "Acrylic Colors",
       "hex": "#343468",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1868-acrylic-color-ultramar-blue.html",
+      "image": "https://www.greenstuffworld.com/29226-large_default/acrylic-color-ultramar-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Deep Koamaru",
         "hex": "#343467",
         "delta_e": 0.24
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--valkyrie-yellow",
@@ -2805,12 +4167,15 @@
       "set": "Acrylic Colors",
       "hex": "#E7D96C",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1186-acrylic-color-valkyrie-yellow.html",
+      "image": "https://www.greenstuffworld.com/30046-large_default/acrylic-color-valkyrie-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Straw",
         "hex": "#E4D96F",
         "delta_e": 0.91
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--vanilla-drop",
@@ -2819,12 +4184,15 @@
       "set": "Acrylic Colors",
       "hex": "#FEE591",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1852-acrylic-color-vanilla-drop.html",
+      "image": "https://www.greenstuffworld.com/30083-large_default/acrylic-color-vanilla-drop.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Swallowtail",
         "hex": "#FFE690",
         "delta_e": 0.38
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/wash-ink--vicious-purple",
@@ -2833,12 +4201,15 @@
       "set": "Wash Ink",
       "hex": "#8767BA",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/779-wash-ink-vicious-purple.html",
+      "image": "https://www.greenstuffworld.com/28867-large_default/wash-ink-vicious-purple.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Lavish Spending",
         "hex": "#8469BC",
         "delta_e": 1.16
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--violet",
@@ -2847,12 +4218,15 @@
       "set": "Fluor Metallic",
       "hex": "#BE68E3",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/768-fluor-paint-violet.html",
+      "image": "https://www.greenstuffworld.com/28976-large_default/fluor-paint-violet.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Lavender",
         "hex": "#B56EDC",
         "delta_e": 2.09
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--violet-hint-dip",
@@ -2861,12 +4235,15 @@
       "set": "Dipping Inks",
       "hex": "#9A82BC",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3303-dipping-ink-17-ml-violet-hint-dip.html",
+      "image": "https://www.greenstuffworld.com/30850-large_default/dipping-ink-17-ml-violet-hint-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Purple Mountains’ Majesty",
         "hex": "#9D81BA",
         "delta_e": 1.15
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--viridian-green",
@@ -2875,12 +4252,15 @@
       "set": "Acrylic Colors",
       "hex": "#019A88",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1873-acrylic-color-viridian-green.html",
+      "image": "https://www.greenstuffworld.com/30110-large_default/acrylic-color-viridian-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Flamboyant Teal",
         "hex": "#129C8B",
         "delta_e": 0.88
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--viridis-green",
@@ -2889,12 +4269,15 @@
       "set": "Intensity Ink",
       "hex": "#5AA38F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/807-intensity-ink-viridis-green.html",
+      "image": "https://www.greenstuffworld.com/30381-large_default/intensity-ink-viridis-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Jargon Jade",
         "hex": "#53A38F",
         "delta_e": 0.92
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/intensity-ink--walnut-brown",
@@ -2903,12 +4286,15 @@
       "set": "Intensity Ink",
       "hex": "#776C5A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-inks/815-intensity-ink-walnut-brown.html",
+      "image": "https://www.greenstuffworld.com/29165-large_default/intensity-ink-walnut-brown.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Toasted Walnut",
         "hex": "#746A5A",
         "delta_e": 1.16
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--warcry-green",
@@ -2917,12 +4303,15 @@
       "set": "Acrylic Colors",
       "hex": "#3E6121",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1046-acrylic-color-warcry-green.html",
+      "image": "https://www.greenstuffworld.com/29225-large_default/acrylic-color-warcry-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Rainforest Matcha",
         "hex": "#446019",
         "delta_e": 2.42
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--white",
@@ -2931,12 +4320,15 @@
       "set": "Fluor Metallic",
       "hex": "#FFFFFF",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/770-fluor-paint-white.html",
+      "image": "https://www.greenstuffworld.com/29457-large_default/fluor-paint-white.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "White",
         "hex": "#FFFFFF",
         "delta_e": 0.0
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--whitecap-beige",
@@ -2945,12 +4337,27 @@
       "set": "Acrylic Colors",
       "hex": "#D6C4B0",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1885-acrylic-color-whitecap-beige.html",
+      "image": "https://www.greenstuffworld.com/30102-large_default/acrylic-color-whitecap-beige.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Wisp of Cocoa",
         "hex": "#D9C6B2",
         "delta_e": 0.71
-      }
+      },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "greenstuffworld/opaque-colors--wilted-green",
+      "name": "Wilted Green",
+      "code": null,
+      "set": "Opaque Colors",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.greenstuffworld.com/en/opaque-colors/3208-opaque-colors-wilted-green.html",
+      "image": "https://www.greenstuffworld.com/29082-large_default/opaque-colors-wilted-green.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--wolven-grey",
@@ -2959,12 +4366,15 @@
       "set": "Acrylic Colors",
       "hex": "#B0B6C6",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1065-acrylic-color-wolven-grey.html",
+      "image": "https://www.greenstuffworld.com/29061-large_default/acrylic-color-wolven-grey.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Brother Blue",
         "hex": "#B0B7C6",
         "delta_e": 0.8
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--wonka-violet",
@@ -2973,12 +4383,15 @@
       "set": "Acrylic Colors",
       "hex": "#771641",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1864-acrylic-color-wonka-violet.html",
+      "image": "https://www.greenstuffworld.com/29144-large_default/acrylic-color-wonka-violet.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Her Fierceness",
         "hex": "#6F123C",
         "delta_e": 1.74
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--yellow",
@@ -2987,12 +4400,15 @@
       "set": "Fluor Metallic",
       "hex": "#F8FB48",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/763-fluor-paint-yellow.html",
+      "image": "https://www.greenstuffworld.com/29228-large_default/fluor-paint-yellow.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sylph of Light",
         "hex": "#F7FB4E",
         "delta_e": 0.54
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--yellow-submarine-dip",
@@ -3001,12 +4417,15 @@
       "set": "Dipping Inks",
       "hex": "#BD9C0F",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3307-dipping-ink-17-ml-yellow-submarine-dip.html",
+      "image": "https://www.greenstuffworld.com/30846-large_default/dipping-ink-17-ml-yellow-submarine-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Perennial",
         "hex": "#BC9B08",
         "delta_e": 0.35
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--yellow-brown-ops",
@@ -3015,12 +4434,15 @@
       "set": "Acrylic Colors",
       "hex": "#8A5E21",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1185-acrylic-color-yellow-brown-ops.html",
+      "image": "https://www.greenstuffworld.com/29274-large_default/acrylic-color-yellow-brown-ops.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Grizzly",
         "hex": "#885818",
         "delta_e": 2.21
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/fluor-metallic--yellow-orange",
@@ -3029,12 +4451,15 @@
       "set": "Fluor Metallic",
       "hex": "#F89D68",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/764-fluor-paint-yellow-orange.html",
+      "image": "https://www.greenstuffworld.com/28968-large_default/fluor-paint-yellow-orange.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Sharegaki Persimmon",
         "hex": "#FFA26B",
         "delta_e": 1.52
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--yoda-green",
@@ -3043,12 +4468,15 @@
       "set": "Acrylic Colors",
       "hex": "#557C5D",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1876-acrylic-color-yoda-green.html",
+      "image": "https://www.greenstuffworld.com/29326-large_default/acrylic-color-yoda-green.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Green Mantle",
         "hex": "#5B7C5B",
         "delta_e": 1.69
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--zima-blue",
@@ -3057,12 +4485,15 @@
       "set": "Acrylic Colors",
       "hex": "#48A3C0",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1041-acrylic-color-zima-blue.html",
+      "image": "https://www.greenstuffworld.com/32458-large_default/acrylic-color-zima-blue.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Pottery Blue",
         "hex": "#54A6C2",
         "delta_e": 1.39
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/dipping-inks--zombie-dip",
@@ -3071,12 +4502,15 @@
       "set": "Dipping Inks",
       "hex": "#373B22",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/dipping-inks/3323-dipping-ink-17-ml-zombie-dip.html",
+      "image": "https://www.greenstuffworld.com/29081-large_default/dipping-ink-17-ml-zombie-dip.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Green Kelp",
         "hex": "#393D2A",
         "delta_e": 2.51
-      }
+      },
+      "last_seen": "2026-11-09"
     },
     {
       "id": "greenstuffworld/acrylic-colors--zombie-flesh",
@@ -3085,12 +4519,15 @@
       "set": "Acrylic Colors",
       "hex": "#C9AC6A",
       "status": "active",
+      "url": "https://www.greenstuffworld.com/en/acrylic-paints/1050-acrylic-color-zombie-flesh.html",
+      "image": "https://www.greenstuffworld.com/28912-large_default/acrylic-color-zombie-flesh.jpg",
       "color_source": "miniaturepainterpro",
       "nearest_color_name": {
         "name": "Dried Moss",
         "hex": "#C6AD6F",
         "delta_e": 1.34
-      }
+      },
+      "last_seen": "2026-11-09"
     }
   ]
 }
