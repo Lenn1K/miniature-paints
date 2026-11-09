@@ -301,6 +301,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "ak/ak11276",
+      "name": "Afro Shadow",
+      "code": "AK11276",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/afro-shadow-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11276.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak11877",
       "name": "Aggressor Blue Fs 35109",
       "code": "AK11877",
@@ -1068,6 +1080,18 @@
       }
     },
     {
+      "id": "ak/ak11278",
+      "name": "Beast Brown",
+      "code": "AK11278",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/beast-brown-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11278.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak11030",
       "name": "Beige",
       "code": "AK11030",
@@ -1206,6 +1230,18 @@
         "hex": "#222023",
         "delta_e": 0.75
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "ak/ak11270",
+      "name": "Black Purple",
+      "code": "AK11270",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/black-purple-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11270.jpg",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2410,6 +2446,18 @@
       }
     },
     {
+      "id": "ak/ak11273",
+      "name": "Cold Green",
+      "code": "AK11273",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/cold-green-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11273.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak11155",
       "name": "Command Green",
       "code": "AK11155",
@@ -2456,6 +2504,18 @@
         "hex": "#B87A59",
         "delta_e": 0.93
       }
+    },
+    {
+      "id": "ak/ak11119",
+      "name": "Cork",
+      "code": "AK11119",
+      "set": "Standard (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/cork-standard/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11119.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak3062",
@@ -3527,6 +3587,18 @@
         "hex": "#51412D",
         "delta_e": 1.82
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "ak/ak11272",
+      "name": "Dragon Blood",
+      "code": "AK11272",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/dragon-blood-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11272.jpg",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5205,6 +5277,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "ak/ak11274",
+      "name": "Greenskin Punch",
+      "code": "AK11274",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/greenskin-punch-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11274.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak2105",
       "name": "Grey (fs 36081)",
       "code": "AK2105",
@@ -6329,6 +6413,18 @@
         "hex": "#747028",
         "delta_e": 1.04
       }
+    },
+    {
+      "id": "ak/ak11271",
+      "name": "King Purple",
+      "code": "AK11271",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/king-purple-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11271.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak795",
@@ -7530,6 +7626,18 @@
         "hex": "#829D99",
         "delta_e": 0.65
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "ak/ak11205",
+      "name": "Metallic Green",
+      "code": "AK11205",
+      "set": "Metallic (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/metallic-green-metallic/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11205.jpg",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9238,6 +9346,18 @@
         "hex": "#B37E8C",
         "delta_e": 0.98
       }
+    },
+    {
+      "id": "ak/ak11073",
+      "name": "Purple",
+      "code": "AK11073",
+      "set": "Standard (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/purple-standard/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11073.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11039",
@@ -11667,6 +11787,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "ak/ak11277",
+      "name": "Russet Shadow",
+      "code": "AK11277",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/russet-shadow-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11277.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak031",
       "name": "Russian 4bo Base",
       "code": "AK031",
@@ -12499,6 +12631,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "ak/ak11275",
+      "name": "Slime Green",
+      "code": "AK11275",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/slime-green-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11275.jpg",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "ak/ak11028",
       "name": "Smoke Black",
       "code": "AK11028",
@@ -12657,6 +12801,18 @@
         "hex": "#041723",
         "delta_e": 1.29
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "ak/ak11279",
+      "name": "Sun Red",
+      "code": "AK11279",
+      "set": "Color Punch (3rd Gen)",
+      "hex": null,
+      "status": "new",
+      "url": "https://ak-interactive.com/product/sun-red-color-punch/",
+      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11279.jpg",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {

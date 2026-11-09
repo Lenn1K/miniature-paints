@@ -59,6 +59,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1000",
+      "name": "Absolution Green",
+      "code": "SM1000",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-absolution-green-sm1000p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1000P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--abyssal-black",
       "name": "Abyssal Black",
       "code": null,
@@ -121,6 +133,18 @@
         "hex": "#F1F3F3",
         "delta_e": 0.91
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw2004",
+      "name": "Aegis Suit Satin Varnish, 100 ml",
+      "code": "AW2004",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-aegis-suit-satin-varnish-100-ml-aw2004p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2004P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -497,6 +521,18 @@
       }
     },
     {
+      "id": "army-painter/aw2003",
+      "name": "Anti-shine Varnish, 100 ml",
+      "code": "AW2003",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-anti-shine-varnish-100-ml-aw2003p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2003P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--aqua-alchemy",
       "name": "Aqua Alchemy",
       "code": "WP3047",
@@ -675,6 +711,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/cp3029s",
+      "name": "Ash Grey",
+      "code": "CP3029S",
+      "set": "Warpaints Primer",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/colour-primers-colour-primer-ash-grey-cp3029s",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/CP3029S_0.jpg?v=1750957881",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--ashen-stone",
       "name": "Ashen Stone",
       "code": "WP2025",
@@ -689,6 +737,18 @@
         "hex": "#B4B9B9",
         "delta_e": 0.47
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4106",
+      "name": "Ashroot",
+      "code": "WP4106",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-ashroot-wp4106p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4106-PROMOWeb01.png?v=1773753844",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -743,6 +803,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1033",
+      "name": "Aztec Gold",
+      "code": "SM1033",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-aztec-gold-sm1033p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1033P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/metallic-colours-paint-set--azure-magic",
       "name": "Azure Magic",
       "code": null,
@@ -771,6 +843,18 @@
       }
     },
     {
+      "id": "army-painter/aw1486",
+      "name": "Azure Magic",
+      "code": "AW1486",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-azure-magic-aw1486p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1486P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1403",
       "name": "Babe Blonde",
       "code": "WP1403",
@@ -797,6 +881,18 @@
         "hex": "#C4A89E",
         "delta_e": 1.22
       }
+    },
+    {
+      "id": "army-painter/wp4005",
+      "name": "Banshee Brown",
+      "code": "WP4005",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-banshee-brown-wp4005p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4005P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--barbarian-flesh",
@@ -994,6 +1090,54 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1013",
+      "name": "Beowulf Blue",
+      "code": "SM1013",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-beowulf-blue-sm1013p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1013P_1.jpg?v=1755044166",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4059",
+      "name": "Beret Maroon",
+      "code": "WP4059",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-beret-maroon-wp4059p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4059P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4024",
+      "name": "Black Tone",
+      "code": "WP4024",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-black-tone-wp4024p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4024P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4014",
+      "name": "Blanched Berry",
+      "code": "WP4014",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-blanched-berry-wp4014p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4014P_0.png?v=1753488999",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--bleached-bone",
       "name": "Bleached Bone",
       "code": "AW4125",
@@ -1023,6 +1167,18 @@
         "hex": "#F4F4F0",
         "delta_e": 0.5
       }
+    },
+    {
+      "id": "army-painter/wp4004",
+      "name": "Blighted Green",
+      "code": "WP4004",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-blighted-green-wp4004p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4004P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/speedpaint-set-2-0--blinding-light",
@@ -1090,6 +1246,42 @@
       }
     },
     {
+      "id": "army-painter/sm1034",
+      "name": "Blood Red",
+      "code": "SM1034",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-blood-red-sm1034p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1034-PROMOWeb01.jpg?v=1754991670",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4117",
+      "name": "Blood Thorn",
+      "code": "WP4117",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-blood-thorn-wp4117p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4117-PROMOWeb01.png?v=1773753984",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4006",
+      "name": "Bloodmoon Red",
+      "code": "WP4006",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-bloodmoon-red-wp4006p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4006P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--blue-flux",
       "name": "Blue Flux",
       "code": null,
@@ -1102,6 +1294,18 @@
         "hex": "#0088BB",
         "delta_e": 1.14
       }
+    },
+    {
+      "id": "army-painter/aw1502",
+      "name": "Blue Flux",
+      "code": "AW1502",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-blue-flux-aw1502p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1502P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/quickshade-washes-set--blue-tone",
@@ -1197,6 +1401,30 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp3089",
+      "name": "Bony Spikes",
+      "code": "WP3089",
+      "set": "Warpaints Fanatic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-bony-spikes-wp3089p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3089P_0.jpg?v=1750957904",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4025",
+      "name": "Boot Brown",
+      "code": "WP4025",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-boot-brown-labelled-wp4025p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4025P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--bootstrap-brown",
       "name": "Bootstrap Brown",
       "code": "WP3074",
@@ -1245,6 +1473,30 @@
       }
     },
     {
+      "id": "army-painter/cp3031s",
+      "name": "Brainmatter Beige",
+      "code": "CP3031S",
+      "set": "Warpaints Primer",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/colour-primers-colour-primer-brainmatter-beige-cp3031s",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/CP3031S_0.jpg?v=1750957881",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4108",
+      "name": "Bramble Grove",
+      "code": "WP4108",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-bramble-grove-wp4108p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4108-PROMOWeb01.png?v=1773752982",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--brazen-copper",
       "name": "Brazen Copper",
       "code": null,
@@ -1257,6 +1509,30 @@
         "hex": "#6A3D36",
         "delta_e": 0.46
       }
+    },
+    {
+      "id": "army-painter/sm1031",
+      "name": "Brazen Copper",
+      "code": "SM1031",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-brazen-copper-sm1031p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1031P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw3421",
+      "name": "Brethil Blush",
+      "code": "AW3421",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-brethil-blush-aw3421p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW3421P_0.jpg?v=1750957879",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--brethil-flesh",
@@ -1302,6 +1578,18 @@
         "hex": "#40373E",
         "delta_e": 1.25
       }
+    },
+    {
+      "id": "army-painter/wp3073",
+      "name": "Brigandine Brown",
+      "code": "WP3073",
+      "set": "Warpaints Fanatic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-brigandine-brown-wp3073p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3073P_0.jpg?v=1750957904",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--bright-gold",
@@ -1383,6 +1671,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4060",
+      "name": "British Camo Green",
+      "code": "WP4060",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-british-camo-green-wp4060p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4060P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--broadsword-silver",
       "name": "Broadsword Silver",
       "code": "WP2030",
@@ -1400,6 +1700,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1024",
+      "name": "Broadsword Silver",
+      "code": "SM1024",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-broadsword-silver-sm1024p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1024P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--broodmother-purple",
       "name": "Broodmother Purple",
       "code": "AW3128",
@@ -1414,6 +1726,18 @@
         "hex": "#2F2A41",
         "delta_e": 2.48
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4036",
+      "name": "Brown Tone",
+      "code": "WP4036",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-brown-tone-wp4036p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4036P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1623,6 +1947,18 @@
       }
     },
     {
+      "id": "army-painter/wp4040",
+      "name": "Camo Brown",
+      "code": "WP4040",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-camo-brown-wp4040p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4040P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--camo-cloak",
       "name": "Camo Cloak",
       "code": "WP2008",
@@ -1652,6 +1988,18 @@
         "hex": "#536437",
         "delta_e": 0.85
       }
+    },
+    {
+      "id": "army-painter/wp4043",
+      "name": "Camo Sand",
+      "code": "WP4043",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-camo-sand-wp4043p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4043P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--camouflage-green",
@@ -1688,6 +2036,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4033",
+      "name": "Canvas",
+      "code": "WP4033",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-canvas-wp4033p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4033P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--caribbean-ocean",
       "name": "Caribbean Ocean",
       "code": "WP2046",
@@ -1702,6 +2062,18 @@
         "hex": "#00A9B8",
         "delta_e": 0.9
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1040",
+      "name": "Caribbean Ocean",
+      "code": "SM1040",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-caribbean-ocean-sm1040p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1040P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1956,6 +2328,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4049",
+      "name": "Command Red",
+      "code": "WP4049",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-command-red-wp4049p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4049P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1410",
       "name": "Commando Green",
       "code": "WP1410",
@@ -1968,6 +2352,18 @@
         "hex": "#847E35",
         "delta_e": 0.51
       }
+    },
+    {
+      "id": "army-painter/wp4058",
+      "name": "Commando Green",
+      "code": "WP4058",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-commando-green-wp4058p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4058P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--company-grey",
@@ -2098,6 +2494,18 @@
         "hex": "#D4915D",
         "delta_e": 1.2
       }
+    },
+    {
+      "id": "army-painter/sm1037",
+      "name": "Crusader Skin",
+      "code": "SM1037",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-crusader-skin-sm1037p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1037P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/wp1412",
@@ -2317,6 +2725,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4052",
+      "name": "Dark Battle Dress",
+      "code": "WP4052",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-dark-battle-dress-wp4052p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4052P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic-wash--dark-blue-tone",
       "name": "Dark Blue Tone",
       "code": "WP3211",
@@ -2334,6 +2754,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4026",
+      "name": "Dark Drab",
+      "code": "WP4026",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-dark-drab-wp4026p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4026P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--dark-emerald",
       "name": "Dark Emerald",
       "code": "WP3196",
@@ -2348,6 +2780,30 @@
         "hex": "#3E4826",
         "delta_e": 1.92
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4042",
+      "name": "Dark Feldgrau",
+      "code": "WP4042",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-dark-feldgrau-wp4042p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4042P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4023",
+      "name": "Dark Olive",
+      "code": "WP4023",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-dark-olive-wp4023p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4023P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2377,6 +2833,18 @@
         "hex": "#2F1212",
         "delta_e": 2.43
       }
+    },
+    {
+      "id": "army-painter/wp3166",
+      "name": "Dark Rust",
+      "code": "WP3166",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-dark-rust-wp3166p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3166P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic-wash--dark-skin-shade",
@@ -2500,6 +2968,18 @@
       }
     },
     {
+      "id": "army-painter/qs1003",
+      "name": "Dark Tone",
+      "code": "QS1003",
+      "set": "Quickshade Dip",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/quickshade-quickshade-dip-dark-tone-qs1003p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/QS1003P_0.jpg?v=1750952410",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--dark-wood",
       "name": "Dark Wood",
       "code": "WP2005",
@@ -2531,6 +3011,18 @@
       }
     },
     {
+      "id": "army-painter/sm1038",
+      "name": "Dark Wood",
+      "code": "SM1038",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-dark-wood-sm1038p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1038P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic-wash--data-system-glow",
       "name": "Data System Glow",
       "code": null,
@@ -2543,6 +3035,18 @@
         "hex": "#87C95F",
         "delta_e": 1.2
       }
+    },
+    {
+      "id": "army-painter/wp3177",
+      "name": "Data System Glow",
+      "code": "WP3177",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-data-system-glow-wp3177p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3177P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--death-metal",
@@ -2726,6 +3230,30 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1011",
+      "name": "Desolate Brown",
+      "code": "SM1011",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-desolate-brown-sm1011p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1011P_1.jpg?v=1755044166",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4109",
+      "name": "Dewpath",
+      "code": "WP4109",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-dewpath-wp4109p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4109-PROMOWeb01.png?v=1773753171",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--diabolic-plum",
       "name": "Diabolic Plum",
       "code": "WP3133",
@@ -2783,6 +3311,18 @@
         "hex": "#CEB301",
         "delta_e": 1.36
       }
+    },
+    {
+      "id": "army-painter/wp3163",
+      "name": "Disgusting Slime",
+      "code": "WP3163",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-disgusting-slime-wp3163p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3163P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--diviner-light",
@@ -2986,6 +3526,18 @@
         "hex": "#220011",
         "delta_e": 1.51
       }
+    },
+    {
+      "id": "army-painter/wp3164",
+      "name": "Dry Blood",
+      "code": "WP3164",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-dry-blood-wp3164p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3164P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/wp1479",
@@ -3216,6 +3768,18 @@
       }
     },
     {
+      "id": "army-painter/aw1483",
+      "name": "Elven Armor",
+      "code": "AW1483",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-elven-armor-aw1483p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1483P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/metallic-colours-paint-set--elven-armour",
       "name": "Elven Armour",
       "code": null,
@@ -3261,6 +3825,18 @@
       }
     },
     {
+      "id": "army-painter/wp4113",
+      "name": "Emberveil",
+      "code": "WP4113",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-emberveil-wp4113p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4113-PROMOWeb01.png?v=1773753954",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--emerald-forest",
       "name": "Emerald Forest",
       "code": "WP3055",
@@ -3275,6 +3851,18 @@
         "hex": "#68BD56",
         "delta_e": 1.59
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4009",
+      "name": "Emperor Gold",
+      "code": "WP4009",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-emperor-gold-wp4009p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4009P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -3324,6 +3912,30 @@
         "hex": "#4D585B",
         "delta_e": 0.74
       }
+    },
+    {
+      "id": "army-painter/sm1030",
+      "name": "Enchanted Steel",
+      "code": "SM1030",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-enchanted-steel-sm1030p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1030P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4028",
+      "name": "Ensign Blue",
+      "code": "WP4028",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-ensign-blue-wp4028p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4028P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--eternal-blue",
@@ -3433,6 +4045,18 @@
       }
     },
     {
+      "id": "army-painter/aw1491",
+      "name": "Evil Chrome",
+      "code": "AW1491",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-evil-chrome-aw1491p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1491P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--exile-green",
       "name": "Exile Green",
       "code": "AW4112",
@@ -3478,6 +4102,18 @@
       }
     },
     {
+      "id": "army-painter/wp4055",
+      "name": "Fair Skin",
+      "code": "WP4055",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-fair-skin-wp4055p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4055P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--fairy-dust",
       "name": "Fairy Dust",
       "code": null,
@@ -3504,6 +4140,18 @@
         "hex": "#AE3C29",
         "delta_e": 1.14
       }
+    },
+    {
+      "id": "army-painter/aw1489",
+      "name": "Fairy Dust",
+      "code": "AW1489",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-fairy-dust-aw1489p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1489P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--fairy-pink",
@@ -3537,6 +4185,18 @@
         "hex": "#D72E83",
         "delta_e": 0.89
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1008",
+      "name": "Familiar Pink",
+      "code": "SM1008",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-familiar-pink-sm1008p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1008P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -3653,6 +4313,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4010",
+      "name": "Fiery Vermilion",
+      "code": "WP4010",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-fiery-vermilion-wp4010p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4010P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--figgy-pink",
       "name": "Figgy Pink",
       "code": "WP3143",
@@ -3732,6 +4404,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1003",
+      "name": "Fire Giant Orange",
+      "code": "SM1003",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-fire-giant-orange-sm1003p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1003P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1426",
       "name": "Fire Lizard",
       "code": "WP1426",
@@ -3758,6 +4442,18 @@
         "hex": "#F6AA09",
         "delta_e": 0.13
       }
+    },
+    {
+      "id": "army-painter/wp4030",
+      "name": "Flag Red",
+      "code": "WP4030",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-red-flag-wp4030p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4030P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/wp1143",
@@ -3912,6 +4608,18 @@
       }
     },
     {
+      "id": "army-painter/wp3167",
+      "name": "Fresh Rust",
+      "code": "WP3167",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-fresh-rust-wp3167p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3167P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--frost-blue",
       "name": "Frost Blue",
       "code": null,
@@ -3940,6 +4648,18 @@
         "hex": "#98BDDD",
         "delta_e": 0.41
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4103",
+      "name": "Frostveil",
+      "code": "WP4103",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-frostveil-wp4103p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4103-PROMOWeb01.png?v=1773753818",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4053,6 +4773,18 @@
       }
     },
     {
+      "id": "army-painter/aw1503",
+      "name": "Gauss Green",
+      "code": "AW1503",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-gauss-green-aw1503p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1503P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--gelatinous-blue",
       "name": "Gelatinous Blue",
       "code": null,
@@ -4095,6 +4827,18 @@
       }
     },
     {
+      "id": "army-painter/aw1487",
+      "name": "Gemstone",
+      "code": "AW1487",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-gemstone-aw1487p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1487P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--gemstone-red",
       "name": "Gemstone Red",
       "code": "WP3198",
@@ -4109,6 +4853,18 @@
         "hex": "#801F23",
         "delta_e": 0.52
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4041",
+      "name": "German Camo Green",
+      "code": "WP4041",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-german-camo-green-wp4041p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4041P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4188,6 +4944,18 @@
       }
     },
     {
+      "id": "army-painter/wp4120",
+      "name": "Gladeshard",
+      "code": "WP4120",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-gladeshard-wp4120p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4120-PROMOWeb01.png?v=1773754061",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1476",
       "name": "Glistening Blood",
       "code": "WP1476",
@@ -4244,6 +5012,18 @@
       }
     },
     {
+      "id": "army-painter/aw1484",
+      "name": "Glitter Green",
+      "code": "AW1484",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-glitter-green-aw1484p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1484P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--glittering-green",
       "name": "Glittering Green",
       "code": "WP3197",
@@ -4278,6 +5058,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1029",
+      "name": "Glittering Loot",
+      "code": "SM1029",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-glittering-loot-sm1029p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1029P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1473",
       "name": "Gloss Varnish",
       "code": "WP1473",
@@ -4292,6 +5084,30 @@
         "hex": "#F7F7F7",
         "delta_e": 0.0
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp3173",
+      "name": "Gloss Varnish",
+      "code": "WP3173",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-gloss-varnish-wp3173p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3173P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw2005",
+      "name": "Gloss Varnish, 100 ml",
+      "code": "AW2005",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-gloss-varnish-100-ml-aw2005p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2005P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4422,6 +5238,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1028",
+      "name": "Golden Armour",
+      "code": "SM1028",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-golden-armour-sm1028p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1028P_0.png?v=1791986759",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1428",
       "name": "Gorgon Hide",
       "code": "WP1428",
@@ -4484,6 +5312,18 @@
       }
     },
     {
+      "id": "army-painter/sm1035",
+      "name": "Gravelord Grey",
+      "code": "SM1035",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-gravelord-grey-sm1035p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1035P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--great-hall-grey",
       "name": "Great Hall Grey",
       "code": "WP3009",
@@ -4544,6 +5384,30 @@
         "hex": "#A05822",
         "delta_e": 1.63
       }
+    },
+    {
+      "id": "army-painter/aw1132",
+      "name": "Greedy Gold",
+      "code": "AW1132",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-greedy-gold-aw1132p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1132P_0.jpg?v=1750957876",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/cp3028s",
+      "name": "Greedy Gold",
+      "code": "CP3028S",
+      "set": "Warpaints Primer",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/colour-primers-colour-primer-greedy-gold-cp3028s",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/CP3028S_0.jpg?v=1750957881",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--green-flame",
@@ -4763,6 +5627,42 @@
       }
     },
     {
+      "id": "army-painter/sm1020",
+      "name": "Grim Black",
+      "code": "SM1020",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-grim-black-sm1020p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1020P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4018",
+      "name": "Grim Rust",
+      "code": "WP4018",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-grim-rust-wp4018p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4018P_0.png?v=1753488999",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4008",
+      "name": "Grimdark Shadow",
+      "code": "WP4008",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-grimdark-shadow-wp4008p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4008P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1444",
       "name": "Grimoire Purple",
       "code": "WP1444",
@@ -4791,6 +5691,18 @@
         "hex": "#B3C39C",
         "delta_e": 0.63
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4121",
+      "name": "Grove Hollow Shade",
+      "code": "WP4121",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-grove-hollow-shade-wp4121p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4121-PROMOWeb01.png?v=1773753925",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4887,6 +5799,18 @@
       }
     },
     {
+      "id": "army-painter/aw1131",
+      "name": "Gun Metal",
+      "code": "AW1131",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-gun-metal-aw1131p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1131P_0.jpg?v=1750957876",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--gunner-camo",
       "name": "Gunner Camo",
       "code": "WP2043",
@@ -4949,6 +5873,18 @@
       }
     },
     {
+      "id": "army-painter/sm1005",
+      "name": "Hardened Leather",
+      "code": "SM1005",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-hardened-leather-sm1005p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1005P_1.jpg?v=1754991670",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--hazardous-smog",
       "name": "Hazardous Smog",
       "code": "AW3437",
@@ -4963,6 +5899,30 @@
         "hex": "#68A895",
         "delta_e": 1.65
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4114",
+      "name": "Hearthborn",
+      "code": "WP4114",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-hearthborn-wp4114p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4114-PROMOWeb01.png?v=1773754145",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4019",
+      "name": "Heavy Metal",
+      "code": "WP4019",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-heavy-metal-wp4019p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4019P_0.png?v=1750957908",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5076,6 +6036,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1032",
+      "name": "Hoard Bronze",
+      "code": "SM1032",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-hoard-bronze-sm1032p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1032P_1.jpg?v=1755044180",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--hobgoblin-hue",
       "name": "Hobgoblin Hue",
       "code": "AW4434",
@@ -5124,6 +6096,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1036",
+      "name": "Holy White",
+      "code": "SM1036",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-holy-white-sm1036p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1036P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--hoplite-gold",
       "name": "Hoplite Gold",
       "code": "WP2028",
@@ -5141,6 +6125,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1026",
+      "name": "Hoplite Gold",
+      "code": "SM1026",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-hoplite-gold-sm1026p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1026P_1.jpg?v=1754991683",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--hot-pink",
       "name": "Hot Pink",
       "code": null,
@@ -5153,6 +6149,18 @@
         "hex": "#C84186",
         "delta_e": 1.25
       }
+    },
+    {
+      "id": "army-painter/aw1506",
+      "name": "Hot Pink",
+      "code": "AW1506",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-hot-pink-aw1506p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1506P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/speedpaint-set-2-0--howling-sand",
@@ -5265,6 +6273,18 @@
         "hex": "#FFEEB0",
         "delta_e": 0.52
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4104",
+      "name": "Iceborn",
+      "code": "WP4104",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-iceborn-wp4104p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4104-PROMOWeb01.png?v=1773753057",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5384,6 +6404,30 @@
         "hex": "#354A55",
         "delta_e": 0.56
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4002",
+      "name": "Ironclad Grey",
+      "code": "WP4002",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-ironclad-grey-wp4002p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4002P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4001",
+      "name": "Ivory White",
+      "code": "WP4001",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-ivory-white-wp4001p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4001P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5697,6 +6741,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4050",
+      "name": "Leather Brown",
+      "code": "WP4050",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-leather-brown-wp4050p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4050P_0.png?v=1755856426",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--legendary-red",
       "name": "Legendary Red",
       "code": "WP3105",
@@ -5726,6 +6782,18 @@
         "hex": "#FEF263",
         "delta_e": 0.45
       }
+    },
+    {
+      "id": "army-painter/wp3178",
+      "name": "Lens Flare Glow",
+      "code": "WP3178",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-lens-flare-glow-wp3178p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3178P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--leopard-stone-skin",
@@ -5788,6 +6856,54 @@
         "hex": "#82817C",
         "delta_e": 1.1
       }
+    },
+    {
+      "id": "army-painter/wp4029",
+      "name": "Life Vest Yellow",
+      "code": "WP4029",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-life-vest-yellow-wp4029p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4029P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4051",
+      "name": "Light Battle Dress",
+      "code": "WP4051",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-light-battle-dress-wp4051p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4051P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4032",
+      "name": "Light Drab",
+      "code": "WP4032",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-light-drab-wp4032p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4032P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4045",
+      "name": "Light Feldgrau",
+      "code": "WP4045",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-light-feldgrau-wp4045p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4045P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/quickshade-washes-set--light-tone",
@@ -5928,6 +7044,18 @@
         "hex": "#107AB0",
         "delta_e": 0.52
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1002",
+      "name": "Magic Blue",
+      "code": "SM1002",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-magic-blue-sm1002p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1002P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6109,6 +7237,54 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4020",
+      "name": "Matt Black",
+      "code": "WP4020",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-matt-black-wp4020p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4020P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw2011",
+      "name": "Matt Black Primer, 100 ml",
+      "code": "AW2011",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-matt-black-primer-100-ml-aw2011p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2011P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw2010",
+      "name": "Matt Grey Primer, 100 ml",
+      "code": "AW2010",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-matt-grey-primer-100-ml-aw2010p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2010P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp3174",
+      "name": "Matt Varnish",
+      "code": "WP3174",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-matt-varnish-wp3174p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3174P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-air--matt-white",
       "name": "Matt White",
       "code": "AW1102",
@@ -6174,6 +7350,30 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4021",
+      "name": "Matt White",
+      "code": "WP4021",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-matt-white-wp4021p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4021P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw2012",
+      "name": "Matt White Primer, 100 ml",
+      "code": "AW2012",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-matt-white-primer-100-ml-aw2012p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW2012P_0.jpg?v=1750957878",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--medieval-forest",
       "name": "Medieval Forest",
       "code": "WP3062",
@@ -6191,6 +7391,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4022",
+      "name": "Medium Drab",
+      "code": "WP4022",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-medium-drab-wp4022p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4022P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--merfolk-turquoise",
       "name": "Merfolk Turquoise",
       "code": null,
@@ -6203,6 +7415,18 @@
         "hex": "#019196",
         "delta_e": 0.53
       }
+    },
+    {
+      "id": "army-painter/aw1144",
+      "name": "Metallics: Bright Gold",
+      "code": "AW1144",
+      "set": "Warpaints Air",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-bright-gold-aw1144p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1144P_0.jpg?v=1750957876",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--meteor-rock",
@@ -6219,6 +7443,18 @@
         "hex": "#D7B235",
         "delta_e": 1.15
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4054",
+      "name": "Mid Battle Dress",
+      "code": "WP4054",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-mid-battle-dress-wp4054p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4054P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6250,6 +7486,30 @@
       }
     },
     {
+      "id": "army-painter/wp4044",
+      "name": "Mid Feldgrau",
+      "code": "WP4044",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-mid-feldgrau-wp4044p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4044P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4012",
+      "name": "Midnight Olive",
+      "code": "WP4012",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-midnight-olive-wp4012p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4012P_0.png?v=1750957908",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic-wash--military-shade",
       "name": "Military Shade",
       "code": "WP3209",
@@ -6264,6 +7524,18 @@
         "hex": "#222200",
         "delta_e": 2.82
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4037",
+      "name": "Military Shade",
+      "code": "WP4037",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-military-shade-wp4037p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4037P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6501,6 +7773,18 @@
       }
     },
     {
+      "id": "army-painter/wp4003",
+      "name": "Moonbeam Yellow",
+      "code": "WP4003",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-moonbeam-yellow-wp4003p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4003P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--moonlake-coral",
       "name": "Moonlake Coral",
       "code": "WP2034",
@@ -6515,6 +7799,30 @@
         "hex": "#A63864",
         "delta_e": 2.58
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1009",
+      "name": "Moonlake Coral",
+      "code": "SM1009",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-moonlake-coral-sm1009p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1009P_1.jpg?v=1755044167",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4105",
+      "name": "Moonpetal",
+      "code": "WP4105",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-moonpetal-wp4105p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4105-PROMOWeb01.png?v=1773753112",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6578,6 +7886,18 @@
         "hex": "#446019",
         "delta_e": 2.21
       }
+    },
+    {
+      "id": "army-painter/wp4057",
+      "name": "Mud Spatter",
+      "code": "WP4057",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-mud-spatter-wp4057p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4057P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--mulled-berry",
@@ -6766,6 +8086,18 @@
       }
     },
     {
+      "id": "army-painter/aw1504",
+      "name": "Neon Yellow",
+      "code": "AW1504",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-neon-yellow-aw1504p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1504P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--neptune-glow",
       "name": "Neptune Glow",
       "code": "WP3041",
@@ -6811,6 +8143,18 @@
       }
     },
     {
+      "id": "army-painter/aw1490",
+      "name": "Night Scales",
+      "code": "AW1490",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-night-scales-aw1490p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1490P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--night-sky",
       "name": "Night Sky",
       "code": "WP3013",
@@ -6825,6 +8169,18 @@
         "hex": "#314459",
         "delta_e": 0.33
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4112",
+      "name": "Nightroot Shade",
+      "code": "WP4112",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-nightroot-shade-wp4112p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4112-PROMOWeb01.png?v=1773754089",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6927,6 +8283,18 @@
       }
     },
     {
+      "id": "army-painter/cp3030s",
+      "name": "Oak Brown",
+      "code": "CP3030S",
+      "set": "Warpaints Primer",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/colour-primers-colour-primer-oak-brown-cp3030s",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/CP3030S_0.jpg?v=1750957882",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/skin-tones-paint-set--obsidian-pigment-toner",
       "name": "Obsidian Pigment Toner",
       "code": null,
@@ -7023,6 +8391,18 @@
       }
     },
     {
+      "id": "army-painter/wp3169",
+      "name": "Oil Stains",
+      "code": "WP3169",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-oil-stains-wp3169p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3169P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--olive-drab",
       "name": "Olive Drab",
       "code": "WP3070",
@@ -7114,6 +8494,18 @@
         "hex": "#775511",
         "delta_e": 2.57
       }
+    },
+    {
+      "id": "army-painter/wp3170",
+      "name": "Oozing Vomit",
+      "code": "WP3170",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-oozing-vomit-wp3170p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3170P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/skin-tones-paint-set--opal-skin",
@@ -7240,6 +8632,18 @@
       }
     },
     {
+      "id": "army-painter/sm1022",
+      "name": "Orc Skin",
+      "code": "SM1022",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-orc-skin-sm1022p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1022P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--otyugh-brown",
       "name": "Otyugh Brown",
       "code": null,
@@ -7316,6 +8720,18 @@
       }
     },
     {
+      "id": "army-painter/sm1021",
+      "name": "Pallid Bone",
+      "code": "SM1021",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-pallid-bone-sm1021p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1021P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--paratrooper-tan",
       "name": "Paratrooper Tan",
       "code": "WP3076",
@@ -7330,6 +8746,18 @@
         "hex": "#96786D",
         "delta_e": 1.75
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4027",
+      "name": "Paratrooper Tan",
+      "code": "WP4027",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-paratrooper-tan-wp4027p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4027P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -7582,6 +9010,18 @@
       }
     },
     {
+      "id": "army-painter/wp4111",
+      "name": "Pine Hollow Shade",
+      "code": "WP4111",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-pine-hollow-shade-wp4111p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4111-PROMOWeb01.png?v=1773753005",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--pink-potion",
       "name": "Pink Potion",
       "code": "WP3125",
@@ -7673,6 +9113,18 @@
         "hex": "#70D4FB",
         "delta_e": 2.18
       }
+    },
+    {
+      "id": "army-painter/wp3176",
+      "name": "Plasma Coil Glow",
+      "code": "WP3176",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-plasma-coil-glow-wp3176p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3176P_0.jpg?v=1750957907",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/speedpaint-set--plasmatic-bolt",
@@ -7768,6 +9220,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/aw1130",
+      "name": "Plate Mail Metal",
+      "code": "AW1130",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-plate-mail-metal-aw1130p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1130P_0.jpg?v=1750957876",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1448",
       "name": "Poisonous Cloud",
       "code": "WP1448",
@@ -7794,6 +9258,18 @@
         "hex": "#888782",
         "delta_e": 0.0
       }
+    },
+    {
+      "id": "army-painter/sm1017",
+      "name": "Polished Silver",
+      "code": "SM1017",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-polished-silver-sm1017p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1017P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/speedpaint-set-2-0--poppy-red",
@@ -7842,6 +9318,18 @@
         "hex": "#FF88BB",
         "delta_e": 2.17
       }
+    },
+    {
+      "id": "army-painter/wp3180",
+      "name": "Power Node Glow",
+      "code": "WP3180",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-power-node-glow-wp3180p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3180P_0.jpg?v=1750957907",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--prairie-ochre",
@@ -8008,6 +9496,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1007",
+      "name": "Purple Swarm",
+      "code": "SM1007",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-purple-swarm-sm1007p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1007P_1.jpg?v=1754991670",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic-wash--purple-tone",
       "name": "Purple Tone",
       "code": "WP3212",
@@ -8126,6 +9626,18 @@
       }
     },
     {
+      "id": "army-painter/wp3179",
+      "name": "Radiation Glow",
+      "code": "WP3179",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-radiation-glow-wp3179p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3179P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--raging-rose",
       "name": "Raging Rose",
       "code": "WP3120",
@@ -8174,6 +9686,18 @@
         "hex": "#0094A5",
         "delta_e": 0.86
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1014",
+      "name": "Raging Sea",
+      "code": "SM1014",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-raging-sea-sm1014p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1014P_1.jpg?v=1755044166",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -8358,6 +9882,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4031",
+      "name": "Rifle Brown",
+      "code": "WP4031",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-rifle-brown-wp4031p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4031P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-underdark-set--rigid-leather",
       "name": "Rigid Leather",
       "code": null,
@@ -8389,6 +9925,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4119",
+      "name": "Rootpath",
+      "code": "WP4119",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-rootpath-wp4119p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4119-PROMOWeb01.png?v=1773753882",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--rosy-skin",
       "name": "Rosy Skin",
       "code": null,
@@ -8401,6 +9949,18 @@
         "hex": "#F4BB92",
         "delta_e": 0.96
       }
+    },
+    {
+      "id": "army-painter/wp4035",
+      "name": "Rosy Skin",
+      "code": "WP4035",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-rosy-skin-wp4035p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4035P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--rough-iron",
@@ -8446,6 +10006,18 @@
         "hex": "#20120E",
         "delta_e": 0.81
       }
+    },
+    {
+      "id": "army-painter/aw1468",
+      "name": "Rough Iron",
+      "code": "AW1468",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-rough-iron-aw1468p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1468P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--royal-blue",
@@ -8505,6 +10077,18 @@
         "hex": "#391531",
         "delta_e": 2.99
       }
+    },
+    {
+      "id": "army-painter/aw1488",
+      "name": "Royal Purple",
+      "code": "AW1488",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-royal-purple-aw1488p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1488P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/speedpaint-set-2-0--royal-robes",
@@ -8584,6 +10168,18 @@
         "hex": "#BA7A61",
         "delta_e": 0.95
       }
+    },
+    {
+      "id": "army-painter/wp4015",
+      "name": "Ruddy Terra",
+      "code": "WP4015",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-ruddy-terra-wp4015p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4015P_0.png?v=1753488999",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--ruddy-umber",
@@ -8668,6 +10264,30 @@
       }
     },
     {
+      "id": "army-painter/sm1039",
+      "name": "Runic Grey",
+      "code": "SM1039",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-runic-grey-sm1039p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1039P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4034",
+      "name": "Rust",
+      "code": "WP4034",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-rust-wp4034p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4034P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--rust-monster",
       "name": "Rust Monster",
       "code": null,
@@ -8730,6 +10350,18 @@
       }
     },
     {
+      "id": "army-painter/aw1505",
+      "name": "Safety Orange",
+      "code": "AW1505",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-safety-orange-aw1505p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1505P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set-2-0--sand-golem",
       "name": "Sand Golem",
       "code": "WP2020",
@@ -8759,6 +10391,18 @@
         "hex": "#BC9229",
         "delta_e": 0.68
       }
+    },
+    {
+      "id": "army-painter/sm1004",
+      "name": "Sand Golem",
+      "code": "SM1004",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-sand-golem-sm1004p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1004P_1.jpg?v=1754991682",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--sapphire-gem",
@@ -8871,6 +10515,18 @@
       }
     },
     {
+      "id": "army-painter/wp4107",
+      "name": "Shadow Thorn",
+      "code": "WP4107",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-shadow-thorn-wp4107p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4107-PROMOWeb01.png?v=1773753692",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments-wash--shadow-wash",
       "name": "Shadow Wash",
       "code": null,
@@ -8899,6 +10555,18 @@
         "hex": "#5CAC2D",
         "delta_e": 0.65
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1012",
+      "name": "Shamrock Green",
+      "code": "SM1012",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-shamrock-green-sm1012p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1012P_1.jpg?v=1755044167",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -8979,6 +10647,18 @@
         "hex": "#B2B1AF",
         "delta_e": 0.54
       }
+    },
+    {
+      "id": "army-painter/aw1129",
+      "name": "Shining Silver",
+      "code": "AW1129",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-shining-silver-aw1129p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1129P_0.jpg?v=1750957875",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--silver-dragon",
@@ -9074,6 +10754,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4110",
+      "name": "Skyshard",
+      "code": "WP4110",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-skyshard-wp4110p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4110-PROMOWeb01.png?v=1773753085",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/speedpaint-set--slaughter-red",
       "name": "Slaughter Red",
       "code": null,
@@ -9102,6 +10794,18 @@
         "hex": "#991122",
         "delta_e": 0.93
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/sm1001",
+      "name": "Slaughter Red",
+      "code": "SM1001",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-slaughter-red-sm1001p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1001P_1.jpg?v=1755044167",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9173,6 +10877,18 @@
         "hex": "#563D2D",
         "delta_e": 1.42
       }
+    },
+    {
+      "id": "army-painter/qs1001",
+      "name": "Soft Tone",
+      "code": "QS1001",
+      "set": "Quickshade Dip",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/quickshade-quickshade-dip-soft-tone-qs1001p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/QS1001P_0.jpg?v=1750952410",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--space-dust",
@@ -9251,6 +10967,18 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4038",
+      "name": "Steel",
+      "code": "WP4038",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-steel-wp4038p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4038P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-underdark-set--stirge-tan",
       "name": "Stirge Tan",
       "code": null,
@@ -9293,6 +11021,18 @@
         "hex": "#9BAFD0",
         "delta_e": 1.62
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4048",
+      "name": "Strap Grey",
+      "code": "WP4048",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-strap-grey-wp4048p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4048P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9389,6 +11129,18 @@
       }
     },
     {
+      "id": "army-painter/qs1002",
+      "name": "Strong Tone",
+      "code": "QS1002",
+      "set": "Quickshade Dip",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/quickshade-quickshade-dip-strong-tone-qs1002p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/QS1002P_0.jpg?v=1750952411",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/d-d-underdark-set--succubus-red",
       "name": "Succubus Red",
       "code": null,
@@ -9415,6 +11167,42 @@
         "hex": "#C68400",
         "delta_e": 0.71
       }
+    },
+    {
+      "id": "army-painter/wp4011",
+      "name": "Sunburst Ochre",
+      "code": "WP4011",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-sunburst-ochre-wp4011p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4011P_0.png?v=1750957908",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4115",
+      "name": "Sunpetal",
+      "code": "WP4115",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-sunpetal-wp4115p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4115-PROMOWeb01.png?v=1773754117",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4013",
+      "name": "Tainted Garden",
+      "code": "WP4013",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-tainted-garden-wp4013p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4013P_0.png?v=1750957908",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--tainted-gold",
@@ -9459,6 +11247,18 @@
         "hex": "#595438",
         "delta_e": 0.8
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/aw1482",
+      "name": "Tainted Gold",
+      "code": "AW1482",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-tainted-gold-aw1482p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1482P_0.jpg?v=1750957876",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9513,6 +11313,30 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/sm1027",
+      "name": "Talos Bronze",
+      "code": "SM1027",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-talos-bronze-sm1027p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1027P_1.jpg?v=1755044166",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4047",
+      "name": "Tanker Grey",
+      "code": "WP4047",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-tanker-grey-wp4047p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4047P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1127",
       "name": "Tanned Flesh",
       "code": "WP1127",
@@ -9556,6 +11380,42 @@
         "hex": "#303048",
         "delta_e": 0.53
       }
+    },
+    {
+      "id": "army-painter/wp3127",
+      "name": "Terrestrial Titan",
+      "code": "WP3127",
+      "set": "Warpaints Fanatic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-terrestrial-titan-wp3127p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3127P_0.jpg?v=1750957905",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4000",
+      "name": "The Darkness",
+      "code": "WP4000",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-the-darkness-wp4000p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4000P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4118",
+      "name": "Thicket Grove",
+      "code": "WP4118",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-thicket-grove-wp4118p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4118-PROMOWeb01.png?v=1773753772",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--thunder-storm",
@@ -9655,6 +11515,18 @@
         "hex": "#804741",
         "delta_e": 0.61
       }
+    },
+    {
+      "id": "army-painter/wp3152",
+      "name": "Tiger's Eye Skin",
+      "code": "WP3152",
+      "set": "Warpaints Fanatic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tiger-s-eye-skin-wp3152p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3152P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--tigers-eye-skin",
@@ -9902,6 +11774,18 @@
       }
     },
     {
+      "id": "army-painter/wp3165",
+      "name": "True Blood",
+      "code": "WP3165",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-true-blood-wp3165p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3165P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--true-brass",
       "name": "True Brass",
       "code": "WP3186",
@@ -9964,6 +11848,18 @@
       }
     },
     {
+      "id": "army-painter/aw1467",
+      "name": "True Copper",
+      "code": "AW1467",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-true-copper-aw1467p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1467P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--tundra-taupe",
       "name": "Tundra Taupe",
       "code": "WP3079",
@@ -9978,6 +11874,18 @@
         "hex": "#47493B",
         "delta_e": 1.39
       },
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4016",
+      "name": "Turnbull Turquoise",
+      "code": "WP4016",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-turnbull-turquoise-wp4016p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4016P_0.png?v=1753488999",
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -10095,6 +12003,18 @@
         "hex": "#3C5AA2",
         "delta_e": 1.19
       }
+    },
+    {
+      "id": "army-painter/wp4116",
+      "name": "Umberroot",
+      "code": "WP4116",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-umberroot-wp4116p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4116-PROMOWeb01.png?v=1773754014",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/d-d-underdark-set--underdark-grey",
@@ -10297,6 +12217,18 @@
       }
     },
     {
+      "id": "army-painter/wp3168",
+      "name": "Verdigris",
+      "code": "WP3168",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-verdigris-wp3168p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3168P_0.jpg?v=1750957906",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/wp1462",
       "name": "Viking Blue",
       "code": "WP1462",
@@ -10309,6 +12241,30 @@
         "hex": "#265C98",
         "delta_e": 0.97
       }
+    },
+    {
+      "id": "army-painter/wp4122",
+      "name": "Vineroot Shade",
+      "code": "WP4122",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-vineroot-shade-wp4122p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4122-PROMOWeb01.png?v=1775544745",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp3107",
+      "name": "Violent Vermilion",
+      "code": "WP3107",
+      "set": "Warpaints Fanatic",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-violent-vermilion-wp3107p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3107P_0.jpg?v=1750957905",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--violent-vermillion",
@@ -10354,6 +12310,18 @@
         "hex": "#784384",
         "delta_e": 1.13
       }
+    },
+    {
+      "id": "army-painter/aw1501",
+      "name": "Violet Volt",
+      "code": "AW1501",
+      "set": "Warpaints Air Fluorescent",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-fluorescent-violet-volt-aw1501p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1501P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-air--viper-brown",
@@ -10404,6 +12372,90 @@
       }
     },
     {
+      "id": "army-painter/wp8079",
+      "name": "Vol. 1",
+      "code": "WP8079",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-1-paint-set-wp8079p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8079P_0_83acdcc5-829d-49ad-b41d-806e0e691e8b.png?v=1767954817",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp8080",
+      "name": "Vol. 2",
+      "code": "WP8080",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-2-paint-set-wp8080p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8080P_0_1522e996-1917-405f-b260-12d1159afe28.png?v=1767954890",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp8109",
+      "name": "Vol. 3",
+      "code": "WP8109",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-3-paint-set-wp8109p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8109P_0.png?v=1766054084",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp8109c",
+      "name": "Vol. 3 Combo",
+      "code": "WP8109C",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-3-paint-set-combo-wp8109c",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8109C_0.png?v=1766103372",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp8110",
+      "name": "Vol. 4",
+      "code": "WP8110",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-4-paint-set-wp8110p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8110P_0.png?v=1766054084",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp8110c",
+      "name": "Vol. 4 Combo",
+      "code": "WP8110C",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-john-blanche-volume-4-paint-set-combo-wp8110c",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP8110C_0.png?v=1766103372",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4017",
+      "name": "Voodoo Shade",
+      "code": "WP4017",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-voodoo-shade-wp4017p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4017P_0.png?v=1753439430",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/warpaints-fanatic--warlock-magenta",
       "name": "Warlock Magenta",
       "code": "WP3135",
@@ -10452,6 +12504,30 @@
       "last_seen": "2026-11-09"
     },
     {
+      "id": "army-painter/wp4007",
+      "name": "Warm Skin Shade",
+      "code": "WP4007",
+      "set": "John Blanche Masterclass",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/masterclass-jb-warm-skin-shade-wp4007p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4007P_0.png?v=1753488998",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4039",
+      "name": "Warm Skin Tone",
+      "code": "WP4039",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-warm-skin-tone-wp4039p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4039P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/skin-tones-paint-set--warpaints-mixing-medium",
       "name": "Warpaints Mixing Medium",
       "code": null,
@@ -10478,6 +12554,30 @@
         "hex": "#EEEEEE",
         "delta_e": 0.21
       }
+    },
+    {
+      "id": "army-painter/wp3172",
+      "name": "Warpaints Retarder",
+      "code": "WP3172",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-warpaints-retarder-wp3172p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3172P_0.jpg?v=1750957907",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp3171",
+      "name": "Warpaints Stabilizer",
+      "code": "WP3171",
+      "set": "Warpaints Fanatic Effects",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-warpaints-stabilizer-wp3171p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP3171P_0.jpg?v=1750957907",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--warped-yellow",
@@ -10605,6 +12705,54 @@
         "hex": "#AD5C34",
         "delta_e": 0.31
       }
+    },
+    {
+      "id": "army-painter/aw1133",
+      "name": "Weapon Bronze",
+      "code": "AW1133",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-weapon-bronze-aw1133p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1133P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4046",
+      "name": "Weathered Skin",
+      "code": "WP4046",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-weathered-skin-wp4046p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4046P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4053",
+      "name": "Webbing Green",
+      "code": "WP4053",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-webbing-green-wp4053p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4053P_0.png?v=1755856424",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
+      "id": "army-painter/wp4056",
+      "name": "Webbing Khaki",
+      "code": "WP4056",
+      "set": "Historical",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-historical-historical-webbing-khaki-wp4056p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/WP4056P_0.png?v=1755856425",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/warpaints-fanatic--weird-elixir",
@@ -11008,6 +13156,18 @@
       }
     },
     {
+      "id": "army-painter/sm1023",
+      "name": "Zealot Yellow",
+      "code": "SM1023",
+      "set": "Speedpaint Marker",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/speedpaint-marker-speedpaint-marker-zealot-yellow-sm1023p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/SM1023P_1.jpg?v=1754991670",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "army-painter/metallic-colours-paint-set--zephyr-pink",
       "name": "Zephyr Pink",
       "code": null,
@@ -11034,6 +13194,18 @@
         "hex": "#6E314F",
         "delta_e": 0.69
       }
+    },
+    {
+      "id": "army-painter/aw1485",
+      "name": "Zephyr Pink",
+      "code": "AW1485",
+      "set": "Warpaints Air Metallics",
+      "hex": null,
+      "status": "new",
+      "url": "https://www.thearmypainter.com/products/warpaints-air-warpaints-air-metallics-zephyr-pink-aw1485p",
+      "image": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/AW1485P_0.jpg?v=1750957877",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
     },
     {
       "id": "army-painter/d-d-nolzur-s-marvelous-pigments--zombie-flesh",
