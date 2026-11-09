@@ -258,17 +258,6 @@
       }
     },
     {
-      "id": "vallejo/77-179",
-      "name": "Aged Metal",
-      "code": "77.179",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/aged-metal-77139/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-132",
       "name": "Aged White",
       "code": "71.132",
@@ -295,28 +284,6 @@
         "hex": "#7B7C7D",
         "delta_e": 0.6
       }
-    },
-    {
-      "id": "vallejo/26-005",
-      "name": "Airbrush Cleaning Station",
-      "code": "26.005",
-      "set": "Hobby Tools",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-tools/airbrush-cleaning-station-26005/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-002",
-      "name": "Airbrushing And Weathering Techniques",
-      "code": "75.002",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/airbrushing-and-weathering-techniques-75002/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-776",
@@ -381,17 +348,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-301",
-      "name": "Alkaline White",
-      "code": "26.301",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/alkaline-white-26303/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/77-701",
       "name": "Aluminium",
       "code": "77.701",
@@ -448,17 +404,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/77-175",
-      "name": "Amber Green",
-      "code": "77.175",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amber-green-77135/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/74-027",
       "name": "Amethyst",
       "code": "74.027",
@@ -471,28 +416,6 @@
         "hex": "#733380",
         "delta_e": 2.26
       }
-    },
-    {
-      "id": "vallejo/77-168",
-      "name": "Amethyst Purple",
-      "code": "77.168",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amethyst-purple-77148/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/77-164",
-      "name": "Ancient Copper",
-      "code": "77.164",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ancient-copper-77144/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-841",
@@ -632,17 +555,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/77-157",
-      "name": "Arcane Gold",
-      "code": "77.157",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/arcane-gold-77137/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-071",
       "name": "Arctic Blue (Metallic)",
       "code": "71.071",
@@ -683,17 +595,6 @@
         "hex": "#FEE9DA",
         "delta_e": 0.44
       }
-    },
-    {
-      "id": "vallejo/26-313",
-      "name": "Arid Yellow",
-      "code": "26.313",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/arid-yellow-26315/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-466",
@@ -755,17 +656,6 @@
         "hex": "#C85A53",
         "delta_e": 0.26
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-204",
-      "name": "Atlantic Blue",
-      "code": "26.204",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/atlantic-blue-26204/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1142,17 +1032,6 @@
         "hex": "#765841",
         "delta_e": 0.81
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/77-173",
-      "name": "Beetle Green",
-      "code": "77.173",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/beetle-green-77153/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1651,28 +1530,6 @@
       }
     },
     {
-      "id": "vallejo/28-594",
-      "name": "Black Lava",
-      "code": "28.594",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/black-lava-28594/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-214",
-      "name": "Black Lava Asphalt",
-      "code": "26.214",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/black-lava-asphalt-26214/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-423",
       "name": "Black Lotus",
       "code": "72.423",
@@ -1686,17 +1543,6 @@
         "hex": "#342A2A",
         "delta_e": 1.4
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-812",
-      "name": "Black Mud",
-      "code": "26.812",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/black-mud-26812/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2061,17 +1907,6 @@
       }
     },
     {
-      "id": "vallejo/73-128",
-      "name": "Blue Grey",
-      "code": "73.128",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/blue-grey-73128/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-072",
       "name": "Blue Grey Mist",
       "code": "85.072",
@@ -2272,17 +2107,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/28-560",
-      "name": "Bookbinding Glue",
-      "code": "28.560",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/bookbinding-glue-28560/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-049",
       "name": "Bougainvillea",
       "code": "85.049",
@@ -2436,15 +2260,13 @@
       "names": {
         "es": "Verde Claro"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bright-green-70758/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#6D8351"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-851",
@@ -2697,28 +2519,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-129",
-      "name": "Brown Drown Leaves",
-      "code": "73.129",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/brown-drown-leaves-73129/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-219",
-      "name": "Brown Earth",
-      "code": "26.219",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/brown-earth-26219/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-818",
       "name": "Brown Engine Soot",
       "code": "73.818",
@@ -2791,28 +2591,6 @@
         "hex": "#60605E",
         "delta_e": 0.75
       }
-    },
-    {
-      "id": "vallejo/73-108",
-      "name": "Brown Iron Oxide",
-      "code": "73.108",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/brown-iron-oxide-73108/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-811",
-      "name": "Brown Mud",
-      "code": "26.811",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/brown-mud-26811/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-105",
@@ -2918,17 +2696,6 @@
         "hex": "#645A4B",
         "delta_e": 1.28
       }
-    },
-    {
-      "id": "vallejo/26-222",
-      "name": "Brown Water",
-      "code": "26.222",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/brown-water-26222/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-976",
@@ -3069,17 +2836,6 @@
       }
     },
     {
-      "id": "vallejo/73-106",
-      "name": "Burnt Sienna",
-      "code": "73.106",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/burnt-sienna-73106/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-117",
       "name": "Burnt Umber",
       "code": "85.117",
@@ -3132,17 +2888,6 @@
         "hex": "#453B32",
         "delta_e": 1.11
       }
-    },
-    {
-      "id": "vallejo/73-110",
-      "name": "Burnt Umber",
-      "code": "73.110",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/burnt-umber-73110/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/85-003",
@@ -3638,17 +3383,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-116",
-      "name": "Carbon Black Smoke Black",
-      "code": "73.116",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/carbon-black-smoke-black-73116/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-408",
       "name": "Cardinal Purple",
       "code": "72.408",
@@ -3779,17 +3513,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/77-169",
-      "name": "Celestial Violet",
-      "code": "77.169",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/celestial-violet-77149/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-045",
       "name": "Cement Grey",
       "code": "71.045",
@@ -3831,17 +3554,6 @@
         "hex": "#E5E6EA",
         "delta_e": 0.22
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-631",
-      "name": "Chainmail Silver",
-      "code": "70.631",
-      "set": "Primers En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/chainmail-silver-70631/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -4049,28 +3761,6 @@
       }
     },
     {
-      "id": "vallejo/73-112",
-      "name": "Chrome Oxide Green",
-      "code": "73.112",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/chrome-oxide-green-73112/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-012",
-      "name": "Civil Vehicles",
-      "code": "75.012",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/civil-vehicles-75012/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/62-067",
       "name": "Cleaner",
       "code": "62.067",
@@ -4232,17 +3922,6 @@
         "hex": "#558484",
         "delta_e": 1.13
       }
-    },
-    {
-      "id": "vallejo/75-090",
-      "name": "Color Bsl System",
-      "code": "75.090",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/color-bsl-system-75090/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-468",
@@ -4479,17 +4158,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-008",
-      "name": "Corner Module",
-      "code": "26.008",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/corner-module-26008/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-608",
       "name": "Corrosion",
       "code": "72.608",
@@ -4598,17 +4266,6 @@
         "hex": "#612741",
         "delta_e": 1.81
       }
-    },
-    {
-      "id": "vallejo/77-167",
-      "name": "Crimson Magenta",
-      "code": "77.167",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/crimson-magenta-77147/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/85-039",
@@ -4839,17 +4496,6 @@
         "hex": "#5E5545",
         "delta_e": 0.46
       }
-    },
-    {
-      "id": "vallejo/26-218",
-      "name": "Dark Earth",
-      "code": "26.218",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/dark-earth-26218/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-927",
@@ -5370,17 +5016,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-107",
-      "name": "Dark Red Ochre",
-      "code": "73.107",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/dark-red-ochre-73107/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-745",
       "name": "Dark Rose",
       "code": "70.745",
@@ -5640,17 +5275,6 @@
       }
     },
     {
-      "id": "vallejo/73-114",
-      "name": "Dark Slate Grey",
-      "code": "73.114",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/dark-slate-grey-73114/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/69-065",
       "name": "Dark Steel",
       "code": "69.065",
@@ -5664,17 +5288,6 @@
         "hex": "#757577",
         "delta_e": 0.75
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-123",
-      "name": "Dark Steel",
-      "code": "73.123",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/dark-steel-73123/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5788,17 +5401,6 @@
         "hex": "#F8B109",
         "delta_e": 0.23
       }
-    },
-    {
-      "id": "vallejo/73-103",
-      "name": "Dark Yellow Ocre",
-      "code": "73.103",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/dark-yellow-ocre-73103/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/28-022",
@@ -6172,17 +5774,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-121",
-      "name": "Desert Dust",
-      "code": "73.121",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/desert-dust-73121/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/69-522",
       "name": "Desert Dust Wash",
       "code": "69.522",
@@ -6229,17 +5820,6 @@
       }
     },
     {
-      "id": "vallejo/26-217",
-      "name": "Desert Sand",
-      "code": "26.217",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/desert-sand-26217/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-613",
       "name": "Desert Tan",
       "code": "70.613",
@@ -6265,15 +5845,13 @@
       "names": {
         "es": "Arena Tostada"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/desert-tan-70765/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#D25386"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/85-078",
@@ -6408,17 +5986,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/75-049",
-      "name": "Diorama Project 1 3 Scenery And Dioramas 1",
-      "code": "75.049",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/diorama-project-1-3-scenery-and-dioramas-1-75049/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-133",
       "name": "Dirt",
       "code": "71.133",
@@ -6539,17 +6106,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/77-174",
-      "name": "Dusken Green",
-      "code": "77.174",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/dusken-green-77134/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-020",
       "name": "Dusty Rose",
       "code": "85.020",
@@ -6667,17 +6223,6 @@
         "hex": "#5F5537",
         "delta_e": 1.51
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/90-003",
-      "name": "Easyair",
-      "code": "90.003",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/easyair-90003/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6942,28 +6487,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-119",
-      "name": "European Earth",
-      "code": "73.119",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/european-earth-73119/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-807",
-      "name": "European Mud",
-      "code": "26.807",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/european-mud-26807/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-801",
       "name": "European Splash Mud",
       "code": "73.801",
@@ -7068,50 +6591,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/28-588",
-      "name": "Extra Heavy Coarse Pumice",
-      "code": "28.588",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/extra-heavy-coarse-pumice-28588/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-535",
-      "name": "Extra Heavy Gel Gloss",
-      "code": "28.535",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/extra-heavy-gel-gloss-28535/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-536",
-      "name": "Extra Heavy Gel Matt",
-      "code": "28.536",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/extra-heavy-gel-matt-28536/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-122",
-      "name": "Faded Olive Green",
-      "code": "73.122",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/faded-olive-green-73122/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-109",
       "name": "Faded P.R.U. Blue",
       "code": "71.109",
@@ -7135,15 +6614,13 @@
       "names": {
         "es": "Rojo Desgastado"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/faded-red-70747/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#B85F58"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/74-007",
@@ -7173,17 +6650,6 @@
         "hex": "#CC8877",
         "delta_e": 0.93
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-068",
-      "name": "Fantasy Colors",
-      "code": "75.068",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/fantasy-colors-75068/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -7642,17 +7108,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/28-180",
-      "name": "Flexible Modeling Paste",
-      "code": "28.180",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/flexible-modeling-paste-28180/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-459",
       "name": "Fluid Pink",
       "code": "72.459",
@@ -7955,17 +7410,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-231",
-      "name": "Foam",
-      "code": "26.231",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/foam-26231/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-089",
       "name": "Forest Green",
       "code": "85.089",
@@ -8008,17 +7452,6 @@
         "hex": "#867665",
         "delta_e": 0.9
       }
-    },
-    {
-      "id": "vallejo/77-165",
-      "name": "Forged Red",
-      "code": "77.165",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/forged-red-77145/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-025",
@@ -8196,17 +7629,6 @@
         "hex": "#F0B07A",
         "delta_e": 0.75
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-190",
-      "name": "Gel Medium",
-      "code": "26.190",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gel-medium-26190/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -8771,28 +8193,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-475",
-      "name": "Gloss Fluid Medium",
-      "code": "26.475",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-fluid-medium-26475/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-450",
-      "name": "Gloss Medium",
-      "code": "28.450",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-medium-28450/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/77-657",
       "name": "Gloss Metal Varnish",
       "code": "77.657",
@@ -9257,17 +8657,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-307",
-      "name": "Granite Grey",
-      "code": "26.307",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/granite-grey-26309/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-103",
       "name": "Gray Blue RLM84",
       "code": "71.103",
@@ -9439,17 +8828,6 @@
         "hex": "#7F6D37",
         "delta_e": 1.2
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-111",
-      "name": "Green Earth",
-      "code": "73.111",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/green-earth-73111/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9730,17 +9108,6 @@
       }
     },
     {
-      "id": "vallejo/77-176",
-      "name": "Greenish Gold",
-      "code": "77.176",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/greenish-gold-77136/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-047",
       "name": "Grey",
       "code": "71.047",
@@ -9901,17 +9268,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/28-599",
-      "name": "Grey Coarse Pumice",
-      "code": "28.599",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/grey-coarse-pumice-28599/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-866",
       "name": "Grey Green",
       "code": "70.866",
@@ -9995,17 +9351,6 @@
         "hex": "#BCA177",
         "delta_e": 1.07
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-215",
-      "name": "Grey Sand",
-      "code": "26.215",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/grey-sand-26215/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -10333,28 +9678,6 @@
       }
     },
     {
-      "id": "vallejo/27-591",
-      "name": "Heavy Gel Gloss",
-      "code": "27.591",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/heavy-gel-gloss-27591/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/27-592",
-      "name": "Heavy Gel Matt",
-      "code": "27.592",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/heavy-gel-matt-27592/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-151",
       "name": "Heavy Gold Brown",
       "code": "72.151",
@@ -10395,17 +9718,6 @@
         "hex": "#B59F55",
         "delta_e": 0.97
       }
-    },
-    {
-      "id": "vallejo/28-186",
-      "name": "Heavy Modeling Paste",
-      "code": "28.186",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/heavy-modeling-paste-28186/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-150",
@@ -10692,17 +10004,6 @@
         "hex": "#D39898",
         "delta_e": 1.24
       }
-    },
-    {
-      "id": "vallejo/77-172",
-      "name": "Hydra Turquoise",
-      "code": "77.172",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/hydra-turquoise-77152/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-327",
@@ -11008,17 +10309,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/75-017",
-      "name": "Idf Colors",
-      "code": "75.017",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/idf-colors-75017/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-720",
       "name": "Imperial Blue",
       "code": "72.720",
@@ -11065,17 +10355,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/77-163",
-      "name": "Imperial Gold",
-      "code": "77.163",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/imperial-gold-77143/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/74-025",
       "name": "Imperial Purple",
       "code": "74.025",
@@ -11118,17 +10397,6 @@
         "hex": "#9AD4D8",
         "delta_e": 0.24
       }
-    },
-    {
-      "id": "vallejo/26-809",
-      "name": "Industrial Mud",
-      "code": "26.809",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/industrial-mud-26809/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/73-803",
@@ -11201,17 +10469,6 @@
         "hex": "#D63136",
         "delta_e": 1.64
       }
-    },
-    {
-      "id": "vallejo/90-001",
-      "name": "Innovator",
-      "code": "90.001",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/innovator-90001/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-279",
@@ -11651,17 +10908,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-127",
-      "name": "Khaki Green",
-      "code": "73.127",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/khaki-green-73127/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-330",
       "name": "Khaki Green Num.3",
       "code": "71.330",
@@ -11983,15 +11229,13 @@
       "names": {
         "es": "Azul Verde Claro"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-blue-green-70753/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#1B9CA6"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-255",
@@ -12092,17 +11336,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-810",
-      "name": "Light Brown Mud",
-      "code": "26.810",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/light-brown-mud-26810/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-804",
       "name": "Light Brown Splash Mud",
       "code": "73.804",
@@ -12128,15 +11361,13 @@
       "names": {
         "es": "Esmeralda Claro"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-emerald-70755/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#0D8178"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/69-005",
@@ -12416,17 +11647,6 @@
       }
     },
     {
-      "id": "vallejo/28-185",
-      "name": "Light Modeling Paste",
-      "code": "28.185",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/light-modeling-paste-28185/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-315",
       "name": "Light Mud",
       "code": "70.315",
@@ -12509,15 +11729,13 @@
       "names": {
         "es": "Rosa Claro"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-pink-70748/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#DE8A9F"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-086",
@@ -12636,28 +11854,6 @@
       }
     },
     {
-      "id": "vallejo/73-104",
-      "name": "Light Sienna",
-      "code": "73.104",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/light-sienna-73104/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-113",
-      "name": "Light Slate Grey",
-      "code": "73.113",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/light-slate-grey-73113/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/69-064",
       "name": "Light Steel",
       "code": "69.064",
@@ -12735,17 +11931,6 @@
         "hex": "#FCD450",
         "delta_e": 1.25
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-102",
-      "name": "Light Yellow Ochre",
-      "code": "73.102",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/light-yellow-ochre-73102/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -12845,17 +12030,6 @@
         "hex": "#998866",
         "delta_e": 0.89
       }
-    },
-    {
-      "id": "vallejo/73-125",
-      "name": "Loam Brown",
-      "code": "73.125",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/loam-brown-73125/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-836",
@@ -13287,17 +12461,6 @@
       }
     },
     {
-      "id": "vallejo/26-304",
-      "name": "Mars Red",
-      "code": "26.304",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/mars-red-26306/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-405",
       "name": "Martian Orange",
       "code": "72.405",
@@ -13311,50 +12474,6 @@
         "hex": "#CC4411",
         "delta_e": 1.05
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-003",
-      "name": "Masterclass Volume 1 By Angel Giraldez",
-      "code": "75.003",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/masterclass-volume-1-by-angel-giraldez-75003/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-010",
-      "name": "Masterclass Volume 2 By Angel Giraldez",
-      "code": "75.010",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/masterclass-volume-2-by-angel-giraldez-75010/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-545",
-      "name": "Matt Fluid Medium",
-      "code": "26.545",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/matt-fluid-medium-26545/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-452",
-      "name": "Matt Medium",
-      "code": "28.452",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/matt-medium-28452/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -13442,28 +12561,6 @@
         "hex": "#FFFFFF",
         "delta_e": 0.0
       }
-    },
-    {
-      "id": "vallejo/75-018",
-      "name": "Mechanic Realms",
-      "code": "75.018",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/mechanic-realms-75018/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-202",
-      "name": "Mediterranean Blue",
-      "code": "26.202",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/mediterranean-blue-26202/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-963",
@@ -13949,17 +13046,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-124",
-      "name": "Mid Orient Dust",
-      "code": "73.124",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/mid-orient-dust-73124/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-882",
       "name": "Middle Stone",
       "code": "70.882",
@@ -14156,17 +13242,6 @@
       }
     },
     {
-      "id": "vallejo/26-000",
-      "name": "Mixing Bottle",
-      "code": "26.000",
-      "set": "Hobby Tools",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-tools/mixing-bottle-26000/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-112",
       "name": "Mocha",
       "code": "85.112",
@@ -14179,28 +13254,6 @@
         "hex": "#FA8D7C",
         "delta_e": 1.14
       }
-    },
-    {
-      "id": "vallejo/26-016",
-      "name": "Modulo Estacion De Limpieza De Aerografo",
-      "code": "26.016",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/modulo-estacion-de-limpieza-de-aerografo-26016/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-015",
-      "name": "Modulo Frontal Largo",
-      "code": "26.015",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/modulo-frontal-largo-26015/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-482",
@@ -14279,17 +13332,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-310",
-      "name": "Moss Green",
-      "code": "26.310",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/moss-green-26312/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-827",
       "name": "Moss and Lichen",
       "code": "73.827",
@@ -14365,17 +13407,6 @@
         "hex": "#4B3029",
         "delta_e": 1.86
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-221",
-      "name": "Muddy Water",
-      "code": "26.221",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/muddy-water-26221/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -14537,28 +13568,6 @@
       }
     },
     {
-      "id": "vallejo/73-115",
-      "name": "Natural Iron Oxide",
-      "code": "73.115",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/natural-iron-oxide-73115/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-105",
-      "name": "Natural Sienna",
-      "code": "73.105",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/natural-sienna-73105/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-864",
       "name": "Natural Steel",
       "code": "70.864",
@@ -14572,17 +13581,6 @@
         "hex": "#555257",
         "delta_e": 1.16
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-109",
-      "name": "Natural Umber",
-      "code": "73.109",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/natural-umber-73109/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -14768,17 +13766,6 @@
       }
     },
     {
-      "id": "vallejo/73-118",
-      "name": "New Rust",
-      "code": "73.118",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/new-rust-73118/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-770",
       "name": "New Wood",
       "code": "70.770",
@@ -14897,39 +13884,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/90-016",
-      "name": "Nozzle 0 2",
-      "code": "90.016",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/nozzle-0-2-90016/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/90-017",
-      "name": "Nozzle 0 3",
-      "code": "90.017",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/nozzle-0-3-90017/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/90-026",
-      "name": "Nozzle 0 5",
-      "code": "90.026",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/nozzle-0-5-90026/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-404",
       "name": "Nuclear Yellow",
       "code": "72.404",
@@ -14958,17 +13912,6 @@
         "hex": "#554C3E",
         "delta_e": 0.63
       }
-    },
-    {
-      "id": "vallejo/77-180",
-      "name": "Obsidian Black",
-      "code": "77.180",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/obsidian-black-77140/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/71-273",
@@ -15272,17 +14215,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-120",
-      "name": "Old Rust",
-      "code": "73.120",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/old-rust-73120/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/81-124",
       "name": "Old Silver",
       "code": "81.124",
@@ -15320,15 +14252,13 @@
       "names": {
         "es": "Madera Vieja"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/old-wood-70761/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#F3A879"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-889",
@@ -15815,17 +14745,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-203",
-      "name": "Pacific Blue",
-      "code": "26.203",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/pacific-blue-26203/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-757",
       "name": "Pacific Green",
       "code": "70.757",
@@ -15835,37 +14754,13 @@
       "names": {
         "es": "Verde Pacifico"
       },
-      "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pacific-green-70757/",
       "alt_colors": [
         {
           "source": "ferror/vallejo-model-color-data",
           "hex": "#5A746B"
         }
       ],
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-013",
-      "name": "Paint Station 50X37Cm",
-      "code": "26.013",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/paint-station-50x37cm-26013/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-014",
-      "name": "Paint Station 50X37Cm With Vertical Stand",
-      "code": "26.014",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/paint-station-50x37cm-with-vertical-stand-26014/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
+      "first_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-906",
@@ -16442,17 +15337,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-233",
-      "name": "Pigment Binder",
-      "code": "26.233",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/pigment-binder-26233/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-005",
       "name": "Pineapple",
       "code": "85.005",
@@ -16606,17 +15490,6 @@
         "hex": "#EAAD04",
         "delta_e": 0.33
       }
-    },
-    {
-      "id": "vallejo/90-002",
-      "name": "Profinish",
-      "code": "90.002",
-      "set": "Airbrushes En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/airbrushes-en/profinish-90002/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/70-965",
@@ -16787,17 +15660,6 @@
         "hex": "#5F4C54",
         "delta_e": 2.2
       }
-    },
-    {
-      "id": "vallejo/77-162",
-      "name": "Radiant Yellow",
-      "code": "77.162",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/radiant-yellow-77142/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/73-819",
@@ -17134,17 +15996,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-224",
-      "name": "River Water",
-      "code": "26.224",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/river-water-26224/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-044",
       "name": "Rookwood Red",
       "code": "85.044",
@@ -17235,28 +16086,6 @@
       }
     },
     {
-      "id": "vallejo/26-213",
-      "name": "Rough Grey Pumice",
-      "code": "26.213",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/rough-grey-pumice-26213/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-212",
-      "name": "Rough White Pumice",
-      "code": "26.212",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/rough-white-pumice-26212/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-809",
       "name": "Royal Blue",
       "code": "70.809",
@@ -17338,17 +16167,6 @@
         "hex": "#2C2133",
         "delta_e": 1.41
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/77-166",
-      "name": "Ruby Red",
-      "code": "77.166",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ruby-red-77146/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -17521,17 +16339,6 @@
         "hex": "#585545",
         "delta_e": 0.66
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-808",
-      "name": "Russian Mud",
-      "code": "26.808",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/russian-mud-26808/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -17726,17 +16533,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/73-117",
-      "name": "Rust",
-      "code": "73.117",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/rust-73117/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/71-069",
       "name": "Rust (Metallic)",
       "code": "71.069",
@@ -17749,17 +16545,6 @@
         "hex": "#745342",
         "delta_e": 1.01
       }
-    },
-    {
-      "id": "vallejo/75-011",
-      "name": "Rust And Chipping",
-      "code": "75.011",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/rust-and-chipping-75011/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/73-821",
@@ -17791,17 +16576,6 @@
         "hex": "#6A332D",
         "delta_e": 0.58
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/77-178",
-      "name": "Rusty Metal",
-      "code": "77.178",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/rusty-metal-77138/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -18020,17 +16794,6 @@
       }
     },
     {
-      "id": "vallejo/28-593",
-      "name": "Sandy Paste",
-      "code": "28.593",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/sandy-paste-28593/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-059",
       "name": "Sapphire Blue",
       "code": "85.059",
@@ -18043,28 +16806,6 @@
         "hex": "#234893",
         "delta_e": 0.62
       }
-    },
-    {
-      "id": "vallejo/77-171",
-      "name": "Sapphire Blue",
-      "code": "77.171",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sapphire-blue-77151/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-476",
-      "name": "Satin Fluid Medium",
-      "code": "26.476",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/satin-fluid-medium-26476/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/62-063",
@@ -18428,17 +17169,6 @@
         "hex": "#6C110E",
         "delta_e": 0.71
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-007",
-      "name": "Short Front Module",
-      "code": "26.007",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/short-front-module-26007/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -18848,17 +17578,6 @@
       }
     },
     {
-      "id": "vallejo/73-823",
-      "name": "Slime Grime Light",
-      "code": "73.823",
-      "set": "Weathering Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/weathering-fx-en/slime-grime-light-73823/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-822",
       "name": "Slimy Grime Dark",
       "code": "73.822",
@@ -18944,17 +17663,6 @@
         "hex": "#FFFFFF",
         "delta_e": 0.0
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-820",
-      "name": "Snow",
-      "code": "26.820",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/snow-26820/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -19321,28 +18029,6 @@
       }
     },
     {
-      "id": "vallejo/77-161",
-      "name": "Sterling Silver",
-      "code": "77.161",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sterling-silver-77101/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-230",
-      "name": "Still Water",
-      "code": "26.230",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/still-water-26230/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-884",
       "name": "Stone Grey",
       "code": "70.884",
@@ -19461,17 +18147,6 @@
       }
     },
     {
-      "id": "vallejo/73-824",
-      "name": "Streaking Grime",
-      "code": "73.824",
-      "set": "Weathering Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/weathering-fx-en/streaking-grime-73824/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-108",
       "name": "Succubus Skin",
       "code": "72.108",
@@ -19547,17 +18222,6 @@
         "hex": "#F8A200",
         "delta_e": 0.76
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-629",
-      "name": "Sun Yellow",
-      "code": "70.629",
-      "set": "Primers En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/sun-yellow-70629/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -19651,17 +18315,6 @@
         "hex": "#C02E4C",
         "delta_e": 0.72
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-220",
-      "name": "Swamp Water",
-      "code": "26.220",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/swamp-water-26220/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -19867,17 +18520,6 @@
       }
     },
     {
-      "id": "vallejo/26-322",
-      "name": "Terrain Fixer",
-      "code": "26.322",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/terrain-fixer-26322/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/84-159",
       "name": "Textile Medium",
       "code": "84.159",
@@ -19890,17 +18532,6 @@
         "hex": "#EDEDED",
         "delta_e": 0.21
       }
-    },
-    {
-      "id": "vallejo/28-081",
-      "name": "Textile Medium",
-      "code": "28.081",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/textile-medium-28081/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-602",
@@ -19916,17 +18547,6 @@
         "hex": "#954A3D",
         "delta_e": 1.52
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-524",
-      "name": "Thinner Medium",
-      "code": "70.524",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/thinner-medium-70524/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -19989,17 +18609,6 @@
         "hex": "#3F444C",
         "delta_e": 1.05
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-101",
-      "name": "Titanium White",
-      "code": "73.101",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/titanium-white-73101/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -20119,17 +18728,6 @@
       }
     },
     {
-      "id": "vallejo/26-201",
-      "name": "Transparent Water",
-      "code": "26.201",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/transparent-water-26201/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/70-937",
       "name": "Transparent Yellow",
       "code": "70.937",
@@ -20160,17 +18758,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/26-223",
-      "name": "Tropical Blue",
-      "code": "26.223",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/tropical-blue-26223/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/85-058",
       "name": "True Blue",
       "code": "85.058",
@@ -20183,17 +18770,6 @@
         "hex": "#054C8A",
         "delta_e": 0.36
       }
-    },
-    {
-      "id": "vallejo/75-093",
-      "name": "True Metallic Metal",
-      "code": "75.093",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/true-metallic-metal-75093/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/85-050",
@@ -21043,17 +19619,6 @@
       }
     },
     {
-      "id": "vallejo/77-170",
-      "name": "Ultramarine Blue",
-      "code": "77.170",
-      "set": "True Metallic Metal En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ultramarine-blue-77150/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/73-203",
       "name": "Umber Wash",
       "code": "73.203",
@@ -21121,606 +19686,6 @@
         "hex": "#4D5637",
         "delta_e": 1.9
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-531",
-      "name": "Vallejo Auxiliaries - Acrylic Matt Spray Varnish",
-      "code": "28.531",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-matt-spray-varnish-28531/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/08/vallejo-hobby-paint-acrylic-matt-varnish-28531.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-532",
-      "name": "Vallejo Auxiliaries - Acrylic Satin Spray Varnish",
-      "code": "28.532",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-satin-spray-varnish-28532/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/08/vallejo-hobby-paint-acrylic-satin-varnish-28532.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/71-262",
-      "name": "Vallejo Auxiliaries - Airbrush Flow Improver",
-      "code": "71.262",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/airbrush-flow-improver-71262/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-airbrush-flow-improver-71262.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/71-261",
-      "name": "Vallejo Auxiliaries - Airbrush Thinner",
-      "code": "71.261",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/airbrush-thinner-71261/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-airbrush-thinner-71261.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-540",
-      "name": "Vallejo Auxiliaries - Matt Base",
-      "code": "70.540",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/matt-base-70540/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-matt-base-70540.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-158",
-      "name": "Vallejo Auxiliaries - Pearl Medium",
-      "code": "28.158",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/pearl-medium-28158/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-pearl-medium-500ml-28158.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-596",
-      "name": "Vallejo Auxiliary Product - Glaze Medium",
-      "code": "70.596",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/glaze-medium-70596/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-glaze-medium-70596.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-525",
-      "name": "Vallejo Auxiliary Product - Matt Removable Acrylic Varnish",
-      "code": "28.525",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/matt-removable-acrylic-varnish-28525/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-matt-removable-acrylic-varnish-500ml-28525.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/71-099",
-      "name": "Vallejo Auxiliary Products - Airbrush Cleaner",
-      "code": "71.099",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/airbrush-cleaner-71099/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-auxiliary-products-airbrush-cleaner-85ml-71099.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-491",
-      "name": "Vallejo Auxiliary Products - Black Gesso",
-      "code": "28.491",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/black-gesso-28491/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/10/vallejo-auxiliary-products-black-gesso-500ml-28491.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-214",
-      "name": "Vallejo Auxiliary Products - Chipping Medium",
-      "code": "73.214",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/chipping-medium-73214/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-chipping-medium-73214.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-598",
-      "name": "Vallejo Auxiliary Products - Crackle Medium",
-      "code": "70.598",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/crackle-medium-70598/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-crackle-medium-70598.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-213",
-      "name": "Vallejo Auxiliary Products - Decal Fix",
-      "code": "73.213",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/decal-fix-73213/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-decal-fix-73213.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/73-212",
-      "name": "Vallejo Auxiliary Products - Decal Softener",
-      "code": "73.212",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/decal-softener-73212/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-decal-softener-73212.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-590",
-      "name": "Vallejo Auxiliary Products - Gloss Glaze Medium",
-      "code": "28.590",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-glaze-medium-28590/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-gloss-glaze-medium-500ml-28590.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-470",
-      "name": "Vallejo Auxiliary Products - Gloss Medium",
-      "code": "70.470",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-medium-70470/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-gloss-medium-70470.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-515",
-      "name": "Vallejo Auxiliary Products - Gloss Removable Acrylic Varnish",
-      "code": "28.515",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-removable-acrylic-varnish-28515/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-gloss-removable-acrylic-varnish-500ml-28515.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-510",
-      "name": "Vallejo Auxiliary Products - Gloss Varnish",
-      "code": "70.510",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/gloss-varnish-70510/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-gloss-varnish-70510.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-523",
-      "name": "Vallejo Auxiliary Products - Liquid Mask",
-      "code": "70.523",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/liquid-mask-70523/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-liquid-mask-70523.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-520",
-      "name": "Vallejo Auxiliary Products - Matt Varnish",
-      "code": "70.520",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/matt-varnish-70520/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-matt-varnish-70520.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-521",
-      "name": "Vallejo Auxiliary Products - Metal Medium",
-      "code": "70.521",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/metal-medium-70521/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-metal-medium-70521.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-400",
-      "name": "Vallejo Auxiliary Products - Plastic Putty",
-      "code": "70.400",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/plastic-putty-70400/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-plastic-putty-70400.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-597",
-      "name": "Vallejo Auxiliary Products - Retarder Medium",
-      "code": "70.597",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/retarder-medium-70597/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-retarder-medium-70597.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-270",
-      "name": "Vallejo Auxiliary Products - Retarder Medium",
-      "code": "26.270",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/retarder-medium-26270/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-auxiliary-products-retarder-medium-60ml-26270.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-451",
-      "name": "Vallejo Auxiliary Products - Satin Medium",
-      "code": "28.451",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/satin-medium-28451/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-satin-medium-500ml-28451.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/29-550",
-      "name": "Vallejo Auxiliary Products - Satin Removable Acrylic Varnish",
-      "code": "29.550",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/satin-removable-acrylic-varnish-29550/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/05/vallejo-auxiliary-products-satin-removable-acrylic-varnish-500ml-28550.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/70-522",
-      "name": "Vallejo Auxiliary Products - Satin Varnish",
-      "code": "70.522",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/satin-varnish-70522/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-satin-varnish-70522.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/76-028",
-      "name": "Vallejo Game Air - Dark Green",
-      "code": "76.028",
-      "set": "Game Air En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/dark-green-76028/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-game-air-76028-1.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/76-050",
-      "name": "Vallejo Game Air - Neutral Grey",
-      "code": "76.050",
-      "set": "Game Air En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/neutral-grey-76050/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-game-air-76050-1.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/28-530",
-      "name": "Vallejo Hobby Paint/Auxiliaries - Acrylic Gloss Spray Varnish",
-      "code": "28.530",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-gloss-spray-varnish-28530/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/08/vallejo-hobby-paint-acrylic-gloss-varnish-28530.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-004",
-      "name": "Vallejo Hobby Tools - Pipettes 1 ml/0.03 fl oz (12)",
-      "code": "26.004",
-      "set": "Hobby Tools",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-tools/pipettes-1ml-26004/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/09/vallejo-hobby-tools-pipettes-small-size-26004.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-003",
-      "name": "Vallejo Hobby Tools - Pipettes 3ml/0.10 fl oz (8)",
-      "code": "26.003",
-      "set": "Hobby Tools",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-tools/pipettes-3ml-26003/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/09/vallejo-hobby-tools-pipettes-medium-size-26003.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-011",
-      "name": "Vallejo Paint Stands - Paint Station 40 x 30 cm",
-      "code": "26.011",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/paint-station-40x30-26011/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/08/vallejo-paint-stands-26011-1-1.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-012",
-      "name": "Vallejo Paint Stands - Paint Station 40 x 30 cm with vertical stand",
-      "code": "26.012",
-      "set": "Paint Stands En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/paint-stands-en/paint-station-40x30cm-with-vertical-stand-26012/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/08/vallejo-paint-stands-26012-1-1.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-170",
-      "name": "Vallejo Productos Auxiliares - Silicone Oil Cell Medium",
-      "code": "26.170",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/silicone-oil-cell-medium-26170/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-auxiliary-products-silicone-oil-cell-medium-35ml-26170.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-070",
-      "name": "Vallejo Publications - Aircraft 1/72 Cold War",
-      "code": "75.070",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/aircraft-1-72-cold-war-75070/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75070-75071-vallejo-aircraft-1-72-cold-war.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-013",
-      "name": "Vallejo Publications - Colours of War",
-      "code": "75.013",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/colours-of-war-75013/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75013-vallejo-colours-of-war.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-030",
-      "name": "Vallejo Publications - Diorama Project 1.1 - AFV at War",
-      "code": "75.030",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/diorama-project-1-1-afv-at-war-75030/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/12/75029-75030-vallejo-diorama-project-1-afv-at-war.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-041",
-      "name": "Vallejo Publications - Diorama Project 1.2 - Figures",
-      "code": "75.041",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/diorama-project-1-2-figures-75041/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/12/75040-75041-vallejo-diorama-project-2-figures.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-066",
-      "name": "Vallejo Publications - Diorama by Marcel Ackle",
-      "code": "75.066",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/diorama-by-marcel-ackle-75066/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-diorama-by-marcel-ackle-75065-75066.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-050",
-      "name": "Vallejo Publications - Extreme Real Buildings",
-      "code": "75.050",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/extreme-real-buildings-75050/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75050-75051-vallejo-extreme-real-buildings.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-004",
-      "name": "Vallejo Publications - Landscapes of War Vol. 1",
-      "code": "75.004",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/landscapes-of-war-vol1-75004/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2026/01/75004-vallejo-landscapes-of-war-vol1.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-009",
-      "name": "Vallejo Publications - Landscapes of War Vol. 2",
-      "code": "75.009",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/landscapes-of-war-vol-2-75009/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75033-75009-vallejo-landscapes-of-war-vol2.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-026",
-      "name": "Vallejo Publications - Landscapes of War Vol. 4",
-      "code": "75.026",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/landscapes-of-war-vol-4-75026/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2026/01/75027-75026-vallejo-landscapes-of-war-vol4.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-072",
-      "name": "Vallejo Publications - Landscapes of War Vol. 5",
-      "code": "75.072",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/landscapes-of-war-vol-5-75072/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75072-75073-vallejo-landscape-of-war-vol5.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-020",
-      "name": "Vallejo Publications - Master Scale Modelling",
-      "code": "75.020",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/master-scale-modelling-75020/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75020-vallejo-master-scale-modelling.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-059",
-      "name": "Vallejo Publications - Scapa Flow",
-      "code": "75.059",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/scapa-flow-75059/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2023/09/vallejo-scapa-flow-75058-75059.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-019",
-      "name": "Vallejo Publications - WWII US ARMY in Europe and the Pacific",
-      "code": "75.019",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/wwii-us-army-in-europe-and-the-pacific-75019/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75019-75023-vallejo-WWII-US-army.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-024",
-      "name": "Vallejo Publications - WWII US NAVY Colors",
-      "code": "75.024",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/wwii-us-navy-colors-75024/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75024-75025-vallejo-WWII-US-navy-colors.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-056",
-      "name": "Vallejo Publications - Weathering Effects on Aircraft",
-      "code": "75.056",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/weathering-effects-on-aircraft-75056/",
-      "image": "https://acrylicosvallejo.com/wp-content/uploads/2025/05/75056-75057-vallejo-weathering-effects-on-aircraft.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -22054,17 +20019,6 @@
       }
     },
     {
-      "id": "vallejo/26-316",
-      "name": "Vulcan Black",
-      "code": "26.316",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/vulcan-black-26318/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-464",
       "name": "Wagram Blue",
       "code": "72.464",
@@ -22078,17 +20032,6 @@
         "hex": "#0D4462",
         "delta_e": 1.33
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-014",
-      "name": "Wairpaint Armour 1 Armour Of The Eastern Front 1941 1945",
-      "code": "75.014",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/wairpaint-armour-1-armour-of-the-eastern-front-1941-1945-75014/",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -22166,28 +20109,6 @@
         "hex": "#F19B7D",
         "delta_e": 1.12
       }
-    },
-    {
-      "id": "vallejo/26-319",
-      "name": "Warm Orange",
-      "code": "26.319",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/warm-orange-26321/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/75-016",
-      "name": "Warpaint Aviation 1 Fall Of Iron",
-      "code": "75.016",
-      "set": "Publications",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/publications/warpaint-aviation-1-fall-of-iron-75016/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/72-420",
@@ -22509,28 +20430,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "vallejo/28-598",
-      "name": "White Pumice",
-      "code": "28.598",
-      "set": "Auxiliary Products Hobby",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/white-pumice-28598/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "vallejo/26-211",
-      "name": "White Stone",
-      "code": "26.211",
-      "set": "Diorama Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/diorama-fx-en/white-stone-26211/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "vallejo/72-456",
       "name": "Wicked Purple",
       "code": "72.456",
@@ -22665,17 +20564,6 @@
         "hex": "#AB7741",
         "delta_e": 1.21
       }
-    },
-    {
-      "id": "vallejo/73-126",
-      "name": "Wood Green",
-      "code": "73.126",
-      "set": "Pigment Fx En",
-      "hex": null,
-      "status": "new",
-      "url": "https://acrylicosvallejo.com/en/product/hobby/pigment-fx-en/wood-green-73126/",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "vallejo/74-023",

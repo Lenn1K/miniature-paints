@@ -14,42 +14,6 @@
   ],
   "paints": [
     {
-      "id": "ak/ak11656",
-      "name": "1937-44 Panzer Colors",
-      "code": "AK11656",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/1937-44-panzer-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11656_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11654",
-      "name": "1945 Panzer Colors",
-      "code": "AK11654",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/1945-german-late-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11654_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11669",
-      "name": "1946 Panzer Colors",
-      "code": "AK11669",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/1946-panzer-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11669_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak749",
       "name": "3b Au Basic Protector",
       "code": "AK749",
@@ -289,18 +253,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11649",
-      "name": "AUSCAM COLOURS Australian Disruptive Pattern Camouflage Uniform (DPCU)",
-      "code": "AK11649",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/auscam-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11649_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11867",
       "name": "Adc Grey Fs 16473",
       "code": "AK11867",
@@ -346,30 +298,6 @@
         "hex": "#D5D6CF",
         "delta_e": 0.66
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11652",
-      "name": "Afrika Korps Colors 1941-43",
-      "code": "AK11652",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/afrika-korps-colors-1941-43/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11652_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11276",
-      "name": "Afro Shadow",
-      "code": "AK11276",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/afro-shadow-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11276.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -498,42 +426,6 @@
         "hex": "#4D503C",
         "delta_e": 1.58
       }
-    },
-    {
-      "id": "ak/ak11702",
-      "name": "Ak Briefcase With 100 3gen-colors",
-      "code": "AK11702",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/ak-briefcase-with-100-3gen-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/12/AK11702_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11701",
-      "name": "Ak Briefcase With 233 3gen-colors",
-      "code": "AK11701",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/ak-briefcase-with-236-3gen-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/12/AK11701_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11703",
-      "name": "Ak Briefcase With 80 3gen",
-      "code": "AK11703",
-      "set": "Full Range Afv Series (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/ak-briefcase-with-80-3gen-full-range-afv-series/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/12/AK11703_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11152",
@@ -1176,18 +1068,6 @@
       }
     },
     {
-      "id": "ak/ak11278",
-      "name": "Beast Brown",
-      "code": "AK11278",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/beast-brown-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11278.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11030",
       "name": "Beige",
       "code": "AK11030",
@@ -1267,18 +1147,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11683",
-      "name": "Black & Cream White Vehicle Interiors",
-      "code": "AK11683",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/black-cream-white-vehicle-interiors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11683_WEB_2024.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11160",
       "name": "Black Green",
       "code": "AK11160",
@@ -1338,18 +1206,6 @@
         "hex": "#222023",
         "delta_e": 0.75
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11270",
-      "name": "Black Purple",
-      "code": "AK11270",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/black-purple-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11270.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -1427,18 +1283,6 @@
         "hex": "#F3E7B4",
         "delta_e": 0.44
       }
-    },
-    {
-      "id": "ak/ak11260",
-      "name": "Blood Effect",
-      "code": "AK11260",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/blood-effect/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11260.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11089",
@@ -1591,66 +1435,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11678",
-      "name": "British Army Colors Africa Late 1942-43",
-      "code": "AK11678",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-army-colors-africa-late-1942-43/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11678_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11680",
-      "name": "British Army Colors North-west Europe 1941-44",
-      "code": "AK11680",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-army-colors-north-west-europe-1941-44/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11680_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11679",
-      "name": "British Army Colors North-west Europe 1944-45",
-      "code": "AK11679",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-army-colors-north-west-europe-1944-45/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11679_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11677",
-      "name": "British Army Colors: Tunisia, Sicily & Italy 1943-45",
-      "code": "AK11677",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-army-colors-tunisia-sicily-italy-1943-45/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11677_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11676",
-      "name": "British Caunter Scheme 1940-41",
-      "code": "AK11676",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-caunter-scheme-1940-41/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11676_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11381",
       "name": "British Dark Olive Green Pfi",
       "code": "AK11381",
@@ -1665,18 +1449,6 @@
         "hex": "#45402B",
         "delta_e": 1.35
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11646",
-      "name": "British Desert Colors North Africa and Mediterranean 1940-43",
-      "code": "AK11646",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/british-desert-colors-north-africa-and-mediterranean-1940-43/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11646_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -2136,18 +1908,6 @@
       }
     },
     {
-      "id": "ak/ak11666",
-      "name": "Bundeswehr Desert Camouflage Colors",
-      "code": "AK11666",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/bundeswehr-desert-camouflage-colors-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11666_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11079",
       "name": "Burn Orange",
       "code": "AK11079",
@@ -2444,18 +2204,6 @@
       }
     },
     {
-      "id": "ak/ak11262",
-      "name": "Chipping Effect",
-      "code": "AK11262",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/chipping-effect/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11262.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11113",
       "name": "Chocolate (chipping)",
       "code": "AK11113",
@@ -2530,18 +2278,6 @@
         "hex": "#CABD94",
         "delta_e": 1.0
       }
-    },
-    {
-      "id": "ak/ak11712",
-      "name": "Clear Doped Linen",
-      "code": "AK11712",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/clear-doped-linen-3/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11712_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11216",
@@ -2674,18 +2410,6 @@
       }
     },
     {
-      "id": "ak/ak11273",
-      "name": "Cold Green",
-      "code": "AK11273",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/cold-green-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11273.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11155",
       "name": "Command Green",
       "code": "AK11155",
@@ -2732,18 +2456,6 @@
         "hex": "#B87A59",
         "delta_e": 0.93
       }
-    },
-    {
-      "id": "ak/ak11119",
-      "name": "Cork",
-      "code": "AK11119",
-      "set": "Standard (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/cork-standard/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11119.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak3062",
@@ -2817,18 +2529,6 @@
         "hex": "#232B2B",
         "delta_e": 2.53
       }
-    },
-    {
-      "id": "ak/ak11628",
-      "name": "Dak Soldiers Uniform Colors",
-      "code": "AK11628",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/dak-soldiers-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11628_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11208",
@@ -3830,18 +3530,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11272",
-      "name": "Dragon Blood",
-      "code": "AK11272",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/dragon-blood-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11272.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak724",
       "name": "Dry Light Mud",
       "code": "AK724",
@@ -4132,18 +3820,6 @@
         "hex": "#AB9769",
         "delta_e": 1.02
       }
-    },
-    {
-      "id": "ak/ak11756",
-      "name": "Early Cold War RAF Aircraft Colors",
-      "code": "AK11756",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/early-cold-war-raf-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11756_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak3126",
@@ -4705,18 +4381,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11627",
-      "name": "Field Grey (feldgrau) Uniforms",
-      "code": "AK11627",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/field-grey-feldgrau-uniforms/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11627_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11425",
       "name": "Field Grey Base  1 (green Uniform)",
       "code": "AK11425",
@@ -4763,18 +4427,6 @@
         "hex": "#2D2F28",
         "delta_e": 1.66
       }
-    },
-    {
-      "id": "ak/ak11621",
-      "name": "Flesh and Skin Colors (the Original Selection)",
-      "code": "AK11621",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/flesh-and-skin-colors-the-original-selection/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11621.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11178",
@@ -5124,30 +4776,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11263",
-      "name": "Frost Effect",
-      "code": "AK11263",
-      "set": "Efecto Escarcha (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/frost-effect-efecto-escarcha/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11263.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11687",
-      "name": "German Army Pre-wwii Colors",
-      "code": "AK11687",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/german-army-pre-wwii-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11687_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11154",
       "name": "German Field Grey",
       "code": "AK11154",
@@ -5179,54 +4807,6 @@
         "hex": "#39382F",
         "delta_e": 0.76
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11664",
-      "name": "German Standard Colors 1943-45",
-      "code": "AK11664",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/german-standard-colors-1943-45/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11664_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11645",
-      "name": "German Standard Colors 37-43",
-      "code": "AK11645",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/german-standard-colors-37-43/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11645_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11681",
-      "name": "German Uniform Italian Pattern",
-      "code": "AK11681",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/german-uniform-italian-pattern/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11681_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11688",
-      "name": "German Wwii Tank Interior Colors",
-      "code": "AK11688",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/german-wwii-tank-interior-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11688_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -5625,18 +5205,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11274",
-      "name": "Greenskin Punch",
-      "code": "AK11274",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/greenskin-punch-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11274.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak2105",
       "name": "Grey (fs 36081)",
       "code": "AK2105",
@@ -5694,18 +5262,6 @@
         "hex": "#4C4949",
         "delta_e": 0.77
       }
-    },
-    {
-      "id": "ak/ak11614",
-      "name": "Grey For Spaceships",
-      "code": "AK11614",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/grey-for-spaceships/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/10/AK11614_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11016",
@@ -6055,18 +5611,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11603",
-      "name": "Human Flesh Tones",
-      "code": "AK11603",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/human-flesh-tones/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11603_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11036",
       "name": "Ice Yellow",
       "code": "AK11036",
@@ -6081,18 +5625,6 @@
         "hex": "#FFF08C",
         "delta_e": 0.73
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11650",
-      "name": "Idf Afv Colors",
-      "code": "AK11650",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/idf-afv-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11650_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -6218,18 +5750,6 @@
         "hex": "#5A5348",
         "delta_e": 0.85
       }
-    },
-    {
-      "id": "ak/ak11631",
-      "name": "Idf Uniform Colors",
-      "code": "AK11631",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/idf-uniform-colors-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11631_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11899",
@@ -6521,18 +6041,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11604",
-      "name": "Inferno and Red Creatures",
-      "code": "AK11604",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/inferno-and-red-creatures/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11604_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11868",
       "name": "Insignia White Fs 17875",
       "code": "AK11868",
@@ -6672,30 +6180,6 @@
         "hex": "#688C43",
         "delta_e": 1.07
       }
-    },
-    {
-      "id": "ak/ak11655",
-      "name": "Iraq & Afghanistan",
-      "code": "AK11655",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/iraq-afghanistan/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11655_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11752",
-      "name": "Israeli Air Force Colors",
-      "code": "AK11752",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/israeli-air-force-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11752_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11004",
@@ -6847,18 +6331,6 @@
       }
     },
     {
-      "id": "ak/ak11271",
-      "name": "King Purple",
-      "code": "AK11271",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/king-purple-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11271.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak795",
       "name": "Laf Green",
       "code": "AK795",
@@ -6955,18 +6427,6 @@
         "hex": "#433120",
         "delta_e": 1.51
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11620",
-      "name": "Leather and Buckles",
-      "code": "AK11620",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/leather-and-buckles-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11620_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -7455,30 +6915,6 @@
         "hex": "#165B31",
         "delta_e": 0.4
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11720",
-      "name": "Luftwaffe Fighter Colors 1941-1944",
-      "code": "AK11720",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/luftwaffe-fighter-colors-1941-1944-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11720_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11715",
-      "name": "Luftwaffe Pre-WWII Aircraft Colors",
-      "code": "AK11715",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/luftwaffe-pre-wwii-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11715_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -8046,18 +7482,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11653",
-      "name": "Merdc Camouflage Colors",
-      "code": "AK11653",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/merdc-camouflage-colors-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11653_web_.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11343",
       "name": "Merdc Sand (fs30277)",
       "code": "AK11343",
@@ -8106,30 +7530,6 @@
         "hex": "#829D99",
         "delta_e": 0.65
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11205",
-      "name": "Metallic Green",
-      "code": "AK11205",
-      "set": "Metallic (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/metallic-green-metallic/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11205.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11648",
-      "name": "Middle East War Colors",
-      "code": "AK11648",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/middle-east-war-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11648_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -8255,78 +7655,6 @@
         "hex": "#878466",
         "delta_e": 1.31
       }
-    },
-    {
-      "id": "ak/ak11630",
-      "name": "Modern Desert Uniform Colors",
-      "code": "AK11630",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-desert-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11630_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11661",
-      "name": "Modern French Army Colors",
-      "code": "AK11661",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-french-army-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11661_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11753",
-      "name": "Modern Hellenic Air Force Ghost Scheme",
-      "code": "AK11753",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-hellenic-air-force-ghost-scheme-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11753_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11755",
-      "name": "Modern Royal Air Force Aircraft Colors",
-      "code": "AK11755",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-royal-air-force-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11755_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11662",
-      "name": "Modern Russian Colors Vol 1",
-      "code": "AK11662",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-russian-colours-vol-1-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11662_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11663",
-      "name": "Modern Russian Colors Vol 2",
-      "code": "AK11663",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/modern-russian-colours-vol-2-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11663_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11350",
@@ -8611,42 +7939,6 @@
       }
     },
     {
-      "id": "ak/ak11602",
-      "name": "Night Creatures Flesh Tone",
-      "code": "AK11602",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/night-creatures-flesh-tone/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11602_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11606",
-      "name": "Nmm (non Metallic Metal) Gold",
-      "code": "AK11606",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/nmm-non-metallic-metal-gold/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11606_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11601",
-      "name": "Non Metallic Metal: Steel",
-      "code": "AK11601",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/non-metallic-metal-steel/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11601_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11335",
       "name": "Nº1 Light Green (fs34151)",
       "code": "AK11335",
@@ -8802,30 +8094,6 @@
         "hex": "#363E1D",
         "delta_e": 2.73
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11625",
-      "name": "Oak Leaf, Palm Tree & Plane Tree Patterns Autumn/winter Variants",
-      "code": "AK11625",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/oak-leaf-palm-tree-plane-tree-patterns-autumn-winter-variants/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11625_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11626",
-      "name": "Oak Leaf, Palm Tree & Plane Tree Patterns Spring/summer Variants",
-      "code": "AK11626",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/oak-leaf-palm-tree-plane-tree-patterns-spring-summer-variants/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11626_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9015,30 +8283,6 @@
         "hex": "#A5A391",
         "delta_e": 0.66
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11673",
-      "name": "Old & Weathered Wood Vol 1",
-      "code": "AK11673",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/old-weathered-wood-vol-1-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11673_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11674",
-      "name": "Old & Weathered Wood Vol 2",
-      "code": "AK11674",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/old-weathered-wood-vol-2-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2024/11/AK11674.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9427,18 +8671,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11600",
-      "name": "Orcs and Green Models",
-      "code": "AK11600",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/orcs-and-green-models/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11600_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11188",
       "name": "Oxford",
       "code": "AK11188",
@@ -9453,18 +8685,6 @@
         "hex": "#35383F",
         "delta_e": 1.14
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak17526",
-      "name": "Painting Skin Tones >> Made Easy << By Calvin Tan",
-      "code": "AK17526",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/painting-skin-tones-made-easy/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2025/10/AK17526.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9575,18 +8795,6 @@
         "hex": "#FDDC57",
         "delta_e": 0.22
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11622",
-      "name": "Panzer Crew Uniforms",
-      "code": "AK11622",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/panzer-crew-uniforms/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11622_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -9779,18 +8987,6 @@
         "hex": "#3B3429",
         "delta_e": 2.06
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11623",
-      "name": "Pea Dot Pattern/dot44 (erbsenmuster)",
-      "code": "AK11623",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/pea-dot-pattern-dot44-erbsenmuster/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11623_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -10042,18 +9238,6 @@
         "hex": "#B37E8C",
         "delta_e": 0.98
       }
-    },
-    {
-      "id": "ak/ak11073",
-      "name": "Purple",
-      "code": "AK11073",
-      "set": "Standard (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/purple-standard/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11073.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11039",
@@ -10785,18 +9969,6 @@
         "hex": "#181B26",
         "delta_e": 1.61
       }
-    },
-    {
-      "id": "ak/ak11754",
-      "name": "RN Fleet Air Arm Aircraft Colors 1945-2006",
-      "code": "AK11754",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/rn-fleet-air-arm-aircraft-colors-1945-2010/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11754_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak5031",
@@ -11656,18 +10828,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11685",
-      "name": "Red & Blue Vehicle Interiors",
-      "code": "AK11685",
-      "set": "Interior de Vehículos Rojo Y Azul (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/red-blue-vehicle-interiors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11685_WEB_2024.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak3048",
       "name": "Red / Vermilion Cadmium Red.",
       "code": "AK3048",
@@ -12507,18 +11667,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11277",
-      "name": "Russet Shadow",
-      "code": "AK11277",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/russet-shadow-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11277.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak031",
       "name": "Russian 4bo Base",
       "code": "AK031",
@@ -12812,18 +11960,6 @@
         "hex": "#8C2C24",
         "delta_e": 1.58
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11605",
-      "name": "Rust and Abandoned",
-      "code": "AK11605",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/rust-and-abandoned/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/06/AK11605_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -13363,18 +12499,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11275",
-      "name": "Slime Green",
-      "code": "AK11275",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/slime-green-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11275.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11028",
       "name": "Smoke Black",
       "code": "AK11028",
@@ -13421,66 +12545,6 @@
         "hex": "#5F5D48",
         "delta_e": 0.0
       }
-    },
-    {
-      "id": "ak/ak11740",
-      "name": "Soviet Aircraft Colors 1930s-1941",
-      "code": "AK11740",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/soviet-aircraft-colors-1930s-1941/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11740_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11741",
-      "name": "Soviet Aircraft Colors 1941-1945",
-      "code": "AK11741",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/soviet-aircraft-colors-1941-1945/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11741_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11743",
-      "name": "Soviet Aircraft Colors 1950s-1970s",
-      "code": "AK11743",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/soviet-aircraft-colors-1950s-1970s/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11743_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11742",
-      "name": "Soviet Fighter Colors 1943-1945",
-      "code": "AK11742",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/soviet-fighter-colors-1943-1945-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11742_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11713",
-      "name": "Spanish Civil War",
-      "code": "AK11713",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/spanish-civil-war-legion-condor-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11714_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak736",
@@ -13548,30 +12612,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11624",
-      "name": "Splittertarnmuster Uniforms",
-      "code": "AK11624",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/splittertarnmuster-uniforms/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11624_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11670",
-      "name": "Standard Tools All Eras",
-      "code": "AK11670",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/standard-tools-all-eras/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11670_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11185",
       "name": "Star Blue",
       "code": "AK11185",
@@ -13617,18 +12657,6 @@
         "hex": "#041723",
         "delta_e": 1.29
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11279",
-      "name": "Sun Red",
-      "code": "AK11279",
-      "set": "Color Punch (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/sun-red-color-punch/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11279.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -13714,54 +12742,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11705",
-      "name": "The Best 120 Colors For Afv",
-      "code": "AK11705",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/the-best-120-colors-for-afv/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2023/02/AK11705_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11706",
-      "name": "The Best 120 Colors For Aircraft",
-      "code": "AK11706",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/the-best-120-colors-for-aircraft/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2023/02/AK11706_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11704",
-      "name": "The Best 120 Colors For Figures",
-      "code": "AK11704",
-      "set": "Los 120 Mejores Colores Para Figuras (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/the-best-120-colors-for-figures/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2023/02/AK11704_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11707",
-      "name": "The Best 120 Colors For Wargames, Fantasy & Sci-fi",
-      "code": "AK11707",
-      "set": "Los 120 Mejores Colores Para Wargames, Fantasía Y Ciencia Ficción (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/the-best-120-colors-for-wargames-fantasy-sci-fi/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2023/02/AK11707_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11230",
       "name": "Titanium White",
       "code": "AK11230",
@@ -13774,18 +12754,6 @@
         "hex": "#FFFFFF",
         "delta_e": 0.0
       }
-    },
-    {
-      "id": "ak/ak11672",
-      "name": "Tracks & Wheels",
-      "code": "AK11672",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/tracks-wheels/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11672_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11251",
@@ -13850,78 +12818,6 @@
       }
     },
     {
-      "id": "ak/ak11747",
-      "name": "US Air Force & ANG Aircraft Colors 1960s-1980s",
-      "code": "AK11747",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-air-force-ang-aircraft-colors-1960s-1980s/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11747_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11746",
-      "name": "US Air Force & ANG Modern Aircraft Colors",
-      "code": "AK11746",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-air-force-ang-modern-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11746_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11749",
-      "name": "US Air Force European I Camo Colors 1980s",
-      "code": "AK11749",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-air-force-european-i-camo-colors-1980s/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11749_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11748",
-      "name": "US Air Force South East Asia (SEA) Scheme",
-      "code": "AK11748",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-air-force-south-east-asia-sea-scheme/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11748_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11750",
-      "name": "US Army Helicopter Colors",
-      "code": "AK11750",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-army-helicopter-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11750_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11751",
-      "name": "US Asia Minor Scheme (IIAF / IRIAF Aircraft Colors)",
-      "code": "AK11751",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-asia-minor-scheme-iiaf-iriaf-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11751_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak3075",
       "name": "US Field Drab -23-",
       "code": "AK3075",
@@ -13934,30 +12830,6 @@
         "hex": "#926A25",
         "delta_e": 1.4
       }
-    },
-    {
-      "id": "ak/ak11745",
-      "name": "US Navy & USMC Aircraft Colors 1945-1980",
-      "code": "AK11745",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-navy-usmc-aircraft-colors-1945-1980/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11745_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11744",
-      "name": "US Navy & USMC Modern Aircraft & Helicopter Colors",
-      "code": "AK11744",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-navy-usmc-modern-aircraft-helicopter-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11744_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11179",
@@ -14042,18 +12914,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11761",
-      "name": "Us Modern Pilot Uniform Colors",
-      "code": "AK11761",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-modern-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11761_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11433",
       "name": "Us Olive Base Uniform",
       "code": "AK11433",
@@ -14068,18 +12928,6 @@
         "hex": "#584C25",
         "delta_e": 2.63
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11675",
-      "name": "Us Tank Colors Europe 1944-45",
-      "code": "AK11675",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/us-tank-colors-europe-1944-45/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11675_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -14213,18 +13061,6 @@
       }
     },
     {
-      "id": "ak/ak11647",
-      "name": "Vehicle and Tank Accessories",
-      "code": "AK11647",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/vehicle-and-tank-accessories/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11647_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11090",
       "name": "Vermillion",
       "code": "AK11090",
@@ -14239,30 +13075,6 @@
         "hex": "#C14D36",
         "delta_e": 0.84
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11659",
-      "name": "Vietnam Camouflage Colors For Jungle Colors",
-      "code": "AK11659",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/vietnam-camouflage-colors-for-jungle-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11659_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11682",
-      "name": "Vietnam Green & Camouflage Uniforms",
-      "code": "AK11682",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/vietnam-green-camouflage-uniforms/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2024/11/AK11682.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -14294,18 +13106,6 @@
         "hex": "#553333",
         "delta_e": 0.84
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11261",
-      "name": "Viscera Effect",
-      "code": "AK11261",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/viscera-effect/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2026/03/AK11261.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -14352,18 +13152,6 @@
         "hex": "#665537",
         "delta_e": 1.66
       }
-    },
-    {
-      "id": "ak/ak11710",
-      "name": "WWI German Aircraft Colors",
-      "code": "AK11710",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-german-aircraft-colors-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11710_web_.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak2273",
@@ -14476,294 +13264,6 @@
         "hex": "#4F301F",
         "delta_e": 2.43
       }
-    },
-    {
-      "id": "ak/ak11711",
-      "name": "WWI RFC & RNAS. British Aircraft Colors",
-      "code": "AK11711",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-rfc-rnas-british-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11711_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11739",
-      "name": "WWII Finnish Air Force Colors",
-      "code": "AK11739",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-finnish-air-force-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11739_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11735",
-      "name": "WWII IJAAF Aircraft Colors",
-      "code": "AK11735",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-ijaaf-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11735_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11736",
-      "name": "WWII IJAAF Aircraft Interior Colors",
-      "code": "AK11736",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-ijaaf-aircraft-interior-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11736_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11737",
-      "name": "WWII IJN Aircraft Colors",
-      "code": "AK11737",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-ijn-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11737_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11738",
-      "name": "WWII IJN Aircraft Interior Colors",
-      "code": "AK11738",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-ijn-aircraft-interior-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11738_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11722",
-      "name": "WWII Luftwaffe Cockpit & Interior Colors",
-      "code": "AK11722",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-cockpit-interior-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11722_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11716",
-      "name": "WWII Luftwaffe Early War Colors",
-      "code": "AK11716",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-early-war-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11716_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11718",
-      "name": "WWII Luftwaffe Late War Colors",
-      "code": "AK11718",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-late-war-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11718_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11717",
-      "name": "WWII Luftwaffe Mid-War Colors",
-      "code": "AK11717",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-mid-war-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11717_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11721",
-      "name": "WWII Luftwaffe Seaplane Colors",
-      "code": "AK11721",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-seaplane-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11721_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11719",
-      "name": "WWII Luftwaffe Tropical Colors",
-      "code": "AK11719",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-tropical-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/Ak11719_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11723",
-      "name": "WWII RAF Aircraft Colors",
-      "code": "AK11723",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2023/01/AK11723.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11726",
-      "name": "WWII RAF Aircraft Desert Colors",
-      "code": "AK11726",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-aircraft-desert-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11726_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11728",
-      "name": "WWII RAF Coastal Command & RN Fleet Air Arm Colors",
-      "code": "AK11728",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-coastal-command-rn-fleet-air-arm-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11728_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11725",
-      "name": "WWII RAF Day Fighter Scheme",
-      "code": "AK11725",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-day-fighter-scheme/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11725_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11727",
-      "name": "WWII RAF SEAC Aircraft Colors",
-      "code": "AK11727",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-seac-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11727_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11724",
-      "name": "WWII RAF Temperate Land Scheme",
-      "code": "AK11724",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-temperate-land-scheme/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11724_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11734",
-      "name": "WWII US Aircraft Interior Colors",
-      "code": "AK11734",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-aircraft-interior-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11734_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11729",
-      "name": "WWII US Navy & USMC Aircraft Colors",
-      "code": "AK11729",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-navy-usmc-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11729_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11730",
-      "name": "WWII US Navy & USMC Aircraft Late War Colors",
-      "code": "AK11730",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-navy-usmc-aircraft-late-war-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11730_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11731",
-      "name": "WWII US Navy ASW Aircraft Colors",
-      "code": "AK11731",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-navy-asw-aircraft-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11731_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11732",
-      "name": "WWII USAAF Aircraft Colors Vol.1",
-      "code": "AK11732",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-usaaf-aircraft-colors-vol-1/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11732_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11733",
-      "name": "WWII USAAF Aircraft Colors Vol.2",
-      "code": "AK11733",
-      "set": "Air (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-usaaf-aircraft-colors-vol-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/08/AK11733_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak11417",
@@ -15107,18 +13607,6 @@
       }
     },
     {
-      "id": "ak/ak11632",
-      "name": "Woodland & Flecktarn Camouflage",
-      "code": "AK11632",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/woodland-flacktarn-camouflage/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11632_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11301",
       "name": "Wwi British Khaki Brown Base",
       "code": "AK11301",
@@ -15133,30 +13621,6 @@
         "hex": "#51412D",
         "delta_e": 0.56
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11638",
-      "name": "Wwi British Uniform Colors",
-      "code": "AK11638",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-british-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11638_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11660",
-      "name": "Wwi French Afv Colors",
-      "code": "AK11660",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-french-afv-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11660_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -15242,18 +13706,6 @@
         "hex": "#9A794A",
         "delta_e": 0.89
       },
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11637",
-      "name": "Wwi French Uniform Colors",
-      "code": "AK11637",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-french-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11637_web.jpg",
-      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
     {
@@ -15393,186 +13845,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "ak/ak11686",
-      "name": "Wwi German Tank Colors",
-      "code": "AK11686",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-german-tank-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11686_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11629",
-      "name": "Wwi German Uniforms",
-      "code": "AK11629",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwi-german-uniforms-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11629_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11636",
-      "name": "Wwii British Uniform Colors",
-      "code": "AK11636",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-british-uniform-colors-2/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11636_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11633",
-      "name": "Wwii French Uniform Colors",
-      "code": "AK11633",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-french-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11633_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11693",
-      "name": "Wwii Japan Pilot Uniform Colors",
-      "code": "AK11693",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-japan-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2024/11/AK11693.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11774",
-      "name": "Wwii Japanese Army Afv Colors",
-      "code": "AK11774",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-japanese-army-afv-color/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2022/09/AK11674_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11690",
-      "name": "Wwii Luftwaffe Pilot Uniform Colors",
-      "code": "AK11690",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-luftwaffe-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11690_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11689",
-      "name": "Wwii Raf Pilot Uniform Colors",
-      "code": "AK11689",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-raf-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11689_web_.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11665",
-      "name": "Wwii Russian Standard Colors",
-      "code": "AK11665",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-russian-standard-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11665_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11692",
-      "name": "Wwii Soviet Pilot Uniform Colors",
-      "code": "AK11692",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-soviet-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11692_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11657",
-      "name": "Wwii Soviet Tank Colors",
-      "code": "AK11657",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-soviet-tank-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11657_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11635",
-      "name": "Wwii Soviet Uniform Colors",
-      "code": "AK11635",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-soviet-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11635_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11634",
-      "name": "Wwii Us Army Soldier Uniform Colors",
-      "code": "AK11634",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-army-soldier-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11634_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11668",
-      "name": "Wwii Us Army and Usmc Camouflage Colors",
-      "code": "AK11668",
-      "set": "AFV (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-army-and-usmc-camouflage-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2020/12/AK11668_web_.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
-      "id": "ak/ak11691",
-      "name": "Wwii Us Pilot Uniform Colors",
-      "code": "AK11691",
-      "set": "Figures (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/wwii-us-pilot-uniform-colors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/09/AK11691_web.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "ak/ak11044",
       "name": "Yellow",
       "code": "AK11044",
@@ -15616,18 +13888,6 @@
         "hex": "#8B8757",
         "delta_e": 0.73
       }
-    },
-    {
-      "id": "ak/ak11684",
-      "name": "Yellow, Brown & Grey Vehicle Interiors",
-      "code": "AK11684",
-      "set": "Unbekannt (3rd Gen)",
-      "hex": null,
-      "status": "new",
-      "url": "https://ak-interactive.com/product/yellow-brown-grey-vehicle-interiors/",
-      "image": "https://ak-interactive.com/wp-content/uploads/2021/03/AK11684_WEB_2024.jpg",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09"
     },
     {
       "id": "ak/ak2207",

@@ -86,7 +86,8 @@ class GreenStuffWorldScraper(Scraper):
         for set_name, rx in TITLE_RULES:
             m = re.match(rx, title, re.I)
             if m:
-                return Product(name=smart_title(m["name"]), set=set_name, code=None, url=url,
+                name = re.sub(r"^(?:Airbrush\s+)?(?:Paint|Acrylic Ink|Ink|Colou?r)\s*-?\s*", "", m["name"], flags=re.I)
+                return Product(name=smart_title(name), set=set_name, code=None, url=url,
                                image=img, extra={"reference": ref, "title": title})
         self.unmapped.add(title)
         return None
