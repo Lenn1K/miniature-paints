@@ -1,0 +1,5057 @@
+{
+  "brand": "Foundry",
+  "slug": "foundry",
+  "md_file": "Foundry.md",
+  "logo": "logos/Foundry.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "foundry/126b",
+      "name": "African Flesh",
+      "code": "126B",
+      "set": "Foundry Paint System",
+      "hex": "#73484F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Formal Maroon",
+        "hex": "#70474B",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "foundry/126c",
+      "name": "African Flesh Light",
+      "code": "126C",
+      "set": "Foundry Paint System",
+      "hex": "#8F4F50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Butter",
+        "hex": "#8E5151",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "foundry/126a",
+      "name": "African Flesh Shade",
+      "code": "126A",
+      "set": "Foundry Paint System",
+      "hex": "#5B444A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Huckleberry",
+        "hex": "#5B4349",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "foundry/93b",
+      "name": "American Green",
+      "code": "93B",
+      "set": "Foundry Paint System",
+      "hex": "#76716B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gauntlet Grey",
+        "hex": "#78736E",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "foundry/93c",
+      "name": "American Green Light",
+      "code": "93C",
+      "set": "Foundry Paint System",
+      "hex": "#808274",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Eucalyptus",
+        "hex": "#7E8272",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "foundry/93a",
+      "name": "American Green Shade",
+      "code": "93A",
+      "set": "Foundry Paint System",
+      "hex": "#5A554F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dominant Grey",
+        "hex": "#5A5651",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/94b",
+      "name": "American Olive Green",
+      "code": "94B",
+      "set": "Foundry Paint System",
+      "hex": "#313E44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Stone",
+        "hex": "#334046",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "foundry/94c",
+      "name": "American Olive Green Light",
+      "code": "94C",
+      "set": "Foundry Paint System",
+      "hex": "#37594F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balsam Branch",
+        "hex": "#36574E",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "foundry/94a",
+      "name": "American Olive Green Shade",
+      "code": "94A",
+      "set": "Foundry Paint System",
+      "hex": "#2F363E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "School Ink",
+        "hex": "#31373F",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "foundry/92b",
+      "name": "American Tan",
+      "code": "92B",
+      "set": "Foundry Paint System",
+      "hex": "#C2B08A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earthy Cane",
+        "hex": "#C5B28B",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "foundry/92c",
+      "name": "American Tan Light",
+      "code": "92C",
+      "set": "Foundry Paint System",
+      "hex": "#DCCAA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Straw Harvest",
+        "hex": "#DBC8A2",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/92a",
+      "name": "American Tan Shade",
+      "code": "92A",
+      "set": "Foundry Paint System",
+      "hex": "#AD9F7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruskin Room Green",
+        "hex": "#ACA17D",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "foundry/33b",
+      "name": "Arctic Grey",
+      "code": "33B",
+      "set": "Foundry Paint System",
+      "hex": "#BEC0BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noghrei Silver",
+        "hex": "#BDBEBD",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "foundry/33a",
+      "name": "Arctic Grey Shade",
+      "code": "33A",
+      "set": "Foundry Paint System",
+      "hex": "#929292",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nickel",
+        "hex": "#929292",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/35b",
+      "name": "Armour",
+      "code": "35B",
+      "set": "Foundry Paint System",
+      "hex": "#D1D3D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Double Click",
+        "hex": "#D0D2D1",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "foundry/35c",
+      "name": "Armour Light",
+      "code": "35C",
+      "set": "Foundry Paint System",
+      "hex": "#C5C9CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Spring",
+        "hex": "#C7CBCE",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "foundry/35a",
+      "name": "Armour Shade",
+      "code": "35A",
+      "set": "Foundry Paint System",
+      "hex": "#919191",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tin",
+        "hex": "#919191",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/107b",
+      "name": "Austrian Gun Ochre",
+      "code": "107B",
+      "set": "Foundry Paint System",
+      "hex": "#C0C46D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Powdered Green Tea",
+        "hex": "#C5C56A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "foundry/107c",
+      "name": "Austrian Gun Ochre Light",
+      "code": "107C",
+      "set": "Foundry Paint System",
+      "hex": "#DCCF66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acacia",
+        "hex": "#DBCD64",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/107a",
+      "name": "Austrian Gun Ochre Shade",
+      "code": "107A",
+      "set": "Foundry Paint System",
+      "hex": "#A1B669",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Birch Green",
+        "hex": "#9DB567",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "foundry/67b",
+      "name": "Austrian White",
+      "code": "67B",
+      "set": "Foundry Paint System",
+      "hex": "#DCE1DD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tinsmith",
+        "hex": "#DCE0DC",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "foundry/67c",
+      "name": "Austrian White Light",
+      "code": "67C",
+      "set": "Foundry Paint System",
+      "hex": "#E6E6E6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Extraordinary Abundance of Tinge",
+        "hex": "#E6E6E6",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/67a",
+      "name": "Austrian White Shade",
+      "code": "67A",
+      "set": "Foundry Paint System",
+      "hex": "#CDD4CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Loden",
+        "hex": "#CCD2CA",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "foundry/10b",
+      "name": "Base Sand",
+      "code": "10B",
+      "set": "Foundry Paint System",
+      "hex": "#E9C384",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Bear",
+        "hex": "#E8C281",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/10c",
+      "name": "Base Sand Light",
+      "code": "10C",
+      "set": "Foundry Paint System",
+      "hex": "#F5DEB2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gruyère Cheese",
+        "hex": "#F5DEB3",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "foundry/10a",
+      "name": "Base Sand Shade",
+      "code": "10A",
+      "set": "Foundry Paint System",
+      "hex": "#D7A96B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ungor Beige",
+        "hex": "#D6A766",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "foundry/73b",
+      "name": "Bavarian Cornflower Blue",
+      "code": "73B",
+      "set": "Foundry Paint System",
+      "hex": "#0B72DB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Navy Blue",
+        "hex": "#1974D2",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "foundry/73c",
+      "name": "Bavarian Cornflower Blue Light",
+      "code": "73C",
+      "set": "Foundry Paint System",
+      "hex": "#2395ED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Karimun Blue",
+        "hex": "#2196F3",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "foundry/73a",
+      "name": "Bavarian Cornflower Blue Shade",
+      "code": "73A",
+      "set": "Foundry Paint System",
+      "hex": "#1E3E67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Mosque",
+        "hex": "#21426B",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "foundry/42b",
+      "name": "Bay Brown",
+      "code": "42B",
+      "set": "Foundry Paint System",
+      "hex": "#6B3020",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hereford Cow Brown",
+        "hex": "#6C2E1F",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "foundry/42c",
+      "name": "Bay Brown Light",
+      "code": "42C",
+      "set": "Foundry Paint System",
+      "hex": "#823C00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Beech",
+        "hex": "#7B3801",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "foundry/42a",
+      "name": "Bay Brown Shade",
+      "code": "42A",
+      "set": "Foundry Paint System",
+      "hex": "#2C110A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Root Brew",
+        "hex": "#290E05",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/105b",
+      "name": "Blackened Barrel",
+      "code": "105B",
+      "set": "Foundry Paint System",
+      "hex": "#191919",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thamar Black",
+        "hex": "#181818",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "foundry/105c",
+      "name": "Blackened Barrel Light",
+      "code": "105C",
+      "set": "Foundry Paint System",
+      "hex": "#323232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomcat",
+        "hex": "#323232",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/105a",
+      "name": "Blackened Barrel Shade",
+      "code": "105A",
+      "set": "Foundry Paint System",
+      "hex": "#010101",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Binary Black",
+        "hex": "#010101",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/9b",
+      "name": "Bone yard",
+      "code": "9B",
+      "set": "Foundry Paint System",
+      "hex": "#E3CE95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honeycomb Glow",
+        "hex": "#E4CF99",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/9c",
+      "name": "Bone yard Light",
+      "code": "9C",
+      "set": "Foundry Paint System",
+      "hex": "#FDF7D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reddish White",
+        "hex": "#FFF8D5",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/9a",
+      "name": "Bone yard Shade",
+      "code": "9A",
+      "set": "Foundry Paint System",
+      "hex": "#D2A552",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Gold Pearl",
+        "hex": "#D0A54E",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/41b",
+      "name": "Bright Bottle Green",
+      "code": "41B",
+      "set": "Foundry Paint System",
+      "hex": "#0D4613",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Realm of the Underworld",
+        "hex": "#114411",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "foundry/41c",
+      "name": "Bright Bottle Green Light",
+      "code": "41C",
+      "set": "Foundry Paint System",
+      "hex": "#207125",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bogey Green",
+        "hex": "#116F26",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "foundry/41a",
+      "name": "Bright Bottle Green Shade",
+      "code": "41A",
+      "set": "Foundry Paint System",
+      "hex": "#001A00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightmare",
+        "hex": "#112211",
+        "delta_e": 3.23
+      }
+    },
+    {
+      "id": "foundry/25b",
+      "name": "Bright Green",
+      "code": "25B",
+      "set": "Foundry Paint System",
+      "hex": "#00963B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pixelated Grass",
+        "hex": "#009337",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "foundry/25c",
+      "name": "Bright Green Light",
+      "code": "25C",
+      "set": "Foundry Paint System",
+      "hex": "#63C686",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enamelled Dragon",
+        "hex": "#54C589",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "foundry/25a",
+      "name": "Bright Green Shade",
+      "code": "25A",
+      "set": "Foundry Paint System",
+      "hex": "#056E33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Column of Oak Green",
+        "hex": "#006F37",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/15b",
+      "name": "Bright Red",
+      "code": "15B",
+      "set": "Foundry Paint System",
+      "hex": "#E22915",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Halloween Punch",
+        "hex": "#DD2211",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "foundry/15c",
+      "name": "Bright Red Light",
+      "code": "15C",
+      "set": "Foundry Paint System",
+      "hex": "#CA5B09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rusty Orange",
+        "hex": "#CD5909",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "foundry/15a",
+      "name": "Bright Red Shade",
+      "code": "15A",
+      "set": "Foundry Paint System",
+      "hex": "#962B23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saffronaut",
+        "hex": "#932A25",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "foundry/91b",
+      "name": "British Blanco Green",
+      "code": "91B",
+      "set": "Foundry Paint System",
+      "hex": "#7A8F80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyanara",
+        "hex": "#779080",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "foundry/91c",
+      "name": "British Blanco Green Light",
+      "code": "91C",
+      "set": "Foundry Paint System",
+      "hex": "#65806D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ranger Green",
+        "hex": "#6A8472",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "foundry/91a",
+      "name": "British Blanco Green Shade",
+      "code": "91A",
+      "set": "Foundry Paint System",
+      "hex": "#4C564B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Evergreen",
+        "hex": "#4C574B",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "foundry/75b",
+      "name": "British Blue Grey",
+      "code": "75B",
+      "set": "Foundry Paint System",
+      "hex": "#5D7790",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mahonia Berry Blue",
+        "hex": "#62788E",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "foundry/75c",
+      "name": "British Blue Grey Light",
+      "code": "75C",
+      "set": "Foundry Paint System",
+      "hex": "#7896B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cranberry Blue",
+        "hex": "#7494B1",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/75a",
+      "name": "British Blue Grey Shade",
+      "code": "75A",
+      "set": "Foundry Paint System",
+      "hex": "#0E456C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Imperial Blue",
+        "hex": "#00416A",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "foundry/97b",
+      "name": "British Denison Brown",
+      "code": "97B",
+      "set": "Foundry Paint System",
+      "hex": "#6A5746",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buffalo Dance",
+        "hex": "#695645",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "foundry/97c",
+      "name": "British Denison Brown Light",
+      "code": "97C",
+      "set": "Foundry Paint System",
+      "hex": "#EDD7C0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oak Shaving",
+        "hex": "#EED8C2",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "foundry/97a",
+      "name": "British Denison Brown Shade",
+      "code": "97A",
+      "set": "Foundry Paint System",
+      "hex": "#B2A289",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whitney Oaks",
+        "hex": "#B2A188",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "foundry/98b",
+      "name": "British Denison Green",
+      "code": "98B",
+      "set": "Foundry Paint System",
+      "hex": "#4E5447",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forestwood",
+        "hex": "#4D5346",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "foundry/98c",
+      "name": "British Denison Green Light",
+      "code": "98C",
+      "set": "Foundry Paint System",
+      "hex": "#626D5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wimbledon",
+        "hex": "#626D5B",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "foundry/98a",
+      "name": "British Denison Green Shade",
+      "code": "98A",
+      "set": "Foundry Paint System",
+      "hex": "#303133",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tap Shoe",
+        "hex": "#2F3032",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "foundry/99b",
+      "name": "British Denison Tan",
+      "code": "99B",
+      "set": "Foundry Paint System",
+      "hex": "#9D7960",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baked Sienna",
+        "hex": "#9B775E",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "foundry/99c",
+      "name": "British Denison Tan Light",
+      "code": "99C",
+      "set": "Foundry Paint System",
+      "hex": "#B3957C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cobbler Shop",
+        "hex": "#B2967E",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "foundry/99a",
+      "name": "British Denison Tan Shade",
+      "code": "99A",
+      "set": "Foundry Paint System",
+      "hex": "#7F6B62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cocoa Milk",
+        "hex": "#7D675D",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "foundry/90b",
+      "name": "British Equipment Canvas",
+      "code": "90B",
+      "set": "Foundry Paint System",
+      "hex": "#CBC385",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tyrant Skull",
+        "hex": "#CDC586",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "foundry/90c",
+      "name": "British Equipment Canvas Light",
+      "code": "90C",
+      "set": "Foundry Paint System",
+      "hex": "#F2EBB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Invigorating",
+        "hex": "#F1EAB4",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/90a",
+      "name": "British Equipment Canvas Shade",
+      "code": "90A",
+      "set": "Foundry Paint System",
+      "hex": "#585135",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "foundry/89b",
+      "name": "British Equipment Tan",
+      "code": "89B",
+      "set": "Foundry Paint System",
+      "hex": "#85796D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ghost Ship",
+        "hex": "#887B6E",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "foundry/89c",
+      "name": "British Equipment Tan Light",
+      "code": "89C",
+      "set": "Foundry Paint System",
+      "hex": "#AA9C87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Creek Bay",
+        "hex": "#AB9D89",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "foundry/89a",
+      "name": "British Equipment Tan Shade",
+      "code": "89A",
+      "set": "Foundry Paint System",
+      "hex": "#7D7369",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jasmine Hollow",
+        "hex": "#7E7468",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "foundry/108b",
+      "name": "British Gun Grey",
+      "code": "108B",
+      "set": "Foundry Paint System",
+      "hex": "#89A0A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Symphony of Blue",
+        "hex": "#89A0A6",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "foundry/108c",
+      "name": "British Gun Grey Light",
+      "code": "108C",
+      "set": "Foundry Paint System",
+      "hex": "#9FB2B8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ovation",
+        "hex": "#9EB2B9",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "foundry/108a",
+      "name": "British Gun Grey Shade",
+      "code": "108A",
+      "set": "Foundry Paint System",
+      "hex": "#7997A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kingfisher Grey",
+        "hex": "#7E969F",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "foundry/68b",
+      "name": "British Redcoat",
+      "code": "68B",
+      "set": "Foundry Paint System",
+      "hex": "#E5040C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Level !",
+        "hex": "#E4090B",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "foundry/68c",
+      "name": "British Redcoat Light",
+      "code": "68C",
+      "set": "Foundry Paint System",
+      "hex": "#F39174",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moegi Green",
+        "hex": "#F19172",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "foundry/68a",
+      "name": "British Redcoat Shade",
+      "code": "68A",
+      "set": "Foundry Paint System",
+      "hex": "#AD181E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Ruby",
+        "hex": "#A81C1D",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "foundry/74b",
+      "name": "British Royal Blue",
+      "code": "74B",
+      "set": "Foundry Paint System",
+      "hex": "#213953",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Integrity",
+        "hex": "#233E57",
+        "delta_e": 2.06
+      }
+    },
+    {
+      "id": "foundry/74c",
+      "name": "British Royal Blue Light",
+      "code": "74C",
+      "set": "Foundry Paint System",
+      "hex": "#0F386C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lost in Space",
+        "hex": "#03386A",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "foundry/74a",
+      "name": "British Royal Blue Shade",
+      "code": "74A",
+      "set": "Foundry Paint System",
+      "hex": "#283B42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Current",
+        "hex": "#283C44",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/100b",
+      "name": "British Uniform Brown",
+      "code": "100B",
+      "set": "Foundry Paint System",
+      "hex": "#75553F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cellar Door",
+        "hex": "#75553F",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/100c",
+      "name": "British Uniform Brown Light",
+      "code": "100C",
+      "set": "Foundry Paint System",
+      "hex": "#886341",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spice Bazaar",
+        "hex": "#86613F",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/100a",
+      "name": "British Uniform Brown Shade",
+      "code": "100A",
+      "set": "Foundry Paint System",
+      "hex": "#63583C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Puff Dragon",
+        "hex": "#635940",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "foundry/103b",
+      "name": "Bronze Barrel",
+      "code": "103B",
+      "set": "Foundry Paint System",
+      "hex": "#836241",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Port Wine Barrel",
+        "hex": "#846342",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "foundry/103c",
+      "name": "Bronze Barrel Light",
+      "code": "103C",
+      "set": "Foundry Paint System",
+      "hex": "#C1A454",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nonpareil Apple",
+        "hex": "#C1A65C",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "foundry/103a",
+      "name": "Bronze Barrel Shade",
+      "code": "103A",
+      "set": "Foundry Paint System",
+      "hex": "#74644B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Khemri Brown",
+        "hex": "#76664C",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "foundry/7b",
+      "name": "Buff Leather",
+      "code": "7B",
+      "set": "Foundry Paint System",
+      "hex": "#EDBB5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chandra Cream",
+        "hex": "#ECBA5D",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "foundry/7c",
+      "name": "Buff Leather Light",
+      "code": "7C",
+      "set": "Foundry Paint System",
+      "hex": "#F6CD8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beacon Yellow",
+        "hex": "#F2C98A",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "foundry/7a",
+      "name": "Buff Leather Shade",
+      "code": "7A",
+      "set": "Foundry Paint System",
+      "hex": "#D79750",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salt Caramel",
+        "hex": "#D3934D",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "foundry/44b",
+      "name": "Burning Gold",
+      "code": "44B",
+      "set": "Foundry Paint System",
+      "hex": "#FFFFBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Hermes",
+        "hex": "#FFFFBB",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "foundry/44c",
+      "name": "Burning Gold Light",
+      "code": "44C",
+      "set": "Foundry Paint System",
+      "hex": "#F8F6D0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moon Glow",
+        "hex": "#F5F3CE",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "foundry/44a",
+      "name": "Burning Gold Shade",
+      "code": "44A",
+      "set": "Foundry Paint System",
+      "hex": "#ECE07C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Blonde",
+        "hex": "#EFE17E",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "foundry/43b",
+      "name": "Burnished Copper",
+      "code": "43B",
+      "set": "Foundry Paint System",
+      "hex": "#AC915C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sconce",
+        "hex": "#AE935D",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "foundry/43c",
+      "name": "Burnished Copper Light",
+      "code": "43C",
+      "set": "Foundry Paint System",
+      "hex": "#F3EEC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Banana Pudding",
+        "hex": "#F4EFC3",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "foundry/43a",
+      "name": "Burnished Copper Shade",
+      "code": "43A",
+      "set": "Foundry Paint System",
+      "hex": "#795219",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lizard Brown",
+        "hex": "#795419",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "foundry/55b",
+      "name": "Butter Fudge",
+      "code": "55B",
+      "set": "Foundry Paint System",
+      "hex": "#D87A08",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Pepper",
+        "hex": "#DA7D00",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "foundry/55c",
+      "name": "Butter Fudge Light",
+      "code": "55C",
+      "set": "Foundry Paint System",
+      "hex": "#E99B05",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pumpkin Yellow",
+        "hex": "#E99A10",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "foundry/55a",
+      "name": "Butter Fudge Shade",
+      "code": "55A",
+      "set": "Foundry Paint System",
+      "hex": "#915203",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plain Old Brown",
+        "hex": "#905100",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "foundry/46b",
+      "name": "Cadaverous Green",
+      "code": "46B",
+      "set": "Foundry Paint System",
+      "hex": "#8FC590",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kettle Drum",
+        "hex": "#9BCB96",
+        "delta_e": 2.14
+      }
+    },
+    {
+      "id": "foundry/46c",
+      "name": "Cadaverous Green Light",
+      "code": "46C",
+      "set": "Foundry Paint System",
+      "hex": "#B8DEB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Sigh",
+        "hex": "#B7E0B9",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "foundry/46a",
+      "name": "Cadaverous Green Shade",
+      "code": "46A",
+      "set": "Foundry Paint System",
+      "hex": "#629979",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Practice Green",
+        "hex": "#679A7C",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/8b",
+      "name": "Canvas",
+      "code": "8B",
+      "set": "Foundry Paint System",
+      "hex": "#FCD296",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Finish",
+        "hex": "#FFD59A",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "foundry/8c",
+      "name": "Canvas Light",
+      "code": "8C",
+      "set": "Foundry Paint System",
+      "hex": "#FFF3E3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Early Snow",
+        "hex": "#FDF3E4",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "foundry/8a",
+      "name": "Canvas Shade",
+      "code": "8A",
+      "set": "Foundry Paint System",
+      "hex": "#DBA366",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Butterscotch Syrup",
+        "hex": "#D9A05F",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "foundry/34b",
+      "name": "Charcoal Black",
+      "code": "34B",
+      "set": "Foundry Paint System",
+      "hex": "#433F3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorched Earth",
+        "hex": "#44403D",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "foundry/34c",
+      "name": "Charcoal Black Light",
+      "code": "34C",
+      "set": "Foundry Paint System",
+      "hex": "#595856",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sumi Ink",
+        "hex": "#595857",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "foundry/34a",
+      "name": "Charcoal Black Shade",
+      "code": "34A",
+      "set": "Foundry Paint System",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/53b",
+      "name": "Chestnut",
+      "code": "53B",
+      "set": "Foundry Paint System",
+      "hex": "#833F00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Pancakes",
+        "hex": "#884400",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "foundry/53c",
+      "name": "Chestnut Light",
+      "code": "53C",
+      "set": "Foundry Paint System",
+      "hex": "#CC8543",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melted Copper",
+        "hex": "#CE8544",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "foundry/53a",
+      "name": "Chestnut Shade",
+      "code": "53A",
+      "set": "Foundry Paint System",
+      "hex": "#56392B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bramble Bush",
+        "hex": "#503629",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "foundry/117b",
+      "name": "Confederate Grey",
+      "code": "117B",
+      "set": "Foundry Paint System",
+      "hex": "#526477",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Loyalty",
+        "hex": "#4E6175",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "foundry/117c",
+      "name": "Confederate Grey Light",
+      "code": "117C",
+      "set": "Foundry Paint System",
+      "hex": "#5A6E85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sausalito Port",
+        "hex": "#5D6F85",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "foundry/117a",
+      "name": "Confederate Grey Shade",
+      "code": "117A",
+      "set": "Foundry Paint System",
+      "hex": "#4C5866",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rogue Blue",
+        "hex": "#4B5764",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "foundry/54b",
+      "name": "Conker Brown",
+      "code": "54B",
+      "set": "Foundry Paint System",
+      "hex": "#603606",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown",
+        "hex": "#653700",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "foundry/54c",
+      "name": "Conker Brown Light",
+      "code": "54C",
+      "set": "Foundry Paint System",
+      "hex": "#804509",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazelnut Chocolate",
+        "hex": "#7B3F00",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "foundry/54a",
+      "name": "Conker Brown Shade",
+      "code": "54A",
+      "set": "Foundry Paint System",
+      "hex": "#371718",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rustic Red",
+        "hex": "#3A181A",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "foundry/121b",
+      "name": "Dark African Flesh",
+      "code": "121B",
+      "set": "Foundry Paint System",
+      "hex": "#5B4F43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Leaf",
+        "hex": "#5C5043",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "foundry/121c",
+      "name": "Dark African Flesh Light",
+      "code": "121C",
+      "set": "Foundry Paint System",
+      "hex": "#786755",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tanbark Trail",
+        "hex": "#766451",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "foundry/121a",
+      "name": "Dark African Flesh Shade",
+      "code": "121A",
+      "set": "Foundry Paint System",
+      "hex": "#4D4C4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thunder",
+        "hex": "#4D4D4B",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "foundry/20b",
+      "name": "Deep Blue",
+      "code": "20B",
+      "set": "Foundry Paint System",
+      "hex": "#003E72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ashenvale Nights",
+        "hex": "#104071",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "foundry/20c",
+      "name": "Deep Blue Light",
+      "code": "20C",
+      "set": "Foundry Paint System",
+      "hex": "#005192",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Olympus",
+        "hex": "#015193",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "foundry/20a",
+      "name": "Deep Blue Shade",
+      "code": "20A",
+      "set": "Foundry Paint System",
+      "hex": "#052A47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raven Sheen",
+        "hex": "#112F4B",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "foundry/45b",
+      "name": "Deep Brown Leather",
+      "code": "45B",
+      "set": "Foundry Paint System",
+      "hex": "#BA936A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Windswept Leaves",
+        "hex": "#B7926B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "foundry/45c",
+      "name": "Deep Brown Leather Light",
+      "code": "45C",
+      "set": "Foundry Paint System",
+      "hex": "#9E6808",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cumin Ochre",
+        "hex": "#A06600",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "foundry/45a",
+      "name": "Deep Brown Leather Shade",
+      "code": "45A",
+      "set": "Foundry Paint System",
+      "hex": "#3F2504",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Ebony",
+        "hex": "#3D2004",
+        "delta_e": 2.98
+      }
+    },
+    {
+      "id": "foundry/64b",
+      "name": "Deep Maroon",
+      "code": "64B",
+      "set": "Foundry Paint System",
+      "hex": "#662E55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Mauve",
+        "hex": "#692B57",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "foundry/64c",
+      "name": "Deep Maroon Light",
+      "code": "64C",
+      "set": "Foundry Paint System",
+      "hex": "#BA6E8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pinky Pickle",
+        "hex": "#B96D8E",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "foundry/64a",
+      "name": "Deep Maroon Shade",
+      "code": "64A",
+      "set": "Foundry Paint System",
+      "hex": "#390F25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackberry",
+        "hex": "#43182F",
+        "delta_e": 2.76
+      }
+    },
+    {
+      "id": "foundry/58b",
+      "name": "Deep Mauve",
+      "code": "58B",
+      "set": "Foundry Paint System",
+      "hex": "#560029",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fig Balsamic",
+        "hex": "#550022",
+        "delta_e": 2.62
+      }
+    },
+    {
+      "id": "foundry/58c",
+      "name": "Deep Mauve Light",
+      "code": "58C",
+      "set": "Foundry Paint System",
+      "hex": "#9C0C58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obscure Orchid",
+        "hex": "#9D0759",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "foundry/58a",
+      "name": "Deep Mauve Shade",
+      "code": "58A",
+      "set": "Foundry Paint System",
+      "hex": "#2F0219",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silvanberry",
+        "hex": "#300018",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "foundry/12b",
+      "name": "Drab",
+      "code": "12B",
+      "set": "Foundry Paint System",
+      "hex": "#917B41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Banyan Tree",
+        "hex": "#8D793E",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "foundry/116b",
+      "name": "Drab Butternut",
+      "code": "116B",
+      "set": "Foundry Paint System",
+      "hex": "#7E6651",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stock Horse",
+        "hex": "#806852",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "foundry/116c",
+      "name": "Drab Butternut Light",
+      "code": "116C",
+      "set": "Foundry Paint System",
+      "hex": "#8A7154",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "China Cinnamon",
+        "hex": "#8A7054",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/116a",
+      "name": "Drab Butternut Shade",
+      "code": "116A",
+      "set": "Foundry Paint System",
+      "hex": "#776246",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Wood",
+        "hex": "#756244",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "foundry/12c",
+      "name": "Drab Light",
+      "code": "12C",
+      "set": "Foundry Paint System",
+      "hex": "#B7A37E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tarnished Treasure",
+        "hex": "#B9A47E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "foundry/12a",
+      "name": "Drab Shade",
+      "code": "12A",
+      "set": "Foundry Paint System",
+      "hex": "#5A4E1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 3.14
+      }
+    },
+    {
+      "id": "foundry/6b",
+      "name": "Dusky Flesh",
+      "code": "6B",
+      "set": "Foundry Paint System",
+      "hex": "#93591A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Wash",
+        "hex": "#995915",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "foundry/6c",
+      "name": "Dusky Flesh Light",
+      "code": "6C",
+      "set": "Foundry Paint System",
+      "hex": "#CE9552",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Fritter",
+        "hex": "#CC9350",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/6a",
+      "name": "Dusky Flesh Shade",
+      "code": "6A",
+      "set": "Foundry Paint System",
+      "hex": "#6E3B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Searing Gorge Brown",
+        "hex": "#6B3B23",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/101b",
+      "name": "Equipment Black",
+      "code": "101B",
+      "set": "Foundry Paint System",
+      "hex": "#323941",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "School Ink",
+        "hex": "#31373F",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "foundry/101c",
+      "name": "Equipment Black Light",
+      "code": "101C",
+      "set": "Foundry Paint System",
+      "hex": "#3B4C5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Man Friday",
+        "hex": "#3C4C5D",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "foundry/101a",
+      "name": "Equipment Black Shade",
+      "code": "101A",
+      "set": "Foundry Paint System",
+      "hex": "#2A2E39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salute",
+        "hex": "#2F323D",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "foundry/127c",
+      "name": "Expert Flesh",
+      "code": "127C",
+      "set": "Foundry Paint System",
+      "hex": "#FEA36A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peach Cobbler",
+        "hex": "#FFA167",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "foundry/127a",
+      "name": "Expert Flesh Deep Shade",
+      "code": "127A",
+      "set": "Foundry Paint System",
+      "hex": "#D45947",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Wire",
+        "hex": "#DB5947",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "foundry/127f",
+      "name": "Expert Flesh Final Highlight",
+      "code": "127F",
+      "set": "Foundry Paint System",
+      "hex": "#F9EDCE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Custard Cream",
+        "hex": "#FBEFD0",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "foundry/127d",
+      "name": "Expert Flesh Light",
+      "code": "127D",
+      "set": "Foundry Paint System",
+      "hex": "#FBB27F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cantaloupe Slice",
+        "hex": "#FEB079",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "foundry/127b",
+      "name": "Expert Flesh Shade",
+      "code": "127B",
+      "set": "Foundry Paint System",
+      "hex": "#ED775B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Temple of Orange",
+        "hex": "#EE7755",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "foundry/127e",
+      "name": "Expert Flesh Ultra Light",
+      "code": "127E",
+      "set": "Foundry Paint System",
+      "hex": "#FCC89D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phenomenal Peach",
+        "hex": "#FFCBA2",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "foundry/5b",
+      "name": "Flesh",
+      "code": "5B",
+      "set": "Foundry Paint System",
+      "hex": "#FC9D4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangerine Tango",
+        "hex": "#FF9E4B",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "foundry/5c",
+      "name": "Flesh Light",
+      "code": "5C",
+      "set": "Foundry Paint System",
+      "hex": "#FDCDA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coral Confection",
+        "hex": "#FCCCA7",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "foundry/5a",
+      "name": "Flesh Shade",
+      "code": "5A",
+      "set": "Foundry Paint System",
+      "hex": "#C26424",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Opening Night",
+        "hex": "#BD6426",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "foundry/26b",
+      "name": "Forest Green",
+      "code": "26B",
+      "set": "Foundry Paint System",
+      "hex": "#497945",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Crocodile",
+        "hex": "#447744",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "foundry/26c",
+      "name": "Forest Green Light",
+      "code": "26C",
+      "set": "Foundry Paint System",
+      "hex": "#7E9C84",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vineyard",
+        "hex": "#819E84",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "foundry/26a",
+      "name": "Forest Green Shade",
+      "code": "26A",
+      "set": "Foundry Paint System",
+      "hex": "#153422",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Méi Hēi Coal",
+        "hex": "#123120",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "foundry/65b",
+      "name": "French Blue",
+      "code": "65B",
+      "set": "Foundry Paint System",
+      "hex": "#1D3460",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Navy Trim",
+        "hex": "#203462",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "foundry/65c",
+      "name": "French Blue Light",
+      "code": "65C",
+      "set": "Foundry Paint System",
+      "hex": "#19496D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terror From the Deep",
+        "hex": "#1D4769",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "foundry/65a",
+      "name": "French Blue Shade",
+      "code": "65A",
+      "set": "Foundry Paint System",
+      "hex": "#152437",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fog of War",
+        "hex": "#112233",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "foundry/71b",
+      "name": "French Chasseur A Cheval Green",
+      "code": "71B",
+      "set": "Foundry Paint System",
+      "hex": "#1A3B34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Jungle Green",
+        "hex": "#1C352D",
+        "delta_e": 2.62
+      }
+    },
+    {
+      "id": "foundry/71c",
+      "name": "French Chasseur A Cheval Green Light",
+      "code": "71C",
+      "set": "Foundry Paint System",
+      "hex": "#2D5143",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highland Green",
+        "hex": "#305144",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "foundry/71a",
+      "name": "French Chasseur A Cheval Green Shade",
+      "code": "71A",
+      "set": "Foundry Paint System",
+      "hex": "#172B2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swamp Thing",
+        "hex": "#162825",
+        "delta_e": 2.68
+      }
+    },
+    {
+      "id": "foundry/70b",
+      "name": "French Dragoon Green",
+      "code": "70B",
+      "set": "Foundry Paint System",
+      "hex": "#356332",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gameboy Shade",
+        "hex": "#306230",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "foundry/70c",
+      "name": "French Dragoon Green Light",
+      "code": "70C",
+      "set": "Foundry Paint System",
+      "hex": "#D2E9B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Frozen Forest",
+        "hex": "#CFE8B6",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "foundry/70a",
+      "name": "French Dragoon Green Shade",
+      "code": "70A",
+      "set": "Foundry Paint System",
+      "hex": "#627F6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stone Cypress Green",
+        "hex": "#5F7D6C",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "foundry/109b",
+      "name": "French Gun Olive Green",
+      "code": "109B",
+      "set": "Foundry Paint System",
+      "hex": "#89B26E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nasturtium Leaf",
+        "hex": "#87B369",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "foundry/109c",
+      "name": "French Gun Olive Green Light",
+      "code": "109C",
+      "set": "Foundry Paint System",
+      "hex": "#A5BF82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gleeful",
+        "hex": "#9DBB7D",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "foundry/109a",
+      "name": "French Gun Olive Green Shade",
+      "code": "109A",
+      "set": "Foundry Paint System",
+      "hex": "#508655",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kilkenny",
+        "hex": "#498555",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "foundry/76b",
+      "name": "French Hussar Sky Blue",
+      "code": "76B",
+      "set": "Foundry Paint System",
+      "hex": "#9EC8F2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baby Blue Eyes",
+        "hex": "#A1CAF1",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "foundry/76c",
+      "name": "French Hussar Sky Blue Light",
+      "code": "76C",
+      "set": "Foundry Paint System",
+      "hex": "#7EAAD1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calm Day",
+        "hex": "#7CAACF",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "foundry/76a",
+      "name": "French Hussar Sky Blue Shade",
+      "code": "76A",
+      "set": "Foundry Paint System",
+      "hex": "#2C5A95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Regent",
+        "hex": "#285991",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/77b",
+      "name": "German Early Field Grey",
+      "code": "77B",
+      "set": "Foundry Paint System",
+      "hex": "#798D82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Bay",
+        "hex": "#7E9285",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "foundry/77c",
+      "name": "German Early Field Grey Light",
+      "code": "77C",
+      "set": "Foundry Paint System",
+      "hex": "#859B8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paradise Found",
+        "hex": "#83988C",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/77a",
+      "name": "German Early Field Grey Shade",
+      "code": "77A",
+      "set": "Foundry Paint System",
+      "hex": "#69726F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stairway to Heaven",
+        "hex": "#67716E",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "foundry/78b",
+      "name": "German Late Field Grey",
+      "code": "78B",
+      "set": "Foundry Paint System",
+      "hex": "#687878",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trade Secret",
+        "hex": "#6A7978",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "foundry/78c",
+      "name": "German Late Field Grey Light",
+      "code": "78C",
+      "set": "Foundry Paint System",
+      "hex": "#828A8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Necron Compound",
+        "hex": "#828B8E",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "foundry/78a",
+      "name": "German Late Field Grey Shade",
+      "code": "78A",
+      "set": "Foundry Paint System",
+      "hex": "#5F6565",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Binary Star",
+        "hex": "#616767",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/86b",
+      "name": "German Oak Leaf Orange",
+      "code": "86B",
+      "set": "Foundry Paint System",
+      "hex": "#D9763B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Holy Cannoli",
+        "hex": "#DB783E",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "foundry/86c",
+      "name": "German Oak Leaf Orange Light",
+      "code": "86C",
+      "set": "Foundry Paint System",
+      "hex": "#F29367",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melon Red",
+        "hex": "#F69268",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "foundry/86a",
+      "name": "German Oak Leaf Orange Shade",
+      "code": "86A",
+      "set": "Foundry Paint System",
+      "hex": "#BB7C51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cattle Drive",
+        "hex": "#BB7B51",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "foundry/87b",
+      "name": "German Pea Pattern Green",
+      "code": "87B",
+      "set": "Foundry Paint System",
+      "hex": "#85933E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wasabi Nuts",
+        "hex": "#849137",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "foundry/87c",
+      "name": "German Pea Pattern Green Light",
+      "code": "87C",
+      "set": "Foundry Paint System",
+      "hex": "#9EAA56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Springtide Melodies",
+        "hex": "#9AA955",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "foundry/87a",
+      "name": "German Pea Pattern Green Shade",
+      "code": "87A",
+      "set": "Foundry Paint System",
+      "hex": "#727B46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Four Leaf Clover",
+        "hex": "#757D43",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "foundry/88b",
+      "name": "German Pea Pattern Tan",
+      "code": "88B",
+      "set": "Foundry Paint System",
+      "hex": "#AC8460",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Circus Peanut",
+        "hex": "#AD835C",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "foundry/88c",
+      "name": "German Pea Pattern Tan Light",
+      "code": "88C",
+      "set": "Foundry Paint System",
+      "hex": "#CBA380",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kamut",
+        "hex": "#CCA483",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/88a",
+      "name": "German Pea Pattern Tan Shade",
+      "code": "88A",
+      "set": "Foundry Paint System",
+      "hex": "#987C64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiger’s Eye",
+        "hex": "#9A7C63",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "foundry/83b",
+      "name": "German Splinter Brown",
+      "code": "83B",
+      "set": "Foundry Paint System",
+      "hex": "#4E3E2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abbot",
+        "hex": "#4D3C2D",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "foundry/83c",
+      "name": "German Splinter Brown Light",
+      "code": "83C",
+      "set": "Foundry Paint System",
+      "hex": "#6A553A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graveyard Earth",
+        "hex": "#68553A",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "foundry/83a",
+      "name": "German Splinter Brown Shade",
+      "code": "83A",
+      "set": "Foundry Paint System",
+      "hex": "#3B322D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Six Feet Under",
+        "hex": "#3D322E",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "foundry/84b",
+      "name": "German Splinter Green",
+      "code": "84B",
+      "set": "Foundry Paint System",
+      "hex": "#425B45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Hunter Green",
+        "hex": "#3F5948",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "foundry/84c",
+      "name": "German Splinter Green Light",
+      "code": "84C",
+      "set": "Foundry Paint System",
+      "hex": "#5A7F5D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Mantle",
+        "hex": "#5B7C5B",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "foundry/84a",
+      "name": "German Splinter Green Shade",
+      "code": "84A",
+      "set": "Foundry Paint System",
+      "hex": "#4F5950",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidden Forest",
+        "hex": "#4F5A51",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "foundry/85b",
+      "name": "German Splinter Tan",
+      "code": "85B",
+      "set": "Foundry Paint System",
+      "hex": "#7F7865",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arrowtown",
+        "hex": "#827A67",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "foundry/85c",
+      "name": "German Splinter Tan Light",
+      "code": "85C",
+      "set": "Foundry Paint System",
+      "hex": "#9A9377",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gurkha",
+        "hex": "#989171",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "foundry/85a",
+      "name": "German Splinter Tan Shade",
+      "code": "85A",
+      "set": "Foundry Paint System",
+      "hex": "#666352",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nevergreen",
+        "hex": "#666556",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "foundry/36b",
+      "name": "Gold",
+      "code": "36B",
+      "set": "Foundry Paint System",
+      "hex": "#E0C580",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salty Cracker",
+        "hex": "#E2C681",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "foundry/36a",
+      "name": "Gold Shade",
+      "code": "36A",
+      "set": "Foundry Paint System",
+      "hex": "#9F7F12",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hacienda",
+        "hex": "#9E8022",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "foundry/31b",
+      "name": "Granite",
+      "code": "31B",
+      "set": "Foundry Paint System",
+      "hex": "#5D5B4E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Mission",
+        "hex": "#5E5C50",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "foundry/31c",
+      "name": "Granite Light",
+      "code": "31C",
+      "set": "Foundry Paint System",
+      "hex": "#868779",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Road",
+        "hex": "#868578",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "foundry/31a",
+      "name": "Granite Shade",
+      "code": "31A",
+      "set": "Foundry Paint System",
+      "hex": "#4C4741",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Mocha",
+        "hex": "#4B4743",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "foundry/104b",
+      "name": "Gun Metal",
+      "code": "104B",
+      "set": "Foundry Paint System",
+      "hex": "#9D9E9F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Waiting",
+        "hex": "#9D9D9D",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "foundry/104c",
+      "name": "Gun Metal Light",
+      "code": "104C",
+      "set": "Foundry Paint System",
+      "hex": "#E7E8E9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mourn Mountain Snow",
+        "hex": "#E9EAEB",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "foundry/104a",
+      "name": "Gun Metal Shade",
+      "code": "104A",
+      "set": "Foundry Paint System",
+      "hex": "#656667",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cursed Grey",
+        "hex": "#666666",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "foundry/47b",
+      "name": "Leather & Metal Washes",
+      "code": "47B",
+      "set": "Foundry Paint System",
+      "hex": "#B6A18E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hickory",
+        "hex": "#B7A28E",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/47c",
+      "name": "Leather & Metal Washes Light",
+      "code": "47C",
+      "set": "Foundry Paint System",
+      "hex": "#BEBEBE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tin Soldier",
+        "hex": "#BEBEBE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/47a",
+      "name": "Leather & Metal Washes Shade",
+      "code": "47A",
+      "set": "Foundry Paint System",
+      "hex": "#DDBA9E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wassail",
+        "hex": "#DCB89D",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "foundry/1b",
+      "name": "Lemon",
+      "code": "1B",
+      "set": "Foundry Paint System",
+      "hex": "#FFEB2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pico Sun",
+        "hex": "#FFEC27",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "foundry/1c",
+      "name": "Lemon Light",
+      "code": "1C",
+      "set": "Foundry Paint System",
+      "hex": "#FFF77B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Straw Gold",
+        "hex": "#FCF679",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "foundry/1a",
+      "name": "Lemon Shade",
+      "code": "1A",
+      "set": "Foundry Paint System",
+      "hex": "#E1AB03",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mustard Yellow",
+        "hex": "#E1AD01",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "foundry/60b",
+      "name": "Madder Red",
+      "code": "60B",
+      "set": "Foundry Paint System",
+      "hex": "#8E2313",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uluru Red",
+        "hex": "#921D0F",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "foundry/60c",
+      "name": "Madder Red Light",
+      "code": "60C",
+      "set": "Foundry Paint System",
+      "hex": "#B31E18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carnelian",
+        "hex": "#B31B1B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "foundry/60a",
+      "name": "Madder Red Shade",
+      "code": "60A",
+      "set": "Foundry Paint System",
+      "hex": "#560A0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampiric Council",
+        "hex": "#5C0C0C",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "foundry/125b",
+      "name": "Mediterranean Flesh",
+      "code": "125B",
+      "set": "Foundry Paint System",
+      "hex": "#E48066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sari",
+        "hex": "#E47C64",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/125c",
+      "name": "Mediterranean Flesh Light",
+      "code": "125C",
+      "set": "Foundry Paint System",
+      "hex": "#FB966A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Arrival",
+        "hex": "#F9986F",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "foundry/125a",
+      "name": "Mediterranean Flesh Shade",
+      "code": "125A",
+      "set": "Foundry Paint System",
+      "hex": "#D76C4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citrus Notes",
+        "hex": "#D26643",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "foundry/29b",
+      "name": "Moss",
+      "code": "29B",
+      "set": "Foundry Paint System",
+      "hex": "#978942",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plantation Island",
+        "hex": "#9B8A44",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "foundry/29c",
+      "name": "Moss Light",
+      "code": "29C",
+      "set": "Foundry Paint System",
+      "hex": "#B0A474",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Throw Rug",
+        "hex": "#ADA274",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "foundry/29a",
+      "name": "Moss Shade",
+      "code": "29A",
+      "set": "Foundry Paint System",
+      "hex": "#605F27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gardener Green",
+        "hex": "#5E602A",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "foundry/72b",
+      "name": "Musket Stock Brown",
+      "code": "72B",
+      "set": "Foundry Paint System",
+      "hex": "#513230",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Espresso",
+        "hex": "#4E312D",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "foundry/72c",
+      "name": "Musket Stock Brown Light",
+      "code": "72C",
+      "set": "Foundry Paint System",
+      "hex": "#5F3938",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sommelier",
+        "hex": "#5D3736",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "foundry/72a",
+      "name": "Musket Stock Brown Shade",
+      "code": "72A",
+      "set": "Foundry Paint System",
+      "hex": "#2C1F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shikon",
+        "hex": "#2B2028",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "foundry/120b",
+      "name": "Native American Flesh",
+      "code": "120B",
+      "set": "Foundry Paint System",
+      "hex": "#E96F57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orangeville",
+        "hex": "#E57059",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "foundry/120c",
+      "name": "Native American Flesh Light",
+      "code": "120C",
+      "set": "Foundry Paint System",
+      "hex": "#F88862",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Fire",
+        "hex": "#FC845D",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/120a",
+      "name": "Native American Flesh Shade",
+      "code": "120A",
+      "set": "Foundry Paint System",
+      "hex": "#B95851",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chōshun Red",
+        "hex": "#B95754",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "foundry/123b",
+      "name": "Near Eastern Flesh",
+      "code": "123B",
+      "set": "Foundry Paint System",
+      "hex": "#AF8473",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canyon Earth",
+        "hex": "#B18575",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "foundry/123c",
+      "name": "Near Eastern Flesh Light",
+      "code": "123C",
+      "set": "Foundry Paint System",
+      "hex": "#C19278",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charleston Chocolate",
+        "hex": "#C09278",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "foundry/123a",
+      "name": "Near Eastern Flesh Shade",
+      "code": "123A",
+      "set": "Foundry Paint System",
+      "hex": "#A07064",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Discretion",
+        "hex": "#9F6F62",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/62b",
+      "name": "Night Sky",
+      "code": "62B",
+      "set": "Foundry Paint System",
+      "hex": "#326576",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "San Gabriel Blue",
+        "hex": "#2F6679",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "foundry/62c",
+      "name": "Night Sky Light",
+      "code": "62C",
+      "set": "Foundry Paint System",
+      "hex": "#4A7887",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Majestic Mountain",
+        "hex": "#447788",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "foundry/62a",
+      "name": "Night Sky Shade",
+      "code": "62A",
+      "set": "Foundry Paint System",
+      "hex": "#2B5470",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heavy Blue",
+        "hex": "#2C5674",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "foundry/16b",
+      "name": "Nipple Pink",
+      "code": "16B",
+      "set": "Foundry Paint System",
+      "hex": "#F4A5A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roseberry",
+        "hex": "#F4A6A1",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "foundry/16c",
+      "name": "Nipple Pink Light",
+      "code": "16C",
+      "set": "Foundry Paint System",
+      "hex": "#ECD3CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Va Va Bloom",
+        "hex": "#EFD5CF",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "foundry/16a",
+      "name": "Nipple Pink Shade",
+      "code": "16A",
+      "set": "Foundry Paint System",
+      "hex": "#EF5A6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Pepper",
+        "hex": "#EF586C",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "foundry/124b",
+      "name": "North African Flesh",
+      "code": "124B",
+      "set": "Foundry Paint System",
+      "hex": "#B66961",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peach Dunes",
+        "hex": "#B3695F",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "foundry/124c",
+      "name": "North African Flesh Light",
+      "code": "124C",
+      "set": "Foundry Paint System",
+      "hex": "#D17961",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silithus Brown",
+        "hex": "#D57B65",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "foundry/124a",
+      "name": "North African Flesh Shade",
+      "code": "124A",
+      "set": "Foundry Paint System",
+      "hex": "#865544",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Hook",
+        "hex": "#845544",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "foundry/4b",
+      "name": "Ochre",
+      "code": "4B",
+      "set": "Foundry Paint System",
+      "hex": "#F1B04C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Casablanca",
+        "hex": "#F0B253",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/4c",
+      "name": "Ochre Light",
+      "code": "4C",
+      "set": "Foundry Paint System",
+      "hex": "#FFD352",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Goose",
+        "hex": "#FFD34E",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "foundry/4a",
+      "name": "Ochre Shade",
+      "code": "4A",
+      "set": "Foundry Paint System",
+      "hex": "#E39411",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Yellow",
+        "hex": "#E99700",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "foundry/3b",
+      "name": "Orange",
+      "code": "3B",
+      "set": "Foundry Paint System",
+      "hex": "#FA9414",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Miami Marmalade",
+        "hex": "#F7931A",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "foundry/3c",
+      "name": "Orange Light",
+      "code": "3C",
+      "set": "Foundry Paint System",
+      "hex": "#FFBF0F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amber",
+        "hex": "#FFBF00",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "foundry/3a",
+      "name": "Orange Shade",
+      "code": "3A",
+      "set": "Foundry Paint System",
+      "hex": "#E17A13",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "First of Fall",
+        "hex": "#E47901",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/122b",
+      "name": "Oriental Flesh",
+      "code": "122B",
+      "set": "Foundry Paint System",
+      "hex": "#E29F5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee Whip",
+        "hex": "#DF9D5B",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "foundry/122c",
+      "name": "Oriental Flesh Light",
+      "code": "122C",
+      "set": "Foundry Paint System",
+      "hex": "#F0B58B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melón Meloso",
+        "hex": "#F2B88C",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "foundry/122a",
+      "name": "Oriental Flesh Shade",
+      "code": "122A",
+      "set": "Foundry Paint System",
+      "hex": "#C17E54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Copper",
+        "hex": "#BF7D52",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "foundry/56b",
+      "name": "Palomino",
+      "code": "56B",
+      "set": "Foundry Paint System",
+      "hex": "#DE9A53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magic Melon",
+        "hex": "#DE9851",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "foundry/56c",
+      "name": "Palomino Light",
+      "code": "56C",
+      "set": "Foundry Paint System",
+      "hex": "#D9BC6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pineapple Wine",
+        "hex": "#DBBC6C",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "foundry/56a",
+      "name": "Palomino Shade",
+      "code": "56A",
+      "set": "Foundry Paint System",
+      "hex": "#9E670A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cumin Ochre",
+        "hex": "#A06600",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "foundry/61b",
+      "name": "Peaty Brown",
+      "code": "61B",
+      "set": "Foundry Paint System",
+      "hex": "#563D38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vixen",
+        "hex": "#573D37",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "foundry/61c",
+      "name": "Peaty Brown Light",
+      "code": "61C",
+      "set": "Foundry Paint System",
+      "hex": "#72634E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Earth",
+        "hex": "#746550",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/61a",
+      "name": "Peaty Brown Shade",
+      "code": "61A",
+      "set": "Foundry Paint System",
+      "hex": "#2F1D1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hornblende",
+        "hex": "#332222",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "foundry/28b",
+      "name": "Phlegm Green",
+      "code": "28B",
+      "set": "Foundry Paint System",
+      "hex": "#667033",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Muddy Green",
+        "hex": "#657432",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "foundry/28c",
+      "name": "Phlegm Green Light",
+      "code": "28C",
+      "set": "Foundry Paint System",
+      "hex": "#8E9C44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinach Green",
+        "hex": "#909B4C",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "foundry/28a",
+      "name": "Phlegm Green Shade",
+      "code": "28A",
+      "set": "Foundry Paint System",
+      "hex": "#525B26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saratoga",
+        "hex": "#555B2C",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "foundry/66b",
+      "name": "Prussian Blue",
+      "code": "66B",
+      "set": "Foundry Paint System",
+      "hex": "#111D37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sombre Night",
+        "hex": "#161E34",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "foundry/66c",
+      "name": "Prussian Blue Light",
+      "code": "66C",
+      "set": "Foundry Paint System",
+      "hex": "#0F274B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Tyrian Blue",
+        "hex": "#0D2B52",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "foundry/66a",
+      "name": "Prussian Blue Shade",
+      "code": "66A",
+      "set": "Foundry Paint System",
+      "hex": "#080F15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Knight",
+        "hex": "#010B13",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "foundry/106b",
+      "name": "Prussian Gun Mid Blue",
+      "code": "106B",
+      "set": "Foundry Paint System",
+      "hex": "#46769E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dull Blue",
+        "hex": "#49759C",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "foundry/106c",
+      "name": "Prussian Gun Mid Blue Light",
+      "code": "106C",
+      "set": "Foundry Paint System",
+      "hex": "#5C98BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shakespeare",
+        "hex": "#609AB8",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "foundry/106a",
+      "name": "Prussian Gun Mid Blue Shade",
+      "code": "106A",
+      "set": "Foundry Paint System",
+      "hex": "#45607D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parlour Blue",
+        "hex": "#465F7E",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "foundry/63b",
+      "name": "Quagmire",
+      "code": "63B",
+      "set": "Foundry Paint System",
+      "hex": "#464938",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treasure Island",
+        "hex": "#47493B",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "foundry/63c",
+      "name": "Quagmire Light",
+      "code": "63C",
+      "set": "Foundry Paint System",
+      "hex": "#6E6D51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Illude",
+        "hex": "#6E6F56",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "foundry/63a",
+      "name": "Quagmire Shade",
+      "code": "63A",
+      "set": "Foundry Paint System",
+      "hex": "#3A3434",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "After Dark",
+        "hex": "#3C3535",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "foundry/30b",
+      "name": "Raw Linen",
+      "code": "30B",
+      "set": "Foundry Paint System",
+      "hex": "#D5A505",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mouldy Ochre",
+        "hex": "#D5A300",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "foundry/30c",
+      "name": "Raw Linen Light",
+      "code": "30C",
+      "set": "Foundry Paint System",
+      "hex": "#E5D961",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pollination",
+        "hex": "#EEDD66",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "foundry/30a",
+      "name": "Raw Linen Shade",
+      "code": "30A",
+      "set": "Foundry Paint System",
+      "hex": "#817D34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant",
+        "hex": "#847E35",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "foundry/11b",
+      "name": "Rawhide",
+      "code": "11B",
+      "set": "Foundry Paint System",
+      "hex": "#9F8459",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timber Beam",
+        "hex": "#A0855C",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "foundry/11c",
+      "name": "Rawhide Light",
+      "code": "11C",
+      "set": "Foundry Paint System",
+      "hex": "#AC9B81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smallmouth Bass",
+        "hex": "#AC9A7E",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "foundry/11a",
+      "name": "Rawhide Shade",
+      "code": "11A",
+      "set": "Foundry Paint System",
+      "hex": "#775937",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shingle Fawn",
+        "hex": "#745937",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "foundry/118b",
+      "name": "Rebel Grey",
+      "code": "118B",
+      "set": "Foundry Paint System",
+      "hex": "#606970",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Creek Falls",
+        "hex": "#5F686F",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "foundry/118c",
+      "name": "Rebel Grey Light",
+      "code": "118C",
+      "set": "Foundry Paint System",
+      "hex": "#6C7883",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sheffield Grey",
+        "hex": "#6B7680",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "foundry/118a",
+      "name": "Rebel Grey Shade",
+      "code": "118A",
+      "set": "Foundry Paint System",
+      "hex": "#515A61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Novelty Navy",
+        "hex": "#515B62",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "foundry/102b",
+      "name": "Red Oxide",
+      "code": "102B",
+      "set": "Foundry Paint System",
+      "hex": "#594345",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wood-Black Red",
+        "hex": "#584043",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "foundry/102c",
+      "name": "Red Oxide Light",
+      "code": "102C",
+      "set": "Foundry Paint System",
+      "hex": "#674448",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shaded Fuchsia",
+        "hex": "#664348",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "foundry/102a",
+      "name": "Red Oxide Shade",
+      "code": "102A",
+      "set": "Foundry Paint System",
+      "hex": "#514644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Manchester Brown",
+        "hex": "#504440",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "foundry/115b",
+      "name": "Rich Butternut",
+      "code": "115B",
+      "set": "Foundry Paint System",
+      "hex": "#976C51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sorrel Brown",
+        "hex": "#9B6D51",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "foundry/115c",
+      "name": "Rich Butternut Light",
+      "code": "115C",
+      "set": "Foundry Paint System",
+      "hex": "#A2855B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timber Beam",
+        "hex": "#A0855C",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "foundry/115a",
+      "name": "Rich Butternut Shade",
+      "code": "115A",
+      "set": "Foundry Paint System",
+      "hex": "#815C49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spiced Cinnamon",
+        "hex": "#805B48",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "foundry/19b",
+      "name": "Royal Purple",
+      "code": "19B",
+      "set": "Foundry Paint System",
+      "hex": "#664C95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parfait d’Amour",
+        "hex": "#734F96",
+        "delta_e": 3.15
+      }
+    },
+    {
+      "id": "foundry/19c",
+      "name": "Royal Purple Light",
+      "code": "19C",
+      "set": "Foundry Paint System",
+      "hex": "#8D7CA0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pickled Purple",
+        "hex": "#8E7AA1",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "foundry/19a",
+      "name": "Royal Purple Shade",
+      "code": "19A",
+      "set": "Foundry Paint System",
+      "hex": "#45135A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clairvoyant",
+        "hex": "#480656",
+        "delta_e": 2.22
+      }
+    },
+    {
+      "id": "foundry/69b",
+      "name": "Russian Green",
+      "code": "69B",
+      "set": "Foundry Paint System",
+      "hex": "#223428",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Leather Jacket",
+        "hex": "#253529",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/69c",
+      "name": "Russian Green Light",
+      "code": "69C",
+      "set": "Foundry Paint System",
+      "hex": "#303E31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timber Green",
+        "hex": "#324336",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "foundry/69a",
+      "name": "Russian Green Shade",
+      "code": "69A",
+      "set": "Foundry Paint System",
+      "hex": "#1E2A20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Quartzite",
+        "hex": "#232E26",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "foundry/110b",
+      "name": "Russian Gun Apple Green",
+      "code": "110B",
+      "set": "Foundry Paint System",
+      "hex": "#497551",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Killarney",
+        "hex": "#49764F",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "foundry/110c",
+      "name": "Russian Gun Apple Green Light",
+      "code": "110C",
+      "set": "Foundry Paint System",
+      "hex": "#72A27A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Growth",
+        "hex": "#6CA178",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "foundry/110a",
+      "name": "Russian Gun Apple Green Shade",
+      "code": "110A",
+      "set": "Foundry Paint System",
+      "hex": "#3D5E53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iridescent",
+        "hex": "#3A5B52",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "foundry/38b",
+      "name": "Scarlet",
+      "code": "38B",
+      "set": "Foundry Paint System",
+      "hex": "#E23300",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Bell Pepper",
+        "hex": "#DD3300",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/38c",
+      "name": "Scarlet Light",
+      "code": "38C",
+      "set": "Foundry Paint System",
+      "hex": "#F15606",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cigarette Glow",
+        "hex": "#EE5500",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "foundry/38a",
+      "name": "Scarlet Shade",
+      "code": "38A",
+      "set": "Foundry Paint System",
+      "hex": "#B60002",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "All Systems Red",
+        "hex": "#B30103",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "foundry/18b",
+      "name": "Shadow Pink",
+      "code": "18B",
+      "set": "Foundry Paint System",
+      "hex": "#B33A89",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fandango",
+        "hex": "#B53389",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/18c",
+      "name": "Shadow Pink Light",
+      "code": "18C",
+      "set": "Foundry Paint System",
+      "hex": "#D7679F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cosmetologist’s Pink",
+        "hex": "#DD669D",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "foundry/18a",
+      "name": "Shadow Pink Shade",
+      "code": "18A",
+      "set": "Foundry Paint System",
+      "hex": "#6A1D47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pompadour",
+        "hex": "#6A1F44",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "foundry/36c",
+      "name": "Shiny",
+      "code": "36C",
+      "set": "Foundry Paint System",
+      "hex": "#FFFAB8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Break of Day",
+        "hex": "#FFFABD",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "foundry/21b",
+      "name": "Sky Blue",
+      "code": "21B",
+      "set": "Foundry Paint System",
+      "hex": "#4A8AC7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Casting Sea",
+        "hex": "#4586C7",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "foundry/21c",
+      "name": "Sky Blue Light",
+      "code": "21C",
+      "set": "Foundry Paint System",
+      "hex": "#7D9DC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alaskan Ice",
+        "hex": "#7E9EC2",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "foundry/21a",
+      "name": "Sky Blue Shade",
+      "code": "21A",
+      "set": "Foundry Paint System",
+      "hex": "#025297",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Olympus",
+        "hex": "#015193",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "foundry/32b",
+      "name": "Slate Grey",
+      "code": "32B",
+      "set": "Foundry Paint System",
+      "hex": "#606467",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Web",
+        "hex": "#616669",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "foundry/32c",
+      "name": "Slate Grey Light",
+      "code": "32C",
+      "set": "Foundry Paint System",
+      "hex": "#7A7B7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Millennial Grey",
+        "hex": "#7B7B7D",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "foundry/32a",
+      "name": "Slate Grey Shade",
+      "code": "32A",
+      "set": "Foundry Paint System",
+      "hex": "#484D51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witchcraft",
+        "hex": "#474C50",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "foundry/119b",
+      "name": "South American Flesh",
+      "code": "119B",
+      "set": "Foundry Paint System",
+      "hex": "#B26E5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clovedust",
+        "hex": "#B0705D",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "foundry/119c",
+      "name": "South American Flesh Light",
+      "code": "119C",
+      "set": "Foundry Paint System",
+      "hex": "#D08572",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copperleaf",
+        "hex": "#CF8874",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "foundry/119a",
+      "name": "South American Flesh Shade",
+      "code": "119A",
+      "set": "Foundry Paint System",
+      "hex": "#955553",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Cerberus",
+        "hex": "#995555",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "foundry/81b",
+      "name": "Soviet Equipment Green",
+      "code": "81B",
+      "set": "Foundry Paint System",
+      "hex": "#555B39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Base Camp",
+        "hex": "#575C3A",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "foundry/81c",
+      "name": "Soviet Equipment Green Light",
+      "code": "81C",
+      "set": "Foundry Paint System",
+      "hex": "#7B8151",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calliste Green",
+        "hex": "#798052",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "foundry/81a",
+      "name": "Soviet Equipment Green Shade",
+      "code": "81A",
+      "set": "Foundry Paint System",
+      "hex": "#3F422F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/82b",
+      "name": "Soviet Helmet Green",
+      "code": "82B",
+      "set": "Foundry Paint System",
+      "hex": "#A3A26A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Willow Leaf",
+        "hex": "#A1A46D",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "foundry/82c",
+      "name": "Soviet Helmet Green Light",
+      "code": "82C",
+      "set": "Foundry Paint System",
+      "hex": "#B3B27C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Weeping Willow",
+        "hex": "#B3B17B",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "foundry/82a",
+      "name": "Soviet Helmet Green Shade",
+      "code": "82A",
+      "set": "Foundry Paint System",
+      "hex": "#848559",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iguana",
+        "hex": "#878757",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "foundry/80b",
+      "name": "Soviet Summer Drab",
+      "code": "80B",
+      "set": "Foundry Paint System",
+      "hex": "#ADA88A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bland",
+        "hex": "#AFA88B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "foundry/80c",
+      "name": "Soviet Summer Drab Light",
+      "code": "80C",
+      "set": "Foundry Paint System",
+      "hex": "#C9C3A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oyster White",
+        "hex": "#CBC4A2",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "foundry/80a",
+      "name": "Soviet Summer Drab Shade",
+      "code": "80A",
+      "set": "Foundry Paint System",
+      "hex": "#A19F88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Potting Moss",
+        "hex": "#A0A089",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "foundry/79b",
+      "name": "Soviet Summer Tan",
+      "code": "79B",
+      "set": "Foundry Paint System",
+      "hex": "#81784F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fern Grove",
+        "hex": "#837B53",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "foundry/79c",
+      "name": "Soviet Summer Tan Light",
+      "code": "79C",
+      "set": "Foundry Paint System",
+      "hex": "#998C5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pineapple Sage",
+        "hex": "#9C8F60",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "foundry/79a",
+      "name": "Soviet Summer Tan Shade",
+      "code": "79A",
+      "set": "Foundry Paint System",
+      "hex": "#6D6B54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Secluded Green",
+        "hex": "#6F6D56",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "foundry/95b",
+      "name": "Soviet Winter Brown",
+      "code": "95B",
+      "set": "Foundry Paint System",
+      "hex": "#44323E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Voodoo",
+        "hex": "#443240",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "foundry/95c",
+      "name": "Soviet Winter Brown Light",
+      "code": "95C",
+      "set": "Foundry Paint System",
+      "hex": "#6C5461",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Exclusively",
+        "hex": "#6B515F",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "foundry/95a",
+      "name": "Soviet Winter Brown Shade",
+      "code": "95A",
+      "set": "Foundry Paint System",
+      "hex": "#473646",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Onion",
+        "hex": "#473442",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "foundry/96b",
+      "name": "Soviet Winter Green",
+      "code": "96B",
+      "set": "Foundry Paint System",
+      "hex": "#676364",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorpion",
+        "hex": "#6A6466",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "foundry/96c",
+      "name": "Soviet Winter Green Light",
+      "code": "96C",
+      "set": "Foundry Paint System",
+      "hex": "#7F776A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Topaz",
+        "hex": "#7E7668",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "foundry/96a",
+      "name": "Soviet Winter Green Shade",
+      "code": "96A",
+      "set": "Foundry Paint System",
+      "hex": "#504E51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perle Noir",
+        "hex": "#4F4D51",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "foundry/13b",
+      "name": "Spearshaft",
+      "code": "13B",
+      "set": "Foundry Paint System",
+      "hex": "#A0623B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Adobe",
+        "hex": "#A3623B",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "foundry/13c",
+      "name": "Spearshaft Light",
+      "code": "13C",
+      "set": "Foundry Paint System",
+      "hex": "#B39B53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Viva Las Vegas",
+        "hex": "#B39953",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "foundry/13a",
+      "name": "Spearshaft Shade",
+      "code": "13A",
+      "set": "Foundry Paint System",
+      "hex": "#68341C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overbaked",
+        "hex": "#61311C",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "foundry/57b",
+      "name": "Stone",
+      "code": "57B",
+      "set": "Foundry Paint System",
+      "hex": "#66757C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Long Lake",
+        "hex": "#68757E",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "foundry/57c",
+      "name": "Stone Light",
+      "code": "57C",
+      "set": "Foundry Paint System",
+      "hex": "#8297A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ashley Blue",
+        "hex": "#8398A9",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "foundry/57a",
+      "name": "Stone Shade",
+      "code": "57A",
+      "set": "Foundry Paint System",
+      "hex": "#49515E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Senate",
+        "hex": "#4A515F",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "foundry/39b",
+      "name": "Storm Blue",
+      "code": "39B",
+      "set": "Foundry Paint System",
+      "hex": "#324E64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Outer Space",
+        "hex": "#314E64",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "foundry/39c",
+      "name": "Storm Blue Light",
+      "code": "39C",
+      "set": "Foundry Paint System",
+      "hex": "#576973",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Needlepoint Navy",
+        "hex": "#546670",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "foundry/39a",
+      "name": "Storm Blue Shade",
+      "code": "39A",
+      "set": "Foundry Paint System",
+      "hex": "#254047",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bay Isle Pointe",
+        "hex": "#214048",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "foundry/27b",
+      "name": "Storm Green",
+      "code": "27B",
+      "set": "Foundry Paint System",
+      "hex": "#445A4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vinca & Vine",
+        "hex": "#45584C",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "foundry/27c",
+      "name": "Storm Green Light",
+      "code": "27C",
+      "set": "Foundry Paint System",
+      "hex": "#566C57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Bayou",
+        "hex": "#566E57",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "foundry/27a",
+      "name": "Storm Green Shade",
+      "code": "27A",
+      "set": "Foundry Paint System",
+      "hex": "#353F24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Seaweed",
+        "hex": "#37412A",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "foundry/14b",
+      "name": "Tan",
+      "code": "14B",
+      "set": "Foundry Paint System",
+      "hex": "#9F5913",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Wash",
+        "hex": "#995915",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "foundry/14c",
+      "name": "Tan Light",
+      "code": "14C",
+      "set": "Foundry Paint System",
+      "hex": "#C57B3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fall Leaves",
+        "hex": "#C17A3C",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "foundry/14a",
+      "name": "Tan Shade",
+      "code": "14A",
+      "set": "Foundry Paint System",
+      "hex": "#542F15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baker’s Chocolate",
+        "hex": "#5C3317",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "foundry/24b",
+      "name": "Teal Blue",
+      "code": "24B",
+      "set": "Foundry Paint System",
+      "hex": "#008483",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marine Teal",
+        "hex": "#008383",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "foundry/24c",
+      "name": "Teal Blue Light",
+      "code": "24C",
+      "set": "Foundry Paint System",
+      "hex": "#0A9C92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caribbean Turquoise",
+        "hex": "#009D94",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/24a",
+      "name": "Teal Blue Shade",
+      "code": "24A",
+      "set": "Foundry Paint System",
+      "hex": "#004A57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Watercolour Blue",
+        "hex": "#084D58",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "foundry/37b",
+      "name": "Teracotta",
+      "code": "37B",
+      "set": "Foundry Paint System",
+      "hex": "#791A06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obscure Ogre",
+        "hex": "#771908",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "foundry/37c",
+      "name": "Teracotta Light",
+      "code": "37C",
+      "set": "Foundry Paint System",
+      "hex": "#915354",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Butter",
+        "hex": "#8E5151",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "foundry/37a",
+      "name": "Teracotta Shade",
+      "code": "37A",
+      "set": "Foundry Paint System",
+      "hex": "#5D2822",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebicha Brown",
+        "hex": "#5E2824",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "foundry/23b",
+      "name": "Tomb Blue",
+      "code": "23B",
+      "set": "Foundry Paint System",
+      "hex": "#57A6CD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "First Landing",
+        "hex": "#59A6CF",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "foundry/23c",
+      "name": "Tomb Blue Light",
+      "code": "23C",
+      "set": "Foundry Paint System",
+      "hex": "#7CB7C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tennis Blue",
+        "hex": "#7CB5C6",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "foundry/23a",
+      "name": "Tomb Blue Shade",
+      "code": "23A",
+      "set": "Foundry Paint System",
+      "hex": "#3D7BAA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beijing Blue",
+        "hex": "#3E7DAA",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "foundry/111b",
+      "name": "Union Blue",
+      "code": "111B",
+      "set": "Foundry Paint System",
+      "hex": "#2A404D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bakos Blue",
+        "hex": "#273F4B",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "foundry/111c",
+      "name": "Union Blue Light",
+      "code": "111C",
+      "set": "Foundry Paint System",
+      "hex": "#2D5066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shimmering Sea",
+        "hex": "#2B526A",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "foundry/111a",
+      "name": "Union Blue Shade",
+      "code": "111A",
+      "set": "Foundry Paint System",
+      "hex": "#26343F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue-Black",
+        "hex": "#24313D",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "foundry/112b",
+      "name": "Union Trouser Blue",
+      "code": "112B",
+      "set": "Foundry Paint System",
+      "hex": "#2A93B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enchanted Well",
+        "hex": "#3994AF",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "foundry/112c",
+      "name": "Union Trouser Blue Light",
+      "code": "112C",
+      "set": "Foundry Paint System",
+      "hex": "#5EBCFA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hello Summer",
+        "hex": "#55BBFF",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "foundry/112a",
+      "name": "Union Trouser Blue Shade",
+      "code": "112A",
+      "set": "Foundry Paint System",
+      "hex": "#577192",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moonlight Blue",
+        "hex": "#567090",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "foundry/40b",
+      "name": "Violet",
+      "code": "40B",
+      "set": "Foundry Paint System",
+      "hex": "#434A81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlands Twilight",
+        "hex": "#484A80",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "foundry/40c",
+      "name": "Violet Light",
+      "code": "40C",
+      "set": "Foundry Paint System",
+      "hex": "#7362CA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Astro Purple",
+        "hex": "#6D5ACF",
+        "delta_e": 2.78
+      }
+    },
+    {
+      "id": "foundry/40a",
+      "name": "Violet Shade",
+      "code": "40A",
+      "set": "Foundry Paint System",
+      "hex": "#1C175A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shadowdancer",
+        "hex": "#111155",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "foundry/22b",
+      "name": "Vivid Blue",
+      "code": "22B",
+      "set": "Foundry Paint System",
+      "hex": "#20A7E9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivid Cerulean",
+        "hex": "#00AAEE",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "foundry/22c",
+      "name": "Vivid Blue Light",
+      "code": "22C",
+      "set": "Foundry Paint System",
+      "hex": "#87C3E7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Billow",
+        "hex": "#83C0E5",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "foundry/22a",
+      "name": "Vivid Blue Shade",
+      "code": "22A",
+      "set": "Foundry Paint System",
+      "hex": "#0893CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Electric Blue",
+        "hex": "#0892D0",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "foundry/33c",
+      "name": "White",
+      "code": "33C",
+      "set": "Foundry Paint System",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "foundry/17b",
+      "name": "Wine Stain Red",
+      "code": "17B",
+      "set": "Foundry Paint System",
+      "hex": "#C2446A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mauve It",
+        "hex": "#BB4466",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "foundry/17c",
+      "name": "Wine Stain Red Light",
+      "code": "17C",
+      "set": "Foundry Paint System",
+      "hex": "#BE7995",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Benifuji",
+        "hex": "#BB7796",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "foundry/17a",
+      "name": "Wine Stain Red Shade",
+      "code": "17A",
+      "set": "Foundry Paint System",
+      "hex": "#763032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Bar",
+        "hex": "#773333",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "foundry/2b",
+      "name": "Yellow",
+      "code": "2B",
+      "set": "Foundry Paint System",
+      "hex": "#FFD60B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinag Gold",
+        "hex": "#FFD500",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "foundry/2c",
+      "name": "Yellow Light",
+      "code": "2C",
+      "set": "Foundry Paint System",
+      "hex": "#FEE958",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paris Daisy",
+        "hex": "#FBEB50",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "foundry/2a",
+      "name": "Yellow Shade",
+      "code": "2A",
+      "set": "Foundry Paint System",
+      "hex": "#F8B409",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Summer",
+        "hex": "#F9B500",
+        "delta_e": 0.41
+      }
+    }
+  ]
+}

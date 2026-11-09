@@ -44,7 +44,7 @@
 |Pearl Amaranth Red|A215|Acrylic Pearl Paints|234|99|85|![#EA6355](https://placehold.co/15x15/EA6355/EA6355.png) `#EA6355`|
 |Pearl Cactus Green|A230|Acrylic Pearl Paints|97|159|138|![#619F8A](https://placehold.co/15x15/619F8A/619F8A.png) `#619F8A`|
 |Pearl Canary Yellow|A206|Acrylic Pearl Paints|187|165|51|![#BBA533](https://placehold.co/15x15/BBA533/BBA533.png) `#BBA533`|
-|Pearl Chartreuse |A233|Acrylic Pearl Paints|169|165|77|![#A9A54D](https://placehold.co/15x15/A9A54D/A9A54D.png) `#A9A54D`|
+|Pearl Chartreuse|A233|Acrylic Pearl Paints|169|165|77|![#A9A54D](https://placehold.co/15x15/A9A54D/A9A54D.png) `#A9A54D`|
 |Pearl Copper Gold|A129|Acrylic Pearl Paints|166|102|67|![#A66643](https://placehold.co/15x15/A66643/A66643.png) `#A66643`|
 |Pearl Copper Gold|A729|Acrylic Premium Paints|187|116|70|![#BB7446](https://placehold.co/15x15/BB7446/BB7446.png) `#BB7446`|
 |Pearl Deep Brown|A130|Acrylic Pearl Paints|102|70|50|![#664632](https://placehold.co/15x15/664632/664632.png) `#664632`|
@@ -57,7 +57,7 @@
 |Pearl Lime Green|A211|Acrylic Pearl Paints|134|169|109|![#86A96D](https://placehold.co/15x15/86A96D/86A96D.png) `#86A96D`|
 |Pearl Magenta|A221|Acrylic Pearl Paints|159|30|99|![#9F1E63](https://placehold.co/15x15/9F1E63/9F1E63.png) `#9F1E63`|
 |Pearl Marmalade|A203|Acrylic Pearl Paints|164|70|45|![#A4462D](https://placehold.co/15x15/A4462D/A4462D.png) `#A4462D`|
-|Pearl Olive Green |A232|Acrylic Pearl Paints|117|131|81|![#758351](https://placehold.co/15x15/758351/758351.png) `#758351`|
+|Pearl Olive Green|A232|Acrylic Pearl Paints|117|131|81|![#758351](https://placehold.co/15x15/758351/758351.png) `#758351`|
 |Pearl Papya Orange|A207|Acrylic Pearl Paints|242|131|64|![#F28340](https://placehold.co/15x15/F28340/F28340.png) `#F28340`|
 |Pearl Pastel Green|A228|Acrylic Pearl Paints|136|163|142|![#88A38E](https://placehold.co/15x15/88A38E/88A38E.png) `#88A38E`|
 |Pearl Pink|A216|Acrylic Pearl Paints|188|134|157|![#BC869D](https://placehold.co/15x15/BC869D/BC869D.png) `#BC869D`|

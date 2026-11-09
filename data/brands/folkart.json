@@ -1,0 +1,6121 @@
+{
+  "brand": "Folk Art",
+  "slug": "folkart",
+  "md_file": "FolkArt.md",
+  "logo": "logos/FolkArt.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "folkart/2965",
+      "name": "14K Gold",
+      "code": "2965",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#CBAD71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Putty",
+        "hex": "#CDAE70",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/6460",
+      "name": "Adrift",
+      "code": "6460",
+      "set": "Acrylic Colors",
+      "hex": "#7AA9A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Pan Mallet",
+        "hex": "#71A6A1",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "folkart/2427",
+      "name": "Alfalfa",
+      "code": "2427",
+      "set": "Acrylic Colors",
+      "hex": "#807935",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Bistre",
+        "hex": "#807532",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "folkart/6392",
+      "name": "Alizarin Crimson",
+      "code": "6392",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#683055",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Mauve",
+        "hex": "#692B57",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "folkart/758",
+      "name": "Alizarin Crimson",
+      "code": "758",
+      "set": "Acrylic Colors",
+      "hex": "#3F2528",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Temptress",
+        "hex": "#3C2126",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "folkart/654",
+      "name": "Amethyst",
+      "code": "654",
+      "set": "Metallics",
+      "hex": "#413A59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mulberry Mauve Black",
+        "hex": "#463F60",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "folkart/anitque-gold",
+      "name": "Anitque Gold",
+      "code": "Anitque Gold",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#8D6F4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tanned Wood",
+        "hex": "#8F6E4B",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "folkart/666",
+      "name": "Antique Copper",
+      "code": "666",
+      "set": "Metallics",
+      "hex": "#41291D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Subterranean",
+        "hex": "#452C1F",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "folkart/658",
+      "name": "Antique Gold",
+      "code": "658",
+      "set": "Metallics",
+      "hex": "#7F641D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brazen Brass",
+        "hex": "#7B6623",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "folkart/2241",
+      "name": "Apple Orchard",
+      "code": "2241",
+      "set": "Acrylic Colors",
+      "hex": "#88AF3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Young Bud",
+        "hex": "#86AF38",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/2708",
+      "name": "Apple Orchard",
+      "code": "2708",
+      "set": "Shiny™",
+      "hex": "#6AB848",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Apple",
+        "hex": "#6AB54B",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "folkart/2901",
+      "name": "Apple Red",
+      "code": "2901",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#FFEFF8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milky Quartz",
+        "hex": "#FFEFF7",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "folkart/2548",
+      "name": "Apple Red",
+      "code": "2548",
+      "set": "Acrylic Colors",
+      "hex": "#67060F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rosewood",
+        "hex": "#65000B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "folkart/481",
+      "name": "Aqua",
+      "code": "481",
+      "set": "Acrylic Colors",
+      "hex": "#42858D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Caller",
+        "hex": "#45868B",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "folkart/2921",
+      "name": "Aqua",
+      "code": "2921",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#039FB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "January Blue",
+        "hex": "#00A1B9",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/2973",
+      "name": "Aqua Moire",
+      "code": "2973",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#5798B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hush-A-Bye",
+        "hex": "#5397B7",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "folkart/655",
+      "name": "Aquamarine",
+      "code": "655",
+      "set": "Metallics",
+      "hex": "#D5E8E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dillard’s Blue",
+        "hex": "#D6E9E4",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/6316",
+      "name": "Aquamarine",
+      "code": "6316",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#549C98",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caulerpa Lentillifera",
+        "hex": "#599C99",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "folkart/2569",
+      "name": "Ash",
+      "code": "2569",
+      "set": "Acrylic Colors",
+      "hex": "#4A504E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinel Black",
+        "hex": "#464D4A",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "folkart/7111",
+      "name": "Asphaltum",
+      "code": "7111",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#87613C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spice Bazaar",
+        "hex": "#86613F",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/476",
+      "name": "Asphaltum",
+      "code": "476",
+      "set": "Acrylic Colors",
+      "hex": "#535154",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magnet",
+        "hex": "#525054",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "folkart/920",
+      "name": "Autumn Leaves",
+      "code": "920",
+      "set": "Acrylic Colors",
+      "hex": "#AE4F2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose of Sharon",
+        "hex": "#AC512D",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "folkart/2943",
+      "name": "Autumn Leaves",
+      "code": "2943",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#D94927",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crab Curry",
+        "hex": "#D94B28",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "folkart/4622",
+      "name": "Aviary Blue",
+      "code": "4622",
+      "set": "Acrylic Colors",
+      "hex": "#B1B4AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magnetic",
+        "hex": "#B2B5AF",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "folkart/643",
+      "name": "Azure Blue",
+      "code": "643",
+      "set": "Acrylic Colors",
+      "hex": "#00638D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reservoir",
+        "hex": "#01638B",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/442",
+      "name": "Baby Blue",
+      "code": "442",
+      "set": "Acrylic Colors",
+      "hex": "#9CA6AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chateau de Chillon",
+        "hex": "#A2AAB3",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "folkart/2940",
+      "name": "Baby Pink",
+      "code": "2940",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#F3D8DD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eliza Jane",
+        "hex": "#F4D7DC",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "folkart/633",
+      "name": "Baby Pink",
+      "code": "633",
+      "set": "Acrylic Colors",
+      "hex": "#CE8C96",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fruit Cocktail",
+        "hex": "#D08995",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "folkart/438",
+      "name": "Ballet Pink",
+      "code": "438",
+      "set": "Acrylic Colors",
+      "hex": "#B3A6A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Riveter Rose",
+        "hex": "#B7A9A2",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "folkart/2560",
+      "name": "Bark Brown",
+      "code": "2560",
+      "set": "Acrylic Colors",
+      "hex": "#3A281E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tree House",
+        "hex": "#3B2820",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/2907",
+      "name": "Bark Brown",
+      "code": "2907",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#6F4D43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Sprinkle",
+        "hex": "#6F4E43",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "folkart/936",
+      "name": "Barn Wood",
+      "code": "936",
+      "set": "Acrylic Colors",
+      "hex": "#857F69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pettingill Sage",
+        "hex": "#88806A",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "folkart/611",
+      "name": "Barnyard Red",
+      "code": "611",
+      "set": "Acrylic Colors",
+      "hex": "#65403A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "American Milking Devon",
+        "hex": "#63403A",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "folkart/645",
+      "name": "Basil Green",
+      "code": "645",
+      "set": "Acrylic Colors",
+      "hex": "#92976F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boston Fern",
+        "hex": "#90966D",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/922",
+      "name": "Bayberry",
+      "code": "922",
+      "set": "Acrylic Colors",
+      "hex": "#92A587",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sonoma Sage",
+        "hex": "#90A58A",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "folkart/434",
+      "name": "Berry Wine",
+      "code": "434",
+      "set": "Acrylic Colors",
+      "hex": "#321213",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Rooster",
+        "hex": "#331111",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "folkart/2941",
+      "name": "Berry Wine",
+      "code": "2941",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#5A3030",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rampant Rhubarb",
+        "hex": "#603231",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "folkart/18128",
+      "name": "Black",
+      "code": "18128",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#282725",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chestnut Oak",
+        "hex": "#252321",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/224",
+      "name": "Black Cherry",
+      "code": "224",
+      "set": "Acrylic Colors",
+      "hex": "#635562",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grand Grape",
+        "hex": "#645764",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "folkart/2597",
+      "name": "Blue Belle",
+      "code": "2597",
+      "set": "Acrylic Colors",
+      "hex": "#8DA8C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dresden Doll",
+        "hex": "#8CA8C6",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/2639",
+      "name": "Blue Echo",
+      "code": "2639",
+      "set": "Acrylic Colors",
+      "hex": "#768998",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skipper",
+        "hex": "#748796",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/6449",
+      "name": "Blue Lullaby",
+      "code": "6449",
+      "set": "Acrylic Colors",
+      "hex": "#A0C3D7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Angel Sol",
+        "hex": "#9BC2D7",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "folkart/2387",
+      "name": "Blue Peacock",
+      "code": "2387",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#034C83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dance Studio",
+        "hex": "#064D83",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "folkart/670",
+      "name": "Blue Pearl",
+      "code": "670",
+      "set": "Metallics",
+      "hex": "#467591",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Harbour Blue",
+        "hex": "#417491",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "folkart/719",
+      "name": "Blue Ribbon",
+      "code": "719",
+      "set": "Acrylic Colors",
+      "hex": "#254899",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cascade Twilight",
+        "hex": "#234893",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "folkart/656",
+      "name": "Blue Sapphire",
+      "code": "656",
+      "set": "Metallics",
+      "hex": "#013252",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Dive",
+        "hex": "#003355",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/651",
+      "name": "Blue Topaz",
+      "code": "651",
+      "set": "Metallics",
+      "hex": "#2A677C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "San Gabriel Blue",
+        "hex": "#2F6679",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "folkart/4624",
+      "name": "Boulder",
+      "code": "4624",
+      "set": "Acrylic Colors",
+      "hex": "#393532",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kilimanjaro",
+        "hex": "#3A3532",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "folkart/223",
+      "name": "Bright Baby Pink",
+      "code": "223",
+      "set": "Acrylic Colors",
+      "hex": "#AA6E78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Elder",
+        "hex": "#A66E7A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/2966",
+      "name": "Bright Gold",
+      "code": "2966",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#A08B54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fallow Deer",
+        "hex": "#9F8D57",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "folkart/227",
+      "name": "Bright Green",
+      "code": "227",
+      "set": "Acrylic Colors",
+      "hex": "#016D3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Universal Green",
+        "hex": "#006B38",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "folkart/2950",
+      "name": "Bright Green",
+      "code": "2950",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#255929",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moor-Monster",
+        "hex": "#1F5429",
+        "delta_e": 2.03
+      }
+    },
+    {
+      "id": "folkart/2896",
+      "name": "Bright Pink",
+      "code": "2896",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#F371AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crazy Pink",
+        "hex": "#F970AC",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "folkart/2546",
+      "name": "Bright Pink",
+      "code": "2546",
+      "set": "Acrylic Colors",
+      "hex": "#AF416E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cactus Flower",
+        "hex": "#AF416B",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "folkart/493",
+      "name": "Bright Red",
+      "code": "493",
+      "set": "Metallics",
+      "hex": "#813E47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruby Lips",
+        "hex": "#813E45",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "folkart/641",
+      "name": "Brilliant Blue",
+      "code": "641",
+      "set": "Acrylic Colors",
+      "hex": "#1A356C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Navy",
+        "hex": "#13336F",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "folkart/6303",
+      "name": "Bronze",
+      "code": "6303",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#856A4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chester Brown",
+        "hex": "#876B4B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "folkart/99236",
+      "name": "Bumblebee",
+      "code": "99236",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#EECD02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Yellow",
+        "hex": "#EECD00",
+        "delta_e": 0.04
+      }
+    },
+    {
+      "id": "folkart/957",
+      "name": "Burgundy",
+      "code": "957",
+      "set": "Acrylic Colors",
+      "hex": "#A8AAA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Granite",
+        "hex": "#ABACA8",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/18111",
+      "name": "Burgundy",
+      "code": "18111",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#DF4767",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rouge Red",
+        "hex": "#E24666",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "folkart/7107",
+      "name": "Burnt Sienna",
+      "code": "7107",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#663B2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "In Caffeine We Trust",
+        "hex": "#693C2A",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "folkart/943",
+      "name": "Burnt Sienna",
+      "code": "943",
+      "set": "Acrylic Colors",
+      "hex": "#7A4B32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witch Wood",
+        "hex": "#7C4A33",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "folkart/7244",
+      "name": "Burnt Umber",
+      "code": "7244",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#473C3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Taupe",
+        "hex": "#483C3C",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/2909",
+      "name": "Burnt Umber",
+      "code": "2909",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#231D1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Black",
+        "hex": "#241F20",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "folkart/462",
+      "name": "Burnt Umber",
+      "code": "462",
+      "set": "Acrylic Colors",
+      "hex": "#0E0905",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Black",
+        "hex": "#100C08",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/939",
+      "name": "Butter Pecan",
+      "code": "939",
+      "set": "Acrylic Colors",
+      "hex": "#66573A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cartwheel",
+        "hex": "#665537",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "folkart/614",
+      "name": "Buttercream",
+      "code": "614",
+      "set": "Acrylic Colors",
+      "hex": "#E8D8B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Russeau Gold",
+        "hex": "#E7D6B1",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "folkart/905",
+      "name": "Buttercup",
+      "code": "905",
+      "set": "Acrylic Colors",
+      "hex": "#DAAF61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stranglethorn Ochre",
+        "hex": "#DBB060",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "folkart/4620",
+      "name": "Buttermint",
+      "code": "4620",
+      "set": "Acrylic Colors",
+      "hex": "#BAB78E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Back to Nature",
+        "hex": "#BDB98F",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/932",
+      "name": "Calico Red",
+      "code": "932",
+      "set": "Acrylic Colors",
+      "hex": "#C43D44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Safflower",
+        "hex": "#C53D43",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "folkart/524",
+      "name": "Calypso Sky",
+      "code": "524",
+      "set": "Acrylic Colors",
+      "hex": "#000312",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Benthic Black",
+        "hex": "#000011",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "folkart/2710",
+      "name": "Calypso Sky",
+      "code": "2710",
+      "set": "Shiny™",
+      "hex": "#42B8C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glassmith",
+        "hex": "#46B5C0",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "folkart/953",
+      "name": "Camel",
+      "code": "953",
+      "set": "Acrylic Colors",
+      "hex": "#BD9174",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Presidio Plaza",
+        "hex": "#BB9174",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/2945",
+      "name": "Camel",
+      "code": "2945",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#CFB67E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aged Seagrass",
+        "hex": "#CCB27A",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/4657",
+      "name": "Cameo Blush",
+      "code": "4657",
+      "set": "Acrylic Colors",
+      "hex": "#E7B09C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pretty in Peach",
+        "hex": "#E9AF9B",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/2900",
+      "name": "Cardinal Red",
+      "code": "2900",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#D43247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Rust",
+        "hex": "#DA2C43",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "folkart/414",
+      "name": "Cardinal Red",
+      "code": "414",
+      "set": "Acrylic Colors",
+      "hex": "#460710",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rum Chocolate",
+        "hex": "#450E15",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "folkart/4670",
+      "name": "Cascade",
+      "code": "4670",
+      "set": "Acrylic Colors",
+      "hex": "#36585D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Moonstone",
+        "hex": "#33565E",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "folkart/2428",
+      "name": "Castaway",
+      "code": "2428",
+      "set": "Acrylic Colors",
+      "hex": "#026F8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seaport",
+        "hex": "#006E8C",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "folkart/513",
+      "name": "Cayman Blue",
+      "code": "513",
+      "set": "Acrylic Colors",
+      "hex": "#5B95AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Delphinium Blue",
+        "hex": "#6198AE",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "folkart/2953",
+      "name": "Cayman Blue",
+      "code": "2953",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#006090",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Felix",
+        "hex": "#00608F",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "folkart/675",
+      "name": "Champagne",
+      "code": "675",
+      "set": "Metallics",
+      "hex": "#8A8158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clay Creek",
+        "hex": "#897E59",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "folkart/6307",
+      "name": "Champagne",
+      "code": "6307",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#C3C3B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baby Barn Owl",
+        "hex": "#C3C3B8",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "folkart/charcoal-black",
+      "name": "Charcoal Black",
+      "code": "Charcoal Black",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "folkart/2570",
+      "name": "Chocolate Brown",
+      "code": "2570",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#523620",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kuro Brown",
+        "hex": "#583822",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "folkart/2570~2",
+      "name": "Chocolate Brown",
+      "code": "2570",
+      "set": "Metallics",
+      "hex": "#7B4C2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Urban Auburn",
+        "hex": "#7C4A2C",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "folkart/491",
+      "name": "Christmas Green",
+      "code": "491",
+      "set": "Metallics",
+      "hex": "#253E29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Fir",
+        "hex": "#193925",
+        "delta_e": 2.67
+      }
+    },
+    {
+      "id": "folkart/958",
+      "name": "Christmas Red",
+      "code": "958",
+      "set": "Acrylic Colors",
+      "hex": "#8F302E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ripasso",
+        "hex": "#94312F",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "folkart/6319",
+      "name": "Chunky Gold",
+      "code": "6319",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#5A4E34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tǔ Hēi Black",
+        "hex": "#574D35",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "folkart/chunky-silver",
+      "name": "Chunky Silver",
+      "code": "Chunky Silver",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#555358",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forged Iron",
+        "hex": "#555257",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "folkart/2558",
+      "name": "Cinnamon",
+      "code": "2558",
+      "set": "Acrylic Colors",
+      "hex": "#411C13",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Longan’s Kernel",
+        "hex": "#442117",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "folkart/2552",
+      "name": "Citrus Green",
+      "code": "2552",
+      "set": "Acrylic Colors",
+      "hex": "#070908",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reversed Grey",
+        "hex": "#080808",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "folkart/2915",
+      "name": "Citrus Green",
+      "code": "2915",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#889B2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vigorous Wasabi",
+        "hex": "#8B9D30",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "folkart/6472",
+      "name": "Classic French Gray",
+      "code": "6472",
+      "set": "Acrylic Colors",
+      "hex": "#575755",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jet Fuel",
+        "hex": "#575654",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "folkart/classic-french-gray",
+      "name": "Classic French Gray",
+      "code": "Classic French Gray",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#66696E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Out",
+        "hex": "#656A6E",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "folkart/2554",
+      "name": "Classic Green",
+      "code": "2554",
+      "set": "Acrylic Colors",
+      "hex": "#A8B2AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slate Stone",
+        "hex": "#ACB4AC",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "folkart/2917",
+      "name": "Classic Green",
+      "code": "2917",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#45936C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Illuminati Green",
+        "hex": "#419168",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "folkart/2568",
+      "name": "Cloudy Day",
+      "code": "2568",
+      "set": "Acrylic Colors",
+      "hex": "#698BA6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sporty Blue",
+        "hex": "#6A8AA4",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/923",
+      "name": "Clover",
+      "code": "923",
+      "set": "Acrylic Colors",
+      "hex": "#8A9994",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Milieu",
+        "hex": "#8A9992",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "folkart/713",
+      "name": "Coastal Blue",
+      "code": "713",
+      "set": "Acrylic Colors",
+      "hex": "#DEE4E0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Illuminating Experience",
+        "hex": "#DEE4E0",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/2926",
+      "name": "Cobalt Blue",
+      "code": "2926",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#253858",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Sleigh",
+        "hex": "#243A5E",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "folkart/720",
+      "name": "Cobalt Blue",
+      "code": "720",
+      "set": "Acrylic Colors",
+      "hex": "#3B5393",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinese Blue",
+        "hex": "#365194",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "folkart/6498",
+      "name": "Cocoa",
+      "code": "6498",
+      "set": "Acrylic Colors",
+      "hex": "#1D1C1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco’s Black",
+        "hex": "#1C1C1A",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "folkart/940",
+      "name": "Coffee Bean",
+      "code": "940",
+      "set": "Acrylic Colors",
+      "hex": "#2D2018",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Weathervane",
+        "hex": "#2C201A",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "folkart/2906",
+      "name": "Coffee Latte",
+      "code": "2906",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C58F69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shiracha Brown",
+        "hex": "#C48E69",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "folkart/2559",
+      "name": "Coffee Latte",
+      "code": "2559",
+      "set": "Acrylic Colors",
+      "hex": "#6A492A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hickory Chips",
+        "hex": "#69482A",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "folkart/6447",
+      "name": "Conch Shell",
+      "code": "6447",
+      "set": "Acrylic Colors",
+      "hex": "#DDB8B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cavern Pink",
+        "hex": "#E0B8B1",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/2944",
+      "name": "Cool Bisque",
+      "code": "2944",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#D9C8B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clay Pipe",
+        "hex": "#D9C8B7",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "folkart/229",
+      "name": "Cool Bisque",
+      "code": "229",
+      "set": "Acrylic Colors",
+      "hex": "#D7C6B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Creek",
+        "hex": "#D8C7B6",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/664",
+      "name": "Copper",
+      "code": "664",
+      "set": "Metallics",
+      "hex": "#442719",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Brown",
+        "hex": "#44281B",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/6305",
+      "name": "Copper",
+      "code": "6305",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#7C4D3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cheeky Chestnut",
+        "hex": "#7B4D3A",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "folkart/7274",
+      "name": "Cottage White",
+      "code": "7274",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#BFC3C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Mine",
+        "hex": "#BEC2C1",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "folkart/6446",
+      "name": "Cottage White",
+      "code": "6446",
+      "set": "Acrylic Colors",
+      "hex": "#D2D0D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clouded Vision",
+        "hex": "#D1D0D1",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "folkart/602",
+      "name": "Country Twill",
+      "code": "602",
+      "set": "Acrylic Colors",
+      "hex": "#7B664B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boho",
+        "hex": "#7B684D",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "folkart/4663",
+      "name": "Crocodile",
+      "code": "4663",
+      "set": "Acrylic Colors",
+      "hex": "#53633E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daisy Leaf",
+        "hex": "#55643B",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "folkart/2565",
+      "name": "Crushed Coral",
+      "code": "2565",
+      "set": "Acrylic Colors",
+      "hex": "#D08E80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Constant Coral",
+        "hex": "#CD8E7F",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/2579",
+      "name": "Cut Grass",
+      "code": "2579",
+      "set": "Acrylic Colors",
+      "hex": "#B4B6B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lunar Surface",
+        "hex": "#B6B9B6",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/2550",
+      "name": "Daffodil Yellow",
+      "code": "2550",
+      "set": "Acrylic Colors",
+      "hex": "#DBC357",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cream Gold",
+        "hex": "#DCC356",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "folkart/daffodil-yellow",
+      "name": "Daffodil Yellow",
+      "code": "Daffodil Yellow",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#FCE680",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vacherin Cheese",
+        "hex": "#FDE882",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "folkart/416",
+      "name": "Dark Brown",
+      "code": "416",
+      "set": "Acrylic Colors",
+      "hex": "#2D1E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tetsu-Guro Black",
+        "hex": "#281A14",
+        "delta_e": 2.44
+      }
+    },
+    {
+      "id": "folkart/426",
+      "name": "Dark Gray",
+      "code": "426",
+      "set": "Acrylic Colors",
+      "hex": "#4E4946",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/7275",
+      "name": "Daybreak",
+      "code": "7275",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#D6B858",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Vein",
+        "hex": "#D6B956",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "folkart/6448",
+      "name": "Daybreak",
+      "code": "6448",
+      "set": "Acrylic Colors",
+      "hex": "#C8B070",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Moss",
+        "hex": "#C6AD6F",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "folkart/deep-ocean-blue",
+      "name": "Deep Ocean Blue",
+      "code": "Deep Ocean Blue",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#5A82A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Beads",
+        "hex": "#5A809E",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "folkart/2555",
+      "name": "Deep Ocean Blue",
+      "code": "2555",
+      "set": "Acrylic Colors",
+      "hex": "#9F9EA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Sconce",
+        "hex": "#A19FA5",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/99255",
+      "name": "Dijon",
+      "code": "99255",
+      "set": "Acrylic Colors",
+      "hex": "#D37F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Moondust",
+        "hex": "#D48020",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "folkart/6393",
+      "name": "Dioxazine Purple",
+      "code": "6393",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#473F88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nauseous Blue",
+        "hex": "#483D8B",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "folkart/6361",
+      "name": "Dioxazine Purple",
+      "code": "6361",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#12121C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kuroi Black",
+        "hex": "#14151D",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "folkart/6363",
+      "name": "Dioxazine Violet",
+      "code": "6363",
+      "set": "Acrylic Colors",
+      "hex": "#131B5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Au Blau",
+        "hex": "#091953",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "folkart/4665",
+      "name": "Dolphin",
+      "code": "4665",
+      "set": "Acrylic Colors",
+      "hex": "#83A4B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grauzone",
+        "hex": "#85A3B2",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "folkart/2382",
+      "name": "Dove",
+      "code": "2382",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#DADADA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gainsboro",
+        "hex": "#DCDCDC",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "folkart/2954",
+      "name": "Dove Gray",
+      "code": "2954",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#A3AFAD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prince Grey",
+        "hex": "#A0ADAC",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "folkart/708",
+      "name": "Dove Gray",
+      "code": "708",
+      "set": "Acrylic Colors",
+      "hex": "#BDC4BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Three Wishes",
+        "hex": "#BDC4BB",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "folkart/4664",
+      "name": "Dutch Aqua",
+      "code": "4664",
+      "set": "Acrylic Colors",
+      "hex": "#818E87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mummy’s Tomb",
+        "hex": "#828E84",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "folkart/2930",
+      "name": "Eggplant",
+      "code": "2930",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#221A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Sunfire",
+        "hex": "#271A2D",
+        "delta_e": 2.93
+      }
+    },
+    {
+      "id": "folkart/2253",
+      "name": "Eggplant",
+      "code": "2253",
+      "set": "Acrylic Colors",
+      "hex": "#372643",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aubergine Mauve",
+        "hex": "#3B2741",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "folkart/653",
+      "name": "Emerald Green",
+      "code": "653",
+      "set": "Metallics",
+      "hex": "#184639",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sherwood Green",
+        "hex": "#1B4636",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "folkart/436",
+      "name": "Engine Red",
+      "code": "436",
+      "set": "Acrylic Colors",
+      "hex": "#8D3740",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raspberry Fool",
+        "hex": "#8E3643",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "folkart/2948",
+      "name": "Engine Red",
+      "code": "2948",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#811320",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heirloom Red",
+        "hex": "#801F23",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "folkart/2702",
+      "name": "Engine Red",
+      "code": "2702",
+      "set": "Shiny™",
+      "hex": "#71242C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Berry",
+        "hex": "#701F28",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "folkart/959",
+      "name": "English Mustard",
+      "code": "959",
+      "set": "Acrylic Colors",
+      "hex": "#A76439",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camel Brown",
+        "hex": "#A56639",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "folkart/4667",
+      "name": "Faded Jade",
+      "code": "4667",
+      "set": "Acrylic Colors",
+      "hex": "#C7CEBC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Frosty Pine",
+        "hex": "#C7CFBE",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "folkart/2961",
+      "name": "Fiery Red",
+      "code": "2961",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#582220",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Oxide",
+        "hex": "#5D1F1E",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "folkart/2740",
+      "name": "Fire Coral",
+      "code": "2740",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#E9585D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlighter Red",
+        "hex": "#E94F58",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "folkart/6452",
+      "name": "Fire Coral",
+      "code": "6452",
+      "set": "Acrylic Colors",
+      "hex": "#9D4A46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lumberjack",
+        "hex": "#9D4542",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "folkart/6309",
+      "name": "Fire Opal",
+      "code": "6309",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#A35C3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Falling Leaves",
+        "hex": "#A55A3B",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "folkart/527",
+      "name": "Forest Moss",
+      "code": "527",
+      "set": "Acrylic Colors",
+      "hex": "#4D461C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uniform Green",
+        "hex": "#4C4623",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "folkart/639",
+      "name": "French Blue",
+      "code": "639",
+      "set": "Acrylic Colors",
+      "hex": "#75A8C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Serene Sea",
+        "hex": "#78A7C3",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/2436",
+      "name": "French Lilac",
+      "code": "2436",
+      "set": "Acrylic Colors",
+      "hex": "#DBB0BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pentalon",
+        "hex": "#DBB2BC",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "folkart/431",
+      "name": "French Vanilla",
+      "code": "431",
+      "set": "Acrylic Colors",
+      "hex": "#EEE5A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bells and Whistles Gold",
+        "hex": "#EDE3A1",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/4662",
+      "name": "Fresh Fern",
+      "code": "4662",
+      "set": "Acrylic Colors",
+      "hex": "#42743F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Crocodile",
+        "hex": "#447744",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "folkart/2942",
+      "name": "Fresh Foliage",
+      "code": "2942",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#799B3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aloe Vera Green",
+        "hex": "#7E9B39",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "folkart/954",
+      "name": "Fresh Foliage",
+      "code": "954",
+      "set": "Acrylic Colors",
+      "hex": "#677552",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenfield",
+        "hex": "#60724F",
+        "delta_e": 1.98
+      }
+    },
+    {
+      "id": "folkart/2916",
+      "name": "Freshcut Grass",
+      "code": "2916",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#4E6539",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Green",
+        "hex": "#4E6539",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/99258",
+      "name": "Galaxy Blue",
+      "code": "99258",
+      "set": "Acrylic Colors",
+      "hex": "#0B0E1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melanophobia",
+        "hex": "#01081C",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "folkart/6308",
+      "name": "Garnet",
+      "code": "6308",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#683440",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Power Tie",
+        "hex": "#66303C",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "folkart/665",
+      "name": "Garnet Red",
+      "code": "665",
+      "set": "Metallics",
+      "hex": "#68353E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Red",
+        "hex": "#6C333F",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "folkart/2435",
+      "name": "Gentle Violet",
+      "code": "2435",
+      "set": "Acrylic Colors",
+      "hex": "#BB94A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bed of Roses",
+        "hex": "#B893AB",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "folkart/2495",
+      "name": "Gilded Oak",
+      "code": "2495",
+      "set": "Acrylic Colors",
+      "hex": "#2B2A28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "The End",
+        "hex": "#2A2A2A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/2958",
+      "name": "Glam Gold",
+      "code": "2958",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#685A35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plum Green",
+        "hex": "#695C39",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "folkart/741",
+      "name": "Glazed Carrots",
+      "code": "741",
+      "set": "Acrylic Colors",
+      "hex": "#DF571D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "War Paint Red",
+        "hex": "#DC571D",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "folkart/2426",
+      "name": "Golden Glow",
+      "code": "2426",
+      "set": "Acrylic Colors",
+      "hex": "#CBA76B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ginger Ale",
+        "hex": "#C9A86A",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "folkart/4659",
+      "name": "Golden Ochre",
+      "code": "4659",
+      "set": "Acrylic Colors",
+      "hex": "#C29000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moutarde de Bénichon",
+        "hex": "#BF9005",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/2655",
+      "name": "Goldenrod",
+      "code": "2655",
+      "set": "Acrylic Colors",
+      "hex": "#F8CB70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Naked Noodle",
+        "hex": "#F7CB6E",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/2504",
+      "name": "Graffiti Pink",
+      "code": "2504",
+      "set": "Acrylic Colors",
+      "hex": "#AA5972",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Malaga",
+        "hex": "#AB5871",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "folkart/644",
+      "name": "Grass Green",
+      "code": "644",
+      "set": "Acrylic Colors",
+      "hex": "#547644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Artichoke Green",
+        "hex": "#517345",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "folkart/2656",
+      "name": "Gray Owl",
+      "code": "2656",
+      "set": "Acrylic Colors",
+      "hex": "#AFA9A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Mountain",
+        "hex": "#AFA8A9",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/408",
+      "name": "Green",
+      "code": "408",
+      "set": "Acrylic Colors",
+      "hex": "#A0BD9E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spring Rain",
+        "hex": "#A3BD9C",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/448",
+      "name": "Green Forest",
+      "code": "448",
+      "set": "Acrylic Colors",
+      "hex": "#040402",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vantablack",
+        "hex": "#000100",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "folkart/726",
+      "name": "Green Meadow",
+      "code": "726",
+      "set": "Acrylic Colors",
+      "hex": "#334037",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roycroft Bottle Green",
+        "hex": "#324038",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "folkart/2621",
+      "name": "Green Sea",
+      "code": "2621",
+      "set": "Acrylic Colors",
+      "hex": "#AAB8A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rockfall",
+        "hex": "#AABBAA",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "folkart/2500",
+      "name": "Greenscape",
+      "code": "2500",
+      "set": "Acrylic Colors",
+      "hex": "#516762",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armada",
+        "hex": "#536762",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "folkart/4671",
+      "name": "Grotto",
+      "code": "4671",
+      "set": "Acrylic Colors",
+      "hex": "#294147",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Little Mermaid",
+        "hex": "#2D454A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/667",
+      "name": "Gunmetal Gray",
+      "code": "667",
+      "set": "Metallics",
+      "hex": "#666563",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wire Wool",
+        "hex": "#676662",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "folkart/99238",
+      "name": "Happy Green",
+      "code": "99238",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#B3C938",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Young Plum",
+        "hex": "#ACC729",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/459",
+      "name": "Hauser Green Light",
+      "code": "459",
+      "set": "Acrylic Colors",
+      "hex": "#7B8E4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camo",
+        "hex": "#7F8F4E",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "folkart/228",
+      "name": "Holly Leaf",
+      "code": "228",
+      "set": "Acrylic Colors",
+      "hex": "#176146",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Paw Paw",
+        "hex": "#0D6349",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "folkart/2384",
+      "name": "Honey Glaze",
+      "code": "2384",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#E1BE24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Durian Yellow",
+        "hex": "#E1BD27",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "folkart/942",
+      "name": "Honeycomb",
+      "code": "942",
+      "set": "Acrylic Colors",
+      "hex": "#908573",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Frontier",
+        "hex": "#908675",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/634",
+      "name": "Hot Pink",
+      "code": "634",
+      "set": "Acrylic Colors",
+      "hex": "#B9738B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strawberry Surprise",
+        "hex": "#B9758D",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "folkart/4660",
+      "name": "Hot Saffron",
+      "code": "4660",
+      "set": "Acrylic Colors",
+      "hex": "#EB3E02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Corn Poppy Cherry",
+        "hex": "#EE4411",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "folkart/406",
+      "name": "Hunter Green",
+      "code": "406",
+      "set": "Acrylic Colors",
+      "hex": "#32423F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Darkest Spruce",
+        "hex": "#303F3D",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "folkart/2588",
+      "name": "Ice Blue",
+      "code": "2588",
+      "set": "Metallics",
+      "hex": "#8A9CA0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teal Wave",
+        "hex": "#8B9EA1",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "folkart/6462",
+      "name": "Iced Coffee",
+      "code": "6462",
+      "set": "Acrylic Colors",
+      "hex": "#B58565",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cognac Brown",
+        "hex": "#B98563",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/4669",
+      "name": "Imperial Red",
+      "code": "4669",
+      "set": "Acrylic Colors",
+      "hex": "#6C383C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rubine",
+        "hex": "#6C383C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/676",
+      "name": "Inca Gold",
+      "code": "676",
+      "set": "Metallics",
+      "hex": "#B3972C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sahara",
+        "hex": "#B79826",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "folkart/99239",
+      "name": "Indigo Night",
+      "code": "99239",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#132635",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celestial Canvas",
+        "hex": "#0A2538",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "folkart/2925",
+      "name": "Ink Spot",
+      "code": "2925",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#1E3056",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elite Blue",
+        "hex": "#1B3053",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "folkart/2623",
+      "name": "Ink Spot",
+      "code": "2623",
+      "set": "Acrylic Colors",
+      "hex": "#061B3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maastricht Blue",
+        "hex": "#001C3D",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "folkart/467",
+      "name": "Italian Sage",
+      "code": "467",
+      "set": "Acrylic Colors",
+      "hex": "#8E8F7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stone Creek",
+        "hex": "#8F9183",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "folkart/427",
+      "name": "Ivory White",
+      "code": "427",
+      "set": "Acrylic Colors",
+      "hex": "#9C9585",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Calico Rock",
+        "hex": "#9C9584",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "folkart/99229",
+      "name": "Jade Shimmer",
+      "code": "99229",
+      "set": "Metallics",
+      "hex": "#5F965C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abundance",
+        "hex": "#629763",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "folkart/320",
+      "name": "Jamaican Sea",
+      "code": "320",
+      "set": "Acrylic Colors",
+      "hex": "#85ACAD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hydrology",
+        "hex": "#89ACAC",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "folkart/2386",
+      "name": "Juneberry",
+      "code": "2386",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#58284E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murasaki",
+        "hex": "#4F284B",
+        "delta_e": 2.25
+      }
+    },
+    {
+      "id": "folkart/2383",
+      "name": "Keepsake Rose",
+      "code": "2383",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#BF374F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Rose",
+        "hex": "#C22F4D",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "folkart/407",
+      "name": "Kelly Green",
+      "code": "407",
+      "set": "Acrylic Colors",
+      "hex": "#627F69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jadite",
+        "hex": "#61826C",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "folkart/410",
+      "name": "Lavender",
+      "code": "410",
+      "set": "Acrylic Colors",
+      "hex": "#342659",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stormy Night",
+        "hex": "#372354",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "folkart/2928",
+      "name": "Lavender",
+      "code": "2928",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#4F4A8C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moonlight Sonata",
+        "hex": "#4E468B",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "folkart/6317",
+      "name": "Lavender Lace",
+      "code": "6317",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#82709A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baroness Mauve",
+        "hex": "#847098",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "folkart/2913",
+      "name": "Lemon Custard",
+      "code": "2913",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#BBB346",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parachute",
+        "hex": "#BEB755",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "folkart/2706",
+      "name": "Lemon Custard",
+      "code": "2706",
+      "set": "Shiny™",
+      "hex": "#352B1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Go to Hell Black",
+        "hex": "#342C21",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "folkart/735",
+      "name": "Lemon Custard",
+      "code": "735",
+      "set": "Acrylic Colors",
+      "hex": "#B7952A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sahara",
+        "hex": "#B79826",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "folkart/2972",
+      "name": "Lemon Silk",
+      "code": "2972",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#F8EA81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Staff",
+        "hex": "#F7EB83",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "folkart/521",
+      "name": "Lemon Yellow",
+      "code": "521",
+      "set": "Acrylic Colors",
+      "hex": "#E3D046",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Confetti",
+        "hex": "#DDCB46",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "folkart/904",
+      "name": "Lemonade",
+      "code": "904",
+      "set": "Acrylic Colors",
+      "hex": "#C5B277",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Peas",
+        "hex": "#C2B079",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "folkart/2715",
+      "name": "Licorice",
+      "code": "2715",
+      "set": "Shiny™",
+      "hex": "#242321",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chestnut Oak",
+        "hex": "#252321",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/2934",
+      "name": "Licorice",
+      "code": "2934",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#CDCFCE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Pearl",
+        "hex": "#CED0CF",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "folkart/938",
+      "name": "Licorice",
+      "code": "938",
+      "set": "Acrylic Colors",
+      "hex": "#2E2E2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carbon Fibre",
+        "hex": "#2E2E2E",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/402",
+      "name": "Light Blue",
+      "code": "402",
+      "set": "Acrylic Colors",
+      "hex": "#8295A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusty Blue",
+        "hex": "#8093A4",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "folkart/2923",
+      "name": "Light Blue",
+      "code": "2923",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#5C768B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro-Colonial Blue",
+        "hex": "#5A758A",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "folkart/424",
+      "name": "Light Gray",
+      "code": "424",
+      "set": "Acrylic Colors",
+      "hex": "#92907A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paseo Verde",
+        "hex": "#929178",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "folkart/2955",
+      "name": "Light Lavender",
+      "code": "2955",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C1B2CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plumeria",
+        "hex": "#C3B5D4",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/516",
+      "name": "Light Lavender",
+      "code": "516",
+      "set": "Acrylic Colors",
+      "hex": "#705973",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cembra Blossom",
+        "hex": "#725671",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "folkart/517",
+      "name": "Light Peony",
+      "code": "517",
+      "set": "Acrylic Colors",
+      "hex": "#D49AC0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soft Fuchsia",
+        "hex": "#D496BD",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "folkart/640",
+      "name": "Light Periwinkle",
+      "code": "640",
+      "set": "Acrylic Colors",
+      "hex": "#769CCB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Lechery",
+        "hex": "#779ECB",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "folkart/18116",
+      "name": "Light Yellow",
+      "code": "18116",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#E6C97B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Waffle Cone",
+        "hex": "#E2C779",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/4666",
+      "name": "Lilac Ice",
+      "code": "4666",
+      "set": "Acrylic Colors",
+      "hex": "#B0A1B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obi Lilac",
+        "hex": "#B0A3B6",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "folkart/2553",
+      "name": "Lime Green",
+      "code": "2553",
+      "set": "Acrylic Colors",
+      "hex": "#7FAF35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Football Field",
+        "hex": "#7EAF34",
+        "delta_e": 0.17
+      }
+    },
+    {
+      "id": "folkart/2914",
+      "name": "Lime Green",
+      "code": "2914",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#46D56C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "UFO Green",
+        "hex": "#3CD070",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "folkart/2982",
+      "name": "Linen",
+      "code": "2982",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C6A78A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beige Intenso",
+        "hex": "#C5A88D",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "folkart/420",
+      "name": "Linen",
+      "code": "420",
+      "set": "Acrylic Colors",
+      "hex": "#C2BBAB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phelps Putty",
+        "hex": "#C4BDAD",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/437",
+      "name": "Lipstick Red",
+      "code": "437",
+      "set": "Acrylic Colors",
+      "hex": "#AC2F2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Très Bien",
+        "hex": "#A82F2E",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "folkart/7270",
+      "name": "Lipstick Red",
+      "code": "7270",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#982029",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cut Ruby",
+        "hex": "#A01C2D",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "folkart/2587",
+      "name": "Look At Me Blue",
+      "code": "2587",
+      "set": "Acrylic Colors",
+      "hex": "#000002",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Hole",
+        "hex": "#010203",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "folkart/look-at-me-blue",
+      "name": "Look at Me Blue",
+      "code": "Look at Me Blue",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#0081D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Electron Blue",
+        "hex": "#0881D1",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "folkart/2425",
+      "name": "Madeira",
+      "code": "2425",
+      "set": "Acrylic Colors",
+      "hex": "#693238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lovestruck",
+        "hex": "#6A2E36",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "folkart/412",
+      "name": "Magenta",
+      "code": "412",
+      "set": "Acrylic Colors",
+      "hex": "#913854",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "That’s My Jam",
+        "hex": "#8E3350",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "folkart/2898",
+      "name": "Magenta",
+      "code": "2898",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#E02955",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chin-Chin Cherry",
+        "hex": "#DD3355",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "folkart/6310",
+      "name": "Malachite",
+      "code": "6310",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#365045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pine Needle",
+        "hex": "#334D41",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "folkart/2971",
+      "name": "Mandarin Satin",
+      "code": "2971",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#FA9E55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Off-The-Leash Orange",
+        "hex": "#FFA259",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "folkart/945",
+      "name": "Maple Syrup",
+      "code": "945",
+      "set": "Acrylic Colors",
+      "hex": "#462828",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rookwood Dark Red",
+        "hex": "#4B2929",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "folkart/2385",
+      "name": "Marigold",
+      "code": "2385",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#E9AE52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sense of Wonder",
+        "hex": "#EDB159",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "folkart/6458",
+      "name": "Marina Mist",
+      "code": "6458",
+      "set": "Acrylic Colors",
+      "hex": "#AAC8D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Wind",
+        "hex": "#ACCAD5",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "folkart/415",
+      "name": "Maroon",
+      "code": "415",
+      "set": "Acrylic Colors",
+      "hex": "#321215",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seal Brown",
+        "hex": "#321414",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "folkart/4661",
+      "name": "Mauve Dust",
+      "code": "4661",
+      "set": "Acrylic Colors",
+      "hex": "#9E888B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hatoba-Nezumi Grey",
+        "hex": "#9E8B8E",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "folkart/2556",
+      "name": "Medium Blue",
+      "code": "2556",
+      "set": "Acrylic Colors",
+      "hex": "#387FB1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beijing Blue",
+        "hex": "#3E7DAA",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "folkart/2927",
+      "name": "Medium Blue",
+      "code": "2927",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#539FD3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Picton Blue",
+        "hex": "#5BA0D0",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "folkart/2933",
+      "name": "Medium Gray",
+      "code": "2933",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#BEC2C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lazy Grey",
+        "hex": "#BEC1C3",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "folkart/425",
+      "name": "Medium Gray",
+      "code": "425",
+      "set": "Acrylic Colors",
+      "hex": "#464541",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balsamic Reduction",
+        "hex": "#434340",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "folkart/455",
+      "name": "Medium Yellow",
+      "code": "455",
+      "set": "Acrylic Colors",
+      "hex": "#D8B32E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pickled Peppers",
+        "hex": "#DBB532",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "folkart/7102",
+      "name": "Medium Yellow",
+      "code": "7102",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#DD9E2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zamesi Desert",
+        "hex": "#DDA026",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/2984",
+      "name": "Midnight",
+      "code": "2984",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#15141C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Back in Black",
+        "hex": "#16141C",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "folkart/964",
+      "name": "Midnight",
+      "code": "964",
+      "set": "Acrylic Colors",
+      "hex": "#1E202C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coarse Wool",
+        "hex": "#181B26",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "folkart/2496",
+      "name": "Midnight Garden",
+      "code": "2496",
+      "set": "Acrylic Colors",
+      "hex": "#1E3541",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Into the Night",
+        "hex": "#1E3642",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "folkart/4621",
+      "name": "Minted Aqua",
+      "code": "4621",
+      "set": "Acrylic Colors",
+      "hex": "#94A89C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melville",
+        "hex": "#95A99E",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/2551",
+      "name": "Moon Yellow",
+      "code": "2551",
+      "set": "Acrylic Colors",
+      "hex": "#CDAA2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marina Bay Sands",
+        "hex": "#D3AF37",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "folkart/2911",
+      "name": "Moon Yellow",
+      "code": "2911",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C6921C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro Vibe",
+        "hex": "#CB9711",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "folkart/6456",
+      "name": "Mossy Meadow",
+      "code": "6456",
+      "set": "Acrylic Colors",
+      "hex": "#607F55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Grove",
+        "hex": "#5E7F57",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/472",
+      "name": "Mushroom",
+      "code": "472",
+      "set": "Acrylic Colors",
+      "hex": "#A28867",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soft Bronze",
+        "hex": "#A18666",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "folkart/435",
+      "name": "Napthol Crimson",
+      "code": "435",
+      "set": "Acrylic Colors",
+      "hex": "#95363E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Garnet",
+        "hex": "#953640",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "folkart/6391",
+      "name": "Napthol Crimson",
+      "code": "6391",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#922D35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sehnsucht Red",
+        "hex": "#903037",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "folkart/99257",
+      "name": "Navajo Turquoise",
+      "code": "99257",
+      "set": "Acrylic Colors",
+      "hex": "#00495B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crab Nebula",
+        "hex": "#004455",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "folkart/403",
+      "name": "Navy Blue",
+      "code": "403",
+      "set": "Acrylic Colors",
+      "hex": "#062537",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murky Depths",
+        "hex": "#02273A",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "folkart/2578",
+      "name": "New Leaf Green",
+      "code": "2578",
+      "set": "Acrylic Colors",
+      "hex": "#CBD447",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Southern Platyfish",
+        "hex": "#D0D34D",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "folkart/6314",
+      "name": "Nickel",
+      "code": "6314",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#6D6562",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Folkstone",
+        "hex": "#6D6562",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/944",
+      "name": "Nutmeg",
+      "code": "944",
+      "set": "Acrylic Colors",
+      "hex": "#503017",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Catacombs",
+        "hex": "#513116",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "folkart/2225",
+      "name": "Ocean Cruise",
+      "code": "2225",
+      "set": "Acrylic Colors",
+      "hex": "#206CA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bowen Blue",
+        "hex": "#126DA8",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "folkart/2748",
+      "name": "Ocean View",
+      "code": "2748",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#7EA5B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Twilight",
+        "hex": "#80A9B8",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "folkart/6459",
+      "name": "Ocean View",
+      "code": "6459",
+      "set": "Acrylic Colors",
+      "hex": "#84C4C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bay Mist",
+        "hex": "#85C5C8",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "folkart/k927",
+      "name": "Old Ivy",
+      "code": "K927",
+      "set": "Acrylic Colors",
+      "hex": "#414D37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hōjicha",
+        "hex": "#424F3B",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "folkart/449",
+      "name": "Olive Green",
+      "code": "449",
+      "set": "Acrylic Colors",
+      "hex": "#333E1E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "folkart/18113",
+      "name": "Opera",
+      "code": "18113",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#FF85D7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Delight",
+        "hex": "#FF8AD8",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "folkart/2975",
+      "name": "Orange",
+      "code": "2975",
+      "set": "Multi-Surface Neon Glow Acrylics",
+      "hex": "#F64700",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangelo",
+        "hex": "#F94D00",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "folkart/4623",
+      "name": "Orchid Blush",
+      "code": "4623",
+      "set": "Acrylic Colors",
+      "hex": "#838280",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lingering Storm",
+        "hex": "#858381",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/6463",
+      "name": "Pale Gray",
+      "code": "6463",
+      "set": "Acrylic Colors",
+      "hex": "#9AA09E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gun Barrel",
+        "hex": "#979D9A",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "folkart/2946",
+      "name": "Pale Yellow",
+      "code": "2946",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#FBDE8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lemon Cream",
+        "hex": "#FEE193",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "folkart/paradise-pink",
+      "name": "Paradise Pink",
+      "code": "Paradise Pink",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#CA729A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camellia Pink",
+        "hex": "#CD739D",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "folkart/2895",
+      "name": "Parchment",
+      "code": "2895",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#7D7875",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Suit",
+        "hex": "#807A77",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "folkart/450",
+      "name": "Parchment",
+      "code": "450",
+      "set": "Acrylic Colors",
+      "hex": "#A1916D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saddle Soap",
+        "hex": "#9F906E",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/2233",
+      "name": "Parisian Pink",
+      "code": "2233",
+      "set": "Acrylic Colors",
+      "hex": "#B984A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rosy",
+        "hex": "#BE89A8",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "folkart/18130",
+      "name": "Pastel Orange",
+      "code": "18130",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#FFDCD6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peach Schnapps",
+        "hex": "#FFDCD6",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/2951",
+      "name": "Patina",
+      "code": "2951",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#4DAD9F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ambrosial Oceanside",
+        "hex": "#47AE9C",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "folkart/444",
+      "name": "Patina",
+      "code": "444",
+      "set": "Acrylic Colors",
+      "hex": "#58B0A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Crush",
+        "hex": "#62AE9E",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "folkart/7109",
+      "name": "Payne Gray",
+      "code": "7109",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#313439",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebony Clay",
+        "hex": "#323438",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/659",
+      "name": "Pearl White",
+      "code": "659",
+      "set": "Metallics",
+      "hex": "#9A9D94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Pavement",
+        "hex": "#9E9F97",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/6473",
+      "name": "Peppercorn",
+      "code": "6473",
+      "set": "Acrylic Colors",
+      "hex": "#2C3033",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cod Grey",
+        "hex": "#2D3032",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "folkart/2557",
+      "name": "Perfect Purple",
+      "code": "2557",
+      "set": "Acrylic Colors",
+      "hex": "#453281",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Majestic Eggplant",
+        "hex": "#443388",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "folkart/2929",
+      "name": "Perfect Purple",
+      "code": "2929",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#262368",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Intergalactic Cowboy",
+        "hex": "#222266",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "folkart/671",
+      "name": "Peridot",
+      "code": "671",
+      "set": "Metallics",
+      "hex": "#333A18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/6315",
+      "name": "Peridot",
+      "code": "6315",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#737448",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Cilantro",
+        "hex": "#74754C",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "folkart/404",
+      "name": "Periwinkle",
+      "code": "404",
+      "set": "Acrylic Colors",
+      "hex": "#4A5980",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Iris",
+        "hex": "#4D5A7E",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "folkart/6362",
+      "name": "Persian Blue",
+      "code": "6362",
+      "set": "Acrylic Colors",
+      "hex": "#022A5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Leviathan",
+        "hex": "#032A62",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "folkart/99232",
+      "name": "Pewter",
+      "code": "99232",
+      "set": "Metallics",
+      "hex": "#62615D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gropius Grey",
+        "hex": "#63615D",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/7105",
+      "name": "Phthalo Green",
+      "code": "7105",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#4C9581",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crisp Lettuce",
+        "hex": "#4F9785",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/18112",
+      "name": "Pink",
+      "code": "18112",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#F289B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Knapweed",
+        "hex": "#F485AC",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "folkart/2974",
+      "name": "Pink",
+      "code": "2974",
+      "set": "Multi-Surface Neon Glow Acrylics",
+      "hex": "#FC83C1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Orchid Mantis",
+        "hex": "#FD82C3",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/413",
+      "name": "Pink",
+      "code": "413",
+      "set": "Acrylic Colors",
+      "hex": "#D097A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Pink",
+        "hex": "#CC99AA",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "folkart/2545",
+      "name": "Pink Balloon",
+      "code": "2545",
+      "set": "Acrylic Colors",
+      "hex": "#B78594",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Punched Pink",
+        "hex": "#B68692",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "folkart/2897",
+      "name": "Pink Melon",
+      "code": "2897",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#B5475D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Rose",
+        "hex": "#B5485D",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "folkart/2547",
+      "name": "Pink Melon",
+      "code": "2547",
+      "set": "Acrylic Colors",
+      "hex": "#070101",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pupil",
+        "hex": "#070303",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "folkart/2970",
+      "name": "Pink Rouge",
+      "code": "2970",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#E48EAB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pomelo Red",
+        "hex": "#E38FAC",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "folkart/4658",
+      "name": "Pistachio",
+      "code": "4658",
+      "set": "Acrylic Colors",
+      "hex": "#CFCD60",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Force of Nature",
+        "hex": "#D5CE69",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "folkart/6450",
+      "name": "Plantation Rose",
+      "code": "6450",
+      "set": "Acrylic Colors",
+      "hex": "#A27884",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Orchid",
+        "hex": "#A07A89",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "folkart/6301",
+      "name": "Platinum",
+      "code": "6301",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#888888",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Argent",
+        "hex": "#888888",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/668",
+      "name": "Plum",
+      "code": "668",
+      "set": "Metallics",
+      "hex": "#714E6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Fashioned Purple",
+        "hex": "#73486B",
+        "delta_e": 2.34
+      }
+    },
+    {
+      "id": "folkart/2390",
+      "name": "Podge Pink",
+      "code": "2390",
+      "set": "Acrylic Colors",
+      "hex": "#A73185",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Aster",
+        "hex": "#A53783",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "folkart/2392",
+      "name": "Podge Yellow",
+      "code": "2392",
+      "set": "Acrylic Colors",
+      "hex": "#4D4844",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/421",
+      "name": "Portrait Light",
+      "code": "421",
+      "set": "Acrylic Colors",
+      "hex": "#E1D1C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cappuccino Foam",
+        "hex": "#E0D0C2",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "folkart/2638",
+      "name": "Prairie Sage",
+      "code": "2638",
+      "set": "Acrylic Colors",
+      "hex": "#AA9788",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chic Taupe",
+        "hex": "#AA9788",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/6453",
+      "name": "Prairie Sunset",
+      "code": "6453",
+      "set": "Acrylic Colors",
+      "hex": "#D58466",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Salmon",
+        "hex": "#D88668",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/7103",
+      "name": "Prussian Blue",
+      "code": "7103",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#2E5B9F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Neptune Blue",
+        "hex": "#2E5D9D",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "folkart/6360",
+      "name": "Prussian Blue",
+      "code": "6360",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#16171C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aswad Black",
+        "hex": "#17181C",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "folkart/2902e",
+      "name": "Pueblo",
+      "code": "2902E",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#672E1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hereford Cow Brown",
+        "hex": "#6C2E1F",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "folkart/2249",
+      "name": "Pueblo",
+      "code": "2249",
+      "set": "Acrylic Colors",
+      "hex": "#974A27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco Muck",
+        "hex": "#994A25",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/225",
+      "name": "Pumpkin",
+      "code": "225",
+      "set": "Acrylic Colors",
+      "hex": "#9D5D3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Stallion",
+        "hex": "#995D3B",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "folkart/479",
+      "name": "Pure Black",
+      "code": "479",
+      "set": "Acrylic Colors",
+      "hex": "#0B0A08",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Badab Black Wash",
+        "hex": "#0A0908",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "folkart/2957",
+      "name": "Pure Black",
+      "code": "2957",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#0E0E0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chaos Black",
+        "hex": "#0F0F0F",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "folkart/7112",
+      "name": "Pure Black",
+      "code": "7112",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#232325",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verified Black",
+        "hex": "#232324",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/660",
+      "name": "Pure Gold",
+      "code": "660",
+      "set": "Metallics",
+      "hex": "#554F2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "folkart/689",
+      "name": "Pure Magenta",
+      "code": "689",
+      "set": "Acrylic Colors",
+      "hex": "#362327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Burgundy",
+        "hex": "#352126",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "folkart/628",
+      "name": "Pure Orange",
+      "code": "628",
+      "set": "Acrylic Colors",
+      "hex": "#AC421B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crimson Blaze",
+        "hex": "#AD3D1E",
+        "delta_e": 2.15
+      }
+    },
+    {
+      "id": "folkart/2703",
+      "name": "Pure Orange",
+      "code": "2703",
+      "set": "Shiny™",
+      "hex": "#AB4A1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rusted Lock",
+        "hex": "#AA4411",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "folkart/6388",
+      "name": "Pure Orange",
+      "code": "6388",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#BC5437",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Vermillion",
+        "hex": "#BC5339",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "folkart/2903",
+      "name": "Pure Orange",
+      "code": "2903",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#FE7E51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coral",
+        "hex": "#FF7F50",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/18124",
+      "name": "Purple",
+      "code": "18124",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#1F135B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Praise of Shadow",
+        "hex": "#221155",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "folkart/411",
+      "name": "Purple",
+      "code": "411",
+      "set": "Acrylic Colors",
+      "hex": "#423755",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Devil’s Plum",
+        "hex": "#423450",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "folkart/2977",
+      "name": "Purple",
+      "code": "2977",
+      "set": "Multi-Surface Neon Glow Acrylics",
+      "hex": "#733272",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grape Juice",
+        "hex": "#772F6C",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "folkart/439",
+      "name": "Purple Lilac",
+      "code": "439",
+      "set": "Acrylic Colors",
+      "hex": "#998BAE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greek Lavender",
+        "hex": "#9B8FB0",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "folkart/452",
+      "name": "Raw Sienna",
+      "code": "452",
+      "set": "Acrylic Colors",
+      "hex": "#634128",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Van Dyke Brown",
+        "hex": "#664228",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "folkart/7108",
+      "name": "Raw Umber",
+      "code": "7108",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#5E5140",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walnut Hull",
+        "hex": "#5D5242",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "folkart/485",
+      "name": "Raw Umber",
+      "code": "485",
+      "set": "Acrylic Colors",
+      "hex": "#2D2425",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Black",
+        "hex": "#2A2424",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "folkart/2908",
+      "name": "Real Brown",
+      "code": "2908",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#4E4242",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rhodonite Brown",
+        "hex": "#4D4141",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "folkart/231",
+      "name": "Real Brown",
+      "code": "231",
+      "set": "Acrylic Colors",
+      "hex": "#4A4240",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Molasses",
+        "hex": "#4B423F",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "folkart/6390",
+      "name": "Red Light",
+      "code": "6390",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#B42C36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Unmatched Beauty",
+        "hex": "#B12D35",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/636",
+      "name": "Red Violet",
+      "code": "636",
+      "set": "Acrylic Colors",
+      "hex": "#2E1532",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Prom Queen",
+        "hex": "#2B0F2E",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "folkart/657",
+      "name": "Regal Red",
+      "code": "657",
+      "set": "Metallics",
+      "hex": "#27282A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dire Wolf",
+        "hex": "#282828",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "folkart/652",
+      "name": "Rose",
+      "code": "652",
+      "set": "Metallics",
+      "hex": "#010002",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raven’s Coat",
+        "hex": "#030205",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "folkart/6102",
+      "name": "Rose Gold",
+      "code": "6102",
+      "set": "Metallics",
+      "hex": "#B29080",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coyote Tracks",
+        "hex": "#B08F7F",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/6304",
+      "name": "Rose Gold",
+      "code": "6304",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#8A6A51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean Pot",
+        "hex": "#8B6B51",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/632",
+      "name": "Rose Pink",
+      "code": "632",
+      "set": "Acrylic Colors",
+      "hex": "#AA7A88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silken Raspberry",
+        "hex": "#AA7D89",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "folkart/2480",
+      "name": "Royal Gold",
+      "code": "2480",
+      "set": "Metallics",
+      "hex": "#663E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cassiterite Brown",
+        "hex": "#623C1F",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "folkart/2962",
+      "name": "Royal Purple",
+      "code": "2962",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#5F4086",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lords of the Night",
+        "hex": "#664488",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "folkart/2502",
+      "name": "Rusted Pipe",
+      "code": "2502",
+      "set": "Acrylic Colors",
+      "hex": "#9B765C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baked Sienna",
+        "hex": "#9B775E",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "folkart/577",
+      "name": "Sahara Gold",
+      "code": "577",
+      "set": "Metallics",
+      "hex": "#D8C6A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Lake",
+        "hex": "#D8C7A2",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "folkart/2985",
+      "name": "Sap Green",
+      "code": "2985",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#253834",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scarab",
+        "hex": "#2C3D37",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "folkart/18118",
+      "name": "Sap Green",
+      "code": "18118",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#476443",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Backwoods",
+        "hex": "#4A6546",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "folkart/7106",
+      "name": "Sap Green",
+      "code": "7106",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#5B6854",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Less Traveled",
+        "hex": "#5D6957",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "folkart/458",
+      "name": "Sap Green",
+      "code": "458",
+      "set": "Acrylic Colors",
+      "hex": "#000002",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Hole",
+        "hex": "#010203",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "folkart/6312",
+      "name": "Sapphire",
+      "code": "6312",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#295286",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boat Blue",
+        "hex": "#2D5384",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "folkart/2490",
+      "name": "Sawgrass",
+      "code": "2490",
+      "set": "Acrylic Colors",
+      "hex": "#A7A6A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazy Stratus",
+        "hex": "#A6A5A0",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "folkart/736",
+      "name": "School Bus Yellow",
+      "code": "736",
+      "set": "Acrylic Colors",
+      "hex": "#CE9126",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jackpot",
+        "hex": "#D19431",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "folkart/2486",
+      "name": "Sea Mist",
+      "code": "2486",
+      "set": "Acrylic Colors",
+      "hex": "#778D8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Northern Juniper",
+        "hex": "#778F8E",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "folkart/2485",
+      "name": "Seashell Pink",
+      "code": "2485",
+      "set": "Acrylic Colors",
+      "hex": "#E4BFB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Peach",
+        "hex": "#E2BCB3",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "folkart/661",
+      "name": "Sequin Black",
+      "code": "661",
+      "set": "Metallics",
+      "hex": "#0C0B09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Badab Black Wash",
+        "hex": "#0A0908",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/sequin-silver",
+      "name": "Sequin Silver",
+      "code": "Sequin Silver",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#6A737A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pompeii Ash",
+        "hex": "#6C757D",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "folkart/18126",
+      "name": "Sienna",
+      "code": "18126",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#B68871",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carmelite",
+        "hex": "#B98970",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "folkart/506",
+      "name": "Silver Anniversary",
+      "code": "506",
+      "set": "Metallics",
+      "hex": "#D3D2D0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blowing Smoke",
+        "hex": "#D2D1D0",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "folkart/6465",
+      "name": "Silver Marlin",
+      "code": "6465",
+      "set": "Acrylic Colors",
+      "hex": "#76929E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebb Tide",
+        "hex": "#7893A0",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "folkart/662",
+      "name": "Silver Sterling",
+      "code": "662",
+      "set": "Metallics",
+      "hex": "#898883",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic French Grey",
+        "hex": "#888782",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "folkart/465",
+      "name": "Sky Blue",
+      "code": "465",
+      "set": "Acrylic Colors",
+      "hex": "#73847E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armour",
+        "hex": "#74857F",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "folkart/2596",
+      "name": "Sky Mist",
+      "code": "2596",
+      "set": "Acrylic Colors",
+      "hex": "#BCBDBF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rough Asphalt",
+        "hex": "#BDBEBF",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/2952",
+      "name": "Sky Mist",
+      "code": "2952",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#E2ECED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aquifer",
+        "hex": "#E2ECED",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/2979",
+      "name": "Skyline",
+      "code": "2979",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#3E5567",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Twilight Chimes",
+        "hex": "#3F5363",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "folkart/2499",
+      "name": "Skyline",
+      "code": "2499",
+      "set": "Acrylic Colors",
+      "hex": "#282A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackadder",
+        "hex": "#292C2C",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "folkart/99256",
+      "name": "Smoky Jade",
+      "code": "99256",
+      "set": "Acrylic Colors",
+      "hex": "#AAD0C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Siren’s Swirl",
+        "hex": "#A7D0C5",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "folkart/2949",
+      "name": "Soft Apple",
+      "code": "2949",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C4CFA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seedling",
+        "hex": "#C0CBA1",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "folkart/526",
+      "name": "Soft Apple",
+      "code": "526",
+      "set": "Acrylic Colors",
+      "hex": "#A9B08B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lint",
+        "hex": "#ADB28D",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "folkart/663",
+      "name": "Solid Bronze",
+      "code": "663",
+      "set": "Metallics",
+      "hex": "#714721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monks Robe",
+        "hex": "#704822",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "folkart/2566",
+      "name": "Spun Sugar",
+      "code": "2566",
+      "set": "Acrylic Colors",
+      "hex": "#E5D7CA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sheer Scarf",
+        "hex": "#E3D6CA",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "folkart/6467",
+      "name": "Starlight Gold",
+      "code": "6467",
+      "set": "Acrylic Colors",
+      "hex": "#946723",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mandolin",
+        "hex": "#97691E",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "folkart/2561",
+      "name": "Steel Gray",
+      "code": "2561",
+      "set": "Acrylic Colors",
+      "hex": "#6E6B64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mined Coal",
+        "hex": "#6C6B65",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "folkart/2932",
+      "name": "Steel Gray",
+      "code": "2932",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#6B6A6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plum Charcoal",
+        "hex": "#6A6A6F",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "folkart/441",
+      "name": "Sterling Blue",
+      "code": "441",
+      "set": "Acrylic Colors",
+      "hex": "#0F669C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Impulse Blue",
+        "hex": "#006699",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "folkart/sterling-silver",
+      "name": "Sterling Silver",
+      "code": "Sterling Silver.",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#D2D1CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Metal",
+        "hex": "#D1D1CF",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "folkart/2637",
+      "name": "Succulent",
+      "code": "2637",
+      "set": "Acrylic Colors",
+      "hex": "#C6D1CD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Flower",
+        "hex": "#C8D2CD",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "folkart/2226",
+      "name": "Sugar Plum",
+      "code": "2226",
+      "set": "Acrylic Colors",
+      "hex": "#942488",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Purple",
+        "hex": "#952E8F",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "folkart/2549",
+      "name": "Summer Peach",
+      "code": "2549",
+      "set": "Acrylic Colors",
+      "hex": "#E59C69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Florida Mango",
+        "hex": "#ED9F6C",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "folkart/432",
+      "name": "Sunflower",
+      "code": "432",
+      "set": "Acrylic Colors",
+      "hex": "#AE9D67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pesto di Noce",
+        "hex": "#B09D64",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "folkart/2947",
+      "name": "Sunflower",
+      "code": "2947",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#F5D79B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Igniting",
+        "hex": "#F4D69A",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "folkart/509",
+      "name": "Sunny Yellow",
+      "code": "509",
+      "set": "Acrylic Colors",
+      "hex": "#CDBA41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Olive",
+        "hex": "#C7B63C",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "folkart/902",
+      "name": "Taffy",
+      "code": "902",
+      "set": "Acrylic Colors",
+      "hex": "#E3D4B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidden Path",
+        "hex": "#E4D5B9",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "folkart/627",
+      "name": "Tangerine",
+      "code": "627",
+      "set": "Acrylic Colors",
+      "hex": "#C7813B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Bell",
+        "hex": "#CA8136",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "folkart/6313",
+      "name": "Tanzanite",
+      "code": "6313",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#4C4674",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dramatist",
+        "hex": "#4B4775",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/903",
+      "name": "Tapioca",
+      "code": "903",
+      "set": "Acrylic Colors",
+      "hex": "#BAA995",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fangtooth Fish",
+        "hex": "#BBAA97",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/6300",
+      "name": "Taupe",
+      "code": "6300",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#AB9B8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parador Inn",
+        "hex": "#A99A8A",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "folkart/580",
+      "name": "Taupe",
+      "code": "580",
+      "set": "Metallics",
+      "hex": "#786C5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Sandstone",
+        "hex": "#786D5F",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/2920",
+      "name": "Teal",
+      "code": "2920",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#0F7278",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scurf Green",
+        "hex": "#02737A",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "folkart/405",
+      "name": "Teal",
+      "code": "405",
+      "set": "Acrylic Colors",
+      "hex": "#538898",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stratford Blue",
+        "hex": "#528A9A",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "folkart/6311",
+      "name": "Teal Topaz",
+      "code": "6311",
+      "set": "Multi-Surface Metallic Acrylics",
+      "hex": "#3C575E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prussian",
+        "hex": "#3F585F",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "folkart/417",
+      "name": "Teddy Bear Brown",
+      "code": "417",
+      "set": "Acrylic Colors",
+      "hex": "#64402A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Triassic",
+        "hex": "#67422D",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "folkart/2989",
+      "name": "Teddy Bear Brown",
+      "code": "2989",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#492C1E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Brown",
+        "hex": "#44281B",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/419",
+      "name": "Teddy Bear Tan",
+      "code": "419",
+      "set": "Acrylic Colors",
+      "hex": "#663E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cassiterite Brown",
+        "hex": "#623C1F",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "folkart/433",
+      "name": "Terra Cotta",
+      "code": "433",
+      "set": "Acrylic Colors",
+      "hex": "#84472B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Two Cents",
+        "hex": "#854A2E",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "folkart/2918",
+      "name": "Thicket",
+      "code": "2918",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#39534A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sharknado",
+        "hex": "#35524A",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "folkart/924",
+      "name": "Thicket",
+      "code": "924",
+      "set": "Acrylic Colors",
+      "hex": "#0E100D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glimpse Into Space",
+        "hex": "#121210",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "folkart/609",
+      "name": "Thunder Blue",
+      "code": "609",
+      "set": "Acrylic Colors",
+      "hex": "#909CAA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atom Blue",
+        "hex": "#8F9CAC",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "folkart/2658",
+      "name": "Thunder Gray",
+      "code": "2658",
+      "set": "Acrylic Colors",
+      "hex": "#ABA293",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mercer Charcoal",
+        "hex": "#ACA495",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "folkart/319",
+      "name": "Tickled Pink",
+      "code": "319",
+      "set": "Acrylic Colors",
+      "hex": "#BE7590",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strawberry Surprise",
+        "hex": "#B9758D",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "folkart/6386",
+      "name": "Titanium White",
+      "code": "6386",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#E1E2E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soothing White",
+        "hex": "#E1E2E4",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/480",
+      "name": "Titanium White",
+      "code": "480",
+      "set": "Acrylic Colors",
+      "hex": "#C5C3B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Union Station",
+        "hex": "#C7C5BA",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "folkart/2938",
+      "name": "Titanium White",
+      "code": "2938",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#D8D7D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cloudy",
+        "hex": "#D8D7D3",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/99254",
+      "name": "Toasted Terra Cotta",
+      "code": "99254",
+      "set": "Acrylic Colors",
+      "hex": "#5D1809",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Altar Wine",
+        "hex": "#5F1A10",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "folkart/401",
+      "name": "True Blue",
+      "code": "401",
+      "set": "Acrylic Colors",
+      "hex": "#143568",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Funnel Cloud",
+        "hex": "#113366",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "folkart/7271",
+      "name": "True Blue",
+      "code": "7271",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#104275",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inoffensive Blue",
+        "hex": "#114477",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "folkart/456",
+      "name": "True Burgundy",
+      "code": "456",
+      "set": "Acrylic Colors",
+      "hex": "#30120B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Root Brew",
+        "hex": "#290E05",
+        "delta_e": 1.99
+      }
+    },
+    {
+      "id": "folkart/679",
+      "name": "Turner Yellow",
+      "code": "679",
+      "set": "Acrylic Colors",
+      "hex": "#E6A352",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jurassic Gold",
+        "hex": "#E6A351",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "folkart/18122",
+      "name": "Turquoise",
+      "code": "18122",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#B2C5C1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Misty Dreams",
+        "hex": "#ADC2BE",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "folkart/2992",
+      "name": "Turquoise",
+      "code": "2992",
+      "set": "Multi-Surface Glitter Acrylics",
+      "hex": "#055475",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Studer Blue",
+        "hex": "#005577",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "folkart/961",
+      "name": "Turquoise",
+      "code": "961",
+      "set": "Acrylic Colors",
+      "hex": "#4AA59E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bahaman Bliss",
+        "hex": "#3FA49B",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "folkart/99230",
+      "name": "Turquoise Shimmer",
+      "code": "99230",
+      "set": "Metallics",
+      "hex": "#02627A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jamaican Dream",
+        "hex": "#04627A",
+        "delta_e": 0.08
+      }
+    },
+    {
+      "id": "folkart/18120",
+      "name": "Ultramarine",
+      "code": "18120",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#344CB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night in Manchester",
+        "hex": "#324AB2",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "folkart/2711",
+      "name": "Ultramarine Blue",
+      "code": "2711",
+      "set": "Shiny™",
+      "hex": "#18437A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Theatre Blue",
+        "hex": "#21467A",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "folkart/7104",
+      "name": "Ultramarine Blue",
+      "code": "7104",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#1E4DA9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "The Blues Brothers",
+        "hex": "#214DAA",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "folkart/484",
+      "name": "Ultramarine Blue",
+      "code": "484",
+      "set": "Acrylic Colors",
+      "hex": "#3B4978",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Expressionism",
+        "hex": "#39497B",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "folkart/2430",
+      "name": "Uniform Blue",
+      "code": "2430",
+      "set": "Acrylic Colors",
+      "hex": "#18192E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sambucus",
+        "hex": "#17182B",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "folkart/6470",
+      "name": "Victorian Violet",
+      "code": "6470",
+      "set": "Acrylic Colors",
+      "hex": "#705A7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seer’s Cloak",
+        "hex": "#745D83",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "folkart/2636",
+      "name": "Villa Green",
+      "code": "2636",
+      "set": "Acrylic Colors",
+      "hex": "#B4C7B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aqua Dream",
+        "hex": "#B7C9B5",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "folkart/6451",
+      "name": "Vintage Tea Rose",
+      "code": "6451",
+      "set": "Acrylic Colors",
+      "hex": "#CD919B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rosetti",
+        "hex": "#CF929A",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "folkart/515",
+      "name": "Vintage White",
+      "code": "515",
+      "set": "Acrylic Colors",
+      "hex": "#BEB39D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Stone",
+        "hex": "#BEB49E",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "folkart/2939",
+      "name": "Vintage White",
+      "code": "2939",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#EFE9DD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mawmaw’s Pearls",
+        "hex": "#EFE9DD",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "folkart/440",
+      "name": "Violet Pansy",
+      "code": "440",
+      "set": "Acrylic Colors",
+      "hex": "#231C3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Velvet",
+        "hex": "#2A2243",
+        "delta_e": 1.94
+      }
+    },
+    {
+      "id": "folkart/2956",
+      "name": "Violet Pansy",
+      "code": "2956",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#3C3557",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Naggaroth Night",
+        "hex": "#3D3354",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "folkart/99231",
+      "name": "Violet Shimmer",
+      "code": "99231",
+      "set": "Metallics",
+      "hex": "#1E234D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Konkikyō Blue",
+        "hex": "#191F45",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "folkart/7110",
+      "name": "Viridian",
+      "code": "7110",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#45B3A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Turquoise",
+        "hex": "#49B3A5",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "folkart/2576",
+      "name": "Vivid Orange",
+      "code": "2576",
+      "set": "Acrylic Colors",
+      "hex": "#C98B31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gentleman’s Whiskey",
+        "hex": "#CA882C",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "folkart/2904",
+      "name": "Vivid Orange",
+      "code": "2904",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#BF6F38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiger Stripe",
+        "hex": "#BF6F39",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "folkart/949",
+      "name": "Warm Bisque",
+      "code": "949",
+      "set": "Acrylic Colors",
+      "hex": "#D7BDAE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marshmallow Cocoa",
+        "hex": "#DBC2B4",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "folkart/649",
+      "name": "Warm White",
+      "code": "649",
+      "set": "Acrylic Colors",
+      "hex": "#DCD5CB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Limewash",
+        "hex": "#DBD5CB",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "folkart/2969",
+      "name": "White",
+      "code": "2969",
+      "set": "Multi-Surface Pearl Acrylics",
+      "hex": "#E1DFD3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Frost",
+        "hex": "#E0DED2",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "folkart/18132",
+      "name": "White",
+      "code": "18132",
+      "set": "Watercolor Acrylic Paint™",
+      "hex": "#DBD7D4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee Bag",
+        "hex": "#DBD6D3",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "folkart/901",
+      "name": "Wicker White",
+      "code": "901",
+      "set": "Acrylic Colors",
+      "hex": "#C7C2BE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dim",
+        "hex": "#C8C2BE",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/2700",
+      "name": "Wicker White",
+      "code": "2700",
+      "set": "Shiny™",
+      "hex": "#C6C3BE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overdue Grey",
+        "hex": "#C7C3BE",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "folkart/2894",
+      "name": "Wicker White",
+      "code": "2894",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#F8F8F8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "folkart/6455",
+      "name": "Wild Wasabi",
+      "code": "6455",
+      "set": "Acrylic Colors",
+      "hex": "#A8B07F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Green",
+        "hex": "#ABB486",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "folkart/2429",
+      "name": "Windsor Blue",
+      "code": "2429",
+      "set": "Acrylic Colors",
+      "hex": "#004F7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Paint",
+        "hex": "#00507A",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "folkart/429",
+      "name": "Winter White",
+      "code": "429",
+      "set": "Acrylic Colors",
+      "hex": "#959A96",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Toe",
+        "hex": "#929894",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "folkart/2736",
+      "name": "Wisteria",
+      "code": "2736",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#737A97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Fortune",
+        "hex": "#747792",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "folkart/925",
+      "name": "Wrought Iron",
+      "code": "925",
+      "set": "Acrylic Colors",
+      "hex": "#525B62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Novelty Navy",
+        "hex": "#515B62",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "folkart/2976",
+      "name": "Yellow",
+      "code": "2976",
+      "set": "Multi-Surface Neon Glow Acrylics",
+      "hex": "#EBE689",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Iris",
+        "hex": "#EDE68A",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "folkart/503",
+      "name": "Yellow Citron",
+      "code": "503",
+      "set": "Acrylic Colors",
+      "hex": "#B2B238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fusion",
+        "hex": "#B0AE26",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "folkart/226",
+      "name": "Yellow Lemon",
+      "code": "226",
+      "set": "Acrylic Colors",
+      "hex": "#D8C96C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pirate Treasure",
+        "hex": "#DDCA69",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "folkart/918",
+      "name": "Yellow Light",
+      "code": "918",
+      "set": "Acrylic Colors",
+      "hex": "#F3E008",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Xanthic",
+        "hex": "#F4E216",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "folkart/6387",
+      "name": "Yellow Light",
+      "code": "6387",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#E2CB27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oh Em Ghee",
+        "hex": "#E3C81C",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "folkart/917",
+      "name": "Yellow Ochre",
+      "code": "917",
+      "set": "Acrylic Colors",
+      "hex": "#B09151",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Honey",
+        "hex": "#B39355",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "folkart/6389",
+      "name": "Yellow Ochre",
+      "code": "6389",
+      "set": "Pure™ Artist Pigment",
+      "hex": "#8B6A35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Squash",
+        "hex": "#8E6C39",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "folkart/2910",
+      "name": "Yellow Ochre",
+      "code": "2910",
+      "set": "Multi-Surface Satin Acrylics",
+      "hex": "#C6812A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Geebung",
+        "hex": "#C5832E",
+        "delta_e": 0.82
+      }
+    }
+  ]
+}

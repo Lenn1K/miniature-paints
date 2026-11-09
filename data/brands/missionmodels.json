@@ -1,0 +1,2845 @@
+{
+  "brand": "Mission Models",
+  "slug": "missionmodels",
+  "md_file": "MissionModels.md",
+  "logo": "logos/MissionModels.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "missionmodels/mmp-102",
+      "name": "Aircraft Grey Gloss FS 16473",
+      "code": "MMP-102",
+      "set": "Mission Models",
+      "hex": "#AFB0B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Charm",
+        "hex": "#ADB0B4",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "missionmodels/mmm-003",
+      "name": "Aluminum",
+      "code": "MMM-003",
+      "set": "Mission Models",
+      "hex": "#BBBBBB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gravel Fint",
+        "hex": "#BBBBBB",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-140",
+      "name": "Anthrazitgrau RAL 7016 (Anthracite Grey)",
+      "code": "MMP-140",
+      "set": "Mission Models",
+      "hex": "#303433",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phantom Ship",
+        "hex": "#2F3434",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "missionmodels/mmp-113",
+      "name": "Aotaki Blue Green",
+      "code": "MMP-113",
+      "set": "Mission Models",
+      "hex": "#2D8287",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cranach Blue",
+        "hex": "#2B8288",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "missionmodels/mmp-136",
+      "name": "Arcadian Blue (F 1965)",
+      "code": "MMP-136",
+      "set": "Mission Models",
+      "hex": "#B7C8D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celestyn",
+        "hex": "#B5C7D2",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "missionmodels/mmp-092",
+      "name": "Azure Blue RAF / FS 35231",
+      "code": "MMP-092",
+      "set": "Mission Models",
+      "hex": "#7F85C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Periwinkle",
+        "hex": "#7C83BC",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "missionmodels/mmp-047",
+      "name": "Black",
+      "code": "MMP-047",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mms-001",
+      "name": "Black Primer",
+      "code": "MMS-001",
+      "set": "Mission Models Primer",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-048",
+      "name": "Blue",
+      "code": "MMP-048",
+      "set": "Mission Models",
+      "hex": "#002059",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Downriver",
+        "hex": "#092256",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "missionmodels/mmc-002",
+      "name": "Brass",
+      "code": "MMC-002",
+      "set": "Mission Models",
+      "hex": "#AE8E5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peristyle Brass",
+        "hex": "#AE905E",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "missionmodels/mmp-052",
+      "name": "Braunviolet RLM 81",
+      "code": "MMP-052",
+      "set": "Mission Models",
+      "hex": "#383C25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "missionmodels/mmp-122",
+      "name": "Bright Blue (Mecha etc)",
+      "code": "MMP-122",
+      "set": "Mission Models",
+      "hex": "#0F74BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peek-A-Boo Blue",
+        "hex": "#0173BB",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "missionmodels/mmp-042",
+      "name": "British Light Silver Grey RAL 7001",
+      "code": "MMP-042",
+      "set": "Mission Models",
+      "hex": "#798A91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Norwegian Blue",
+        "hex": "#78888E",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "missionmodels/mmp-044",
+      "name": "British Light Stone RAL 61",
+      "code": "MMP-044",
+      "set": "Mission Models",
+      "hex": "#D4BE8C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Tea",
+        "hex": "#D8BE89",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "missionmodels/mmp-043",
+      "name": "British Portland Stone RAL 64",
+      "code": "MMP-043",
+      "set": "Mission Models",
+      "hex": "#F5EEDB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hen’s Treasure",
+        "hex": "#F5EEDB",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-039",
+      "name": "British Sand Yellow Modern AFV",
+      "code": "MMP-039",
+      "set": "Mission Models",
+      "hex": "#DDC893",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lemon Sorbet Yellow",
+        "hex": "#DCC68E",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "missionmodels/mmp-045",
+      "name": "British Slate Grey 34",
+      "code": "MMP-045",
+      "set": "Mission Models",
+      "hex": "#ABA0B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Goose Wing Grey",
+        "hex": "#A89DAC",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "missionmodels/mmp-106",
+      "name": "Bronze Green British AFV",
+      "code": "MMP-106",
+      "set": "Mission Models",
+      "hex": "#4D605C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silken Pine",
+        "hex": "#495D5A",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "missionmodels/mmp-002",
+      "name": "Brown",
+      "code": "MMP-002",
+      "set": "Mission Models",
+      "hex": "#3B220E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Roast",
+        "hex": "#3C2005",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "missionmodels/mmc-001",
+      "name": "Chrome",
+      "code": "MMC-001",
+      "set": "Mission Models",
+      "hex": "#B5B4B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Shale",
+        "hex": "#B2B1AF",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "missionmodels/mms-007",
+      "name": "Clear Primer (Transparent)",
+      "code": "MMS-007",
+      "set": "Mission Models Primer",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmm-002",
+      "name": "Cold Rolled Steel",
+      "code": "MMM-002",
+      "set": "Mission Models",
+      "hex": "#4F4F4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiftieth Shade of Grey",
+        "hex": "#505050",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "missionmodels/mmp-127",
+      "name": "Concrete 1",
+      "code": "MMP-127",
+      "set": "Mission Models",
+      "hex": "#AEA67F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sedia",
+        "hex": "#B0A67E",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "missionmodels/mmm-004",
+      "name": "Copper",
+      "code": "MMM-004",
+      "set": "Mission Models",
+      "hex": "#9D6743",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oiled up Kardashian",
+        "hex": "#996644",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "missionmodels/mmp-135",
+      "name": "Coral (CH 1955/626)",
+      "code": "MMP-135",
+      "set": "Mission Models",
+      "hex": "#DD786E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marmalade Magic",
+        "hex": "#DF7F73",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "missionmodels/mmp-179",
+      "name": "Crocus Yellow",
+      "code": "MMP-179",
+      "set": "Mission Models",
+      "hex": "#EEE5BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Designer Cream Yellow",
+        "hex": "#EFE5BB",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "missionmodels/mmm-007",
+      "name": "Dark Aluminum",
+      "code": "MMM-007",
+      "set": "Mission Models",
+      "hex": "#8B8B8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vessel Grey",
+        "hex": "#8A8B8F",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "missionmodels/mmp-074",
+      "name": "Dark Ghost Grey  FS 36320",
+      "code": "MMP-074",
+      "set": "Mission Models",
+      "hex": "#6D717A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dolphin Dream",
+        "hex": "#6B6F78",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "missionmodels/mmp-089",
+      "name": "Dark Grey RLM 66 German WWII Late War Cockpits, etc",
+      "code": "MMP-089",
+      "set": "Mission Models",
+      "hex": "#595B50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Bamboo",
+        "hex": "#5B5D53",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "missionmodels/mmp-064",
+      "name": "Dark Gull Grey FS 36231",
+      "code": "MMP-064",
+      "set": "Mission Models",
+      "hex": "#7D8790",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Channel",
+        "hex": "#7A8790",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "missionmodels/mmw-001",
+      "name": "Dark Rust 1",
+      "code": "MMW-001",
+      "set": "Mission Models",
+      "hex": "#A24536",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toasted Cranberry",
+        "hex": "#A24A3B",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "missionmodels/mmp-060",
+      "name": "Dark Tan FS 30219",
+      "code": "MMP-060",
+      "set": "Mission Models",
+      "hex": "#674539",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic Brown",
+        "hex": "#6A493D",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "missionmodels/mmp-139",
+      "name": "Dunkelbraun RAL 7017",
+      "code": "MMP-139",
+      "set": "Mission Models",
+      "hex": "#5C5334",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marsh",
+        "hex": "#5C5337",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "missionmodels/mmp-011",
+      "name": "Dunkelgelb  RAL 7028",
+      "code": "MMP-011",
+      "set": "Mission Models",
+      "hex": "#BBA059",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nonpareil Apple",
+        "hex": "#C1A65C",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "missionmodels/mmp-019",
+      "name": "Dunkelgelb Late  1944 RAL 7028",
+      "code": "MMP-019",
+      "set": "Mission Models",
+      "hex": "#D4BE8C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey Tea",
+        "hex": "#D8BE89",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "missionmodels/mmp-087",
+      "name": "Dunkelgrün RLM 71",
+      "code": "MMP-087",
+      "set": "Mission Models",
+      "hex": "#384C27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nettle Green",
+        "hex": "#364C2E",
+        "delta_e": 2.43
+      }
+    },
+    {
+      "id": "missionmodels/mmp-054",
+      "name": "Dunkelgrün RLM 83",
+      "code": "MMP-054",
+      "set": "Mission Models",
+      "hex": "#64723D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Venom Wyrm",
+        "hex": "#607038",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "missionmodels/mmm-005",
+      "name": "Duraluminum",
+      "code": "MMM-005",
+      "set": "Mission Models",
+      "hex": "#6F7075",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "High-Speed Steel",
+        "hex": "#6D7074",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "missionmodels/mmp-130",
+      "name": "Earth Red Brown Merdec FS 30117",
+      "code": "MMP-130",
+      "set": "Mission Models",
+      "hex": "#763B01",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazelnut Chocolate",
+        "hex": "#7B3F00",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "missionmodels/mmp-129",
+      "name": "Earth Yellow Tan Merdec FS 30257",
+      "code": "MMP-129",
+      "set": "Mission Models",
+      "hex": "#F3BB44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maximum Yellow Red",
+        "hex": "#F2BA49",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "missionmodels/mmp-138",
+      "name": "Extra Dark Sea Grey BS381 RAF",
+      "code": "MMP-138",
+      "set": "Mission Models",
+      "hex": "#505E67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wizard Grey",
+        "hex": "#525E68",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "missionmodels/mmp-124",
+      "name": "Farm Tractor Green (Bright Green)",
+      "code": "MMP-124",
+      "set": "Mission Models",
+      "hex": "#20730D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Battle Cat",
+        "hex": "#2B7414",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "missionmodels/mmp-126",
+      "name": "Farm Tractor Yellow",
+      "code": "MMP-126",
+      "set": "Mission Models",
+      "hex": "#F7DC13",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Isle of Sand",
+        "hex": "#F9DD13",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "missionmodels/mmp-178",
+      "name": "French Blue (Cobalt Blue)",
+      "code": "MMP-178",
+      "set": "Mission Models",
+      "hex": "#02538B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bandana",
+        "hex": "#01578F",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "missionmodels/mmp-090",
+      "name": "Gelb (Yellow) RLM 04 German WWII",
+      "code": "MMP-090",
+      "set": "Mission Models",
+      "hex": "#FDBE1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocobo Feather",
+        "hex": "#F9BC08",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "missionmodels/mmp-010",
+      "name": "Gelbbraun  RAL 8020",
+      "code": "MMP-010",
+      "set": "Mission Models",
+      "hex": "#CFAF80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saxophone Gold",
+        "hex": "#CEAF81",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "missionmodels/mmp-177",
+      "name": "Gelbolive RAL 6014",
+      "code": "MMP-177",
+      "set": "Mission Models",
+      "hex": "#55481E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "missionmodels/mmp-046",
+      "name": "German Field Grey 6006",
+      "code": "MMP-046",
+      "set": "Mission Models",
+      "hex": "#4F6C56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Grey Green",
+        "hex": "#4D6B53",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "missionmodels/mmp-082",
+      "name": "German WWII Elfenbein Interior White",
+      "code": "MMP-082",
+      "set": "Mission Models",
+      "hex": "#EFE3BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beach",
+        "hex": "#EFE4BB",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "missionmodels/mmgbb-001",
+      "name": "Gloss Black Base for Chrome",
+      "code": "MMGBB-001",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-099",
+      "name": "Gloss Grey USN FS 16081",
+      "code": "MMP-099",
+      "set": "Mission Models",
+      "hex": "#1A4752",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Hill",
+        "hex": "#1E454D",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "missionmodels/mmp-065",
+      "name": "Gloss Sea Blue FS 15042",
+      "code": "MMP-065",
+      "set": "Mission Models",
+      "hex": "#154B63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swallow Blue",
+        "hex": "#154962",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "missionmodels/mmgwb-002",
+      "name": "Gloss White Base for Chrome",
+      "code": "MMGWB-002",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmc-003",
+      "name": "Gold",
+      "code": "MMC-003",
+      "set": "Mission Models",
+      "hex": "#DFB231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Samovar",
+        "hex": "#DFAF2B",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "missionmodels/mmp-056",
+      "name": "Grau RLM 02",
+      "code": "MMP-056",
+      "set": "Mission Models",
+      "hex": "#9A9581",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Union Springs",
+        "hex": "#9C9680",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "missionmodels/mmp-008",
+      "name": "Graugrun Khakibrun RAL 7008",
+      "code": "MMP-008",
+      "set": "Mission Models",
+      "hex": "#786749",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Khemri Brown",
+        "hex": "#76664C",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "missionmodels/mmp-049",
+      "name": "Graugrun RLM 74",
+      "code": "MMP-049",
+      "set": "Mission Models",
+      "hex": "#344756",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aristocratic Blue",
+        "hex": "#354655",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "missionmodels/mmp-050",
+      "name": "Grauviolet RLM 75",
+      "code": "MMP-050",
+      "set": "Mission Models",
+      "hex": "#4A4D52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Ribbon",
+        "hex": "#484C51",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "missionmodels/mmp-004",
+      "name": "Green",
+      "code": "MMP-004",
+      "set": "Mission Models",
+      "hex": "#235937",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenbriar",
+        "hex": "#245D3F",
+        "delta_e": 2.04
+      }
+    },
+    {
+      "id": "missionmodels/mmp-068",
+      "name": "Green Zinc Chromate",
+      "code": "MMP-068",
+      "set": "Mission Models",
+      "hex": "#6A9735",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidden Valley",
+        "hex": "#689938",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "missionmodels/mmp-096",
+      "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+      "code": "MMP-096",
+      "set": "Mission Models",
+      "hex": "#6299C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blueberry Soft Blue",
+        "hex": "#5E96C3",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "missionmodels/mmp-096~2",
+      "name": "Grey Blue Cockpit / Camo Modern Russian Jets",
+      "code": "MMP-096",
+      "set": "Mission Models",
+      "hex": "#6198C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blueberry Soft Blue",
+        "hex": "#5E96C3",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "missionmodels/mms-003",
+      "name": "Grey Primer",
+      "code": "MMS-003",
+      "set": "Mission Models Primer",
+      "hex": "#D9D9D9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gainsboro",
+        "hex": "#DCDCDC",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "missionmodels/mmp-017",
+      "name": "Grunbraun RAL 8000",
+      "code": "MMP-017",
+      "set": "Mission Models",
+      "hex": "#826C33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Time Honoured",
+        "hex": "#7F6D37",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "missionmodels/mmm-010",
+      "name": "Gun Metal",
+      "code": "MMM-010",
+      "set": "Mission Models",
+      "hex": "#373735",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Grey",
+        "hex": "#363737",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "missionmodels/mmp-084",
+      "name": "Gunship Grey FS 36118",
+      "code": "MMP-084",
+      "set": "Mission Models",
+      "hex": "#4B5561",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Sea",
+        "hex": "#4C5560",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "missionmodels/mmp-083",
+      "name": "Have Glass Grey FS36170",
+      "code": "MMP-083",
+      "set": "Mission Models",
+      "hex": "#696866",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Not so Innocent",
+        "hex": "#6A6968",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "missionmodels/mmp-103",
+      "name": "Haze Grey US Navy 5H",
+      "code": "MMP-103",
+      "set": "Mission Models",
+      "hex": "#B9BAB2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Weathered Moss",
+        "hex": "#BABBB3",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "missionmodels/mmp-057",
+      "name": "Hellblau RLM 65",
+      "code": "MMP-057",
+      "set": "Mission Models",
+      "hex": "#93B1AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lake Forest",
+        "hex": "#96B4B1",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "missionmodels/mmp-055",
+      "name": "Hellblau RLM 78",
+      "code": "MMP-055",
+      "set": "Mission Models",
+      "hex": "#A4ADBC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snub",
+        "hex": "#A5ADBD",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "missionmodels/mmp-053",
+      "name": "Hellgrun RLM 82",
+      "code": "MMP-053",
+      "set": "Mission Models",
+      "hex": "#687C4B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mint Leaves",
+        "hex": "#6A7D4E",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "missionmodels/mmp-117",
+      "name": "High Low Visibility Grey FS (595)  FS 36373",
+      "code": "MMP-117",
+      "set": "Mission Models",
+      "hex": "#A2A9B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chateau de Chillon",
+        "hex": "#A2AAB3",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "missionmodels/mmp-041",
+      "name": "Hiway Yellow 1930 / 1990 Heavy Equipment",
+      "code": "MMP-041",
+      "set": "Mission Models",
+      "hex": "#FEC009",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Look at the Bright Side",
+        "hex": "#FEBF01",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "missionmodels/mmp-111",
+      "name": "Hull Red Anti Fouling Norfolk 65A",
+      "code": "MMP-111",
+      "set": "Mission Models",
+      "hex": "#791402",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sang de Boeuf",
+        "hex": "#771100",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "missionmodels/mmp-128",
+      "name": "IDF Green",
+      "code": "MMP-128",
+      "set": "Mission Models",
+      "hex": "#39431E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.93
+      }
+    },
+    {
+      "id": "missionmodels/mmp-037",
+      "name": "IDF Sand Grey Version 1",
+      "code": "MMP-037",
+      "set": "Mission Models",
+      "hex": "#836E41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mud House",
+        "hex": "#847146",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "missionmodels/mmp-036",
+      "name": "IDF Sand Grey Version 2",
+      "code": "MMP-036",
+      "set": "Mission Models",
+      "hex": "#A98E79",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cocoloco",
+        "hex": "#AA8F7A",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "missionmodels/mmp-101",
+      "name": "Insignia Red FS 31136",
+      "code": "MMP-101",
+      "set": "Mission Models",
+      "hex": "#ED1B24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "First Blood",
+        "hex": "#ED1C24",
+        "delta_e": 0.09
+      }
+    },
+    {
+      "id": "missionmodels/mmp-104",
+      "name": "Insignia White FS 17875",
+      "code": "MMP-104",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-071",
+      "name": "Intermediate Blue FS 35164",
+      "code": "MMP-071",
+      "set": "Mission Models",
+      "hex": "#4B5C6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seven Seas",
+        "hex": "#4A5C6A",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "missionmodels/mmp-156",
+      "name": "Iridescent Blue",
+      "code": "MMP-156",
+      "set": "Mission Models",
+      "hex": "#0149B8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Absolute Zero",
+        "hex": "#0048BA",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "missionmodels/mmp-158",
+      "name": "Iridescent Candy Red",
+      "code": "MMP-158",
+      "set": "Mission Models",
+      "hex": "#C0273B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Opening Ribbon",
+        "hex": "#BD273A",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "missionmodels/mmp-155",
+      "name": "Iridescent Cherry",
+      "code": "MMP-155",
+      "set": "Mission Models",
+      "hex": "#A6041B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Romantic Thriller",
+        "hex": "#A2101B",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "missionmodels/mmp-160",
+      "name": "Iridescent Duck Teal",
+      "code": "MMP-160",
+      "set": "Mission Models",
+      "hex": "#02ADA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Tree",
+        "hex": "#20AEA7",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "missionmodels/mmp-159",
+      "name": "Iridescent Lemon Yellow",
+      "code": "MMP-159",
+      "set": "Mission Models",
+      "hex": "#F3C901",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Egg Toast",
+        "hex": "#F2C911",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "missionmodels/mmp-157",
+      "name": "Iridescent Plum Purple",
+      "code": "MMP-157",
+      "set": "Mission Models",
+      "hex": "#231962",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Fog",
+        "hex": "#2D1962",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "missionmodels/mmp-161",
+      "name": "Iridescent Turquoise",
+      "code": "MMP-161",
+      "set": "Mission Models",
+      "hex": "#146F8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teal Tune",
+        "hex": "#02708C",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "missionmodels/mmp-110",
+      "name": "J3 SP Lt Grey Japanese Zero (Amber)",
+      "code": "MMP-110",
+      "set": "Mission Models",
+      "hex": "#9B9C8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hunter’s Hollow",
+        "hex": "#989A8D",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "missionmodels/mmp-112",
+      "name": "Japanese D1 Deep Green WWII  (IJN)",
+      "code": "MMP-112",
+      "set": "Mission Models",
+      "hex": "#374E47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amphitrite",
+        "hex": "#384E47",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "missionmodels/mmp-107",
+      "name": "Japanese J3 Hai-Iro Lt Grey (Zero)",
+      "code": "MMP-107",
+      "set": "Mission Models",
+      "hex": "#77856C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wreath",
+        "hex": "#76856A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "missionmodels/mmp-109",
+      "name": "Japanese M3 Mitsubishi Interior Green WWII",
+      "code": "MMP-109",
+      "set": "Mission Models",
+      "hex": "#77987D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mid Cypress",
+        "hex": "#779781",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "missionmodels/mmp-115",
+      "name": "Japanese Propeller Brown",
+      "code": "MMP-115",
+      "set": "Mission Models",
+      "hex": "#82483A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armadillo Egg",
+        "hex": "#7D4638",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "missionmodels/mmp-108",
+      "name": "Japanese Q1 Anti Glare Blue Black Cowl WWII",
+      "code": "MMP-108",
+      "set": "Mission Models",
+      "hex": "#2E2C2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Onyx",
+        "hex": "#2E2D30",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "missionmodels/mmp-081",
+      "name": "LRDG Pink",
+      "code": "MMP-081",
+      "set": "Mission Models",
+      "hex": "#ECCAA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Blonde",
+        "hex": "#ECCCA6",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "missionmodels/mmp-174",
+      "name": "Lavender",
+      "code": "MMP-174",
+      "set": "Mission Models",
+      "hex": "#E7D1E6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweety Pie",
+        "hex": "#E7CEE3",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "missionmodels/mmp-051",
+      "name": "Lichtblau RLM 76",
+      "code": "MMP-051",
+      "set": "Mission Models",
+      "hex": "#A3BAB2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Twilight",
+        "hex": "#A3BBB3",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "missionmodels/mmp-173",
+      "name": "Light Blue (Mecha)",
+      "code": "MMP-173",
+      "set": "Mission Models",
+      "hex": "#3779DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skies of Cyberspace",
+        "hex": "#4477DD",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "missionmodels/mmp-073",
+      "name": "Light Ghost Grey FS 36375",
+      "code": "MMP-073",
+      "set": "Mission Models",
+      "hex": "#83878A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magnetic Grey",
+        "hex": "#838789",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "missionmodels/mmp-116",
+      "name": "Light Grey FS 36495",
+      "code": "MMP-116",
+      "set": "Mission Models",
+      "hex": "#C1BEB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ooid Sand",
+        "hex": "#C2BEB6",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "missionmodels/mmp-069",
+      "name": "Light Gull Grey FS 16440",
+      "code": "MMP-069",
+      "set": "Mission Models",
+      "hex": "#DADADA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gainsboro",
+        "hex": "#DCDCDC",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "missionmodels/mmp-063",
+      "name": "Light Gull Grey FS 36440",
+      "code": "MMP-063",
+      "set": "Mission Models",
+      "hex": "#C1BEB7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ooid Sand",
+        "hex": "#C2BEB6",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "missionmodels/mmp-006",
+      "name": "Light Neutral",
+      "code": "MMP-006",
+      "set": "Mission Models",
+      "hex": "#A59480",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Earth",
+        "hex": "#A79480",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "missionmodels/mmw-002",
+      "name": "Light Rust 1",
+      "code": "MMW-002",
+      "set": "Mission Models",
+      "hex": "#DD732B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tahiti Gold",
+        "hex": "#DC722A",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "missionmodels/mmp-075",
+      "name": "Light Sea Grey  FS 36307",
+      "code": "MMP-075",
+      "set": "Mission Models",
+      "hex": "#6C7C7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polar Pond",
+        "hex": "#6B7B7B",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "missionmodels/mmp-137",
+      "name": "Lilac (Chrysler 1966)",
+      "code": "MMP-137",
+      "set": "Mission Models",
+      "hex": "#C79AB9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Morning Glory Pink",
+        "hex": "#CA99B7",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "missionmodels/mmp-142",
+      "name": "Mahogany (Flight Decks, Tools)",
+      "code": "MMP-142",
+      "set": "Mission Models",
+      "hex": "#784C43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Minotaur Red",
+        "hex": "#734B42",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "missionmodels/mmp-072",
+      "name": "Medium Grey FS 35237",
+      "code": "MMP-072",
+      "set": "Mission Models",
+      "hex": "#6E8188",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Steel",
+        "hex": "#6F828A",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "missionmodels/mmp-118",
+      "name": "Medium Grey FS 36270",
+      "code": "MMP-118",
+      "set": "Mission Models",
+      "hex": "#88929B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Dusk",
+        "hex": "#8C959D",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "missionmodels/mmm-001",
+      "name": "Metallic Burnt Iron 1",
+      "code": "MMM-001",
+      "set": "Mission Models",
+      "hex": "#4D4845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "missionmodels/mmp-035",
+      "name": "NATO Black",
+      "code": "MMP-035",
+      "set": "Mission Models",
+      "hex": "#2E2D2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carbon Fibre",
+        "hex": "#2E2E2E",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "missionmodels/mmp-033",
+      "name": "NATO Brown",
+      "code": "MMP-033",
+      "set": "Mission Models",
+      "hex": "#543425",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Boar",
+        "hex": "#553322",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "missionmodels/mmp-034",
+      "name": "NATO Green",
+      "code": "MMP-034",
+      "set": "Mission Models",
+      "hex": "#557536",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Luck of the Irish",
+        "hex": "#547839",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "missionmodels/mmp-114",
+      "name": "Neutral Haze Grey US Navy (WWII/Post)",
+      "code": "MMP-114",
+      "set": "Mission Models",
+      "hex": "#818779",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cottage Lattice Green",
+        "hex": "#828676",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "missionmodels/mmp-125",
+      "name": "New Construction Yellow (1990 to present)",
+      "code": "MMP-125",
+      "set": "Mission Models",
+      "hex": "#E4AE44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tulip Tree",
+        "hex": "#E3AC3D",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "missionmodels/mmp-093",
+      "name": "Ocean Grey RAF WWII Mid/Late  FS 36173",
+      "code": "MMP-093",
+      "set": "Mission Models",
+      "hex": "#6B7775",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rolling Stone",
+        "hex": "#6D7876",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "missionmodels/mmp-172",
+      "name": "Olive Drab / Dark Green 1968-74 FS 24087",
+      "code": "MMP-172",
+      "set": "Mission Models",
+      "hex": "#504D3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sooty Willow Bamboo",
+        "hex": "#4D4B3A",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "missionmodels/mmp-009",
+      "name": "Olivegrun RAL 6003",
+      "code": "MMP-009",
+      "set": "Mission Models",
+      "hex": "#586629",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deathworld Forest",
+        "hex": "#5C6730",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "missionmodels/mmp-120",
+      "name": "Olivegrun RLM 80 (Trop)",
+      "code": "MMP-120",
+      "set": "Mission Models",
+      "hex": "#62693D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scots Pine",
+        "hex": "#5F653B",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "missionmodels/mmp-005",
+      "name": "Orange",
+      "code": "MMP-005",
+      "set": "Mission Models",
+      "hex": "#E15402",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salsa Habañero",
+        "hex": "#E35401",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "missionmodels/mmp-014",
+      "name": "Panzer Grey  RAL 7021",
+      "code": "MMP-014",
+      "set": "Mission Models",
+      "hex": "#4B5459",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney",
+        "hex": "#4A5257",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "missionmodels/mmp-149",
+      "name": "Pearl Copper",
+      "code": "MMP-149",
+      "set": "Mission Models",
+      "hex": "#9E5739",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Persimmon Varnish",
+        "hex": "#9F563A",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "missionmodels/mmp-150",
+      "name": "Pearl Deep Black",
+      "code": "MMP-150",
+      "set": "Mission Models",
+      "hex": "#2A2B30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caviar",
+        "hex": "#2B2C30",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "missionmodels/mmp-147",
+      "name": "Pearl Deep Blue",
+      "code": "MMP-147",
+      "set": "Mission Models",
+      "hex": "#064BCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flying Fish Blue",
+        "hex": "#024ACA",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "missionmodels/mmp-146",
+      "name": "Pearl Deep Charcoal",
+      "code": "MMP-146",
+      "set": "Mission Models",
+      "hex": "#35363A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawk’s Eye",
+        "hex": "#34363A",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "missionmodels/mmp-144",
+      "name": "Pearl Deep Green",
+      "code": "MMP-144",
+      "set": "Mission Models",
+      "hex": "#238F55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bottle Glass",
+        "hex": "#238E50",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "missionmodels/mmp-153",
+      "name": "Pearl Kiwi Lime",
+      "code": "MMP-153",
+      "set": "Mission Models",
+      "hex": "#84B905",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Lime",
+        "hex": "#84B701",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "missionmodels/mmp-148",
+      "name": "Pearl Red",
+      "code": "MMP-148",
+      "set": "Mission Models",
+      "hex": "#9F0016",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caraquenian Crimson",
+        "hex": "#9C0013",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "missionmodels/mmp-154",
+      "name": "Pearl Root Beer Brown",
+      "code": "MMP-154",
+      "set": "Mission Models",
+      "hex": "#33211F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hornblende",
+        "hex": "#332222",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "missionmodels/mmp-145",
+      "name": "Pearl Solid Gold",
+      "code": "MMP-145",
+      "set": "Mission Models",
+      "hex": "#B8A443",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forest Tent",
+        "hex": "#BBA748",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "missionmodels/mmp-143",
+      "name": "Pearl Starship White",
+      "code": "MMP-143",
+      "set": "Mission Models",
+      "hex": "#E3DEDA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pergament Shreds",
+        "hex": "#E4E0DC",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "missionmodels/mmp-151",
+      "name": "Pearl Tropical Orange",
+      "code": "MMP-151",
+      "set": "Mission Models",
+      "hex": "#D74514",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tail Lights",
+        "hex": "#DD4411",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "missionmodels/mmp-152",
+      "name": "Pearl Wild Berry",
+      "code": "MMP-152",
+      "set": "Mission Models",
+      "hex": "#B7478F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boat Orchid",
+        "hex": "#C0448F",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "missionmodels/mmp-175",
+      "name": "Pink",
+      "code": "MMP-175",
+      "set": "Mission Models",
+      "hex": "#E5B1B5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amazon River Dolphin",
+        "hex": "#E6B2B8",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "missionmodels/mms-005",
+      "name": "Pink Primer",
+      "code": "MMS-005",
+      "set": "Mission Models Primer",
+      "hex": "#F68EB1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tickle Me Pink",
+        "hex": "#FC89AC",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "missionmodels/mmp-121",
+      "name": "Purple (Purple Violet)",
+      "code": "MMP-121",
+      "set": "Mission Models",
+      "hex": "#554F8F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Corallite",
+        "hex": "#5A4E8F",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "missionmodels/mmp-078",
+      "name": "RAF Dark Earth",
+      "code": "MMP-078",
+      "set": "Mission Models",
+      "hex": "#80683A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cheese Olive",
+        "hex": "#80693D",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "missionmodels/mmp-077",
+      "name": "RAF Dark Green",
+      "code": "MMP-077",
+      "set": "Mission Models",
+      "hex": "#435638",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zen Garden Olive",
+        "hex": "#445533",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "missionmodels/mmm-009",
+      "name": "RAF High Speed Silver",
+      "code": "MMM-009",
+      "set": "Mission Models",
+      "hex": "#FAFAFC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wash Me",
+        "hex": "#FAFBFD",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "missionmodels/mmp-079",
+      "name": "RAF Interior Green",
+      "code": "MMP-079",
+      "set": "Mission Models",
+      "hex": "#7A8F62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Bamboo",
+        "hex": "#769164",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "missionmodels/mmp-076",
+      "name": "RAF Middle Stone",
+      "code": "MMP-076",
+      "set": "Mission Models",
+      "hex": "#AB9353",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsession",
+        "hex": "#AE9550",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "missionmodels/mmp-080",
+      "name": "RAF underside Sky 610",
+      "code": "MMP-080",
+      "set": "Mission Models",
+      "hex": "#AAB08E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verde Tortuga",
+        "hex": "#A7AD8D",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "missionmodels/mmp-070",
+      "name": "Radome Tan FS 33613",
+      "code": "MMP-070",
+      "set": "Mission Models",
+      "hex": "#EEDFB4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sauerkraut",
+        "hex": "#EEE0B9",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "missionmodels/mmp-123",
+      "name": "Rail Tie Brown",
+      "code": "MMP-123",
+      "set": "Mission Models",
+      "hex": "#5E4D33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Longboat",
+        "hex": "#60513A",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "missionmodels/mmp-003",
+      "name": "Red",
+      "code": "MMP-003",
+      "set": "Mission Models",
+      "hex": "#C3122F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Movie Star",
+        "hex": "#C52033",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "missionmodels/mmp-013",
+      "name": "Red Oxide German WWII RAL 3009",
+      "code": "MMP-013",
+      "set": "Mission Models",
+      "hex": "#772420",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Incubus",
+        "hex": "#772222",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "missionmodels/mms-004",
+      "name": "Red Oxide Primer",
+      "code": "MMS-004",
+      "set": "Mission Models Primer",
+      "hex": "#772420",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Incubus",
+        "hex": "#772222",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "missionmodels/mmp-018",
+      "name": "Resedagrun RAL 6011",
+      "code": "MMP-018",
+      "set": "Mission Models",
+      "hex": "#68825F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bladerunner",
+        "hex": "#6A8561",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "missionmodels/mmp-012",
+      "name": "Rotbraun  RAL 8017",
+      "code": "MMP-012",
+      "set": "Mission Models",
+      "hex": "#45302B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Benikeshinezumi Purple",
+        "hex": "#44312E",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "missionmodels/mmp-015",
+      "name": "Rotbraun RAL 8012",
+      "code": "MMP-015",
+      "set": "Mission Models",
+      "hex": "#592321",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ebicha Brown",
+        "hex": "#5E2824",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "missionmodels/mmp-027",
+      "name": "Russian 6k FS 30117",
+      "code": "MMP-027",
+      "set": "Mission Models",
+      "hex": "#9D4F29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Catlinite",
+        "hex": "#9E4D28",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "missionmodels/mmp-100",
+      "name": "Russian Cockpit Emerald Green",
+      "code": "MMP-100",
+      "set": "Mission Models",
+      "hex": "#28845D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metallic Green",
+        "hex": "#24855B",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "missionmodels/mmp-031",
+      "name": "Russian Dark Green 4BO FS 34079",
+      "code": "MMP-031",
+      "set": "Mission Models",
+      "hex": "#3D4335",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kombu Green",
+        "hex": "#3A4032",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "missionmodels/mmp-029",
+      "name": "Russian Dark Olive 2 FS 34096",
+      "code": "MMP-029",
+      "set": "Mission Models",
+      "hex": "#566743",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silverbeet",
+        "hex": "#5A6A43",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "missionmodels/mmp-028",
+      "name": "Russian Dark Olive FS 34102",
+      "code": "MMP-028",
+      "set": "Mission Models",
+      "hex": "#4A523A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Broccoli Green",
+        "hex": "#4B5338",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "missionmodels/mmp-030",
+      "name": "Russian Dark Olive Faded 1  FS 34096",
+      "code": "MMP-030",
+      "set": "Mission Models",
+      "hex": "#566743",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silverbeet",
+        "hex": "#5A6A43",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "missionmodels/mmp-032",
+      "name": "Russian Green Modern AFV",
+      "code": "MMP-032",
+      "set": "Mission Models",
+      "hex": "#455D39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turf",
+        "hex": "#415B36",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "missionmodels/mmp-085",
+      "name": "Russian WWII 4B0 FS 34257",
+      "code": "MMP-085",
+      "set": "Mission Models",
+      "hex": "#8D9132",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean Shoot",
+        "hex": "#91923A",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "missionmodels/mmp-097",
+      "name": "SAC Bomber Tan FS 34201",
+      "code": "MMP-097",
+      "set": "Mission Models",
+      "hex": "#7B7962",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangle",
+        "hex": "#7C7C65",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "missionmodels/mmp-098",
+      "name": "SAC bomber Green FS 34159",
+      "code": "MMP-098",
+      "set": "Mission Models",
+      "hex": "#5F7066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balmy Palm Tree",
+        "hex": "#5C6F64",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "missionmodels/mmp-131",
+      "name": "Sand Merdec",
+      "code": "MMP-131",
+      "set": "Mission Models",
+      "hex": "#7E6219",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brassy Brass",
+        "hex": "#776022",
+        "delta_e": 2.49
+      }
+    },
+    {
+      "id": "missionmodels/mmp-119",
+      "name": "Sandgelb RLM 79",
+      "code": "MMP-119",
+      "set": "Mission Models",
+      "hex": "#B78240",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiffany Amber",
+        "hex": "#B58141",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "missionmodels/mmp-016",
+      "name": "Sandgrau RAL 7027",
+      "code": "MMP-016",
+      "set": "Mission Models",
+      "hex": "#9A8B6A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Renwick Olive",
+        "hex": "#97896A",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "missionmodels/mmp-088",
+      "name": "Schwarzgrun RLM 70 German WWII",
+      "code": "MMP-088",
+      "set": "Mission Models",
+      "hex": "#585B4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beetle",
+        "hex": "#55584C",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "missionmodels/mmp-094",
+      "name": "Sea Grey Medium RAF WWII BS 637",
+      "code": "MMP-094",
+      "set": "Mission Models",
+      "hex": "#809495",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lexington Blue",
+        "hex": "#7D9294",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "missionmodels/mmp-141",
+      "name": "Signalbraun RAL 8002",
+      "code": "MMP-141",
+      "set": "Mission Models",
+      "hex": "#733C28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cowboy Suede",
+        "hex": "#763E2D",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "missionmodels/mmm-006",
+      "name": "Silver",
+      "code": "MMM-006",
+      "set": "Mission Models",
+      "hex": "#B4B8B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Provence Wind",
+        "hex": "#B4B9B9",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "missionmodels/mmw-005",
+      "name": "Standard Rust",
+      "code": "MMW-005",
+      "set": "Mission Models",
+      "hex": "#993128",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ketchup",
+        "hex": "#9A382D",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "missionmodels/mmp-134",
+      "name": "Surf Green (CH 1957)",
+      "code": "MMP-134",
+      "set": "Mission Models",
+      "hex": "#B3F7E0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peppermint Frosting",
+        "hex": "#B8FFEB",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "missionmodels/mms-006",
+      "name": "Tan Primer",
+      "code": "MMS-006",
+      "set": "Mission Models Primer",
+      "hex": "#A59480",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Earth",
+        "hex": "#A79480",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "missionmodels/mmp-040",
+      "name": "Tire Black 1",
+      "code": "MMP-040",
+      "set": "Mission Models",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-168",
+      "name": "Transparent Blue",
+      "code": "MMP-168",
+      "set": "Mission Models",
+      "hex": "#040293",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Everlasting Night",
+        "hex": "#000099",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "missionmodels/mmw-006",
+      "name": "Transparent Dust",
+      "code": "MMW-006",
+      "set": "Mission Models",
+      "hex": "#DDC9AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Believable Buff",
+        "hex": "#DBC7A8",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "missionmodels/mmp-169",
+      "name": "Transparent Green",
+      "code": "MMP-169",
+      "set": "Mission Models",
+      "hex": "#00783A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jordan Jazz",
+        "hex": "#037A3B",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "missionmodels/mmw-003",
+      "name": "Transparent Light Rust 1",
+      "code": "MMW-003",
+      "set": "Mission Models",
+      "hex": "#993128",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ketchup",
+        "hex": "#9A382D",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "missionmodels/mmw-004",
+      "name": "Transparent Medium",
+      "code": "MMW-004",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-171",
+      "name": "Transparent Orange",
+      "code": "MMP-171",
+      "set": "Mission Models",
+      "hex": "#FB6C04",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spooky Tangerine",
+        "hex": "#FF6B00",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "missionmodels/mmp-167",
+      "name": "Transparent Red",
+      "code": "MMP-167",
+      "set": "Mission Models",
+      "hex": "#AE0001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Door",
+        "hex": "#AC0000",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "missionmodels/mmp-170",
+      "name": "Transparent Smoke",
+      "code": "MMP-170",
+      "set": "Mission Models",
+      "hex": "#8F908B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Four-Wheel Grey",
+        "hex": "#90908B",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "missionmodels/mmp-023",
+      "name": "US Army Khaki Drab FS 34088",
+      "code": "MMP-023",
+      "set": "Mission Models",
+      "hex": "#69634B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deer Trail",
+        "hex": "#6A634C",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "missionmodels/mmp-024",
+      "name": "US Army Olive Drab FS 319",
+      "code": "MMP-024",
+      "set": "Mission Models",
+      "hex": "#69634B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deer Trail",
+        "hex": "#6A634C",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "missionmodels/mmp-026",
+      "name": "US Army Olive Drab FS 33070",
+      "code": "MMP-026",
+      "set": "Mission Models",
+      "hex": "#505338",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amazon Depths",
+        "hex": "#505338",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-025",
+      "name": "US Army Olive Drab FS 34088",
+      "code": "MMP-025",
+      "set": "Mission Models",
+      "hex": "#6A6931",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Safari Green",
+        "hex": "#6C6D2F",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "missionmodels/mmp-020",
+      "name": "US Army Olive Drab Faded 1 FS 34088",
+      "code": "MMP-020",
+      "set": "Mission Models",
+      "hex": "#797B54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bonsai",
+        "hex": "#787B54",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "missionmodels/mmp-021",
+      "name": "US Army Olive Drab Faded 2",
+      "code": "MMP-021",
+      "set": "Mission Models",
+      "hex": "#94976A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Guacamole",
+        "hex": "#95986B",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "missionmodels/mmp-022",
+      "name": "US Army Olive Drab Faded 3",
+      "code": "MMP-022",
+      "set": "Mission Models",
+      "hex": "#9A9052",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tupelo Tree",
+        "hex": "#9C9152",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "missionmodels/mmp-086",
+      "name": "US Army Sand FS 30277",
+      "code": "MMP-086",
+      "set": "Mission Models",
+      "hex": "#A39179",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mountain Hideaway",
+        "hex": "#A2917B",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "missionmodels/mmp-061",
+      "name": "US Blue Grey FS35189",
+      "code": "MMP-061",
+      "set": "Mission Models",
+      "hex": "#759EA2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Fennel Flower",
+        "hex": "#719BA2",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "missionmodels/mmp-095",
+      "name": "US Camouflage Grey FS 36622",
+      "code": "MMP-095",
+      "set": "Mission Models",
+      "hex": "#D6CFC5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slush",
+        "hex": "#D6CEC4",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "missionmodels/mmp-058",
+      "name": "US Dark Green FS 34079",
+      "code": "MMP-058",
+      "set": "Mission Models",
+      "hex": "#2B302A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melanite Black Green",
+        "hex": "#282E27",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "missionmodels/mmp-038",
+      "name": "US Desert Tan Modern 2 FS 33446",
+      "code": "MMP-038",
+      "set": "Mission Models",
+      "hex": "#C19D79",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teatime",
+        "hex": "#BE9B79",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "missionmodels/mmp-059",
+      "name": "US Interior Green FS 34151",
+      "code": "MMP-059",
+      "set": "Mission Models",
+      "hex": "#677E50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mint Leaves",
+        "hex": "#6A7D4E",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "missionmodels/mmp-066",
+      "name": "US Medium Green FS 34102",
+      "code": "MMP-066",
+      "set": "Mission Models",
+      "hex": "#4A523A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Broccoli Green",
+        "hex": "#4B5338",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "missionmodels/mmp-091",
+      "name": "USAAF Olive Drab 41 WWII",
+      "code": "MMP-091",
+      "set": "Mission Models",
+      "hex": "#5F5935",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maze",
+        "hex": "#5C5638",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "missionmodels/mmp-132",
+      "name": "USN Flight Deck Blue 21",
+      "code": "MMP-132",
+      "set": "Mission Models",
+      "hex": "#475C6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seven Seas",
+        "hex": "#4A5C6A",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "missionmodels/mmp-133",
+      "name": "USN Pale Grey Blue 5P",
+      "code": "MMP-133",
+      "set": "Mission Models",
+      "hex": "#B4BCBF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crestline",
+        "hex": "#B4BCBF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-062",
+      "name": "USN/USMC Sea Blue FS 35042",
+      "code": "MMP-062",
+      "set": "Mission Models",
+      "hex": "#122742",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eternal Darkness",
+        "hex": "#1C2841",
+        "delta_e": 2.51
+      }
+    },
+    {
+      "id": "missionmodels/mmp-001",
+      "name": "White",
+      "code": "MMP-001",
+      "set": "Mission Models",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmm-008",
+      "name": "White Aluminum",
+      "code": "MMM-008",
+      "set": "Mission Models",
+      "hex": "#9B9EA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Wolf",
+        "hex": "#9CA0A6",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "missionmodels/mms-002",
+      "name": "White Primer",
+      "code": "MMS-002",
+      "set": "Mission Models Primer",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "missionmodels/mmp-105",
+      "name": "Worn Black Grey Tires / Camo",
+      "code": "MMP-105",
+      "set": "Mission Models",
+      "hex": "#0E1116",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Rift",
+        "hex": "#060B14",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "missionmodels/mmp-007",
+      "name": "Yellow",
+      "code": "MMP-007",
+      "set": "Mission Models",
+      "hex": "#FCDE09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dandelion",
+        "hex": "#FEDF08",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "missionmodels/mmp-067",
+      "name": "Yellow Zinc Chromate",
+      "code": "MMP-067",
+      "set": "Mission Models",
+      "hex": "#E3D209",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citrine",
+        "hex": "#E4D00A",
+        "delta_e": 0.81
+      }
+    }
+  ]
+}

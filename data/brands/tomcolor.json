@@ -1,0 +1,3811 @@
+{
+  "brand": "Tom Color",
+  "slug": "tomcolor",
+  "md_file": "TomColor.md",
+  "logo": "logos/TomColor.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "tomcolor/tc-0146",
+      "name": "4bo Green",
+      "code": "TC-0146",
+      "set": "Tom Colors",
+      "hex": "#43481F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 2.26
+      }
+    },
+    {
+      "id": "tomcolor/tc-0129",
+      "name": "626 Camouflage Grey Raf",
+      "code": "TC-0129",
+      "set": "Tom Colors",
+      "hex": "#999EA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Window Grey",
+        "hex": "#989EA1",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "tomcolor/tc-0097",
+      "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+      "code": "TC-0097",
+      "set": "Tom Colors",
+      "hex": "#697173",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Pewter",
+        "hex": "#6B7172",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "tomcolor/tc-0219",
+      "name": "A-24m",
+      "code": "TC-0219",
+      "set": "Tom Colors",
+      "hex": "#2C2B19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "tomcolor/tc-0075",
+      "name": "Afrika Mustard",
+      "code": "TC-0075",
+      "set": "Tom Colors",
+      "hex": "#A28253",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dijon",
+        "hex": "#A18251",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "tomcolor/tc-0158",
+      "name": "Amarelo",
+      "code": "TC-0158",
+      "set": "Tom Colors",
+      "hex": "#FFFC01",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Electric Yellow",
+        "hex": "#FFFC00",
+        "delta_e": 0.01
+      }
+    },
+    {
+      "id": "tomcolor/tcup-01",
+      "name": "Amarelo Girassol",
+      "code": "TCUP-01",
+      "set": "Tom Colors - UP",
+      "hex": "#F8E52F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Quinoline Yellow",
+        "hex": "#F5E326",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "tomcolor/tcup-02",
+      "name": "Amarelo Helena",
+      "code": "TCUP-02",
+      "set": "Tom Colors - UP",
+      "hex": "#FFBC03",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mantella Frog",
+        "hex": "#FFBC02",
+        "delta_e": 0.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0209",
+      "name": "Amarelo Mostarda",
+      "code": "TC-0209",
+      "set": "Tom Colors",
+      "hex": "#D5C800",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ryoku-Ou-Shoku Yellow",
+        "hex": "#DCCB18",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "tomcolor/tcup-03",
+      "name": "Amarelo Piquenique",
+      "code": "TCUP-03",
+      "set": "Tom Colors - UP",
+      "hex": "#DDB204",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palomino Gold",
+        "hex": "#DAAE00",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "tomcolor/tc-0186",
+      "name": "Amt-11 Light Grey",
+      "code": "TC-0186",
+      "set": "Tom Colors",
+      "hex": "#6D7D8C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slate Expectations",
+        "hex": "#6E7F8D",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "tomcolor/tc-0177",
+      "name": "Amt-12 Dark Grey",
+      "code": "TC-0177",
+      "set": "Tom Colors",
+      "hex": "#60606A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Script Ink",
+        "hex": "#60616B",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "tomcolor/tc-0210",
+      "name": "Amt-4 Old",
+      "code": "TC-0210",
+      "set": "Tom Colors",
+      "hex": "#4B481D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uniform Green",
+        "hex": "#4C4623",
+        "delta_e": 2.59
+      }
+    },
+    {
+      "id": "tomcolor/tc-0178",
+      "name": "Amt-6",
+      "code": "TC-0178",
+      "set": "Tom Colors",
+      "hex": "#1B2121",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shadow Warrior",
+        "hex": "#1A2421",
+        "delta_e": 3.35
+      }
+    },
+    {
+      "id": "tomcolor/tc-0160",
+      "name": "Ana 601 Insignia White",
+      "code": "TC-0160",
+      "set": "Tom Colors",
+      "hex": "#E9E9E1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Destroying Angels",
+        "hex": "#E9E9E1",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0161",
+      "name": "Ana 603 Sea Grey",
+      "code": "TC-0161",
+      "set": "Tom Colors",
+      "hex": "#596068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney Rain",
+        "hex": "#5A5F68",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "tomcolor/tc-0159",
+      "name": "Ana 607 Sea Blue",
+      "code": "TC-0159",
+      "set": "Tom Colors",
+      "hex": "#3A434C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arsenic",
+        "hex": "#3B444B",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "tomcolor/tc-0162",
+      "name": "Ana 608 Intermed. Blue",
+      "code": "TC-0162",
+      "set": "Tom Colors",
+      "hex": "#62737D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hidden Harbour",
+        "hex": "#60737D",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "tomcolor/tc-0174",
+      "name": "Ana 611 Interior Green",
+      "code": "TC-0174",
+      "set": "Tom Colors",
+      "hex": "#67623A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ocean Weed",
+        "hex": "#6C6541",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0163",
+      "name": "Ana 613 Olive Drab",
+      "code": "TC-0163",
+      "set": "Tom Colors",
+      "hex": "#51503C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Leaf",
+        "hex": "#4E4B35",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "tomcolor/tc-0170",
+      "name": "Ana 616 Sand",
+      "code": "TC-0170",
+      "set": "Tom Colors",
+      "hex": "#AF9282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Redend Point",
+        "hex": "#AE8E7E",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "tomcolor/tc-0173",
+      "name": "Ana 620 Light Gull Grey",
+      "code": "TC-0173",
+      "set": "Tom Colors",
+      "hex": "#B1AEA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Laid Back Grey",
+        "hex": "#B3AFA7",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "tomcolor/tc-0169",
+      "name": "Ana 621 Dark Dull Grey",
+      "code": "TC-0169",
+      "set": "Tom Colors",
+      "hex": "#757A74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gunsmoke",
+        "hex": "#7A7C76",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "tomcolor/tc-0144",
+      "name": "Antifoliage Green",
+      "code": "TC-0144",
+      "set": "Tom Colors",
+      "hex": "#567959",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elm Green",
+        "hex": "#577657",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "tomcolor/tcup-15",
+      "name": "Arara Azul",
+      "code": "TCUP-15",
+      "set": "Tom Colors - UP",
+      "hex": "#0034BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Screen of Death",
+        "hex": "#0033BB",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "tomcolor/tc-0007",
+      "name": "Azul",
+      "code": "TC-0007",
+      "set": "Tom Colors",
+      "hex": "#020C65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "D. Darx Blue",
+        "hex": "#030764",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "tomcolor/tcup-20",
+      "name": "Azul Do Charlie",
+      "code": "TCUP-20",
+      "set": "Tom Colors - UP",
+      "hex": "#293EA9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yuè Guāng Lán Blue",
+        "hex": "#2138AB",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "tomcolor/tc-0159~2",
+      "name": "Azul Luminoso",
+      "code": "TC-0159",
+      "set": "Tom Colors",
+      "hex": "#224062",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Race",
+        "hex": "#234162",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "tomcolor/tcup-25",
+      "name": "Azul Marshmallow",
+      "code": "TCUP-25",
+      "set": "Tom Colors - UP",
+      "hex": "#35A9DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Peacock",
+        "hex": "#27ACE0",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "tomcolor/tcup-19",
+      "name": "Azul Oceano",
+      "code": "TCUP-19",
+      "set": "Tom Colors - UP",
+      "hex": "#041738",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squid’s Ink",
+        "hex": "#041330",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "tomcolor/tc-0123",
+      "name": "Azure Blue",
+      "code": "TC-0123",
+      "set": "Tom Colors",
+      "hex": "#7EA0C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alaskan Ice",
+        "hex": "#7E9EC2",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "tomcolor/tc-0213",
+      "name": "Baby Room Blue",
+      "code": "TC-0213",
+      "set": "Tom Colors",
+      "hex": "#879BCE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Gentian",
+        "hex": "#8397D0",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "tomcolor/tc-0181",
+      "name": "Barley Grey",
+      "code": "TC-0181",
+      "set": "Tom Colors",
+      "hex": "#97A6A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celestra Grey",
+        "hex": "#99A7AB",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "tomcolor/tc-0306",
+      "name": "Base Skin Tone",
+      "code": "TC-0306",
+      "set": "Tom Colors",
+      "hex": "#F2E0BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brushstroke",
+        "hex": "#F1DFBA",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "tomcolor/tc-0111",
+      "name": "Bianco Neve 6",
+      "code": "TC-0111",
+      "set": "Tom Colors",
+      "hex": "#E0E1DC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tundra Frost",
+        "hex": "#E1E1DB",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "tomcolor/tc-0255",
+      "name": "Black Uniform Base",
+      "code": "TC-0255",
+      "set": "Tom Colors",
+      "hex": "#25221D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chestnut Oak",
+        "hex": "#252321",
+        "delta_e": 2.01
+      }
+    },
+    {
+      "id": "tomcolor/tc-0235",
+      "name": "Black Uniform Light",
+      "code": "TC-0235",
+      "set": "Tom Colors",
+      "hex": "#5B5E63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pencil Point",
+        "hex": "#595D61",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "tomcolor/tc-0234",
+      "name": "Black Uniform Shadow",
+      "code": "TC-0234",
+      "set": "Tom Colors",
+      "hex": "#262626",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nero",
+        "hex": "#252525",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "tomcolor/tc-0145",
+      "name": "Blue Grey 058m",
+      "code": "TC-0145",
+      "set": "Tom Colors",
+      "hex": "#74878D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Norwegian Blue",
+        "hex": "#78888E",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "tomcolor/tc-0001",
+      "name": "Branco",
+      "code": "TC-0001",
+      "set": "Tom Colors",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0135",
+      "name": "Branco Lavado",
+      "code": "TC-0135",
+      "set": "Tom Colors",
+      "hex": "#E9E4C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Seat",
+        "hex": "#EBE6C7",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "tomcolor/tc-0188",
+      "name": "Bronze Green",
+      "code": "TC-0188",
+      "set": "Tom Colors",
+      "hex": "#2E4028",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "tomcolor/tc-0232",
+      "name": "Bs263 Atlantic Grey",
+      "code": "TC-0232",
+      "set": "Tom Colors",
+      "hex": "#677373",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "North Grey",
+        "hex": "#6A7777",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "tomcolor/tc-0143",
+      "name": "Bs381c:638 Grey",
+      "code": "TC-0143",
+      "set": "Tom Colors",
+      "hex": "#696C71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "High-Speed Steel",
+        "hex": "#6D7074",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0244",
+      "name": "Buff (drybrush)",
+      "code": "TC-0244",
+      "set": "Tom Colors",
+      "hex": "#E6D480",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Winged",
+        "hex": "#E6D682",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "tomcolor/tc-0226",
+      "name": "Carc Middlestone",
+      "code": "TC-0226",
+      "set": "Tom Colors",
+      "hex": "#C6AB96",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sanderling",
+        "hex": "#C8AB96",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "tomcolor/tc-0060",
+      "name": "Carc Tan",
+      "code": "TC-0060",
+      "set": "Tom Colors",
+      "hex": "#B79975",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Woven Wicker",
+        "hex": "#B99974",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "tomcolor/tcup-04",
+      "name": "Chama da Mula Sem Cabeça",
+      "code": "TCUP-04",
+      "set": "Tom Colors - UP",
+      "hex": "#FC9606",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunset Boulevard",
+        "hex": "#FF9607",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "tomcolor/tc-0204",
+      "name": "Cinza Azulado Médio",
+      "code": "TC-0204",
+      "set": "Tom Colors",
+      "hex": "#4A5B6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Harbour",
+        "hex": "#495867",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "tomcolor/tc-0207",
+      "name": "Cinza Médio",
+      "code": "TC-0207",
+      "set": "Tom Colors",
+      "hex": "#7B8A91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Academy Grey",
+        "hex": "#79888E",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "tomcolor/tc-0127",
+      "name": "Cockpit Green Raf",
+      "code": "TC-0127",
+      "set": "Tom Colors",
+      "hex": "#909E91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balsam Fir",
+        "hex": "#909E91",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0240",
+      "name": "Couro Branco",
+      "code": "TC-0240",
+      "set": "Tom Colors",
+      "hex": "#D8D1BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grand Piano",
+        "hex": "#D8D0BD",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "tomcolor/tcup-13",
+      "name": "Couro Da Cuca",
+      "code": "TCUP-13",
+      "set": "Tom Colors - UP",
+      "hex": "#0F2822",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Slate Green",
+        "hex": "#0F261F",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "tomcolor/tc-0098",
+      "name": "Dark Black Green Ijn",
+      "code": "TC-0098",
+      "set": "Tom Colors",
+      "hex": "#444643",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brattle Spruce",
+        "hex": "#454743",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "tomcolor/tc-0311",
+      "name": "Dark Blue 438m",
+      "code": "TC-0311",
+      "set": "Tom Colors",
+      "hex": "#153238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ore Bluish Black",
+        "hex": "#1C3339",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "tomcolor/tc-0067",
+      "name": "Dark Cammo Grey Bs629",
+      "code": "TC-0067",
+      "set": "Tom Colors",
+      "hex": "#68798D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Always Indigo",
+        "hex": "#66778C",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "tomcolor/tc-0118",
+      "name": "Dark Earth Raf",
+      "code": "TC-0118",
+      "set": "Tom Colors",
+      "hex": "#5D4A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightingale",
+        "hex": "#5C4827",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "tomcolor/tc-0119",
+      "name": "Dark Green Raf",
+      "code": "TC-0119",
+      "set": "Tom Colors",
+      "hex": "#4F5143",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "tomcolor/tc-0134",
+      "name": "Dark Mediterranean Blue",
+      "code": "TC-0134",
+      "set": "Tom Colors",
+      "hex": "#223754",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nautilus",
+        "hex": "#273C5A",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0125",
+      "name": "Dark Sea Grey",
+      "code": "TC-0125",
+      "set": "Tom Colors",
+      "hex": "#4D5760",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark and Stormy Night",
+        "hex": "#4F5A62",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "tomcolor/tc-0310",
+      "name": "Deck Tan",
+      "code": "TC-0310",
+      "set": "Tom Colors",
+      "hex": "#CDB593",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Tan",
+        "hex": "#CBB391",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "tomcolor/tc-0109",
+      "name": "Deep Dark Green Ijn",
+      "code": "TC-0109",
+      "set": "Tom Colors",
+      "hex": "#36504D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silk Crepe Grey",
+        "hex": "#354E4B",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "tomcolor/tc-0320",
+      "name": "Deep Skin Tone",
+      "code": "TC-0320",
+      "set": "Tom Colors",
+      "hex": "#634F36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Palm",
+        "hex": "#675239",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "tomcolor/tc-0216",
+      "name": "Dk Olive Green 328m",
+      "code": "TC-0216",
+      "set": "Tom Colors",
+      "hex": "#2B3928",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 2.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0101",
+      "name": "Dunkelgrau Dkm51",
+      "code": "TC-0101",
+      "set": "Tom Colors",
+      "hex": "#828D9F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prophetic Sea",
+        "hex": "#818B9C",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "tomcolor/tcup-14",
+      "name": "Escama do Boitatá",
+      "code": "TCUP-14",
+      "set": "Tom Colors - UP",
+      "hex": "#295673",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacrifice",
+        "hex": "#2A5774",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "tomcolor/tc-0116",
+      "name": "Extra Dark Sea Green Raf",
+      "code": "TC-0116",
+      "set": "Tom Colors",
+      "hex": "#475643",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castellan Green",
+        "hex": "#455440",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "tomcolor/tc-0165",
+      "name": "Extra Dark Sea Grey",
+      "code": "TC-0165",
+      "set": "Tom Colors",
+      "hex": "#60606A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Script Ink",
+        "hex": "#60616B",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "tomcolor/tc-0009",
+      "name": "FS 10266",
+      "code": "TC-0009",
+      "set": "Tom Colors",
+      "hex": "#C8924C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Copper",
+        "hex": "#C48F4B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "tomcolor/tc-0010",
+      "name": "FS 13655",
+      "code": "TC-0010",
+      "set": "Tom Colors",
+      "hex": "#F4B215",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midas Finger Gold",
+        "hex": "#F6B404",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "tomcolor/tc-0026",
+      "name": "FS 14151",
+      "code": "TC-0026",
+      "set": "Tom Colors",
+      "hex": "#6E6C2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aged Mustard Green",
+        "hex": "#6E6E30",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "tomcolor/tc-0011",
+      "name": "FS 15045",
+      "code": "TC-0011",
+      "set": "Tom Colors",
+      "hex": "#142A38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oceanic Noir",
+        "hex": "#172B36",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "tomcolor/tc-0012",
+      "name": "FS 15050",
+      "code": "TC-0012",
+      "set": "Tom Colors",
+      "hex": "#183652",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beyond the Stars",
+        "hex": "#0A3251",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "tomcolor/tc-0058",
+      "name": "FS 30051",
+      "code": "TC-0058",
+      "set": "Tom Colors",
+      "hex": "#512B14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bittersweet Chocolate",
+        "hex": "#4F2B17",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "tomcolor/tc-0027",
+      "name": "FS 30095",
+      "code": "TC-0027",
+      "set": "Tom Colors",
+      "hex": "#9D7C4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pyramid",
+        "hex": "#9F7D4F",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "tomcolor/fs-30117",
+      "name": "FS 30117 Earth Red",
+      "code": "FS-30117",
+      "set": "Tom Colors",
+      "hex": "#372415",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wetlands Swamp",
+        "hex": "#372418",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "tomcolor/tc-0045",
+      "name": "FS 30118",
+      "code": "TC-0045",
+      "set": "Tom Colors",
+      "hex": "#6E5326",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horses Neck",
+        "hex": "#6D562C",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "tomcolor/tc-0131",
+      "name": "FS 30140 Air Force Brown",
+      "code": "TC-0131",
+      "set": "Tom Colors",
+      "hex": "#665043",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Revival Mahogany",
+        "hex": "#665043",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0051",
+      "name": "FS 30219",
+      "code": "TC-0051",
+      "set": "Tom Colors",
+      "hex": "#825F3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Village Lane",
+        "hex": "#825F40",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "tomcolor/tc-0008",
+      "name": "FS 30260",
+      "code": "TC-0008",
+      "set": "Tom Colors",
+      "hex": "#BFA35A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nonpareil Apple",
+        "hex": "#C1A65C",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "tomcolor/tc-0020",
+      "name": "FS 30279",
+      "code": "TC-0020",
+      "set": "Tom Colors",
+      "hex": "#B9986D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shelter",
+        "hex": "#B8986C",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "tomcolor/tc-0044",
+      "name": "FS 33070",
+      "code": "TC-0044",
+      "set": "Tom Colors",
+      "hex": "#505338",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amazon Depths",
+        "hex": "#505338",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0025",
+      "name": "FS 33481 Zinc Chromate Yellow",
+      "code": "TC-0025",
+      "set": "Tom Colors",
+      "hex": "#ACA300",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jīn Sè Gold",
+        "hex": "#A5A502",
+        "delta_e": 2.36
+      }
+    },
+    {
+      "id": "tomcolor/tc-0059",
+      "name": "FS 33531",
+      "code": "TC-0059",
+      "set": "Tom Colors",
+      "hex": "#C1AE9F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chelsea Mauve",
+        "hex": "#BEAC9F",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0028",
+      "name": "FS 34079",
+      "code": "TC-0028",
+      "set": "Tom Colors",
+      "hex": "#42412C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green 383",
+        "hex": "#3E3D29",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "tomcolor/tc-0043",
+      "name": "FS 34083",
+      "code": "TC-0043",
+      "set": "Tom Colors",
+      "hex": "#667147",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grass Blade",
+        "hex": "#636F46",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "tomcolor/tc-0016",
+      "name": "FS 34086",
+      "code": "TC-0016",
+      "set": "Tom Colors",
+      "hex": "#3F402E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "tomcolor/tc-0017",
+      "name": "FS 34088",
+      "code": "TC-0017",
+      "set": "Tom Colors",
+      "hex": "#5C583F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuscan Olive",
+        "hex": "#5D583E",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "tomcolor/tc-0018",
+      "name": "FS 34092",
+      "code": "TC-0018",
+      "set": "Tom Colors",
+      "hex": "#4A5952",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Secluded Woods",
+        "hex": "#495A52",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "tomcolor/tc-0054",
+      "name": "FS 34094",
+      "code": "TC-0054",
+      "set": "Tom Colors",
+      "hex": "#3B4B2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palm Leaf",
+        "hex": "#36482F",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "tomcolor/tc-0041",
+      "name": "FS 34102",
+      "code": "TC-0041",
+      "set": "Tom Colors",
+      "hex": "#5C644C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oitake Green",
+        "hex": "#5E644F",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "tomcolor/tc-0256",
+      "name": "FS 34159",
+      "code": "TC-0256",
+      "set": "Tom Colors",
+      "hex": "#5F7066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balmy Palm Tree",
+        "hex": "#5C6F64",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "tomcolor/tc-0037",
+      "name": "FS 34227",
+      "code": "TC-0037",
+      "set": "Tom Colors",
+      "hex": "#79896F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chlorosis",
+        "hex": "#75876E",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "tomcolor/tc-0029",
+      "name": "FS 34424",
+      "code": "TC-0029",
+      "set": "Tom Colors",
+      "hex": "#B2BB8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gloaming Green",
+        "hex": "#B4BE93",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "tomcolor/tc-0015",
+      "name": "FS 35164",
+      "code": "TC-0015",
+      "set": "Tom Colors",
+      "hex": "#627281",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glide Time",
+        "hex": "#5D6F80",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "tomcolor/tc-0023",
+      "name": "FS 35189",
+      "code": "TC-0023",
+      "set": "Tom Colors",
+      "hex": "#789FA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gould Blue",
+        "hex": "#7D9EA2",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "tomcolor/tc-0032",
+      "name": "FS 35231",
+      "code": "TC-0032",
+      "set": "Tom Colors",
+      "hex": "#7094B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cranberry Blue",
+        "hex": "#7494B1",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0048",
+      "name": "FS 35237",
+      "code": "TC-0048",
+      "set": "Tom Colors",
+      "hex": "#6E7E8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slate Expectations",
+        "hex": "#6E7F8D",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "tomcolor/tc-0253",
+      "name": "FS 36081 Dark Gunship Grey",
+      "code": "TC-0253",
+      "set": "Tom Colors",
+      "hex": "#25221D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chestnut Oak",
+        "hex": "#252321",
+        "delta_e": 2.01
+      }
+    },
+    {
+      "id": "tomcolor/tc-0014",
+      "name": "FS 36118 Gunship Grey",
+      "code": "TC-0014",
+      "set": "Tom Colors",
+      "hex": "#414149",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcanic Sand",
+        "hex": "#404048",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "tomcolor/tc-0034",
+      "name": "FS 36152",
+      "code": "TC-0034",
+      "set": "Tom Colors",
+      "hex": "#5D6268",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carriage Wheel",
+        "hex": "#5D6367",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "tomcolor/tc-0021",
+      "name": "FS 36176",
+      "code": "TC-0021",
+      "set": "Tom Colors",
+      "hex": "#6E7881",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sheffield Grey",
+        "hex": "#6B7680",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0030",
+      "name": "FS 36187",
+      "code": "TC-0030",
+      "set": "Tom Colors",
+      "hex": "#5B7075",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Portsmouth Blue",
+        "hex": "#5B7074",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "tomcolor/tc-0019",
+      "name": "FS 36231",
+      "code": "TC-0019",
+      "set": "Tom Colors",
+      "hex": "#7E8386",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Software",
+        "hex": "#7F8486",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "tomcolor/tc-0031",
+      "name": "FS 36270",
+      "code": "TC-0031",
+      "set": "Tom Colors",
+      "hex": "#848A8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "City Storm",
+        "hex": "#888C8C",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "tomcolor/tc-0039",
+      "name": "FS 36314",
+      "code": "TC-0039",
+      "set": "Tom Colors",
+      "hex": "#8B908C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Storms Mountain",
+        "hex": "#8D9390",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "tomcolor/tc-0050",
+      "name": "FS 36320",
+      "code": "TC-0050",
+      "set": "Tom Colors",
+      "hex": "#8B959E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Dusk",
+        "hex": "#8C959D",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "tomcolor/tc-0042",
+      "name": "FS 36375",
+      "code": "TC-0042",
+      "set": "Tom Colors",
+      "hex": "#8491A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fantasy Grey",
+        "hex": "#8591A2",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "tomcolor/tc-0024",
+      "name": "FS 36440",
+      "code": "TC-0024",
+      "set": "Tom Colors",
+      "hex": "#959A94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Toe",
+        "hex": "#929894",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "tomcolor/tc-0047",
+      "name": "FS 36622",
+      "code": "TC-0047",
+      "set": "Tom Colors",
+      "hex": "#D1D2C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wishing Well",
+        "hex": "#D0D1C1",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "tomcolor/tc-0035",
+      "name": "FS 37030",
+      "code": "TC-0035",
+      "set": "Tom Colors",
+      "hex": "#0B0F10",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Side of the Moon",
+        "hex": "#070D0D",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "tomcolor/tc-0013",
+      "name": "FS 37875 Insignia White",
+      "code": "TC-0013",
+      "set": "Tom Colors",
+      "hex": "#E9E9DF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ice Dream",
+        "hex": "#EAEBE1",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "tomcolor/tc-0157",
+      "name": "Faded Blue Jeans",
+      "code": "TC-0157",
+      "set": "Tom Colors",
+      "hex": "#70929B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silk Khimar",
+        "hex": "#70939E",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "tomcolor/tc-0252",
+      "name": "Field Grey Base 1 (verde)",
+      "code": "TC-0252",
+      "set": "Tom Colors",
+      "hex": "#5C6759",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Bottlebrush",
+        "hex": "#5E675A",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "tomcolor/tc-0321",
+      "name": "Field Grey Base 2 (cinza)",
+      "code": "TC-0321",
+      "set": "Tom Colors",
+      "hex": "#434538",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treasure Island",
+        "hex": "#47493B",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "tomcolor/tc-0153",
+      "name": "Field Grey Green Shadow",
+      "code": "TC-0153",
+      "set": "Tom Colors",
+      "hex": "#464C3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duffel Bag",
+        "hex": "#464E3F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "tomcolor/tc-0055",
+      "name": "Field Uniform Brown",
+      "code": "TC-0055",
+      "set": "Tom Colors",
+      "hex": "#8C6848",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Horses",
+        "hex": "#8D6747",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "tomcolor/tc-0229",
+      "name": "Flat Dark Earth",
+      "code": "TC-0229",
+      "set": "Tom Colors",
+      "hex": "#816F61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusty Chestnut",
+        "hex": "#847163",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0223",
+      "name": "Flight Deck Stain",
+      "code": "TC-0223",
+      "set": "Tom Colors",
+      "hex": "#26252A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Darth Vader",
+        "hex": "#27252A",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0138",
+      "name": "Foliage Green",
+      "code": "TC-0138",
+      "set": "Tom Colors",
+      "hex": "#3E534C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Everglade",
+        "hex": "#3E554F",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "tomcolor/tc-0192",
+      "name": "Forerst Green 2",
+      "code": "TC-0192",
+      "set": "Tom Colors",
+      "hex": "#375322",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Green",
+        "hex": "#2A4F21",
+        "delta_e": 2.92
+      }
+    },
+    {
+      "id": "tomcolor/tc-0222",
+      "name": "Forest Green",
+      "code": "TC-0222",
+      "set": "Tom Colors",
+      "hex": "#43451E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "tomcolor/tc-0192~2",
+      "name": "Forest Green V.2",
+      "code": "TC-0192",
+      "set": "Tom Colors",
+      "hex": "#3B4B30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palm Leaf",
+        "hex": "#36482F",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "tomcolor/tc-0231",
+      "name": "German Pale Brown",
+      "code": "TC-0231",
+      "set": "Tom Colors",
+      "hex": "#7D6857",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roman Coffee",
+        "hex": "#7D6757",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "tomcolor/tc-0155",
+      "name": "Giallo Mimetico 1",
+      "code": "TC-0155",
+      "set": "Tom Colors",
+      "hex": "#CFAE5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert",
+        "hex": "#CCAD60",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "tomcolor/tc-0141",
+      "name": "Giallo Mimetico 2",
+      "code": "TC-0141",
+      "set": "Tom Colors",
+      "hex": "#C2A945",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deadsy",
+        "hex": "#C2A84B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "tomcolor/tc-0132",
+      "name": "Giallo Mimetico 4",
+      "code": "TC-0132",
+      "set": "Tom Colors",
+      "hex": "#A68248",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Suede",
+        "hex": "#A78045",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "tomcolor/tc-0136",
+      "name": "Grigio Azzurro Scuro 3",
+      "code": "TC-0136",
+      "set": "Tom Colors",
+      "hex": "#414850",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Duck Grey",
+        "hex": "#40464D",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "tomcolor/tc-0139",
+      "name": "Grigio Mimetico",
+      "code": "TC-0139",
+      "set": "Tom Colors",
+      "hex": "#919690",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Toe",
+        "hex": "#929894",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "tomcolor/tc-0269",
+      "name": "Grigio Verde",
+      "code": "TC-0269",
+      "set": "Tom Colors",
+      "hex": "#555D48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forest Ridge",
+        "hex": "#555D46",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "tomcolor/tc-0141~2",
+      "name": "Gris Bleu Chair",
+      "code": "TC-0141",
+      "set": "Tom Colors",
+      "hex": "#66899C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seal Pup",
+        "hex": "#65869B",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "tomcolor/tc-0137",
+      "name": "Gris Bleu Fonce",
+      "code": "TC-0137",
+      "set": "Tom Colors",
+      "hex": "#577077",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bowman Blue",
+        "hex": "#587176",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "tomcolor/tc-0176",
+      "name": "Haze Grey Usn WW2",
+      "code": "TC-0176",
+      "set": "Tom Colors",
+      "hex": "#8A8E91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Pewter",
+        "hex": "#898D91",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "tomcolor/tc-0305",
+      "name": "Highlight Skin Tone",
+      "code": "TC-0305",
+      "set": "Tom Colors",
+      "hex": "#D2DAE5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sueded Grey",
+        "hex": "#D3DBE7",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "tomcolor/tc-0243",
+      "name": "Hull Red",
+      "code": "TC-0243",
+      "set": "Tom Colors",
+      "hex": "#381A02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "90% Cocoa",
+        "hex": "#3D1C02",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "tomcolor/tc-0218",
+      "name": "Idf Green",
+      "code": "TC-0218",
+      "set": "Tom Colors",
+      "hex": "#394320",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Avocado Dark Green",
+        "hex": "#3E4826",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "tomcolor/tc-0107",
+      "name": "Ija Light Green Grey",
+      "code": "TC-0107",
+      "set": "Tom Colors",
+      "hex": "#89A08C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Track Green",
+        "hex": "#849E88",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "tomcolor/tc-0166",
+      "name": "Japan Flight Suit Base",
+      "code": "TC-0166",
+      "set": "Tom Colors",
+      "hex": "#745B25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Brown",
+        "hex": "#715B2E",
+        "delta_e": 2.15
+      }
+    },
+    {
+      "id": "tomcolor/tc-0230",
+      "name": "Japan Uniform Base",
+      "code": "TC-0230",
+      "set": "Tom Colors",
+      "hex": "#956F1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Puma",
+        "hex": "#96711C",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "tomcolor/tc-0103",
+      "name": "Khaki Brown Ija",
+      "code": "TC-0103",
+      "set": "Tom Colors",
+      "hex": "#655847",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lewisham",
+        "hex": "#675A49",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "tomcolor/tc-0152",
+      "name": "Leather Brown",
+      "code": "TC-0152",
+      "set": "Tom Colors",
+      "hex": "#4C382F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Button Eyes",
+        "hex": "#4F3A32",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "tomcolor/tc-0227",
+      "name": "Leather Suit Base",
+      "code": "TC-0227",
+      "set": "Tom Colors",
+      "hex": "#201404",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cannon Black",
+        "hex": "#251706",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "tomcolor/tc-0309",
+      "name": "Leather Suit Shadow",
+      "code": "TC-0309",
+      "set": "Tom Colors",
+      "hex": "#201404",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cannon Black",
+        "hex": "#251706",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "tomcolor/tc-0228",
+      "name": "Light Green",
+      "code": "TC-0228",
+      "set": "Tom Colors",
+      "hex": "#788442",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Laird",
+        "hex": "#79853C",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "tomcolor/tc-0208",
+      "name": "Light Grey 627",
+      "code": "TC-0208",
+      "set": "Tom Colors",
+      "hex": "#B8B9B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chelsea Grey",
+        "hex": "#B6B7B0",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "tomcolor/tc-0056",
+      "name": "Light Wood",
+      "code": "TC-0056",
+      "set": "Tom Colors",
+      "hex": "#D5BE78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Further Afield",
+        "hex": "#D2BB79",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "tomcolor/tc-0247",
+      "name": "London Grey RAL 7026",
+      "code": "TC-0247",
+      "set": "Tom Colors",
+      "hex": "#364349",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Stone",
+        "hex": "#334046",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "tomcolor/tc-0102",
+      "name": "Luftwaffe WW2 Uniform Base",
+      "code": "TC-0102",
+      "set": "Tom Colors",
+      "hex": "#3A4849",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mechanicus Standard Grey",
+        "hex": "#3D4B4D",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "tomcolor/tc-0195",
+      "name": "Luftwaffe WW2 Uniform Light",
+      "code": "TC-0195",
+      "set": "Tom Colors",
+      "hex": "#565855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Addo",
+        "hex": "#545651",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "tomcolor/tc-0046",
+      "name": "Luftwaffe WW2 Uniform Shadow",
+      "code": "TC-0046",
+      "set": "Tom Colors",
+      "hex": "#07131F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Edition",
+        "hex": "#0C121B",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "tomcolor/tc-0172",
+      "name": "M-485 Blue Grey",
+      "code": "TC-0172",
+      "set": "Tom Colors",
+      "hex": "#70838A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Steel",
+        "hex": "#6F828A",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "tomcolor/tc-0185",
+      "name": "Marrone Mimetico 1",
+      "code": "TC-0185",
+      "set": "Tom Colors",
+      "hex": "#843731",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heirloom Tomato",
+        "hex": "#833633",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "tomcolor/tc-0201",
+      "name": "Marrone Mimetico 53193",
+      "code": "TC-0201",
+      "set": "Tom Colors",
+      "hex": "#785D48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mission Brown",
+        "hex": "#775C47",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "tomcolor/tc-0168",
+      "name": "Medium Green 42",
+      "code": "TC-0168",
+      "set": "Tom Colors",
+      "hex": "#3B564F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Clover",
+        "hex": "#3C574E",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "tomcolor/tc-0122",
+      "name": "Medium Sea Grey",
+      "code": "TC-0122",
+      "set": "Tom Colors",
+      "hex": "#6B6B63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armoury",
+        "hex": "#6A6B65",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "tomcolor/tc-0307",
+      "name": "Medium Skin Tone",
+      "code": "TC-0307",
+      "set": "Tom Colors",
+      "hex": "#C9AD86",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Middlestone",
+        "hex": "#C7AB84",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "tomcolor/tc-0187",
+      "name": "Medium Tan",
+      "code": "TC-0187",
+      "set": "Tom Colors",
+      "hex": "#A0846E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iced Mocha",
+        "hex": "#A3846C",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "tomcolor/tc-0175",
+      "name": "Merdc Forest Green",
+      "code": "TC-0175",
+      "set": "Tom Colors",
+      "hex": "#454C19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Army Green",
+        "hex": "#4B5320",
+        "delta_e": 2.33
+      }
+    },
+    {
+      "id": "tomcolor/tc-0113",
+      "name": "Middlestone Raf",
+      "code": "TC-0113",
+      "set": "Tom Colors",
+      "hex": "#A37D3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Organic Style",
+        "hex": "#A67E3E",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "tomcolor/tc-0184",
+      "name": "Mig 25/31 Grey",
+      "code": "TC-0184",
+      "set": "Tom Colors",
+      "hex": "#BFC0BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hailstorm Grey",
+        "hex": "#BDBEB9",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "tomcolor/tc-0200",
+      "name": "Nato Black",
+      "code": "TC-0200",
+      "set": "Tom Colors",
+      "hex": "#202423",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bitter Liquorice",
+        "hex": "#262926",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "tomcolor/tc-0198",
+      "name": "Nato Brown",
+      "code": "TC-0198",
+      "set": "Tom Colors",
+      "hex": "#493326",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Brown",
+        "hex": "#4B3526",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0199",
+      "name": "Nato Green",
+      "code": "TC-0199",
+      "set": "Tom Colors",
+      "hex": "#2B3F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "tomcolor/tc-0189",
+      "name": "Navy Blue Usn WW2",
+      "code": "TC-0189",
+      "set": "Tom Colors",
+      "hex": "#4B6C73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Holy Water",
+        "hex": "#466E77",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0171",
+      "name": "NeutRAL Grey 43 Versão 1",
+      "code": "TC-0171",
+      "set": "Tom Colors",
+      "hex": "#6A6B66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armoury",
+        "hex": "#6A6B65",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "tomcolor/tc-0149",
+      "name": "Nicciola Chiaro 4",
+      "code": "TC-0149",
+      "set": "Tom Colors",
+      "hex": "#8B705B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Georgia Brown",
+        "hex": "#8B715A",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "tomcolor/tc-0114",
+      "name": "Night Blue",
+      "code": "TC-0114",
+      "set": "Tom Colors",
+      "hex": "#022135",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyanophobia",
+        "hex": "#001F33",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "tomcolor/tc-0217",
+      "name": "Night Grey",
+      "code": "TC-0217",
+      "set": "Tom Colors",
+      "hex": "#24201D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orka Black",
+        "hex": "#27221F",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "tomcolor/tcup-17",
+      "name": "Noz Moscada",
+      "code": "TCUP-17",
+      "set": "Tom Colors - UP",
+      "hex": "#351814",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Darkroom",
+        "hex": "#2F1611",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "tomcolor/tc-0147",
+      "name": "Nº 9 Olive Drab Us Army WW2",
+      "code": "TC-0147",
+      "set": "Tom Colors",
+      "hex": "#423C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Madras",
+        "hex": "#473E23",
+        "delta_e": 2.68
+      }
+    },
+    {
+      "id": "tomcolor/tc-0121",
+      "name": "Ocean Grey Raf",
+      "code": "TC-0121",
+      "set": "Tom Colors",
+      "hex": "#6B7775",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rolling Stone",
+        "hex": "#6D7876",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0202",
+      "name": "Ochre Brown",
+      "code": "TC-0202",
+      "set": "Tom Colors",
+      "hex": "#B58D4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Acorn",
+        "hex": "#B68D4C",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "tomcolor/tc-0167",
+      "name": "Olive Drab 41",
+      "code": "TC-0167",
+      "set": "Tom Colors",
+      "hex": "#5F5935",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maze",
+        "hex": "#5C5638",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "tomcolor/tc-0104",
+      "name": "Olive Green Ija",
+      "code": "TC-0104",
+      "set": "Tom Colors",
+      "hex": "#4C483D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Philosophically Speaking",
+        "hex": "#4D483D",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "tomcolor/raf",
+      "name": "Oxford Blue",
+      "code": "RAF",
+      "set": "Tom Colors",
+      "hex": "#002147",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oxford Blue",
+        "hex": "#002147",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0225",
+      "name": "Oxide Brown",
+      "code": "TC-0225",
+      "set": "Tom Colors",
+      "hex": "#673222",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Freshly Roasted Coffee",
+        "hex": "#663322",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "tomcolor/tc-0069",
+      "name": "Pale Green Idf",
+      "code": "TC-0069",
+      "set": "Tom Colors",
+      "hex": "#75845B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terrain",
+        "hex": "#708157",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "tomcolor/tc-0203",
+      "name": "Pastel Green",
+      "code": "TC-0203",
+      "set": "Tom Colors",
+      "hex": "#9DA282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zebra Grass",
+        "hex": "#9DA286",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "tomcolor/tcup-18",
+      "name": "Pelo de Lobisomem",
+      "code": "TCUP-18",
+      "set": "Tom Colors - UP",
+      "hex": "#3A1F16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Pod",
+        "hex": "#3C241B",
+        "delta_e": 1.94
+      }
+    },
+    {
+      "id": "tomcolor/tc-0004",
+      "name": "Preto",
+      "code": "TC-0004",
+      "set": "Tom Colors",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0214",
+      "name": "Preto Locomotiva",
+      "code": "TC-0214",
+      "set": "Tom Colors",
+      "hex": "#040404",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Armour Wash",
+        "hex": "#030303",
+        "delta_e": 0.16
+      }
+    },
+    {
+      "id": "tomcolor/tcp-003",
+      "name": "Primer Acrílico Branco",
+      "code": "TCP-003",
+      "set": "Tom Colors - Primer",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tcp-001",
+      "name": "Primer Acrílico Cinza",
+      "code": "TCP-001",
+      "set": "Tom Colors - Primer",
+      "hex": "#A1ABAD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Slate",
+        "hex": "#9FABAD",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "tomcolor/tcp-004",
+      "name": "Primer Acrílico Flesh Base",
+      "code": "TCP-004",
+      "set": "Tom Colors - Primer",
+      "hex": "#DFCB90",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sonoma Chardonnay",
+        "hex": "#DDCB91",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "tomcolor/tcp-006",
+      "name": "Primer Acrílico Olive Drab",
+      "code": "TCP-006",
+      "set": "Tom Colors - Primer",
+      "hex": "#3A4032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kombu Green",
+        "hex": "#3A4032",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tcp-002",
+      "name": "Primer Acrílico Preto",
+      "code": "TCP-002",
+      "set": "Tom Colors - Primer",
+      "hex": "#060608",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Metal",
+        "hex": "#060606",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "tomcolor/tcp-005",
+      "name": "Primer Acrílico Zinc Chromate Yellow",
+      "code": "TCP-005",
+      "set": "Tom Colors - Primer",
+      "hex": "#EBD238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Cheese",
+        "hex": "#E9D035",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "tomcolor/tc-0084",
+      "name": "RAL 5008 Graublau",
+      "code": "TC-0084",
+      "set": "Tom Colors",
+      "hex": "#303A46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biro Blue",
+        "hex": "#2F3946",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "tomcolor/tc-0089",
+      "name": "RAL 6011",
+      "code": "TC-0089",
+      "set": "Tom Colors",
+      "hex": "#6D7B58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kariyasu Green",
+        "hex": "#6E7955",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "tomcolor/tc-0093",
+      "name": "RAL 7000 Squirrel Grey",
+      "code": "TC-0093",
+      "set": "Tom Colors",
+      "hex": "#7A878D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Academy Grey",
+        "hex": "#79888E",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "tomcolor/tc-0091",
+      "name": "RAL 7001 Silbergrau",
+      "code": "TC-0091",
+      "set": "Tom Colors",
+      "hex": "#959CA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shining Knight",
+        "hex": "#989EA7",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "tomcolor/tc-0086",
+      "name": "RAL 7009",
+      "code": "TC-0086",
+      "set": "Tom Colors",
+      "hex": "#656661",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Locust",
+        "hex": "#646763",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "tomcolor/tc-0085",
+      "name": "RAL 7011 Iron Grey",
+      "code": "TC-0085",
+      "set": "Tom Colors",
+      "hex": "#545C5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "City Rain",
+        "hex": "#525C61",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "tomcolor/tc-0088",
+      "name": "RAL 7012 Basaltgrau",
+      "code": "TC-0088",
+      "set": "Tom Colors",
+      "hex": "#565E61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Anchor Grey",
+        "hex": "#596062",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "tomcolor/tc-0092",
+      "name": "RAL 7035",
+      "code": "TC-0092",
+      "set": "Tom Colors",
+      "hex": "#C5C7C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Solitary State",
+        "hex": "#C4C7C4",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "tomcolor/tc-0087",
+      "name": "RAL 7042 Trafic Grey",
+      "code": "TC-0087",
+      "set": "Tom Colors",
+      "hex": "#7B7F7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whale",
+        "hex": "#7C8181",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "tomcolor/tc-0065",
+      "name": "Radome Grey Modern Jets",
+      "code": "TC-0065",
+      "set": "Tom Colors",
+      "hex": "#828888",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pirate Silver",
+        "hex": "#818988",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "tomcolor/tc-0212",
+      "name": "Raf Dark Green 1975-now",
+      "code": "TC-0212",
+      "set": "Tom Colors",
+      "hex": "#434E52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsidian",
+        "hex": "#445055",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "tomcolor/tc-0115",
+      "name": "Raf Insignia Blue",
+      "code": "TC-0115",
+      "set": "Tom Colors",
+      "hex": "#02224B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oxford Blue",
+        "hex": "#002147",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "tomcolor/tc-0117",
+      "name": "Raf Light Aircraft Grey",
+      "code": "TC-0117",
+      "set": "Tom Colors",
+      "hex": "#B0B1AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plymouth Grey",
+        "hex": "#B0B1AC",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "tomcolor/tc-0096",
+      "name": "Raf Pru Blue Faded",
+      "code": "TC-0096",
+      "set": "Tom Colors",
+      "hex": "#648CA6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Crystal",
+        "hex": "#608BA6",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "tomcolor/tc-0099",
+      "name": "Raf WW2 Uniform Base",
+      "code": "TC-0099",
+      "set": "Tom Colors",
+      "hex": "#384452",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Starlit Eve",
+        "hex": "#384351",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "tomcolor/tc-0193",
+      "name": "Raf WW2 Uniform Shadow",
+      "code": "TC-0193",
+      "set": "Tom Colors",
+      "hex": "#0D1917",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Glaze",
+        "hex": "#001111",
+        "delta_e": 2.63
+      }
+    },
+    {
+      "id": "tomcolor/tc-0066",
+      "name": "Rlm 02 Grau",
+      "code": "TC-0066",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0300",
+      "name": "Rlm 04",
+      "code": "TC-0300",
+      "set": "Tom Colors",
+      "hex": "#0B0C07",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinister",
+        "hex": "#12110E",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "tomcolor/tc-0082",
+      "name": "Rlm 21 Weiss",
+      "code": "TC-0082",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0312",
+      "name": "Rlm 22 Schwarz",
+      "code": "TC-0312",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0036",
+      "name": "Rlm 61",
+      "code": "TC-0036",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0296",
+      "name": "Rlm 62",
+      "code": "TC-0296",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0106",
+      "name": "Rlm 63",
+      "code": "TC-0106",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0068",
+      "name": "Rlm 65",
+      "code": "TC-0068",
+      "set": "Tom Colors",
+      "hex": "#0C0E0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "tomcolor/tc-0301",
+      "name": "Rlm 66",
+      "code": "TC-0301",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0077",
+      "name": "Rlm 70",
+      "code": "TC-0077",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0070",
+      "name": "Rlm 71 Dunkelgrun",
+      "code": "TC-0070",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0254",
+      "name": "Rlm 73",
+      "code": "TC-0254",
+      "set": "Tom Colors",
+      "hex": "#23241C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maire",
+        "hex": "#2A2922",
+        "delta_e": 2.36
+      }
+    },
+    {
+      "id": "tomcolor/tc-0071",
+      "name": "Rlm 74",
+      "code": "TC-0071",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0072",
+      "name": "Rlm 75",
+      "code": "TC-0072",
+      "set": "Tom Colors",
+      "hex": "#0C0C0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0073",
+      "name": "Rlm 76 (v.2)",
+      "code": "TC-0073",
+      "set": "Tom Colors",
+      "hex": "#0B0D0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "tomcolor/tc-0298",
+      "name": "Rlm 78",
+      "code": "TC-0298",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0299",
+      "name": "Rlm 79",
+      "code": "TC-0299",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0081",
+      "name": "Rlm 80",
+      "code": "TC-0081",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0074",
+      "name": "Rlm 81 (v.1)",
+      "code": "TC-0074",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0076",
+      "name": "Rlm 82",
+      "code": "TC-0076",
+      "set": "Tom Colors",
+      "hex": "#0D0D0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Wash",
+        "hex": "#0C0C0C",
+        "delta_e": 0.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0249",
+      "name": "Rlm 83",
+      "code": "TC-0249",
+      "set": "Tom Colors",
+      "hex": "#0E0E0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chaos Black",
+        "hex": "#0F0F0F",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "tomcolor/tcup-23",
+      "name": "Rosa Cessna",
+      "code": "TCUP-23",
+      "set": "Tom Colors - UP",
+      "hex": "#DF82AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Springtime Bloom",
+        "hex": "#DB88AC",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "tomcolor/tcup-24",
+      "name": "Rosa Nina",
+      "code": "TCUP-24",
+      "set": "Tom Colors - UP",
+      "hex": "#F5305E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinese New Year",
+        "hex": "#FF3366",
+        "delta_e": 2.37
+      }
+    },
+    {
+      "id": "tomcolor/tcup-21",
+      "name": "Roxo Puro",
+      "code": "TCUP-21",
+      "set": "Tom Colors - UP",
+      "hex": "#43135D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsidian Shell",
+        "hex": "#441166",
+        "delta_e": 1.98
+      }
+    },
+    {
+      "id": "tomcolor/tc-0064",
+      "name": "Russian 4bo Green",
+      "code": "TC-0064",
+      "set": "Tom Colors",
+      "hex": "#2C3719",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 2.89
+      }
+    },
+    {
+      "id": "tomcolor/tc-0250",
+      "name": "Russian Uniform Shadow",
+      "code": "TC-0250",
+      "set": "Tom Colors",
+      "hex": "#373A25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "tomcolor/tc-0248",
+      "name": "Rusted Umber",
+      "code": "TC-0248",
+      "set": "Tom Colors",
+      "hex": "#513D36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Button Eyes",
+        "hex": "#4F3A32",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "tomcolor/tc-0097~2",
+      "name": "Schlickgrau 58",
+      "code": "TC-0097",
+      "set": "Tom Colors",
+      "hex": "#57605D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Green",
+        "hex": "#545F5B",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "tomcolor/tc-0142",
+      "name": "Seafoam Green",
+      "code": "TC-0142",
+      "set": "Tom Colors",
+      "hex": "#ADB699",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Norwich Green",
+        "hex": "#ACB597",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "tomcolor/tc-0308",
+      "name": "Shadow Skin Tone",
+      "code": "TC-0308",
+      "set": "Tom Colors",
+      "hex": "#574632",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Bronze",
+        "hex": "#51412D",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "tomcolor/tc-0233",
+      "name": "Ship Grey",
+      "code": "TC-0233",
+      "set": "Tom Colors",
+      "hex": "#A6ABAE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ironbreaker Metal",
+        "hex": "#A1A6A9",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "tomcolor/tc-0130",
+      "name": "Silbergrau Dkm50",
+      "code": "TC-0130",
+      "set": "Tom Colors",
+      "hex": "#ADB1BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chivalrous",
+        "hex": "#AEB2C0",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "tomcolor/tc-0241",
+      "name": "Silver Grey",
+      "code": "TC-0241",
+      "set": "Tom Colors",
+      "hex": "#9BA0A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aegean Splendour",
+        "hex": "#9BA0A4",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0120",
+      "name": "Sky Type S",
+      "code": "TC-0120",
+      "set": "Tom Colors",
+      "hex": "#A2A48C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Solid Snake",
+        "hex": "#A1A58C",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "tomcolor/tc-0100",
+      "name": "Stencil White",
+      "code": "TC-0100",
+      "set": "Tom Colors",
+      "hex": "#E0E0D8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reserved White",
+        "hex": "#E0E0D9",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "tomcolor/tcup-05",
+      "name": "Suco De Laranja",
+      "code": "TCUP-05",
+      "set": "Tom Colors - UP",
+      "hex": "#EB3102",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ripe on the Vine",
+        "hex": "#EC2D01",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "tomcolor/tc-0211",
+      "name": "Terra",
+      "code": "TC-0211",
+      "set": "Tom Colors",
+      "hex": "#7D6A5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lye Tinted",
+        "hex": "#7F6B5D",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "tomcolor/tc-0148",
+      "name": "Terre Fonce",
+      "code": "TC-0148",
+      "set": "Tom Colors",
+      "hex": "#645045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Tavern",
+        "hex": "#634E43",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "tomcolor/tc-0088~2",
+      "name": "Tire Black",
+      "code": "TC-0088",
+      "set": "Tom Colors",
+      "hex": "#3D383C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bohemian Black",
+        "hex": "#3B373C",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "tomcolor/tc-0268",
+      "name": "Tire Black Highlight",
+      "code": "TC-0268",
+      "set": "Tom Colors",
+      "hex": "#58595B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Concrete",
+        "hex": "#57595D",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "tomcolor/tc-0156",
+      "name": "U.s. Modern Vehicles Tan",
+      "code": "TC-0156",
+      "set": "Tom Colors",
+      "hex": "#CFB674",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Wandering",
+        "hex": "#CDB573",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "tomcolor/tc-0140",
+      "name": "US Desert Sand",
+      "code": "TC-0140",
+      "set": "Tom Colors",
+      "hex": "#C09E79",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tan Plan",
+        "hex": "#C19E78",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "tomcolor/tc-0239",
+      "name": "US Merdc Field Drab",
+      "code": "TC-0239",
+      "set": "Tom Colors",
+      "hex": "#8E7C68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squirrel",
+        "hex": "#8F7D6B",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0090",
+      "name": "USAF Modern Uniform Base",
+      "code": "TC-0090",
+      "set": "Tom Colors",
+      "hex": "#2A3C22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 1.98
+      }
+    },
+    {
+      "id": "tomcolor/tc-0061",
+      "name": "USAF Modern Uniform Light",
+      "code": "TC-0061",
+      "set": "Tom Colors",
+      "hex": "#586031",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saratoga",
+        "hex": "#555B2C",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "tomcolor/tc-0237",
+      "name": "USAF Modern Uniform Shadow",
+      "code": "TC-0237",
+      "set": "Tom Colors",
+      "hex": "#162017",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pinch of Pepper",
+        "hex": "#0F180A",
+        "delta_e": 2.83
+      }
+    },
+    {
+      "id": "tomcolor/tc-0105",
+      "name": "USAF Pilot Belts And Details",
+      "code": "TC-0105",
+      "set": "Tom Colors",
+      "hex": "#9B9251",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tupelo Tree",
+        "hex": "#9C9152",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "tomcolor/tc-0238",
+      "name": "USAF WW2 Pilot Uniform Shadow",
+      "code": "TC-0238",
+      "set": "Tom Colors",
+      "hex": "#313423",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rangitoto",
+        "hex": "#2E3222",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "tomcolor/tcup-16",
+      "name": "Ultra Branco",
+      "code": "TCUP-16",
+      "set": "Tom Colors - UP",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tcup-22",
+      "name": "Ultra Preto",
+      "code": "TCUP-22",
+      "set": "Tom Colors - UP",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "tomcolor/tc-0242",
+      "name": "Usaaf WW2 Pilot Uniform Base",
+      "code": "TC-0242",
+      "set": "Tom Colors",
+      "hex": "#4D4629",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uniform Green",
+        "hex": "#4C4623",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0006",
+      "name": "Verde",
+      "code": "TC-0006",
+      "set": "Tom Colors",
+      "hex": "#107902",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Hills",
+        "hex": "#007800",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "tomcolor/tcup-12",
+      "name": "Verde Brasil",
+      "code": "TCUP-12",
+      "set": "Tom Colors - UP",
+      "hex": "#043726",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pitch-Black Forests",
+        "hex": "#003322",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "tomcolor/tc-0110",
+      "name": "Verde Khaki",
+      "code": "TC-0110",
+      "set": "Tom Colors",
+      "hex": "#5D573F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuscan Olive",
+        "hex": "#5D583E",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "tomcolor/tc-0206",
+      "name": "Verde Mimetico 2",
+      "code": "TC-0206",
+      "set": "Tom Colors",
+      "hex": "#2E483F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Government Green",
+        "hex": "#32493E",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "tomcolor/tc-0224",
+      "name": "Verde Mimetico 3",
+      "code": "TC-0224",
+      "set": "Tom Colors",
+      "hex": "#555A43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "River Forest",
+        "hex": "#545B45",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "tomcolor/tc-0179",
+      "name": "Verde Mimetico 53192",
+      "code": "TC-0179",
+      "set": "Tom Colors",
+      "hex": "#739D75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horenso Green",
+        "hex": "#789B73",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "tomcolor/tc-0150",
+      "name": "Verde Oliva Scuro 2",
+      "code": "TC-0150",
+      "set": "Tom Colors",
+      "hex": "#313A35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jet Set",
+        "hex": "#2F3734",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "tomcolor/tc-0205",
+      "name": "Verde Selva",
+      "code": "TC-0205",
+      "set": "Tom Colors",
+      "hex": "#3D3C28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green 383",
+        "hex": "#3E3D29",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "tomcolor/tcup-11",
+      "name": "Verde do Duende",
+      "code": "TCUP-11",
+      "set": "Tom Colors - UP",
+      "hex": "#169522",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Irish Green",
+        "hex": "#019529",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "tomcolor/tcup-08",
+      "name": "Vermelho Beterraba",
+      "code": "TCUP-08",
+      "set": "Tom Colors - UP",
+      "hex": "#971A22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Quite Red",
+        "hex": "#97171E",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "tomcolor/tcup-10",
+      "name": "Vermelho Cabelo do Curupira",
+      "code": "TCUP-10",
+      "set": "Tom Colors - UP",
+      "hex": "#950602",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodstained",
+        "hex": "#980001",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "tomcolor/tcup-06",
+      "name": "Vermelho Flame",
+      "code": "TCUP-06",
+      "set": "Tom Colors - UP",
+      "hex": "#E42417",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Halloween Punch",
+        "hex": "#DD2211",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "tomcolor/tcup-09",
+      "name": "Vermelho Gorro de Saci",
+      "code": "TCUP-09",
+      "set": "Tom Colors - UP",
+      "hex": "#C70D22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monza",
+        "hex": "#C7031E",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "tomcolor/tcup-07",
+      "name": "Vermelho Melancia",
+      "code": "TCUP-07",
+      "set": "Tom Colors - UP",
+      "hex": "#DD2F46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Rust",
+        "hex": "#DA2C43",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "tomcolor/tc-0005",
+      "name": "Vermelho Puro",
+      "code": "TC-0005",
+      "set": "Tom Colors",
+      "hex": "#CC0809",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Love for All",
+        "hex": "#CD0106",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "tomcolor/tc-0183",
+      "name": "Vvs Dark Green",
+      "code": "TC-0183",
+      "set": "Tom Colors",
+      "hex": "#224618",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Realm of the Underworld",
+        "hex": "#114411",
+        "delta_e": 2.58
+      }
+    },
+    {
+      "id": "tomcolor/tc-0220",
+      "name": "Woodbrown Médio",
+      "code": "TC-0220",
+      "set": "Tom Colors",
+      "hex": "#6F5B36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bali Batik",
+        "hex": "#6F5937",
+        "delta_e": 1.59
+      }
+    }
+  ]
+}

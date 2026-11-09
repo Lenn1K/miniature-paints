@@ -1,0 +1,40 @@
+name: "Neu erzeugen (Markdown + dist)"
+
+# Läuft automatisch, wenn du data/ direkt auf main änderst (z. B. im GitHub-Web-Editor),
+# und schreibt paints/, dist/ und README zurück.
+on:
+  push:
+    branches: [main, master]
+    paths: ["data/**", "pipeline/**"]
+  workflow_dispatch:
+    inputs:
+      farbnamen:
+        description: "Farbnamen (meodai) neu zuordnen"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - name: Farbnamen zuordnen
+        if: inputs.farbnamen || github.event_name == 'push'
+        run: python -m pipeline.import_colornames
+      - run: python -m pipeline.build
+      - run: python -m pytest -q tests
+      - name: Zurückschreiben
+        run: |
+          git add data paints dist README.md
+          if git diff --cached --quiet; then echo "Nichts zu tun."; exit 0; fi
+          git commit -m "Generierte Dateien aktualisiert [skip ci]"
+          git push
+      - run: python -m pipeline.status --limit 10 >> "$GITHUB_STEP_SUMMARY"

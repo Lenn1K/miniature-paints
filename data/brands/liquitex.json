@@ -1,0 +1,1487 @@
+{
+  "brand": "Liquitex",
+  "slug": "liquitex",
+  "md_file": "Liquitex.md",
+  "logo": "logos/Liquitex.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "liquitex/116",
+      "name": "Alizarin Crimson Hue Permanent",
+      "code": "116",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FCFEFD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emptiness",
+        "hex": "#FCFDFC",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "liquitex/660",
+      "name": "Bright Aqua Green",
+      "code": "660",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#5AAC7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Tourmaline",
+        "hex": "#5EAB81",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "liquitex/570",
+      "name": "Brilliant Blue",
+      "code": "570",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#037BC9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diva Blue",
+        "hex": "#0079C1",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "liquitex/590",
+      "name": "Brilliant Purple",
+      "code": "590",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#8961A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chive Blossom",
+        "hex": "#86619F",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "liquitex/840",
+      "name": "Brilliant Yellow Green",
+      "code": "840",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#B7CF55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citrus Leaf",
+        "hex": "#B3D157",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "liquitex/530",
+      "name": "Bronze Yellow",
+      "code": "530",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#816C33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Time Honoured",
+        "hex": "#7F6D37",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "liquitex/127",
+      "name": "Burnt Sienna",
+      "code": "127",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F1F1F3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Errigal White",
+        "hex": "#F2F2F4",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "liquitex/128",
+      "name": "Burnt Umber",
+      "code": "128",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F1F1F1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snowflake",
+        "hex": "#EFF0F0",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "liquitex/892",
+      "name": "Cadmium-free Orange",
+      "code": "892",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#E87427",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Landscape",
+        "hex": "#E47227",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "liquitex/895",
+      "name": "Cadmium-free Red Deep",
+      "code": "895",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#7D1E26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Dairei Red",
+        "hex": "#7C2229",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "liquitex/893",
+      "name": "Cadmium-free Red Light",
+      "code": "893",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#E0412B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raiden’s Fury",
+        "hex": "#E34029",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "liquitex/894",
+      "name": "Cadmium-free Red Medium",
+      "code": "894",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#B12B2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tartan Red",
+        "hex": "#B1282A",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "liquitex/891",
+      "name": "Cadmium-free Yellow Deep",
+      "code": "891",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#E89509",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Fusion",
+        "hex": "#EB9600",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "liquitex/889",
+      "name": "Cadmium-free Yellow Light",
+      "code": "889",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FCCD43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunglow Gecko",
+        "hex": "#FFCF48",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "liquitex/890",
+      "name": "Cadmium-free Yellow Medium",
+      "code": "890",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#DEA301",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nectar of the Goddess",
+        "hex": "#E3A701",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "liquitex/164",
+      "name": "Cerulean Blue",
+      "code": "164",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#234E7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mykonos Reflection",
+        "hex": "#284C75",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "liquitex/470",
+      "name": "Cerulean Blue Hue",
+      "code": "470",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#1C5E78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saltwater Denim",
+        "hex": "#145C78",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "liquitex/166",
+      "name": "Chromium Oxide Green",
+      "code": "166",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#5C6E34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Venom Wyrm",
+        "hex": "#607038",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "liquitex/300",
+      "name": "Deep Magenta",
+      "code": "300",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#4A1A28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "What We Do in the Shadows",
+        "hex": "#441122",
+        "delta_e": 2.24
+      }
+    },
+    {
+      "id": "liquitex/115",
+      "name": "Deep Violet",
+      "code": "115",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2C0321",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vienna Roast",
+        "hex": "#330022",
+        "delta_e": 2.34
+      }
+    },
+    {
+      "id": "liquitex/186",
+      "name": "Dioxazine Purple",
+      "code": "186",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F3F3F5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Errigal White",
+        "hex": "#F2F2F4",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "liquitex/450",
+      "name": "Emerald Green",
+      "code": "450",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#326F2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green-Eyed Monster",
+        "hex": "#346E23",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "liquitex/984",
+      "name": "Fluorescent Blue",
+      "code": "984",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#00A0FB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rockman Blue",
+        "hex": "#31A2F2",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "liquitex/985",
+      "name": "Fluorescent Green",
+      "code": "985",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2FBD73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Times Square Screens",
+        "hex": "#20C073",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "liquitex/982",
+      "name": "Fluorescent Orange",
+      "code": "982",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FE8D01",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sun Crete",
+        "hex": "#FF8C00",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "liquitex/987",
+      "name": "Fluorescent Pink",
+      "code": "987",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FE4D69",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magic Potion",
+        "hex": "#FF4466",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "liquitex/983",
+      "name": "Fluorescent Red",
+      "code": "983",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FF4C36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotspot",
+        "hex": "#FF4433",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "liquitex/981",
+      "name": "Fluorescent Yellow",
+      "code": "981",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#E1ED6D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mindaro",
+        "hex": "#DAEA6F",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "liquitex/350",
+      "name": "Green Deep Permanent",
+      "code": "350",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#0B4417",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wailing Woods",
+        "hex": "#004411",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "liquitex/325",
+      "name": "Green Gold",
+      "code": "325",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#413915",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camouflage",
+        "hex": "#3C3910",
+        "delta_e": 2.79
+      }
+    },
+    {
+      "id": "liquitex/225",
+      "name": "Hooker’s Green Deep Hue Permanent",
+      "code": "225",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#13271E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Slate Green",
+        "hex": "#0F261F",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "liquitex/224",
+      "name": "Hooker’s Green Hue Permanent",
+      "code": "224",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#DFDFDF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kingly Cloud",
+        "hex": "#DEDEDE",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "liquitex/322",
+      "name": "Indantherene Blue",
+      "code": "322",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2D2439",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bleached Cedar",
+        "hex": "#2C2133",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "liquitex/324",
+      "name": "Indian Yellow",
+      "code": "324",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#C38111",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turmeric Brown",
+        "hex": "#C18116",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "liquitex/208",
+      "name": "Indigo",
+      "code": "208",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#201B22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Demons",
+        "hex": "#201B20",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "liquitex/237",
+      "name": "Iridescent Antique Gold",
+      "code": "237",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#958146",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "G.I.",
+        "hex": "#96834A",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "liquitex/338",
+      "name": "Iridescent Black",
+      "code": "338",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#252328",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Darth Vader",
+        "hex": "#27252A",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "liquitex/234",
+      "name": "Iridescent Bright Gold",
+      "code": "234",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F4F5F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Solid",
+        "hex": "#F4F5FA",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "liquitex/236",
+      "name": "Iridescent Bright Silver",
+      "code": "236",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#9C9E9D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Tone",
+        "hex": "#9D9E9D",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "liquitex/229",
+      "name": "Iridescent Rich Bronze",
+      "code": "229",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#724623",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bunni Brown",
+        "hex": "#6C4522",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "liquitex/230",
+      "name": "Iridescent Rich Copper",
+      "code": "230",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#935337",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tonicha",
+        "hex": "#975437",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "liquitex/235",
+      "name": "Iridescent Rich Gold",
+      "code": "235",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#8C6931",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Squash",
+        "hex": "#8E6C39",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "liquitex/239",
+      "name": "Iridescent Rich Silver",
+      "code": "239",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F1F3F2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "liquitex/227",
+      "name": "Iridescent Rose Gold",
+      "code": "227",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#BA5658",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chōshun Red",
+        "hex": "#B95754",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "liquitex/238",
+      "name": "Iridescent White",
+      "code": "238",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#D9D6CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Timid White",
+        "hex": "#D9D6CF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "liquitex/244",
+      "name": "Ivory Black",
+      "code": "244",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#222325",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verified Black",
+        "hex": "#232324",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "liquitex/156",
+      "name": "Light Bismuth Yellow",
+      "code": "156",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#E3DBAC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Willow",
+        "hex": "#E1D9AA",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "liquitex/770",
+      "name": "Light Blue Permanent",
+      "code": "770",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#8AC5C1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enchanted Isle",
+        "hex": "#8EC5C0",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "liquitex/680",
+      "name": "Light Blue Violet",
+      "code": "680",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#8486C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pleated Mauve",
+        "hex": "#858BC2",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "liquitex/650",
+      "name": "Light Emerald Green",
+      "code": "650",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#5BA23A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ballyhoo",
+        "hex": "#58A83B",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "liquitex/312",
+      "name": "Light Green Permanent",
+      "code": "312",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#367F2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bilbao",
+        "hex": "#3E8027",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "liquitex/313",
+      "name": "Light Phthalocyanine Green",
+      "code": "313",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#8EDBE1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vibrant Soft Blue",
+        "hex": "#88D6DC",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "liquitex/810",
+      "name": "Light Pink",
+      "code": "810",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F2F4F3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "liquitex/275",
+      "name": "Manganese Blue Hue",
+      "code": "275",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#165068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hanada Blue",
+        "hex": "#044F67",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "liquitex/276",
+      "name": "Mars Black",
+      "code": "276",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#232325",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verified Black",
+        "hex": "#232324",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "liquitex/500",
+      "name": "Medium Magenta",
+      "code": "500",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#B53A68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Valentine’s Kiss",
+        "hex": "#B63364",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "liquitex/501",
+      "name": "Muted Green",
+      "code": "501",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#254737",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wine Bottle Green",
+        "hex": "#254636",
+        "delta_e": 0.37
+      }
+    },
+    {
+      "id": "liquitex/505",
+      "name": "Muted Grey",
+      "code": "505",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#343434",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphite Smudge",
+        "hex": "#343434",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "liquitex/504",
+      "name": "Muted Pink",
+      "code": "504",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#523531",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "American Mahogany",
+        "hex": "#52352F",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "liquitex/503",
+      "name": "Muted Turquoise",
+      "code": "503",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#283339",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dracula Orchid",
+        "hex": "#2C3539",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "liquitex/502",
+      "name": "Muted Violet",
+      "code": "502",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#3A2931",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Late Night Out",
+        "hex": "#3B2932",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "liquitex/292",
+      "name": "Naphthol Crimson",
+      "code": "292",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#95071D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Scarlet",
+        "hex": "#950C1B",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "liquitex/294",
+      "name": "Naphthol Red Light",
+      "code": "294",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#C42C21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Seal",
+        "hex": "#C92D21",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "liquitex/601",
+      "name": "Naples Yellow Hue",
+      "code": "601",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#D59646",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hint of Caramel",
+        "hex": "#D5933D",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "liquitex/599",
+      "name": "Neutral Gray 5",
+      "code": "599",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#6F685E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grouchy Badger",
+        "hex": "#6F675C",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "liquitex/436",
+      "name": "Parchment",
+      "code": "436",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#D8D4B1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinese Silk",
+        "hex": "#D8D3B2",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "liquitex/310",
+      "name": "Payne's Gray",
+      "code": "310",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F4F6F5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "liquitex/316",
+      "name": "Phthalocyanine Blue Green Shade",
+      "code": "316",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#EEEEF0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crystal Bell",
+        "hex": "#EFEEEF",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "liquitex/314",
+      "name": "Phthalocyanine Blue Red Shade",
+      "code": "314",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#221F3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Market",
+        "hex": "#222244",
+        "delta_e": 2.82
+      }
+    },
+    {
+      "id": "liquitex/317",
+      "name": "Phthalocyanine Green Blue Shade",
+      "code": "317",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F5F5F7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Liquid Nitrogen",
+        "hex": "#F3F3F4",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "liquitex/319",
+      "name": "Phthalocyanine Green Yellow Shade",
+      "code": "319",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#034D2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Troll Green",
+        "hex": "#014E2E",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "liquitex/391",
+      "name": "Prism Violet",
+      "code": "391",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2E2135",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bleached Cedar",
+        "hex": "#2C2133",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "liquitex/320",
+      "name": "Prussian Blue Hue",
+      "code": "320",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#192734",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abyssal Anchorfish Blue",
+        "hex": "#1B2632",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "liquitex/326",
+      "name": "Pyrrole Crimson",
+      "code": "326",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#702029",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Berry",
+        "hex": "#701F28",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "liquitex/323",
+      "name": "Pyrrole Orange",
+      "code": "323",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#D44D16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kurama Orange",
+        "hex": "#D24D07",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "liquitex/321",
+      "name": "Pyrrole Red",
+      "code": "321",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#A61816",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mechrite Red",
+        "hex": "#A31713",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "liquitex/118",
+      "name": "Quinacridone Blue Violet",
+      "code": "118",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#331C2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fat Tuesday",
+        "hex": "#352235",
+        "delta_e": 2.33
+      }
+    },
+    {
+      "id": "liquitex/110",
+      "name": "Quinacridone Crimson",
+      "code": "110",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#791C26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biking Red",
+        "hex": "#7B222A",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "liquitex/114",
+      "name": "Quinacridone Magenta",
+      "code": "114",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#5D2735",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wine Country",
+        "hex": "#602234",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "liquitex/112",
+      "name": "Quinacridone Red",
+      "code": "112",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#A13B2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Edocha",
+        "hex": "#A13D2D",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "liquitex/109",
+      "name": "Quinacridone Red-orange",
+      "code": "109",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#701824",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Berry",
+        "hex": "#701F28",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "liquitex/330",
+      "name": "Raw Sienna",
+      "code": "330",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F1F3F2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "liquitex/331",
+      "name": "Raw Umber",
+      "code": "331",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F4F6F5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "liquitex/335",
+      "name": "Red Oxide",
+      "code": "335",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#86422D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Niçoise",
+        "hex": "#88432E",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "liquitex/315",
+      "name": "Sap Green Permanent",
+      "code": "315",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2B3211",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olivenite",
+        "hex": "#333311",
+        "delta_e": 3.52
+      }
+    },
+    {
+      "id": "liquitex/432",
+      "name": "Titanium White",
+      "code": "432",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F0F2F1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hotot Bunny",
+        "hex": "#F1F3F2",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "liquitex/129",
+      "name": "Transparent Burnt Sienna",
+      "code": "129",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#492318",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Brown",
+        "hex": "#47241A",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "liquitex/130",
+      "name": "Transparent Burnt Umber",
+      "code": "130",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#302219",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kenpōzome Black",
+        "hex": "#2E211B",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "liquitex/035",
+      "name": "Transparent Orange",
+      "code": "035",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#CE0A0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Love Goddess",
+        "hex": "#CD0D0D",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "liquitex/332",
+      "name": "Transparent Raw Sienna",
+      "code": "332",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#9B5A20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sepia Wash",
+        "hex": "#995915",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "liquitex/333",
+      "name": "Transparent Raw Umber",
+      "code": "333",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#403323",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jacko Bean",
+        "hex": "#413628",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "liquitex/327",
+      "name": "Transparent Viridian Hue",
+      "code": "327",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#026749",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Victoria Green",
+        "hex": "#006A4D",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "liquitex/730",
+      "name": "Turner’s Yellow",
+      "code": "730",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#CD8717",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chicken Masala",
+        "hex": "#CC8822",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "liquitex/561",
+      "name": "Turquoise Deep",
+      "code": "561",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#1E2D32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Freinacht Black",
+        "hex": "#232F36",
+        "delta_e": 2.38
+      }
+    },
+    {
+      "id": "liquitex/380",
+      "name": "Ultramarine Blue Green Shade",
+      "code": "380",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#1D1F58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spacescape",
+        "hex": "#222255",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "liquitex/382",
+      "name": "Ultramarine Blue Red Shade",
+      "code": "382",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#2D2A5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Breath",
+        "hex": "#27275F",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "liquitex/434",
+      "name": "Unbleached Titanium",
+      "code": "434",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F3F4F6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chef’s Hat",
+        "hex": "#F3F4F5",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "liquitex/392",
+      "name": "Van Dyke Red",
+      "code": "392",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#362825",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Betel Nut Dye",
+        "hex": "#352925",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "liquitex/398",
+      "name": "Viridian Hue Permanent",
+      "code": "398",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#0F3C28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mizukaze Green",
+        "hex": "#1A3F2C",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "liquitex/740",
+      "name": "Vivid Lime Green",
+      "code": "740",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#AFBB1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Leafy Woodland",
+        "hex": "#AABB11",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "liquitex/620",
+      "name": "Vivid Red Orange",
+      "code": "620",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#D75E19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Bisque",
+        "hex": "#D15915",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "liquitex/411",
+      "name": "Yellow Light Hansa",
+      "code": "411",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#FFD13E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lamplight",
+        "hex": "#FFD140",
+        "delta_e": 0.17
+      }
+    },
+    {
+      "id": "liquitex/412",
+      "name": "Yellow Medium Azo",
+      "code": "412",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F2B72B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glistening Dawn",
+        "hex": "#F6BA25",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "liquitex/414",
+      "name": "Yellow Orange Azo",
+      "code": "414",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#F38E00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saffron Gold",
+        "hex": "#F08F00",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "liquitex/416",
+      "name": "Yellow Oxide",
+      "code": "416",
+      "set": "Liquitex Heavy Body Acrylix",
+      "hex": "#C08521",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gordal Olive",
+        "hex": "#BF852B",
+        "delta_e": 1.17
+      }
+    }
+  ]
+}

@@ -1,0 +1,1347 @@
+{
+  "brand": "Acrilex",
+  "slug": "acrilex",
+  "md_file": "Acrilex.md",
+  "logo": "logos/Acrilex.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "acrilex/803",
+      "name": "Acqua Marina",
+      "code": "803",
+      "set": "Acrilex Paints",
+      "hex": "#81C8D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Angel Blue",
+        "hex": "#83C5CD",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "acrilex/808",
+      "name": "Amarelo Bebe",
+      "code": "808",
+      "set": "Acrilex Paints",
+      "hex": "#F8F6B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cashew Cheese",
+        "hex": "#FCF9BD",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "acrilex/536",
+      "name": "Amarelo Cadmio",
+      "code": "536",
+      "set": "Acrilex Paints",
+      "hex": "#F69936",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amber Glow",
+        "hex": "#F29A39",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "acrilex/504",
+      "name": "Amarelo Limao",
+      "code": "504",
+      "set": "Acrilex Paints",
+      "hex": "#F4EE42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biotic Grasp",
+        "hex": "#EEEE44",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "acrilex/564",
+      "name": "Amarelo Ocre",
+      "code": "564",
+      "set": "Acrilex Paints",
+      "hex": "#DF9249",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Sumac",
+        "hex": "#E19447",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "acrilex/505",
+      "name": "Amarelo Ouro",
+      "code": "505",
+      "set": "Acrilex Paints",
+      "hex": "#FEBA11",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bitcoin",
+        "hex": "#FFBB11",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "acrilex/929",
+      "name": "Amarelo Pêssego",
+      "code": "929",
+      "set": "Acrilex Paints",
+      "hex": "#FAE1D0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Derry Coast Sunrise",
+        "hex": "#F9E1CF",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "acrilex/913",
+      "name": "Ameixa",
+      "code": "913",
+      "set": "Acrilex Paints",
+      "hex": "#874961",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Violet Quartz",
+        "hex": "#8B4963",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "acrilex/831",
+      "name": "Amendoa",
+      "code": "831",
+      "set": "Acrilex Paints",
+      "hex": "#DC6C40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bonfire Night",
+        "hex": "#DE6A41",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "acrilex/817",
+      "name": "Areia",
+      "code": "817",
+      "set": "Acrilex Paints",
+      "hex": "#F4DDCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pecan Sandie",
+        "hex": "#F4DECB",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "acrilex/879",
+      "name": "Areia Lunar",
+      "code": "879",
+      "set": "Acrilex Paints",
+      "hex": "#B3BEAE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flagstaff Green",
+        "hex": "#B3BFB0",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "acrilex/929~2",
+      "name": "Areia Rosada",
+      "code": "929",
+      "set": "Acrilex Paints",
+      "hex": "#F2B39C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wax Flower",
+        "hex": "#EEB39E",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "acrilex/914",
+      "name": "Arándano",
+      "code": "914",
+      "set": "Acrilex Paints",
+      "hex": "#903D48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Luscious",
+        "hex": "#903D49",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "acrilex/559",
+      "name": "Azul",
+      "code": "559",
+      "set": "Acrilex Paints",
+      "hex": "#2C76B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bluish",
+        "hex": "#2976BB",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "acrilex/921",
+      "name": "Azul Bali",
+      "code": "921",
+      "set": "Acrilex Paints",
+      "hex": "#82A8D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Windfall",
+        "hex": "#84A7CE",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "acrilex/503",
+      "name": "Azul Celeste",
+      "code": "503",
+      "set": "Acrilex Paints",
+      "hex": "#48B5E2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sail Away",
+        "hex": "#55B4DE",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "acrilex/825",
+      "name": "Azul Country",
+      "code": "825",
+      "set": "Acrilex Paints",
+      "hex": "#8EA3CA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old World",
+        "hex": "#91A8CF",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "acrilex/579",
+      "name": "Azul Hortênsia",
+      "code": "579",
+      "set": "Acrilex Paints",
+      "hex": "#AFDAE7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Blue",
+        "hex": "#ADD8E6",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "acrilex/578",
+      "name": "Azul Intenso",
+      "code": "578",
+      "set": "Acrilex Paints",
+      "hex": "#384798",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Galaxy Express",
+        "hex": "#444499",
+        "delta_e": 2.81
+      }
+    },
+    {
+      "id": "acrilex/544",
+      "name": "Azul Marinho",
+      "code": "544",
+      "set": "Acrilex Paints",
+      "hex": "#34446E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Space Missions",
+        "hex": "#324471",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "acrilex/823",
+      "name": "Azul Piscina",
+      "code": "823",
+      "set": "Acrilex Paints",
+      "hex": "#2095AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Lagoon",
+        "hex": "#1E98AE",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "acrilex/824",
+      "name": "Azul Seco",
+      "code": "824",
+      "set": "Acrilex Paints",
+      "hex": "#545F78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightly",
+        "hex": "#536078",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "acrilex/501",
+      "name": "Azul Turquesa",
+      "code": "501",
+      "set": "Acrilex Paints",
+      "hex": "#3B5383",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "St. Tropaz",
+        "hex": "#39527D",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "acrilex/919",
+      "name": "Azul Água",
+      "code": "919",
+      "set": "Acrilex Paints",
+      "hex": "#DEF2FD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wizard White",
+        "hex": "#DFF1FD",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "acrilex/519",
+      "name": "Branco",
+      "code": "519",
+      "set": "Acrilex Paints",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "acrilex/525",
+      "name": "Camurça",
+      "code": "525",
+      "set": "Acrilex Paints",
+      "hex": "#FED082",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bread and Butter",
+        "hex": "#FFD182",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "acrilex/818",
+      "name": "Camurça Queimado",
+      "code": "818",
+      "set": "Acrilex Paints",
+      "hex": "#DEB28F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sonora Apricot",
+        "hex": "#E0B493",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "acrilex/585",
+      "name": "Capuccino",
+      "code": "585",
+      "set": "Acrilex Paints",
+      "hex": "#AF8F77",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cantankerous Coyote",
+        "hex": "#AC8D74",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "acrilex/569",
+      "name": "Caramelo",
+      "code": "569",
+      "set": "Acrilex Paints",
+      "hex": "#B68031",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gilded Gold",
+        "hex": "#B58037",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "acrilex/576",
+      "name": "Cenoura",
+      "code": "576",
+      "set": "Acrilex Paints",
+      "hex": "#F15B2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Exuberant Orange",
+        "hex": "#F0622F",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "acrilex/826",
+      "name": "Cereja",
+      "code": "826",
+      "set": "Acrilex Paints",
+      "hex": "#99373C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Romantic Night",
+        "hex": "#96353A",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "acrilex/506",
+      "name": "Cerâmica",
+      "code": "506",
+      "set": "Acrilex Paints",
+      "hex": "#A75143",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indian Summer",
+        "hex": "#A85143",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "acrilex/933",
+      "name": "Cinza",
+      "code": "933",
+      "set": "Acrilex Paints",
+      "hex": "#D2DADC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aluminium Foil",
+        "hex": "#D2D9DB",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "acrilex/819",
+      "name": "Concreto",
+      "code": "819",
+      "set": "Acrilex Paints",
+      "hex": "#A89A82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Windmill Park",
+        "hex": "#A79B83",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "acrilex/586",
+      "name": "Coral",
+      "code": "586",
+      "set": "Acrilex Paints",
+      "hex": "#EC5E57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amour",
+        "hex": "#EE5851",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "acrilex/903",
+      "name": "Creme",
+      "code": "903",
+      "set": "Acrilex Paints",
+      "hex": "#FCFAE7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sparkling Cider",
+        "hex": "#FFFDEB",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "acrilex/804",
+      "name": "Fuchsia",
+      "code": "804",
+      "set": "Acrilex Paints",
+      "hex": "#CD2C70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Peacock",
+        "hex": "#D3236F",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "acrilex/805",
+      "name": "Goiaba Queimada",
+      "code": "805",
+      "set": "Acrilex Paints",
+      "hex": "#CD4F57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mandy",
+        "hex": "#CD525B",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "acrilex/530",
+      "name": "Grafite",
+      "code": "530",
+      "set": "Acrilex Paints",
+      "hex": "#575959",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shadow Mountain",
+        "hex": "#585858",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "acrilex/517",
+      "name": "Laranja",
+      "code": "517",
+      "set": "Acrilex Paints",
+      "hex": "#EE3B23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato",
+        "hex": "#EF4026",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "acrilex/587",
+      "name": "Lavanda",
+      "code": "587",
+      "set": "Acrilex Paints",
+      "hex": "#BECCE8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cuddle",
+        "hex": "#BCCAE8",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "acrilex/528",
+      "name": "Lilás",
+      "code": "528",
+      "set": "Acrilex Paints",
+      "hex": "#E6D1DF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Clover",
+        "hex": "#E5CFDE",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "acrilex/809",
+      "name": "Lilás Bebê",
+      "code": "809",
+      "set": "Acrilex Paints",
+      "hex": "#E9E5F0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Modest Violet",
+        "hex": "#E9E4EF",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "acrilex/549",
+      "name": "Magenta",
+      "code": "549",
+      "set": "Acrilex Paints",
+      "hex": "#C24882",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nail Polish Pink",
+        "hex": "#BD4E84",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "acrilex/531",
+      "name": "Marrom",
+      "code": "531",
+      "set": "Acrilex Paints",
+      "hex": "#AE6650",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bruschetta",
+        "hex": "#B2654E",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "acrilex/526",
+      "name": "Marrom Escuro",
+      "code": "526",
+      "set": "Acrilex Paints",
+      "hex": "#815547",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Hook",
+        "hex": "#845544",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "acrilex/895",
+      "name": "Melao",
+      "code": "895",
+      "set": "Acrilex Paints",
+      "hex": "#FBB147",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Butterscotch",
+        "hex": "#FDB147",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "acrilex/893",
+      "name": "Mineral",
+      "code": "893",
+      "set": "Acrilex Paints",
+      "hex": "#EEF5D4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Freshman",
+        "hex": "#ECF4D2",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "acrilex/904",
+      "name": "Ocre",
+      "code": "904",
+      "set": "Acrilex Paints",
+      "hex": "#E4D0A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Italian Straw",
+        "hex": "#E7D3A1",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "acrilex/915",
+      "name": "Orquídea",
+      "code": "915",
+      "set": "Acrilex Paints",
+      "hex": "#D9B4CD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Poodle",
+        "hex": "#DAB4CC",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "acrilex/892",
+      "name": "Perola",
+      "code": "892",
+      "set": "Acrilex Paints",
+      "hex": "#FFF9DB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daystar",
+        "hex": "#FFF8DA",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "acrilex/527",
+      "name": "Pink",
+      "code": "527",
+      "set": "Acrilex Paints",
+      "hex": "#F2809A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iced Berry",
+        "hex": "#E9819A",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "acrilex/520",
+      "name": "Preto",
+      "code": "520",
+      "set": "Acrilex Paints",
+      "hex": "#1E1B17",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightshade Berries",
+        "hex": "#1B1811",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "acrilex/550",
+      "name": "Púrpura",
+      "code": "550",
+      "set": "Acrilex Paints",
+      "hex": "#9A3E3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lychee",
+        "hex": "#9B4040",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "acrilex/827",
+      "name": "Roma",
+      "code": "827",
+      "set": "Acrilex Paints",
+      "hex": "#D52E3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Safflower Red",
+        "hex": "#D9333F",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "acrilex/537",
+      "name": "Rosa",
+      "code": "537",
+      "set": "Acrilex Paints",
+      "hex": "#F9BFC7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Petunia",
+        "hex": "#F8C0C7",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "acrilex/828",
+      "name": "Rosa Antigo",
+      "code": "828",
+      "set": "Acrilex Paints",
+      "hex": "#F17682",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Momo Peach",
+        "hex": "#F47983",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "acrilex/813",
+      "name": "Rosa Bebe",
+      "code": "813",
+      "set": "Acrilex Paints",
+      "hex": "#FDE8E7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Unburdened Pink",
+        "hex": "#FBE7E6",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "acrilex/581",
+      "name": "Rosa Ciclame",
+      "code": "581",
+      "set": "Acrilex Paints",
+      "hex": "#BF6F7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Manhattan",
+        "hex": "#C16C7B",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "acrilex/894",
+      "name": "Rosa Cotton",
+      "code": "894",
+      "set": "Acrilex Paints",
+      "hex": "#F9C5C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sugarcane Dahlia",
+        "hex": "#F7C2BF",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "acrilex/542",
+      "name": "Rosa Escuro",
+      "code": "542",
+      "set": "Acrilex Paints",
+      "hex": "#EE9BB4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carnal Pink",
+        "hex": "#EF9CB5",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "acrilex/910",
+      "name": "Rosa Primavera",
+      "code": "910",
+      "set": "Acrilex Paints",
+      "hex": "#F0B3C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rhodonite",
+        "hex": "#F3B3C5",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "acrilex/918",
+      "name": "Roxo",
+      "code": "918",
+      "set": "Acrilex Paints",
+      "hex": "#7468A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wintertime Mauve",
+        "hex": "#786DAA",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "acrilex/896",
+      "name": "Rústico",
+      "code": "896",
+      "set": "Acrilex Paints",
+      "hex": "#47321B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Café Noir",
+        "hex": "#4B3621",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "acrilex/835",
+      "name": "Saara",
+      "code": "835",
+      "set": "Acrilex Paints",
+      "hex": "#F0EAD3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Fog",
+        "hex": "#F0EAD2",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "acrilex/518",
+      "name": "Salmão",
+      "code": "518",
+      "set": "Acrilex Paints",
+      "hex": "#F79C83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pouring Copper",
+        "hex": "#FB9B82",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "acrilex/812",
+      "name": "Salmão Bebê",
+      "code": "812",
+      "set": "Acrilex Paints",
+      "hex": "#FDE3DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peach Cloud",
+        "hex": "#FCE2D8",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "acrilex/539",
+      "name": "Siena Natural",
+      "code": "539",
+      "set": "Acrilex Paints",
+      "hex": "#B5653C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Khardic",
+        "hex": "#B16840",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "acrilex/551",
+      "name": "Sépia",
+      "code": "551",
+      "set": "Acrilex Paints",
+      "hex": "#52483B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metallic Bronze",
+        "hex": "#554A3C",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "acrilex/801",
+      "name": "Tangerina",
+      "code": "801",
+      "set": "Acrilex Paints",
+      "hex": "#F3763F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Debrito",
+        "hex": "#EE7744",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "acrilex/932",
+      "name": "Telha",
+      "code": "932",
+      "set": "Acrilex Paints",
+      "hex": "#C24137",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caught Red-Handed",
+        "hex": "#BE4236",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "acrilex/514",
+      "name": "Terra Queimada",
+      "code": "514",
+      "set": "Acrilex Paints",
+      "hex": "#9D494E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Regal Red",
+        "hex": "#99484A",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "acrilex/577",
+      "name": "Turquesa",
+      "code": "577",
+      "set": "Acrilex Paints",
+      "hex": "#56C3BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Port Hope",
+        "hex": "#54C3C1",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "acrilex/909",
+      "name": "Tutti-Frutti",
+      "code": "909",
+      "set": "Acrilex Paints",
+      "hex": "#F6B2D0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Changeling Pink",
+        "hex": "#F4AFCD",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "acrilex/821",
+      "name": "Verde Agua",
+      "code": "821",
+      "set": "Acrilex Paints",
+      "hex": "#B8E0D6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balmy Seas",
+        "hex": "#B4DCD3",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "acrilex/898",
+      "name": "Verde Alecrim",
+      "code": "898",
+      "set": "Acrilex Paints",
+      "hex": "#D6E47D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ajwain Green",
+        "hex": "#D3DE7B",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "acrilex/822",
+      "name": "Verde Country",
+      "code": "822",
+      "set": "Acrilex Paints",
+      "hex": "#0EA18B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stamp Pad Green",
+        "hex": "#2EA18C",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "acrilex/571",
+      "name": "Verde Esmeralda",
+      "code": "571",
+      "set": "Acrilex Paints",
+      "hex": "#004433",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "UP Forest Green",
+        "hex": "#014431",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "acrilex/510",
+      "name": "Verde Folha",
+      "code": "510",
+      "set": "Acrilex Paints",
+      "hex": "#51B94D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic Green",
+        "hex": "#3EB753",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "acrilex/582",
+      "name": "Verde Grama",
+      "code": "582",
+      "set": "Acrilex Paints",
+      "hex": "#2B6F42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Billiard Ball",
+        "hex": "#276B40",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "acrilex/802",
+      "name": "Verde Maçã",
+      "code": "802",
+      "set": "Acrilex Paints",
+      "hex": "#A5BE39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "In the Tropics",
+        "hex": "#A3BC3A",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "acrilex/513",
+      "name": "Verde Musgo",
+      "code": "513",
+      "set": "Acrilex Paints",
+      "hex": "#406434",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenhouse",
+        "hex": "#3E6334",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "acrilex/545",
+      "name": "Verde Oliva",
+      "code": "545",
+      "set": "Acrilex Paints",
+      "hex": "#6A6F46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gulf Weed",
+        "hex": "#686E43",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "acrilex/570",
+      "name": "Verde Pistache",
+      "code": "570",
+      "set": "Acrilex Paints",
+      "hex": "#9DA548",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Apple",
+        "hex": "#97A346",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "acrilex/820",
+      "name": "Verde Primavera",
+      "code": "820",
+      "set": "Acrilex Paints",
+      "hex": "#E4EFC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spring Shoot",
+        "hex": "#E2EDC1",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "acrilex/897",
+      "name": "Verde Soft",
+      "code": "897",
+      "set": "Acrilex Paints",
+      "hex": "#F7F8DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Avarice",
+        "hex": "#F5F5D9",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "acrilex/555",
+      "name": "Vermelho",
+      "code": "555",
+      "set": "Acrilex Paints",
+      "hex": "#D52A2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chi-Gong",
+        "hex": "#D52B2D",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "acrilex/508",
+      "name": "Vermelho Escarlate",
+      "code": "508",
+      "set": "Acrilex Paints",
+      "hex": "#AC2F33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emperor Cherry Red",
+        "hex": "#AC2C32",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "acrilex/507",
+      "name": "Vermelho Fogo",
+      "code": "507",
+      "set": "Acrilex Paints",
+      "hex": "#E54A34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sour Cherry",
+        "hex": "#E24736",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "acrilex/541",
+      "name": "Vermelho Vivo",
+      "code": "541",
+      "set": "Acrilex Paints",
+      "hex": "#E7322D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Krasnyi Red",
+        "hex": "#EB2E28",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "acrilex/565",
+      "name": "Vinho",
+      "code": "565",
+      "set": "Acrilex Paints",
+      "hex": "#683348",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Mauve",
+        "hex": "#673147",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "acrilex/516",
+      "name": "Violeta",
+      "code": "516",
+      "set": "Acrilex Paints",
+      "hex": "#9976B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lavender Purple",
+        "hex": "#967BB6",
+        "delta_e": 2.05
+      }
+    },
+    {
+      "id": "acrilex/540",
+      "name": "Violeta Cobalto",
+      "code": "540",
+      "set": "Acrilex Paints",
+      "hex": "#3B2E67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Minsk",
+        "hex": "#3E3267",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "acrilex/917",
+      "name": "Violeta Escuro",
+      "code": "917",
+      "set": "Acrilex Paints",
+      "hex": "#65316C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seance",
+        "hex": "#69326E",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "acrilex/916",
+      "name": "Violeta Gris",
+      "code": "916",
+      "set": "Acrilex Paints",
+      "hex": "#978FAC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orchilla",
+        "hex": "#938EA9",
+        "delta_e": 1.49
+      }
+    }
+  ]
+}

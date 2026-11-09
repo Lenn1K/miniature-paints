@@ -24,8 +24,8 @@
 |Ana 611 Interior Green|TC-0174|Tom Colors|103|98|58|![#67623A](https://placehold.co/15x15/67623A/67623A.png) `#67623A`|
 |Ana 613 Olive Drab|TC-0163|Tom Colors|81|80|60|![#51503C](https://placehold.co/15x15/51503C/51503C.png) `#51503C`|
 |Ana 616 Sand|TC-0170|Tom Colors|175|146|130|![#AF9282](https://placehold.co/15x15/AF9282/AF9282.png) `#AF9282`|
-|Ana 620 Light Gull Grey |TC-0173|Tom Colors|177|174|167|![#B1AEA7](https://placehold.co/15x15/B1AEA7/B1AEA7.png) `#B1AEA7`|
-|Ana 621 Dark Dull Grey |TC-0169|Tom Colors|117|122|116|![#757A74](https://placehold.co/15x15/757A74/757A74.png) `#757A74`|
+|Ana 620 Light Gull Grey|TC-0173|Tom Colors|177|174|167|![#B1AEA7](https://placehold.co/15x15/B1AEA7/B1AEA7.png) `#B1AEA7`|
+|Ana 621 Dark Dull Grey|TC-0169|Tom Colors|117|122|116|![#757A74](https://placehold.co/15x15/757A74/757A74.png) `#757A74`|
 |Antifoliage Green|TC-0144|Tom Colors|86|121|89|![#567959](https://placehold.co/15x15/567959/567959.png) `#567959`|
 |Arara Azul|TCUP-15|Tom Colors - UP|0|52|187|![#0034BB](https://placehold.co/15x15/0034BB/0034BB.png) `#0034BB`|
 |Azul|TC-0007|Tom Colors|2|12|101|![#020C65](https://placehold.co/15x15/020C65/020C65.png) `#020C65`|
@@ -214,7 +214,7 @@
 |Rlm 62|TC-0296|Tom Colors|13|13|13|![#0D0D0D](https://placehold.co/15x15/0D0D0D/0D0D0D.png) `#0D0D0D`|
 |Rlm 63|TC-0106|Tom Colors|13|13|13|![#0D0D0D](https://placehold.co/15x15/0D0D0D/0D0D0D.png) `#0D0D0D`|
 |Rlm 65|TC-0068|Tom Colors|12|14|13|![#0C0E0D](https://placehold.co/15x15/0C0E0D/0C0E0D.png) `#0C0E0D`|
-|Rlm 66 |TC-0301|Tom Colors|12|12|12|![#0C0C0C](https://placehold.co/15x15/0C0C0C/0C0C0C.png) `#0C0C0C`|
+|Rlm 66|TC-0301|Tom Colors|12|12|12|![#0C0C0C](https://placehold.co/15x15/0C0C0C/0C0C0C.png) `#0C0C0C`|
 |Rlm 70|TC-0077|Tom Colors|13|13|13|![#0D0D0D](https://placehold.co/15x15/0D0D0D/0D0D0D.png) `#0D0D0D`|
 |Rlm 71 Dunkelgrun|TC-0070|Tom Colors|13|13|13|![#0D0D0D](https://placehold.co/15x15/0D0D0D/0D0D0D.png) `#0D0D0D`|
 |Rlm 73|TC-0254|Tom Colors|35|36|28|![#23241C](https://placehold.co/15x15/23241C/23241C.png) `#23241C`|

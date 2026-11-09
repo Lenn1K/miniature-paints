@@ -1,0 +1,6065 @@
+{
+  "brand": "A K R C",
+  "slug": "akrc",
+  "md_file": "AKRC.md",
+  "logo": "logos/AKRC.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "akrc/rc319",
+      "name": "A-14 Interior Steel Grey 10ml",
+      "code": "RC319",
+      "set": "Real Colors - Air",
+      "hex": "#647177",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Myth",
+        "hex": "#657175",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc319~2",
+      "name": "A-14 Interior Steel Grey 10ml",
+      "code": "RC319",
+      "set": "Real Colors - WWII",
+      "hex": "#647177",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Myth",
+        "hex": "#657175",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc311",
+      "name": "A-18f Light Grey-blue 10ml",
+      "code": "RC311",
+      "set": "Real Colors - WWII",
+      "hex": "#89A49D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Cascade",
+        "hex": "#8CA8A0",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "akrc/rc311~2",
+      "name": "A-18f Light Grey-blue 10ml",
+      "code": "RC311",
+      "set": "Real Colors - Air",
+      "hex": "#89A49D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Cascade",
+        "hex": "#8CA8A0",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "akrc/rc312",
+      "name": "A-19f Grass Green 10ml",
+      "code": "RC312",
+      "set": "Real Colors - Air",
+      "hex": "#506336",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Interior Green",
+        "hex": "#536437",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "akrc/rc312~2",
+      "name": "A-19f Grass Green 10ml",
+      "code": "RC312",
+      "set": "Real Colors - WWII",
+      "hex": "#506336",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Interior Green",
+        "hex": "#536437",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "akrc/rc314",
+      "name": "A-21m Light Yellowish Brown 10ml",
+      "code": "RC314",
+      "set": "Real Colors - Air",
+      "hex": "#898675",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mediaeval Cobblestone",
+        "hex": "#878573",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc314~2",
+      "name": "A-21m Light Yellowish Brown 10ml",
+      "code": "RC314",
+      "set": "Real Colors - WWII",
+      "hex": "#898675",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mediaeval Cobblestone",
+        "hex": "#878573",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc221",
+      "name": "Adc Grey Fs 16473 10ml",
+      "code": "RC221",
+      "set": "Real Colors - Air",
+      "hex": "#A0A9A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shiny Armour",
+        "hex": "#A1A9A8",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "akrc/rc308",
+      "name": "Ae-9 / Aii Light Grey 10ml",
+      "code": "RC308",
+      "set": "Real Colors - WWII",
+      "hex": "#E0DCB9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Embrace",
+        "hex": "#DED9B4",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc308~2",
+      "name": "Ae-9 / Aii Light Grey 10ml",
+      "code": "RC308",
+      "set": "Real Colors - Air",
+      "hex": "#E0DCB9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Embrace",
+        "hex": "#DED9B4",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc234",
+      "name": "Aggressor Blue Fs 35109 10ml",
+      "code": "RC234",
+      "set": "Real Colors - Air",
+      "hex": "#4C6B7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Shadow",
+        "hex": "#4F6B79",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "akrc/rc248",
+      "name": "Aggressor Grey Fs 36251 10ml",
+      "code": "RC248",
+      "set": "Real Colors - Air",
+      "hex": "#828385",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sharkskin",
+        "hex": "#808184",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "akrc/rc309",
+      "name": "Aii Green 10ml",
+      "code": "RC309",
+      "set": "Real Colors - WWII",
+      "hex": "#343F21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "akrc/rc309~2",
+      "name": "Aii Green 10ml",
+      "code": "RC309",
+      "set": "Real Colors - Air",
+      "hex": "#343F21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "akrc/rc310",
+      "name": "Aii Light Blue 10ml",
+      "code": "RC310",
+      "set": "Real Colors - WWII",
+      "hex": "#7FA4AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ziggurat",
+        "hex": "#81A6AA",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "akrc/rc310~2",
+      "name": "Aii Light Blue 10ml",
+      "code": "RC310",
+      "set": "Real Colors - Air",
+      "hex": "#7FA4AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ziggurat",
+        "hex": "#81A6AA",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "akrc/rc239",
+      "name": "Air Superiority Blue Fs 35450 10ml",
+      "code": "RC239",
+      "set": "Real Colors - Air",
+      "hex": "#8AB0C3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bermuda Blue",
+        "hex": "#8CB1C2",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "akrc/rc020",
+      "name": "Aluminium",
+      "code": "RC020",
+      "set": "Real Colors - Modern",
+      "hex": "#ADACA8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic Greyscale",
+        "hex": "#ACACA7",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc020~2",
+      "name": "Aluminium",
+      "code": "RC020",
+      "set": "Real Colors - Standard",
+      "hex": "#ADACA8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic Greyscale",
+        "hex": "#ACACA7",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc313",
+      "name": "Amt-1 Light Brown 10ml",
+      "code": "RC313",
+      "set": "Real Colors - WWII",
+      "hex": "#8B806C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Army Issue",
+        "hex": "#8A806B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "akrc/rc313~2",
+      "name": "Amt-1 Light Brown 10ml",
+      "code": "RC313",
+      "set": "Real Colors - Air",
+      "hex": "#8B806C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Army Issue",
+        "hex": "#8A806B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "akrc/rc317",
+      "name": "Amt-11 Blue Grey 10ml",
+      "code": "RC317",
+      "set": "Real Colors - Air",
+      "hex": "#4E5F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gunmetal",
+        "hex": "#536267",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc317~2",
+      "name": "Amt-11 Blue Grey 10ml",
+      "code": "RC317",
+      "set": "Real Colors - WWII",
+      "hex": "#4E5F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gunmetal",
+        "hex": "#536267",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc318",
+      "name": "Amt-12 Dark Grey 10ml",
+      "code": "RC318",
+      "set": "Real Colors - WWII",
+      "hex": "#4E5F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gunmetal",
+        "hex": "#536267",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc318~2",
+      "name": "Amt-12 Dark Grey 10ml",
+      "code": "RC318",
+      "set": "Real Colors - Air",
+      "hex": "#4E5F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gunmetal",
+        "hex": "#536267",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc315",
+      "name": "Amt-4 / A-24m Green 10ml",
+      "code": "RC315",
+      "set": "Real Colors - Air",
+      "hex": "#4A471C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alligator Gladiator",
+        "hex": "#444411",
+        "delta_e": 2.4
+      }
+    },
+    {
+      "id": "akrc/rc315~2",
+      "name": "Amt-4 / A-24m Green 10ml",
+      "code": "RC315",
+      "set": "Real Colors - WWII",
+      "hex": "#4A471C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alligator Gladiator",
+        "hex": "#444411",
+        "delta_e": 2.4
+      }
+    },
+    {
+      "id": "akrc/rc316",
+      "name": "Amt-7 Light Blue 10ml",
+      "code": "RC316",
+      "set": "Real Colors - Air",
+      "hex": "#678DA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "French Court",
+        "hex": "#6A8EA2",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "akrc/rc316~2",
+      "name": "Amt-7 Light Blue 10ml",
+      "code": "RC316",
+      "set": "Real Colors - WWII",
+      "hex": "#678DA4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "French Court",
+        "hex": "#6A8EA2",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "akrc/rc078",
+      "name": "Apc Interior Green Fs 24533",
+      "code": "RC078",
+      "set": "Real Colors - AFV",
+      "hex": "#A4B483",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Guacamole",
+        "hex": "#A2B07E",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "akrc/rc212",
+      "name": "Basaltgrau-basalt Grey RAL 7012 10ml",
+      "code": "RC212",
+      "set": "Real Colors - Air",
+      "hex": "#565E60",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mostly Metal",
+        "hex": "#575E5F",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "akrc/rc071",
+      "name": "Black 6rp",
+      "code": "RC071",
+      "set": "Real Colors - AFV",
+      "hex": "#17120C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Raspberry",
+        "hex": "#16110D",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc071~2",
+      "name": "Black 6rp",
+      "code": "RC071",
+      "set": "Real Colors - WWII",
+      "hex": "#17120C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Raspberry",
+        "hex": "#16110D",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc055",
+      "name": "Blaugrau – Blue Gray RAL 7016",
+      "code": "RC055",
+      "set": "Real Colors - AFV",
+      "hex": "#303433",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phantom Ship",
+        "hex": "#2F3434",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc055~2",
+      "name": "Blaugrau – Blue Gray RAL 7016",
+      "code": "RC055",
+      "set": "Real Colors - WWII",
+      "hex": "#303433",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phantom Ship",
+        "hex": "#2F3434",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc236",
+      "name": "Blue Fs 35190 10ml",
+      "code": "RC236",
+      "set": "Real Colors - Air",
+      "hex": "#618A9E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Adriatic Blue",
+        "hex": "#5C899B",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "akrc/rc011",
+      "name": "Blue, RAL 5001",
+      "code": "RC011",
+      "set": "Real Colors - Standard",
+      "hex": "#233D54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Integrity",
+        "hex": "#233E57",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc011~2",
+      "name": "Blue, RAL 5001",
+      "code": "RC011",
+      "set": "Real Colors - Modern",
+      "hex": "#233D54",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Integrity",
+        "hex": "#233E57",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc065",
+      "name": "Braun – Brown RAL 8010",
+      "code": "RC065",
+      "set": "Real Colors - WWII",
+      "hex": "#604826",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightingale",
+        "hex": "#5C4827",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "akrc/rc065~2",
+      "name": "Braun – Brown RAL 8010",
+      "code": "RC065",
+      "set": "Real Colors - AFV",
+      "hex": "#604826",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightingale",
+        "hex": "#5C4827",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "akrc/rc069",
+      "name": "Braun – Brown RAL 8020",
+      "code": "RC069",
+      "set": "Real Colors - WWII",
+      "hex": "#AE8557",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Copper",
+        "hex": "#AD8458",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "akrc/rc069~2",
+      "name": "Braun – Brown RAL 8020",
+      "code": "RC069",
+      "set": "Real Colors - AFV",
+      "hex": "#AE8557",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Copper",
+        "hex": "#AD8458",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "akrc/rc042",
+      "name": "British Dark Olive Green Pfi",
+      "code": "RC042",
+      "set": "Real Colors - AFV",
+      "hex": "#4A442E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Onion",
+        "hex": "#48412B",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "akrc/rc042~2",
+      "name": "British Dark Olive Green Pfi",
+      "code": "RC042",
+      "set": "Real Colors - WWII",
+      "hex": "#4A442E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Onion",
+        "hex": "#48412B",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "akrc/rc043",
+      "name": "British Desert Pink Zi",
+      "code": "RC043",
+      "set": "Real Colors - WWII",
+      "hex": "#F19161",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Slice",
+        "hex": "#F4915C",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc043~2",
+      "name": "British Desert Pink Zi",
+      "code": "RC043",
+      "set": "Real Colors - AFV",
+      "hex": "#F19161",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Slice",
+        "hex": "#F4915C",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc044",
+      "name": "British Light Mud",
+      "code": "RC044",
+      "set": "Real Colors - AFV",
+      "hex": "#837D49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Leaf",
+        "hex": "#817C4A",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "akrc/rc044~2",
+      "name": "British Light Mud",
+      "code": "RC044",
+      "set": "Real Colors - WWII",
+      "hex": "#837D49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Leaf",
+        "hex": "#817C4A",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "akrc/rc093",
+      "name": "British Sand Yellow",
+      "code": "RC093",
+      "set": "Real Colors - AFV",
+      "hex": "#D8953A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hint of Caramel",
+        "hex": "#D5933D",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "akrc/rc264",
+      "name": "Bronze Green 10ml",
+      "code": "RC264",
+      "set": "Real Colors - Air",
+      "hex": "#32402F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sensaimidori Green",
+        "hex": "#374231",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "akrc/rc264~2",
+      "name": "Bronze Green 10ml",
+      "code": "RC264",
+      "set": "Real Colors - WWII",
+      "hex": "#32402F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sensaimidori Green",
+        "hex": "#374231",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "akrc/rc224",
+      "name": "Brown Fs 30140 10ml",
+      "code": "RC224",
+      "set": "Real Colors - WWII",
+      "hex": "#7A6051",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Werewolf Fur",
+        "hex": "#7E6152",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc224~2",
+      "name": "Brown Fs 30140 10ml",
+      "code": "RC224",
+      "set": "Real Colors - Air",
+      "hex": "#7A6051",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Werewolf Fur",
+        "hex": "#7E6152",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc038",
+      "name": "Bsc Nº28 Silver Grey",
+      "code": "RC038",
+      "set": "Real Colors - WWII",
+      "hex": "#9F9D6A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Domain",
+        "hex": "#9C9C6E",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "akrc/rc038~2",
+      "name": "Bsc Nº28 Silver Grey",
+      "code": "RC038",
+      "set": "Real Colors - AFV",
+      "hex": "#9F9D6A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Domain",
+        "hex": "#9C9C6E",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "akrc/rc039",
+      "name": "Bsc Nº34 Slate",
+      "code": "RC039",
+      "set": "Real Colors - AFV",
+      "hex": "#4F4A2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "akrc/rc039~2",
+      "name": "Bsc Nº34 Slate",
+      "code": "RC039",
+      "set": "Real Colors - WWII",
+      "hex": "#4F4A2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "akrc/rc045",
+      "name": "Bsc Nº49 Light Purple Brown",
+      "code": "RC045",
+      "set": "Real Colors - WWII",
+      "hex": "#45241F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marmite",
+        "hex": "#46221B",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "akrc/rc045~2",
+      "name": "Bsc Nº49 Light Purple Brown",
+      "code": "RC045",
+      "set": "Real Colors - AFV",
+      "hex": "#45241F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marmite",
+        "hex": "#46221B",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "akrc/rc040",
+      "name": "Bsc Nº61 Light Stone",
+      "code": "RC040",
+      "set": "Real Colors - AFV",
+      "hex": "#D2B25B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tanami Desert",
+        "hex": "#D0B25C",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc040~2",
+      "name": "Bsc Nº61 Light Stone",
+      "code": "RC040",
+      "set": "Real Colors - WWII",
+      "hex": "#D2B25B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tanami Desert",
+        "hex": "#D0B25C",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc041",
+      "name": "Bsc Nº64 Portland Stone",
+      "code": "RC041",
+      "set": "Real Colors - WWII",
+      "hex": "#F1DFA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mella Yella",
+        "hex": "#F0DDA2",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc041~2",
+      "name": "Bsc Nº64 Portland Stone",
+      "code": "RC041",
+      "set": "Real Colors - AFV",
+      "hex": "#F1DFA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mella Yella",
+        "hex": "#F0DDA2",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc014",
+      "name": "Buff",
+      "code": "RC014",
+      "set": "Real Colors - Standard",
+      "hex": "#9A8260",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Collectible",
+        "hex": "#9B8467",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "akrc/rc014~2",
+      "name": "Buff",
+      "code": "RC014",
+      "set": "Real Colors - Modern",
+      "hex": "#9A8260",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Collectible",
+        "hex": "#9B8467",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "akrc/rc254",
+      "name": "Camouflage Grey Fs 36622 10ml",
+      "code": "RC254",
+      "set": "Real Colors - Air",
+      "hex": "#C2C0B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biking Trail",
+        "hex": "#C3C0B1",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc079",
+      "name": "Carc Tan 686a Fs 33446",
+      "code": "RC079",
+      "set": "Real Colors - AFV",
+      "hex": "#B49457",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Honey",
+        "hex": "#B39355",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "akrc/rc504",
+      "name": "Clear Blue",
+      "code": "RC504",
+      "set": "Real Colors - Modern",
+      "hex": "#1C69A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jazz Blue",
+        "hex": "#1A6A9F",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc504~2",
+      "name": "Clear Blue",
+      "code": "RC504",
+      "set": "Real Colors - Standard",
+      "hex": "#1C69A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jazz Blue",
+        "hex": "#1A6A9F",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc504~3",
+      "name": "Clear Blue",
+      "code": "RC504",
+      "set": "Real Colors - Clear",
+      "hex": "#1C69A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jazz Blue",
+        "hex": "#1A6A9F",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "akrc/rc505",
+      "name": "Clear Green",
+      "code": "RC505",
+      "set": "Real Colors - Clear",
+      "hex": "#3A683A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegas Green",
+        "hex": "#316738",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "akrc/rc505~2",
+      "name": "Clear Green",
+      "code": "RC505",
+      "set": "Real Colors - Standard",
+      "hex": "#3A683A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegas Green",
+        "hex": "#316738",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "akrc/rc505~3",
+      "name": "Clear Green",
+      "code": "RC505",
+      "set": "Real Colors - Modern",
+      "hex": "#3A683A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegas Green",
+        "hex": "#316738",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "akrc/rc506",
+      "name": "Clear Orange",
+      "code": "RC506",
+      "set": "Real Colors - Modern",
+      "hex": "#DE7927",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherokee Dignity",
+        "hex": "#DD7722",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "akrc/rc506~2",
+      "name": "Clear Orange",
+      "code": "RC506",
+      "set": "Real Colors - Clear",
+      "hex": "#DE7927",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherokee Dignity",
+        "hex": "#DD7722",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "akrc/rc506~3",
+      "name": "Clear Orange",
+      "code": "RC506",
+      "set": "Real Colors - Standard",
+      "hex": "#DE7927",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherokee Dignity",
+        "hex": "#DD7722",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "akrc/rc503",
+      "name": "Clear Red",
+      "code": "RC503",
+      "set": "Real Colors - Clear",
+      "hex": "#BD0A0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinoper Red",
+        "hex": "#BB1111",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc503~2",
+      "name": "Clear Red",
+      "code": "RC503",
+      "set": "Real Colors - Modern",
+      "hex": "#BD0A0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinoper Red",
+        "hex": "#BB1111",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc503~3",
+      "name": "Clear Red",
+      "code": "RC503",
+      "set": "Real Colors - Standard",
+      "hex": "#BD0A0D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinoper Red",
+        "hex": "#BB1111",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc508",
+      "name": "Clear Smoke",
+      "code": "RC508",
+      "set": "Real Colors - Standard",
+      "hex": "#4C4845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc508~2",
+      "name": "Clear Smoke",
+      "code": "RC508",
+      "set": "Real Colors - Clear",
+      "hex": "#4C4845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc508~3",
+      "name": "Clear Smoke",
+      "code": "RC508",
+      "set": "Real Colors - Modern",
+      "hex": "#4C4845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Onyx",
+        "hex": "#4C4845",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc507",
+      "name": "Clear Yellow",
+      "code": "RC507",
+      "set": "Real Colors - Modern",
+      "hex": "#ECC31B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poster Yellow",
+        "hex": "#ECC100",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "akrc/rc507~2",
+      "name": "Clear Yellow",
+      "code": "RC507",
+      "set": "Real Colors - Standard",
+      "hex": "#ECC31B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poster Yellow",
+        "hex": "#ECC100",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "akrc/rc507~3",
+      "name": "Clear Yellow",
+      "code": "RC507",
+      "set": "Real Colors - Clear",
+      "hex": "#ECC31B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poster Yellow",
+        "hex": "#ECC100",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "akrc/rc070",
+      "name": "Common Protective – Zo",
+      "code": "RC070",
+      "set": "Real Colors - WWII",
+      "hex": "#3B301A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pullman Green",
+        "hex": "#3B331C",
+        "delta_e": 2.24
+      }
+    },
+    {
+      "id": "akrc/rc070~2",
+      "name": "Common Protective – Zo",
+      "code": "RC070",
+      "set": "Real Colors - AFV",
+      "hex": "#3B301A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pullman Green",
+        "hex": "#3B331C",
+        "delta_e": 2.24
+      }
+    },
+    {
+      "id": "akrc/rc002",
+      "name": "Cream White, RAL 9001",
+      "code": "RC002",
+      "set": "Real Colors - Modern",
+      "hex": "#FEEECC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milk Froth",
+        "hex": "#FFEECC",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "akrc/rc002~2",
+      "name": "Cream White, RAL 9001",
+      "code": "RC002",
+      "set": "Real Colors - Standard",
+      "hex": "#FEEECC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milk Froth",
+        "hex": "#FFEECC",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "akrc/rc074",
+      "name": "Dark Brown 6k",
+      "code": "RC074",
+      "set": "Real Colors - WWII",
+      "hex": "#452B1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Subterranean",
+        "hex": "#452C1F",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc074~2",
+      "name": "Dark Brown 6k",
+      "code": "RC074",
+      "set": "Real Colors - AFV",
+      "hex": "#452B1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Subterranean",
+        "hex": "#452C1F",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc242",
+      "name": "Dark Eggplant Grey Fs 36076 10ml",
+      "code": "RC242",
+      "set": "Real Colors - Air",
+      "hex": "#4E525B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abbey",
+        "hex": "#4C4F56",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "akrc/rc251",
+      "name": "Dark Ghost Grey Fs 36320 10ml",
+      "code": "RC251",
+      "set": "Real Colors - Air",
+      "hex": "#8A949D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Dusk",
+        "hex": "#8C959D",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "akrc/rc342",
+      "name": "Dark Green Fs 34064",
+      "code": "RC342",
+      "set": "Real Colors - Air",
+      "hex": "#4B4B43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Natural Pumice",
+        "hex": "#4A4A43",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "akrc/rc247",
+      "name": "Dark Gull Grey Fs 36231 10ml",
+      "code": "RC247",
+      "set": "Real Colors - Air",
+      "hex": "#7F8386",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Coat Grey",
+        "hex": "#7F8488",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "akrc/rc247~2",
+      "name": "Dark Gull Grey Fs 36231 10ml",
+      "code": "RC247",
+      "set": "Real Colors - WWII",
+      "hex": "#7F8386",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Coat Grey",
+        "hex": "#7F8488",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "akrc/rc259",
+      "name": "Dark Olive Drab 41 10ml",
+      "code": "RC259",
+      "set": "Real Colors - WWII",
+      "hex": "#564F3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Cover",
+        "hex": "#565042",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc259~2",
+      "name": "Dark Olive Drab 41 10ml",
+      "code": "RC259",
+      "set": "Real Colors - Air",
+      "hex": "#564F3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Cover",
+        "hex": "#565042",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc025",
+      "name": "Dark Olive Drab Nº31",
+      "code": "RC025",
+      "set": "Real Colors - WWII",
+      "hex": "#414232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "akrc/rc025~2",
+      "name": "Dark Olive Drab Nº31",
+      "code": "RC025",
+      "set": "Real Colors - AFV",
+      "hex": "#414232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "akrc/rc258",
+      "name": "Dark Sea Blue 10ml",
+      "code": "RC258",
+      "set": "Real Colors - Air",
+      "hex": "#36434C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azul Petróleo",
+        "hex": "#36454F",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "akrc/rc258~2",
+      "name": "Dark Sea Blue 10ml",
+      "code": "RC258",
+      "set": "Real Colors - WWII",
+      "hex": "#36434C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azul Petróleo",
+        "hex": "#36454F",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "akrc/rc225",
+      "name": "Dark Tan Fs 30219 10ml",
+      "code": "RC225",
+      "set": "Real Colors - WWII",
+      "hex": "#8F7463",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scented Candle",
+        "hex": "#907361",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "akrc/rc225~2",
+      "name": "Dark Tan Fs 30219 10ml",
+      "code": "RC225",
+      "set": "Real Colors - Air",
+      "hex": "#8F7463",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scented Candle",
+        "hex": "#907361",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "akrc/rc019",
+      "name": "Deck Tan",
+      "code": "RC019",
+      "set": "Real Colors - Modern",
+      "hex": "#99907F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Squirrel",
+        "hex": "#989081",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc019~2",
+      "name": "Deck Tan",
+      "code": "RC019",
+      "set": "Real Colors - Standard",
+      "hex": "#99907F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Squirrel",
+        "hex": "#989081",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc032",
+      "name": "Desert Sand Fs 30279",
+      "code": "RC032",
+      "set": "Real Colors - AFV",
+      "hex": "#BB986E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Etruscan Bronze",
+        "hex": "#BB986F",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "akrc/rc032~2",
+      "name": "Desert Sand Fs 30279",
+      "code": "RC032",
+      "set": "Real Colors - WWII",
+      "hex": "#BB986E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Etruscan Bronze",
+        "hex": "#BB986F",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "akrc/rc241",
+      "name": "Duck Egg Blue Fs 35622 10ml",
+      "code": "RC241",
+      "set": "Real Colors - Air",
+      "hex": "#C5CFC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fountain Foam",
+        "hex": "#C6D0C6",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "akrc/rc230",
+      "name": "Dull Dark Green Fs 34092 10ml",
+      "code": "RC230",
+      "set": "Real Colors - WWII",
+      "hex": "#485750",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Huntington Woods",
+        "hex": "#46554C",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "akrc/rc230~2",
+      "name": "Dull Dark Green Fs 34092 10ml",
+      "code": "RC230",
+      "set": "Real Colors - Air",
+      "hex": "#485750",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Huntington Woods",
+        "hex": "#46554C",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "akrc/rc056",
+      "name": "Dunkelbraun – Dark Brown RAL 7017",
+      "code": "RC056",
+      "set": "Real Colors - WWII",
+      "hex": "#4E3D2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abbot",
+        "hex": "#4D3C2D",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc056~2",
+      "name": "Dunkelbraun – Dark Brown RAL 7017",
+      "code": "RC056",
+      "set": "Real Colors - AFV",
+      "hex": "#4E3D2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abbot",
+        "hex": "#4D3C2D",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc061",
+      "name": "Dunkelgelb Ausgabe 44 – Dark Yellow RAL 7028 Ver. ’44",
+      "code": "RC061",
+      "set": "Real Colors - AFV",
+      "hex": "#B7A277",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hemp Rope",
+        "hex": "#B9A379",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "akrc/rc061~2",
+      "name": "Dunkelgelb Ausgabe 44 – Dark Yellow RAL 7028 Ver. ’44",
+      "code": "RC061",
+      "set": "Real Colors - WWII",
+      "hex": "#B7A277",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hemp Rope",
+        "hex": "#B9A379",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "akrc/rc059",
+      "name": "Dunkelgelb Nach Muster – Dark Yellow",
+      "code": "RC059",
+      "set": "Real Colors - WWII",
+      "hex": "#A98E47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plaguelands Beige",
+        "hex": "#AB8D44",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "akrc/rc059~2",
+      "name": "Dunkelgelb Nach Muster – Dark Yellow",
+      "code": "RC059",
+      "set": "Real Colors - AFV",
+      "hex": "#A98E47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plaguelands Beige",
+        "hex": "#AB8D44",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "akrc/rc062",
+      "name": "Dunkelgelb – Dark Yellow (variant)",
+      "code": "RC062",
+      "set": "Real Colors - AFV",
+      "hex": "#A78A50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graceful Gazelle",
+        "hex": "#A78A50",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc062~2",
+      "name": "Dunkelgelb – Dark Yellow (variant)",
+      "code": "RC062",
+      "set": "Real Colors - WWII",
+      "hex": "#A78A50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graceful Gazelle",
+        "hex": "#A78A50",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc060",
+      "name": "Dunkelgelb – Dark Yellow RAL 7028",
+      "code": "RC060",
+      "set": "Real Colors - AFV",
+      "hex": "#9C8853",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wasteland",
+        "hex": "#9C8855",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc060~2",
+      "name": "Dunkelgelb – Dark Yellow RAL 7028",
+      "code": "RC060",
+      "set": "Real Colors - WWII",
+      "hex": "#9C8853",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wasteland",
+        "hex": "#9C8855",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc057",
+      "name": "Dunkelgrau – Dark Gray RAL 7021",
+      "code": "RC057",
+      "set": "Real Colors - WWII",
+      "hex": "#1F2120",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lead",
+        "hex": "#212121",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "akrc/rc057~2",
+      "name": "Dunkelgrau – Dark Gray RAL 7021",
+      "code": "RC057",
+      "set": "Real Colors - AFV",
+      "hex": "#1F2120",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lead",
+        "hex": "#212121",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "akrc/rc050",
+      "name": "Dunkelgrün – Dark Green RAL 6009",
+      "code": "RC050",
+      "set": "Real Colors - AFV",
+      "hex": "#2F311C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fuchsia Berries",
+        "hex": "#333322",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "akrc/rc050~2",
+      "name": "Dunkelgrün – Dark Green RAL 6009",
+      "code": "RC050",
+      "set": "Real Colors - WWII",
+      "hex": "#2F311C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fuchsia Berries",
+        "hex": "#333322",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "akrc/rc101",
+      "name": "Egyptian Desert Sand",
+      "code": "RC101",
+      "set": "Real Colors - AFV",
+      "hex": "#D9BD96",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bananas Foster",
+        "hex": "#DBBE97",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "akrc/rc046",
+      "name": "Elfenbein – Ivory RAL 1001 (interior Color)",
+      "code": "RC046",
+      "set": "Real Colors - AFV",
+      "hex": "#EBC691",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Dressing",
+        "hex": "#EBC795",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "akrc/rc046~2",
+      "name": "Elfenbein – Ivory RAL 1001 (interior Color)",
+      "code": "RC046",
+      "set": "Real Colors - WWII",
+      "hex": "#EBC691",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Dressing",
+        "hex": "#EBC795",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "akrc/rc064",
+      "name": "Erdgelb – Earth Yellow RAL 8002",
+      "code": "RC064",
+      "set": "Real Colors - WWII",
+      "hex": "#9F7022",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cinnamon Brown",
+        "hex": "#9E6A19",
+        "delta_e": 2.36
+      }
+    },
+    {
+      "id": "akrc/rc064~2",
+      "name": "Erdgelb – Earth Yellow RAL 8002",
+      "code": "RC064",
+      "set": "Real Colors - AFV",
+      "hex": "#9F7022",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cinnamon Brown",
+        "hex": "#9E6A19",
+        "delta_e": 2.36
+      }
+    },
+    {
+      "id": "akrc/rc246",
+      "name": "F-15 Dark Grey (mod Eagle) Fs 36176 10ml",
+      "code": "RC246",
+      "set": "Real Colors - Air",
+      "hex": "#6E7881",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sheffield Grey",
+        "hex": "#6B7680",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc048",
+      "name": "Feldgrau – Field Grey RAL 6006",
+      "code": "RC048",
+      "set": "Real Colors - WWII",
+      "hex": "#3D3F27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "akrc/rc048~2",
+      "name": "Feldgrau – Field Grey RAL 6006",
+      "code": "RC048",
+      "set": "Real Colors - AFV",
+      "hex": "#3D3F27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "akrc/rc085",
+      "name": "Field Drab Fs 30118",
+      "code": "RC085",
+      "set": "Real Colors - AFV",
+      "hex": "#6B5325",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horses Neck",
+        "hex": "#6D562C",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "akrc/rc231",
+      "name": "Field Green Fs 34097 10ml",
+      "code": "RC231",
+      "set": "Real Colors - Air",
+      "hex": "#5A644B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grape Leaves",
+        "hex": "#576049",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "akrc/rc001",
+      "name": "Flat Black, RAL 9005",
+      "code": "RC001",
+      "set": "Real Colors - Modern",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc001~2",
+      "name": "Flat Black, RAL 9005",
+      "code": "RC001",
+      "set": "Real Colors - Standard",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc500",
+      "name": "Flat Varnish",
+      "code": "RC500",
+      "set": "Real Colors - Standard",
+      "hex": "#F0F0F0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Super Silver",
+        "hex": "#EEEEEE",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "akrc/rc500~2",
+      "name": "Flat Varnish",
+      "code": "RC500",
+      "set": "Real Colors - Modern",
+      "hex": "#F0F0F0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Super Silver",
+        "hex": "#EEEEEE",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "akrc/rc004",
+      "name": "Flat White, RAL 9003",
+      "code": "RC004",
+      "set": "Real Colors - Modern",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc004~2",
+      "name": "Flat White, RAL 9003",
+      "code": "RC004",
+      "set": "Real Colors - Standard",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc027",
+      "name": "Forest Green Fs 34079",
+      "code": "RC027",
+      "set": "Real Colors - WWII",
+      "hex": "#42412C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green 383",
+        "hex": "#3E3D29",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "akrc/rc027~2",
+      "name": "Forest Green Fs 34079",
+      "code": "RC027",
+      "set": "Real Colors - AFV",
+      "hex": "#42412C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green 383",
+        "hex": "#3E3D29",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "akrc/rc063",
+      "name": "Gelbbraun – Yellow Brown – RAL 8000",
+      "code": "RC063",
+      "set": "Real Colors - WWII",
+      "hex": "#836839",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cheese Olive",
+        "hex": "#80693D",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "akrc/rc063~2",
+      "name": "Gelbbraun – Yellow Brown – RAL 8000",
+      "code": "RC063",
+      "set": "Real Colors - AFV",
+      "hex": "#836839",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cheese Olive",
+        "hex": "#80693D",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "akrc/rc086",
+      "name": "Gelboliv (initial) RAL 6014",
+      "code": "RC086",
+      "set": "Real Colors - AFV",
+      "hex": "#544820",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "akrc/rc087",
+      "name": "Gelboliv (late) RAL 6014",
+      "code": "RC087",
+      "set": "Real Colors - AFV",
+      "hex": "#41381B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lisbon Brown",
+        "hex": "#423921",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "akrc/rc502",
+      "name": "Gloss Varnish",
+      "code": "RC502",
+      "set": "Real Colors - Modern",
+      "hex": "#E5E5E5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Extraordinary Abundance of Tinge",
+        "hex": "#E6E6E6",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "akrc/rc502~2",
+      "name": "Gloss Varnish",
+      "code": "RC502",
+      "set": "Real Colors - Standard",
+      "hex": "#E5E5E5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Extraordinary Abundance of Tinge",
+        "hex": "#E6E6E6",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "akrc/rc058",
+      "name": "Grau – Gray RAL 7027",
+      "code": "RC058",
+      "set": "Real Colors - WWII",
+      "hex": "#6F6448",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Russian Olive",
+        "hex": "#726647",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "akrc/rc058~2",
+      "name": "Grau – Gray RAL 7027",
+      "code": "RC058",
+      "set": "Real Colors - AFV",
+      "hex": "#6F6448",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Russian Olive",
+        "hex": "#726647",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "akrc/rc052",
+      "name": "Grau – Grey RAL 7003 (RLM 02)",
+      "code": "RC052",
+      "set": "Real Colors - AFV",
+      "hex": "#777255",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Secret Path",
+        "hex": "#737054",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "akrc/rc052~2",
+      "name": "Grau – Grey RAL 7003 (RLM 02)",
+      "code": "RC052",
+      "set": "Real Colors - WWII",
+      "hex": "#777255",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Secret Path",
+        "hex": "#737054",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "akrc/rc089",
+      "name": "Graubeige – Grey Beige RAL 1040-f9",
+      "code": "RC089",
+      "set": "Real Colors - AFV",
+      "hex": "#988050",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grassy Cliff",
+        "hex": "#968154",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc208",
+      "name": "Graublau-grey Blue RAL 5008",
+      "code": "RC208",
+      "set": "Real Colors - Air",
+      "hex": "#2C3A45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Precision",
+        "hex": "#2C3944",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "akrc/rc053",
+      "name": "Graugrün – Gray Green RAL 7008",
+      "code": "RC053",
+      "set": "Real Colors - AFV",
+      "hex": "#837038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mustard Magic",
+        "hex": "#857139",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc053~2",
+      "name": "Graugrün – Gray Green RAL 7008",
+      "code": "RC053",
+      "set": "Real Colors - WWII",
+      "hex": "#837038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mustard Magic",
+        "hex": "#857139",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc083",
+      "name": "Green Fs 34102",
+      "code": "RC083",
+      "set": "Real Colors - AFV",
+      "hex": "#43481F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 2.26
+      }
+    },
+    {
+      "id": "akrc/rc233",
+      "name": "Green Fs 34258 10ml",
+      "code": "RC233",
+      "set": "Real Colors - Air",
+      "hex": "#7F8159",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mosstone",
+        "hex": "#7F805B",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc233~2",
+      "name": "Green Fs 34258 10ml",
+      "code": "RC233",
+      "set": "Real Colors - WWII",
+      "hex": "#7F8159",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mosstone",
+        "hex": "#7F805B",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc243",
+      "name": "Grey Fs 36081 10ml",
+      "code": "RC243",
+      "set": "Real Colors - Air",
+      "hex": "#58595B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Concrete",
+        "hex": "#57595D",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "akrc/rc049",
+      "name": "Grün – Green RAL 6007",
+      "code": "RC049",
+      "set": "Real Colors - WWII",
+      "hex": "#2A2B19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 2.27
+      }
+    },
+    {
+      "id": "akrc/rc049~2",
+      "name": "Grün – Green RAL 6007",
+      "code": "RC049",
+      "set": "Real Colors - AFV",
+      "hex": "#2A2B19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 2.27
+      }
+    },
+    {
+      "id": "akrc/rc211",
+      "name": "Grüngrau-green Grey RAL 7009 (modern) 10ml",
+      "code": "RC211",
+      "set": "Real Colors - Air",
+      "hex": "#5E6158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pewter Green",
+        "hex": "#5E6259",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc015",
+      "name": "Gun Metal",
+      "code": "RC015",
+      "set": "Real Colors - Standard",
+      "hex": "#221F18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightshade Berries",
+        "hex": "#1B1811",
+        "delta_e": 2.21
+      }
+    },
+    {
+      "id": "akrc/rc015~2",
+      "name": "Gun Metal",
+      "code": "RC015",
+      "set": "Real Colors - Modern",
+      "hex": "#221F18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightshade Berries",
+        "hex": "#1B1811",
+        "delta_e": 2.21
+      }
+    },
+    {
+      "id": "akrc/rc245",
+      "name": "Have Glass Grey 10ml",
+      "code": "RC245",
+      "set": "Real Colors - Air",
+      "hex": "#747472",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iron Mountain",
+        "hex": "#757574",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "akrc/rc054",
+      "name": "Hellgrau – Light Grey RAL 7009 (interior Color)",
+      "code": "RC054",
+      "set": "Real Colors - WWII",
+      "hex": "#5D5A49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monogram",
+        "hex": "#595747",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "akrc/rc054~2",
+      "name": "Hellgrau – Light Grey RAL 7009 (interior Color)",
+      "code": "RC054",
+      "set": "Real Colors - AFV",
+      "hex": "#5D5A49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monogram",
+        "hex": "#595747",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "akrc/rc090",
+      "name": "Helloliv – Light Olive RAL 6040-f9",
+      "code": "RC090",
+      "set": "Real Colors - AFV",
+      "hex": "#5F5025",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 2.14
+      }
+    },
+    {
+      "id": "akrc/rc096",
+      "name": "Idf Early Sand Yellow",
+      "code": "RC096",
+      "set": "Real Colors - AFV",
+      "hex": "#927E4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Nile",
+        "hex": "#95804A",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc094",
+      "name": "Idf Modern Grey",
+      "code": "RC094",
+      "set": "Real Colors - AFV",
+      "hex": "#6C562D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horses Neck",
+        "hex": "#6D562C",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "akrc/rc095",
+      "name": "Idf Sand Grey 1970s-1980s",
+      "code": "RC095",
+      "set": "Real Colors - AFV",
+      "hex": "#73643D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nutria",
+        "hex": "#75663E",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "akrc/rc328",
+      "name": "Ija  1 Hairyokushoku (grey-green) 10ml",
+      "code": "RC328",
+      "set": "Real Colors - WWII",
+      "hex": "#A4A788",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meditation Time",
+        "hex": "#A7A987",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "akrc/rc328~2",
+      "name": "Ija  1 Hairyokushoku (grey-green) 10ml",
+      "code": "RC328",
+      "set": "Real Colors - Air",
+      "hex": "#A4A788",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meditation Time",
+        "hex": "#A7A987",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "akrc/rc331",
+      "name": "Ija  21 Midori Iro (green) 10ml",
+      "code": "RC331",
+      "set": "Real Colors - WWII",
+      "hex": "#414E30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matsuba Green",
+        "hex": "#454D32",
+        "delta_e": 2.2
+      }
+    },
+    {
+      "id": "akrc/rc331~2",
+      "name": "Ija  21 Midori Iro (green) 10ml",
+      "code": "RC331",
+      "set": "Real Colors - Air",
+      "hex": "#414E30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matsuba Green",
+        "hex": "#454D32",
+        "delta_e": 2.2
+      }
+    },
+    {
+      "id": "akrc/rc332",
+      "name": "Ija  27 Ao Midori Iro (blue-green) 10ml",
+      "code": "RC332",
+      "set": "Real Colors - Air",
+      "hex": "#1D3327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardin Green",
+        "hex": "#1B3427",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "akrc/rc332~2",
+      "name": "Ija  27 Ao Midori Iro (blue-green) 10ml",
+      "code": "RC332",
+      "set": "Real Colors - WWII",
+      "hex": "#1D3327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardin Green",
+        "hex": "#1B3427",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "akrc/rc333",
+      "name": "Ija  29 Ki Midori Iro (yellow-green) 10ml",
+      "code": "RC333",
+      "set": "Real Colors - Air",
+      "hex": "#828B3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Turtle",
+        "hex": "#818A40",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc333~2",
+      "name": "Ija  29 Ki Midori Iro (yellow-green) 10ml",
+      "code": "RC333",
+      "set": "Real Colors - WWII",
+      "hex": "#828B3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Turtle",
+        "hex": "#818A40",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc329",
+      "name": "Ija  3 Hairanshoku (grey Indigo) 10ml",
+      "code": "RC329",
+      "set": "Real Colors - Air",
+      "hex": "#464C48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinel Black",
+        "hex": "#464D4A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc329~2",
+      "name": "Ija  3 Hairanshoku (grey Indigo) 10ml",
+      "code": "RC329",
+      "set": "Real Colors - WWII",
+      "hex": "#464C48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinel Black",
+        "hex": "#464D4A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc334",
+      "name": "Ija  30 Karekusa Iro (dry Grass Colour) 10ml",
+      "code": "RC334",
+      "set": "Real Colors - WWII",
+      "hex": "#958247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "G.I.",
+        "hex": "#96834A",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc334~2",
+      "name": "Ija  30 Karekusa Iro (dry Grass Colour) 10ml",
+      "code": "RC334",
+      "set": "Real Colors - Air",
+      "hex": "#958247",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "G.I.",
+        "hex": "#96834A",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc335",
+      "name": "Ija  31 Cha Kasshoku (tea Colour) 10ml",
+      "code": "RC335",
+      "set": "Real Colors - WWII",
+      "hex": "#694E39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tobacco",
+        "hex": "#684F3C",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc335~2",
+      "name": "Ija  31 Cha Kasshoku (tea Colour) 10ml",
+      "code": "RC335",
+      "set": "Real Colors - Air",
+      "hex": "#694E39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tobacco",
+        "hex": "#684F3C",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc330",
+      "name": "Ija  7 Ohryuko Nana Go Shoku (olive Brown) 10ml",
+      "code": "RC330",
+      "set": "Real Colors - Air",
+      "hex": "#56502E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "akrc/rc330~2",
+      "name": "Ija  7 Ohryuko Nana Go Shoku (olive Brown) 10ml",
+      "code": "RC330",
+      "set": "Real Colors - WWII",
+      "hex": "#56502E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "akrc/rc304",
+      "name": "Ijn D1 Deep Green Black 10ml",
+      "code": "RC304",
+      "set": "Real Colors - Air",
+      "hex": "#133527",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phthalo Green",
+        "hex": "#123524",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "akrc/rc304~2",
+      "name": "Ijn D1 Deep Green Black 10ml",
+      "code": "RC304",
+      "set": "Real Colors - WWII",
+      "hex": "#133527",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phthalo Green",
+        "hex": "#123524",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "akrc/rc305",
+      "name": "Ijn D2 Green Black 10ml",
+      "code": "RC305",
+      "set": "Real Colors - Air",
+      "hex": "#1A4F3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brunswick Green",
+        "hex": "#1B4D3E",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc305~2",
+      "name": "Ijn D2 Green Black 10ml",
+      "code": "RC305",
+      "set": "Real Colors - WWII",
+      "hex": "#1A4F3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brunswick Green",
+        "hex": "#1B4D3E",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc302",
+      "name": "Ijn J3 Hai-iro (grey) 10ml",
+      "code": "RC302",
+      "set": "Real Colors - WWII",
+      "hex": "#BBBFB0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Catmint",
+        "hex": "#B9BDAE",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "akrc/rc302~2",
+      "name": "Ijn J3 Hai-iro (grey) 10ml",
+      "code": "RC302",
+      "set": "Real Colors - Air",
+      "hex": "#BBBFB0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dry Catmint",
+        "hex": "#B9BDAE",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "akrc/rc303",
+      "name": "Ijn J3 Sp (amber Grey) 10ml",
+      "code": "RC303",
+      "set": "Real Colors - Air",
+      "hex": "#B0B795",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Print",
+        "hex": "#AFB796",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc303~2",
+      "name": "Ijn J3 Sp (amber Grey) 10ml",
+      "code": "RC303",
+      "set": "Real Colors - WWII",
+      "hex": "#B0B795",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Print",
+        "hex": "#AFB796",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc306",
+      "name": "Ijn M3 (m) Mitsubishi Interior Green 10ml",
+      "code": "RC306",
+      "set": "Real Colors - WWII",
+      "hex": "#7F873C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Turtle",
+        "hex": "#818A40",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "akrc/rc306~2",
+      "name": "Ijn M3 (m) Mitsubishi Interior Green 10ml",
+      "code": "RC306",
+      "set": "Real Colors - Air",
+      "hex": "#7F873C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Turtle",
+        "hex": "#818A40",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "akrc/rc307",
+      "name": "Ijn M3 (n) Nakajima Interior Green 10ml",
+      "code": "RC307",
+      "set": "Real Colors - WWII",
+      "hex": "#6D7647",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oakmoss",
+        "hex": "#6D7244",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "akrc/rc307~2",
+      "name": "Ijn M3 (n) Nakajima Interior Green 10ml",
+      "code": "RC307",
+      "set": "Real Colors - Air",
+      "hex": "#6D7647",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oakmoss",
+        "hex": "#6D7244",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "akrc/rc222",
+      "name": "Insignia White Fs 17875 10ml",
+      "code": "RC222",
+      "set": "Real Colors - Air",
+      "hex": "#E5E7DA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Conquering White",
+        "hex": "#E4E5D8",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc028",
+      "name": "Interior Green Fs 34151",
+      "code": "RC028",
+      "set": "Real Colors - WWII",
+      "hex": "#6E6C2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aged Mustard Green",
+        "hex": "#6E6E30",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc028~2",
+      "name": "Interior Green Fs 34151",
+      "code": "RC028",
+      "set": "Real Colors - AFV",
+      "hex": "#6E6C2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aged Mustard Green",
+        "hex": "#6E6E30",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc235",
+      "name": "Intermediate Blue Fs 35164 10ml",
+      "code": "RC235",
+      "set": "Real Colors - Air",
+      "hex": "#627282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glide Time",
+        "hex": "#5D6F80",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "akrc/rc235~2",
+      "name": "Intermediate Blue Fs 35164 10ml",
+      "code": "RC235",
+      "set": "Real Colors - WWII",
+      "hex": "#627282",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glide Time",
+        "hex": "#5D6F80",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "akrc/rc104",
+      "name": "Iraqi Army Desert Sand",
+      "code": "RC104",
+      "set": "Real Colors - AFV",
+      "hex": "#DFD3B9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish White",
+        "hex": "#DED1B7",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "akrc/rc340",
+      "name": "Kenttävihrea-olive Green Fs 34096",
+      "code": "RC340",
+      "set": "Real Colors - WWII",
+      "hex": "#545648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc340~2",
+      "name": "Kenttävihrea-olive Green Fs 34096",
+      "code": "RC340",
+      "set": "Real Colors - Air",
+      "hex": "#545648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc033",
+      "name": "Khaki Green Nº3",
+      "code": "RC033",
+      "set": "Real Colors - AFV",
+      "hex": "#4F4231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Bronze",
+        "hex": "#51412D",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "akrc/rc033~2",
+      "name": "Khaki Green Nº3",
+      "code": "RC033",
+      "set": "Real Colors - WWII",
+      "hex": "#4F4231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Bronze",
+        "hex": "#51412D",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "akrc/rc207",
+      "name": "Leuchtorange-luminous Orange RAL 2005 10ml",
+      "code": "RC207",
+      "set": "Real Colors - Air",
+      "hex": "#E64E1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nasturtium Flower",
+        "hex": "#E64D1D",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "akrc/rc103",
+      "name": "Libyan Army Desert Grey",
+      "code": "RC103",
+      "set": "Real Colors - AFV",
+      "hex": "#B4A796",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fine Greige",
+        "hex": "#B5A998",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "akrc/rc214",
+      "name": "Lichtgrau-light Grey RAL 7035 10ml",
+      "code": "RC214",
+      "set": "Real Colors - Air",
+      "hex": "#C5C7C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Solitary State",
+        "hex": "#C4C7C4",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "akrc/rc238",
+      "name": "Light Blue Fs 35414 10ml",
+      "code": "RC238",
+      "set": "Real Colors - Air",
+      "hex": "#88A2A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cold Waterlogged Lab Coat",
+        "hex": "#839FA3",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "akrc/rc252",
+      "name": "Light Ghost Grey  Fs 36375 10ml",
+      "code": "RC252",
+      "set": "Real Colors - Air",
+      "hex": "#9DA4AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rough Stone",
+        "hex": "#9EA2AA",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "akrc/rc253",
+      "name": "Light Grey Fs 36495 10ml",
+      "code": "RC253",
+      "set": "Real Colors - Air",
+      "hex": "#C3C7C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fireplace Kitten",
+        "hex": "#C5C9C7",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "akrc/rc220",
+      "name": "Light Gull Grey Fs 16440 10ml",
+      "code": "RC220",
+      "set": "Real Colors - Air",
+      "hex": "#B6B6AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chelsea Grey",
+        "hex": "#B6B7B0",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "akrc/rc220~2",
+      "name": "Light Gull Grey Fs 16440 10ml",
+      "code": "RC220",
+      "set": "Real Colors - WWII",
+      "hex": "#B6B6AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chelsea Grey",
+        "hex": "#B6B7B0",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "akrc/rc250",
+      "name": "Light Sea Grey Fs 36307 10ml",
+      "code": "RC250",
+      "set": "Real Colors - Air",
+      "hex": "#96978F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Parakeet",
+        "hex": "#95978F",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "akrc/rc250~2",
+      "name": "Light Sea Grey Fs 36307 10ml",
+      "code": "RC250",
+      "set": "Real Colors - WWII",
+      "hex": "#96978F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Parakeet",
+        "hex": "#95978F",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "akrc/rc240",
+      "name": "Light Sky Blue Fs 35526 10ml",
+      "code": "RC240",
+      "set": "Real Colors - Air",
+      "hex": "#A4BCBE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oslo Blue",
+        "hex": "#A6BDBE",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc256",
+      "name": "M-485 Blue Grey 10ml",
+      "code": "RC256",
+      "set": "Real Colors - Air",
+      "hex": "#70848B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blustery Sky",
+        "hex": "#6F848C",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "akrc/rc256~2",
+      "name": "M-485 Blue Grey 10ml",
+      "code": "RC256",
+      "set": "Real Colors - WWII",
+      "hex": "#70848B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blustery Sky",
+        "hex": "#6F848C",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "akrc/rc255",
+      "name": "M-485 Light Grey 10ml",
+      "code": "RC255",
+      "set": "Real Colors - Air",
+      "hex": "#9E9A8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "London Fog",
+        "hex": "#9D988C",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "akrc/rc255~2",
+      "name": "M-485 Light Grey 10ml",
+      "code": "RC255",
+      "set": "Real Colors - WWII",
+      "hex": "#9E9A8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "London Fog",
+        "hex": "#9D988C",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "akrc/rc008",
+      "name": "Maize Yellow, RAL 1006",
+      "code": "RC008",
+      "set": "Real Colors - Modern",
+      "hex": "#FAB013",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Queen Anne",
+        "hex": "#FAB001",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "akrc/rc008~2",
+      "name": "Maize Yellow, RAL 1006",
+      "code": "RC008",
+      "set": "Real Colors - Standard",
+      "hex": "#FAB013",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Queen Anne",
+        "hex": "#FAB001",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "akrc/rc051",
+      "name": "Marinegrau – Navy Grey RAL 7002",
+      "code": "RC051",
+      "set": "Real Colors - WWII",
+      "hex": "#80774E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greek Oregano",
+        "hex": "#7C754C",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "akrc/rc051~2",
+      "name": "Marinegrau – Navy Grey RAL 7002",
+      "code": "RC051",
+      "set": "Real Colors - AFV",
+      "hex": "#80774E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greek Oregano",
+        "hex": "#7C754C",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "akrc/rc260",
+      "name": "Medium Green 42 10ml",
+      "code": "RC260",
+      "set": "Real Colors - WWII",
+      "hex": "#495241",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cabbage Pont",
+        "hex": "#4C5544",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc260~2",
+      "name": "Medium Green 42 10ml",
+      "code": "RC260",
+      "set": "Real Colors - Air",
+      "hex": "#495241",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cabbage Pont",
+        "hex": "#4C5544",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "akrc/rc237",
+      "name": "Medium Grey Fs 35237 10ml",
+      "code": "RC237",
+      "set": "Real Colors - Air",
+      "hex": "#7C878D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Channel",
+        "hex": "#7A8790",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "akrc/rc249",
+      "name": "Medium Grey Fs 36270 10ml",
+      "code": "RC249",
+      "set": "Real Colors - Air",
+      "hex": "#84898C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monument",
+        "hex": "#84898C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc244",
+      "name": "Medium Gunship Grey Fs 36118 10ml",
+      "code": "RC244",
+      "set": "Real Colors - Air",
+      "hex": "#5D616A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney Rain",
+        "hex": "#5A5F68",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "akrc/rc244~2",
+      "name": "Medium Gunship Grey Fs 36118 10ml",
+      "code": "RC244",
+      "set": "Real Colors - WWII",
+      "hex": "#5D616A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney Rain",
+        "hex": "#5A5F68",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "akrc/rc336",
+      "name": "Mig-25/mig-31 Grey 10ml",
+      "code": "RC336",
+      "set": "Real Colors - Air",
+      "hex": "#889DA0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Teal Wave",
+        "hex": "#8B9EA1",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "akrc/rc338",
+      "name": "Mig-29 Grey Green 10ml",
+      "code": "RC338",
+      "set": "Real Colors - Air",
+      "hex": "#65847E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marsh Creek",
+        "hex": "#6B8781",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "akrc/rc337",
+      "name": "Mig-29 Light Grey 10ml",
+      "code": "RC337",
+      "set": "Real Colors - Air",
+      "hex": "#8099A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Miles",
+        "hex": "#829BA0",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "akrc/rc219",
+      "name": "Mno 2036 Smalt Khaki Avion 10ml",
+      "code": "RC219",
+      "set": "Real Colors - Air",
+      "hex": "#7D775F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "String Deep",
+        "hex": "#7F7860",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "akrc/rc082",
+      "name": "Nato Black RAL 9021-f9",
+      "code": "RC082",
+      "set": "Real Colors - AFV",
+      "hex": "#1F1E19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petroleum",
+        "hex": "#21211D",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "akrc/rc081",
+      "name": "Nato Brown RAL 8027-f9",
+      "code": "RC081",
+      "set": "Real Colors - AFV",
+      "hex": "#433021",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iroko",
+        "hex": "#433120",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "akrc/rc080",
+      "name": "Nato Green RAL 6031-f9",
+      "code": "RC080",
+      "set": "Real Colors - AFV",
+      "hex": "#313A1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "akrc/rc261",
+      "name": "Neutral Grey 43 10ml",
+      "code": "RC261",
+      "set": "Real Colors - Air",
+      "hex": "#6F6F6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overcast Concrete",
+        "hex": "#727171",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "akrc/rc261~2",
+      "name": "Neutral Grey 43 10ml",
+      "code": "RC261",
+      "set": "Real Colors - WWII",
+      "hex": "#6F6F6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overcast Concrete",
+        "hex": "#727171",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "akrc/rc029",
+      "name": "Nº5 Earth Brown Fs 30099",
+      "code": "RC029",
+      "set": "Real Colors - WWII",
+      "hex": "#5A462D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Loam",
+        "hex": "#55422B",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "akrc/rc029~2",
+      "name": "Nº5 Earth Brown Fs 30099",
+      "code": "RC029",
+      "set": "Real Colors - AFV",
+      "hex": "#5A462D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Loam",
+        "hex": "#55422B",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "akrc/rc030",
+      "name": "Nº6 Earth Yellow Fs 30257",
+      "code": "RC030",
+      "set": "Real Colors - AFV",
+      "hex": "#BD8D4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barista’s Favourite",
+        "hex": "#BB8D4E",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "akrc/rc030~2",
+      "name": "Nº6 Earth Yellow Fs 30257",
+      "code": "RC030",
+      "set": "Real Colors - WWII",
+      "hex": "#BD8D4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barista’s Favourite",
+        "hex": "#BB8D4E",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "akrc/rc031",
+      "name": "Nº8 Earth Red Fs 30117",
+      "code": "RC031",
+      "set": "Real Colors - WWII",
+      "hex": "#704729",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flattery",
+        "hex": "#6B4424",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "akrc/rc031~2",
+      "name": "Nº8 Earth Red Fs 30117",
+      "code": "RC031",
+      "set": "Real Colors - AFV",
+      "hex": "#704729",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flattery",
+        "hex": "#6B4424",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "akrc/rc016",
+      "name": "Ochre",
+      "code": "RC016",
+      "set": "Real Colors - Standard",
+      "hex": "#A87B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Honey",
+        "hex": "#A87F28",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "akrc/rc016~2",
+      "name": "Ochre",
+      "code": "RC016",
+      "set": "Real Colors - Modern",
+      "hex": "#A87B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Honey",
+        "hex": "#A87F28",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "akrc/rc013",
+      "name": "Off White",
+      "code": "RC013",
+      "set": "Real Colors - Modern",
+      "hex": "#E1D6BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Land of Trees",
+        "hex": "#E0D5B9",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "akrc/rc013~2",
+      "name": "Off White",
+      "code": "RC013",
+      "set": "Real Colors - Standard",
+      "hex": "#E1D6BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Land of Trees",
+        "hex": "#E0D5B9",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "akrc/rc218",
+      "name": "Olive Braun-olive Brown RAL 8008 10ml",
+      "code": "RC218",
+      "set": "Real Colors - Air",
+      "hex": "#724A26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Monks Robe",
+        "hex": "#704822",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc024",
+      "name": "Olive Drab Faded",
+      "code": "RC024",
+      "set": "Real Colors - WWII",
+      "hex": "#514217",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 3.66
+      }
+    },
+    {
+      "id": "akrc/rc024~2",
+      "name": "Olive Drab Faded",
+      "code": "RC024",
+      "set": "Real Colors - AFV",
+      "hex": "#514217",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Olive",
+        "hex": "#584C25",
+        "delta_e": 3.66
+      }
+    },
+    {
+      "id": "akrc/rc026",
+      "name": "Olive Drab Fs 34087",
+      "code": "RC026",
+      "set": "Real Colors - WWII",
+      "hex": "#39372A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "El Paso",
+        "hex": "#39392C",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc026~2",
+      "name": "Olive Drab Fs 34087",
+      "code": "RC026",
+      "set": "Real Colors - AFV",
+      "hex": "#39372A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "El Paso",
+        "hex": "#39392C",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc023",
+      "name": "Olive Drab Nº9 / Nº22",
+      "code": "RC023",
+      "set": "Real Colors - AFV",
+      "hex": "#423C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Madras",
+        "hex": "#473E23",
+        "delta_e": 2.68
+      }
+    },
+    {
+      "id": "akrc/rc023~2",
+      "name": "Olive Drab Nº9 / Nº22",
+      "code": "RC023",
+      "set": "Real Colors - WWII",
+      "hex": "#423C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Madras",
+        "hex": "#473E23",
+        "delta_e": 2.68
+      }
+    },
+    {
+      "id": "akrc/rc209",
+      "name": "Olive Green/usmc Green RAL 6003/fs34095 10ml",
+      "code": "RC209",
+      "set": "Real Colors - Air",
+      "hex": "#3C4830",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mallardish",
+        "hex": "#3A4531",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "akrc/rc047",
+      "name": "Olivgrün – Olive Green RAL 6003",
+      "code": "RC047",
+      "set": "Real Colors - AFV",
+      "hex": "#4E5220",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Private Green",
+        "hex": "#4F531F",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "akrc/rc047~2",
+      "name": "Olivgrün – Olive Green RAL 6003",
+      "code": "RC047",
+      "set": "Real Colors - WWII",
+      "hex": "#4E5220",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Private Green",
+        "hex": "#4F531F",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "akrc/rc009",
+      "name": "Orange, RAL 2004",
+      "code": "RC009",
+      "set": "Real Colors - Standard",
+      "hex": "#E85213",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro Orange",
+        "hex": "#E85112",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "akrc/rc009~2",
+      "name": "Orange, RAL 2004",
+      "code": "RC009",
+      "set": "Real Colors - Modern",
+      "hex": "#E85213",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro Orange",
+        "hex": "#E85112",
+        "delta_e": 0.2
+      }
+    },
+    {
+      "id": "akrc/rc017",
+      "name": "Pale Blue",
+      "code": "RC017",
+      "set": "Real Colors - Standard",
+      "hex": "#698A91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Shoal",
+        "hex": "#6B8C93",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "akrc/rc017~2",
+      "name": "Pale Blue",
+      "code": "RC017",
+      "set": "Real Colors - Modern",
+      "hex": "#698A91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Shoal",
+        "hex": "#6B8C93",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "akrc/rc232",
+      "name": "Pale Green Fs 34227 10ml",
+      "code": "RC232",
+      "set": "Real Colors - Air",
+      "hex": "#7A866E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Hedge",
+        "hex": "#798772",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc232~2",
+      "name": "Pale Green Fs 34227 10ml",
+      "code": "RC232",
+      "set": "Real Colors - WWII",
+      "hex": "#7A866E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Hedge",
+        "hex": "#798772",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc021",
+      "name": "Pale Grey",
+      "code": "RC021",
+      "set": "Real Colors - Modern",
+      "hex": "#879391",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marble Green-Grey",
+        "hex": "#85928F",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "akrc/rc021~2",
+      "name": "Pale Grey",
+      "code": "RC021",
+      "set": "Real Colors - Standard",
+      "hex": "#879391",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marble Green-Grey",
+        "hex": "#85928F",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "akrc/rc018",
+      "name": "Pale Sand",
+      "code": "RC018",
+      "set": "Real Colors - Modern",
+      "hex": "#CBB590",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Almond Buff",
+        "hex": "#CCB590",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "akrc/rc018~2",
+      "name": "Pale Sand",
+      "code": "RC018",
+      "set": "Real Colors - Standard",
+      "hex": "#CBB590",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Almond Buff",
+        "hex": "#CCB590",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "akrc/rc073",
+      "name": "Protective 4bo",
+      "code": "RC073",
+      "set": "Real Colors - WWII",
+      "hex": "#504C27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "akrc/rc073~2",
+      "name": "Protective 4bo",
+      "code": "RC073",
+      "set": "Real Colors - AFV",
+      "hex": "#504C27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "akrc/rc076",
+      "name": "Protective Green 1920’s – 1930’s",
+      "code": "RC076",
+      "set": "Real Colors - WWII",
+      "hex": "#504A26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "akrc/rc076~2",
+      "name": "Protective Green 1920’s – 1930’s",
+      "code": "RC076",
+      "set": "Real Colors - AFV",
+      "hex": "#504A26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "akrc/rc072",
+      "name": "Protective K",
+      "code": "RC072",
+      "set": "Real Colors - WWII",
+      "hex": "#494923",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc072~2",
+      "name": "Protective K",
+      "code": "RC072",
+      "set": "Real Colors - AFV",
+      "hex": "#494923",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "akrc/rc010",
+      "name": "Pure Blue, RAL 5005",
+      "code": "RC010",
+      "set": "Real Colors - Standard",
+      "hex": "#2C3D73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forbidden Blackberry",
+        "hex": "#323F75",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "akrc/rc010~2",
+      "name": "Pure Blue, RAL 5005",
+      "code": "RC010",
+      "set": "Real Colors - Modern",
+      "hex": "#2C3D73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forbidden Blackberry",
+        "hex": "#323F75",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "akrc/rc012",
+      "name": "Pure Green, RAL 6037",
+      "code": "RC012",
+      "set": "Real Colors - Modern",
+      "hex": "#1C6E30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawaiian Ti Leaf",
+        "hex": "#1D7033",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc012~2",
+      "name": "Pure Green, RAL 6037",
+      "code": "RC012",
+      "set": "Real Colors - Standard",
+      "hex": "#1C6E30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawaiian Ti Leaf",
+        "hex": "#1D7033",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc216",
+      "name": "Quarzgrau-quartz Grey RAL 7039 10ml",
+      "code": "RC216",
+      "set": "Real Colors - Air",
+      "hex": "#6B6660",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trail Print",
+        "hex": "#6B6662",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "akrc/rc265",
+      "name": "RLM 02 RLM -grau (1938)",
+      "code": "RC265",
+      "set": "Real Colors - WWII",
+      "hex": "#979481",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sylvan",
+        "hex": "#979381",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc265~2",
+      "name": "RLM 02 RLM -grau (1938)",
+      "code": "RC265",
+      "set": "Real Colors - Air",
+      "hex": "#979481",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sylvan",
+        "hex": "#979381",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc266",
+      "name": "RLM 02 RLM -grau (1941)",
+      "code": "RC266",
+      "set": "Real Colors - Air",
+      "hex": "#817C5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thurman",
+        "hex": "#7F7B60",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "akrc/rc266~2",
+      "name": "RLM 02 RLM -grau (1941)",
+      "code": "RC266",
+      "set": "Real Colors - WWII",
+      "hex": "#817C5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thurman",
+        "hex": "#7F7B60",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "akrc/rc267",
+      "name": "RLM 04",
+      "code": "RC267",
+      "set": "Real Colors - WWII",
+      "hex": "#F1A502",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Popsicle",
+        "hex": "#F2A60F",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "akrc/rc267~2",
+      "name": "RLM 04",
+      "code": "RC267",
+      "set": "Real Colors - Air",
+      "hex": "#F1A502",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mango Popsicle",
+        "hex": "#F2A60F",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "akrc/rc268",
+      "name": "RLM 61 / RAL 8019",
+      "code": "RC268",
+      "set": "Real Colors - Air",
+      "hex": "#5A504E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Willow Wood",
+        "hex": "#58504D",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc268~2",
+      "name": "RLM 61 / RAL 8019",
+      "code": "RC268",
+      "set": "Real Colors - WWII",
+      "hex": "#5A504E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Willow Wood",
+        "hex": "#58504D",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "akrc/rc269",
+      "name": "RLM 62",
+      "code": "RC269",
+      "set": "Real Colors - Air",
+      "hex": "#66694E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Siam",
+        "hex": "#686B50",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc269~2",
+      "name": "RLM 62",
+      "code": "RC269",
+      "set": "Real Colors - WWII",
+      "hex": "#66694E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Siam",
+        "hex": "#686B50",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "akrc/rc270",
+      "name": "RLM 63",
+      "code": "RC270",
+      "set": "Real Colors - WWII",
+      "hex": "#7D7A67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mount Tam",
+        "hex": "#7C7B6A",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "akrc/rc270~2",
+      "name": "RLM 63",
+      "code": "RC270",
+      "set": "Real Colors - Air",
+      "hex": "#7D7A67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mount Tam",
+        "hex": "#7C7B6A",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "akrc/rc271",
+      "name": "RLM 65 (1938)",
+      "code": "RC271",
+      "set": "Real Colors - WWII",
+      "hex": "#87A0A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Tea",
+        "hex": "#849DA2",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "akrc/rc271~2",
+      "name": "RLM 65 (1938)",
+      "code": "RC271",
+      "set": "Real Colors - Air",
+      "hex": "#87A0A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Tea",
+        "hex": "#849DA2",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "akrc/rc272",
+      "name": "RLM 65 (1941)",
+      "code": "RC272",
+      "set": "Real Colors - WWII",
+      "hex": "#91A197",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Retreat",
+        "hex": "#90A197",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "akrc/rc272~2",
+      "name": "RLM 65 (1941)",
+      "code": "RC272",
+      "set": "Real Colors - Air",
+      "hex": "#91A197",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verdant Retreat",
+        "hex": "#90A197",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "akrc/rc339",
+      "name": "RLM 66 (1938)",
+      "code": "RC339",
+      "set": "Real Colors - WWII",
+      "hex": "#353D3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old School",
+        "hex": "#353C3D",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "akrc/rc339~2",
+      "name": "RLM 66 (1938)",
+      "code": "RC339",
+      "set": "Real Colors - Air",
+      "hex": "#353D3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old School",
+        "hex": "#353C3D",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "akrc/rc273",
+      "name": "RLM 66 (1941)",
+      "code": "RC273",
+      "set": "Real Colors - Air",
+      "hex": "#51524C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aceto Balsamico",
+        "hex": "#4E4F48",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "akrc/rc273~2",
+      "name": "RLM 66 (1941)",
+      "code": "RC273",
+      "set": "Real Colors - WWII",
+      "hex": "#51524C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aceto Balsamico",
+        "hex": "#4E4F48",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "akrc/rc274",
+      "name": "RLM 70",
+      "code": "RC274",
+      "set": "Real Colors - WWII",
+      "hex": "#464940",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parkview",
+        "hex": "#46483E",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc274~2",
+      "name": "RLM 70",
+      "code": "RC274",
+      "set": "Real Colors - Air",
+      "hex": "#464940",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parkview",
+        "hex": "#46483E",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "akrc/rc275",
+      "name": "RLM 71",
+      "code": "RC275",
+      "set": "Real Colors - WWII",
+      "hex": "#504E42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruskin Bronze",
+        "hex": "#4D4D41",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "akrc/rc275~2",
+      "name": "RLM 71",
+      "code": "RC275",
+      "set": "Real Colors - Air",
+      "hex": "#504E42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruskin Bronze",
+        "hex": "#4D4D41",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "akrc/rc276",
+      "name": "RLM 72",
+      "code": "RC276",
+      "set": "Real Colors - WWII",
+      "hex": "#454641",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuatara",
+        "hex": "#454642",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc276~2",
+      "name": "RLM 72",
+      "code": "RC276",
+      "set": "Real Colors - Air",
+      "hex": "#454641",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuatara",
+        "hex": "#454642",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc277",
+      "name": "RLM 73",
+      "code": "RC277",
+      "set": "Real Colors - Air",
+      "hex": "#414840",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Pine",
+        "hex": "#444B43",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "akrc/rc277~2",
+      "name": "RLM 73",
+      "code": "RC277",
+      "set": "Real Colors - WWII",
+      "hex": "#414840",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Pine",
+        "hex": "#444B43",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "akrc/rc278",
+      "name": "RLM 74",
+      "code": "RC278",
+      "set": "Real Colors - WWII",
+      "hex": "#5A5954",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charcoal Sketch",
+        "hex": "#5D5B56",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc278~2",
+      "name": "RLM 74",
+      "code": "RC278",
+      "set": "Real Colors - Air",
+      "hex": "#5A5954",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charcoal Sketch",
+        "hex": "#5D5B56",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "akrc/rc279",
+      "name": "RLM 75",
+      "code": "RC279",
+      "set": "Real Colors - Air",
+      "hex": "#6E6E6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dove Grey",
+        "hex": "#6D6C6C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "akrc/rc279~2",
+      "name": "RLM 75",
+      "code": "RC279",
+      "set": "Real Colors - WWII",
+      "hex": "#6E6E6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dove Grey",
+        "hex": "#6D6C6C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "akrc/rc322",
+      "name": "RLM 76 Late War Variation 10ml",
+      "code": "RC322",
+      "set": "Real Colors - Air",
+      "hex": "#C1C19D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chameleon Tango",
+        "hex": "#C0C2A0",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "akrc/rc322~2",
+      "name": "RLM 76 Late War Variation 10ml",
+      "code": "RC322",
+      "set": "Real Colors - WWII",
+      "hex": "#C1C19D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chameleon Tango",
+        "hex": "#C0C2A0",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "akrc/rc320",
+      "name": "RLM 76 Version 1 10ml",
+      "code": "RC320",
+      "set": "Real Colors - Air",
+      "hex": "#A9B4A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graceful Green",
+        "hex": "#ACB7A8",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc320~2",
+      "name": "RLM 76 Version 1 10ml",
+      "code": "RC320",
+      "set": "Real Colors - WWII",
+      "hex": "#A9B4A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graceful Green",
+        "hex": "#ACB7A8",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "akrc/rc321",
+      "name": "RLM 76 Version 2 10ml",
+      "code": "RC321",
+      "set": "Real Colors - Air",
+      "hex": "#AEBEBE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenwich Village",
+        "hex": "#AFBFBE",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "akrc/rc321~2",
+      "name": "RLM 76 Version 2 10ml",
+      "code": "RC321",
+      "set": "Real Colors - WWII",
+      "hex": "#AEBEBE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenwich Village",
+        "hex": "#AFBFBE",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "akrc/rc280",
+      "name": "RLM 78 (1941)",
+      "code": "RC280",
+      "set": "Real Colors - WWII",
+      "hex": "#80979F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kingfisher Grey",
+        "hex": "#7E969F",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc280~2",
+      "name": "RLM 78 (1941)",
+      "code": "RC280",
+      "set": "Real Colors - Air",
+      "hex": "#80979F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kingfisher Grey",
+        "hex": "#7E969F",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "akrc/rc281",
+      "name": "RLM 78 (1942)",
+      "code": "RC281",
+      "set": "Real Colors - Air",
+      "hex": "#889D98",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Agave",
+        "hex": "#879D99",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "akrc/rc281~2",
+      "name": "RLM 78 (1942)",
+      "code": "RC281",
+      "set": "Real Colors - WWII",
+      "hex": "#889D98",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Agave",
+        "hex": "#879D99",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "akrc/rc282",
+      "name": "RLM 79 (1941)",
+      "code": "RC282",
+      "set": "Real Colors - WWII",
+      "hex": "#E7A159",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "South Haven",
+        "hex": "#E8A05A",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "akrc/rc282~2",
+      "name": "RLM 79 (1941)",
+      "code": "RC282",
+      "set": "Real Colors - Air",
+      "hex": "#E7A159",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "South Haven",
+        "hex": "#E8A05A",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "akrc/rc283",
+      "name": "RLM 79 (1942)",
+      "code": "RC283",
+      "set": "Real Colors - Air",
+      "hex": "#9C704D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Standing Still",
+        "hex": "#9D6F4B",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc283~2",
+      "name": "RLM 79 (1942)",
+      "code": "RC283",
+      "set": "Real Colors - WWII",
+      "hex": "#9C704D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Standing Still",
+        "hex": "#9D6F4B",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc284",
+      "name": "RLM 80",
+      "code": "RC284",
+      "set": "Real Colors - WWII",
+      "hex": "#575644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Second Nature",
+        "hex": "#585642",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc284~2",
+      "name": "RLM 80",
+      "code": "RC284",
+      "set": "Real Colors - Air",
+      "hex": "#575644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Second Nature",
+        "hex": "#585642",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc323",
+      "name": "RLM 81 Version 1 10ml",
+      "code": "RC323",
+      "set": "Real Colors - Air",
+      "hex": "#575644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Second Nature",
+        "hex": "#585642",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc323~2",
+      "name": "RLM 81 Version 1 10ml",
+      "code": "RC323",
+      "set": "Real Colors - WWII",
+      "hex": "#575644",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Second Nature",
+        "hex": "#585642",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc324",
+      "name": "RLM 81 Version 2 10ml",
+      "code": "RC324",
+      "set": "Real Colors - Air",
+      "hex": "#464C3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duffel Bag",
+        "hex": "#464E3F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc324~2",
+      "name": "RLM 81 Version 2 10ml",
+      "code": "RC324",
+      "set": "Real Colors - WWII",
+      "hex": "#464C3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duffel Bag",
+        "hex": "#464E3F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc325",
+      "name": "RLM 81 Version 3 10ml",
+      "code": "RC325",
+      "set": "Real Colors - WWII",
+      "hex": "#5A5044",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Leaf",
+        "hex": "#5C5043",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "akrc/rc325~2",
+      "name": "RLM 81 Version 3 10ml",
+      "code": "RC325",
+      "set": "Real Colors - Air",
+      "hex": "#5A5044",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Leaf",
+        "hex": "#5C5043",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "akrc/rc326",
+      "name": "RLM 82 10ml",
+      "code": "RC326",
+      "set": "Real Colors - WWII",
+      "hex": "#4D5B4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Pine",
+        "hex": "#4F5B49",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc326~2",
+      "name": "RLM 82 10ml",
+      "code": "RC326",
+      "set": "Real Colors - Air",
+      "hex": "#4D5B4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Pine",
+        "hex": "#4F5B49",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc327",
+      "name": "RLM 83 10ml",
+      "code": "RC327",
+      "set": "Real Colors - WWII",
+      "hex": "#384452",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Starlit Eve",
+        "hex": "#384351",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "akrc/rc327~2",
+      "name": "RLM 83 10ml",
+      "code": "RC327",
+      "set": "Real Colors - Air",
+      "hex": "#384452",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Starlit Eve",
+        "hex": "#384351",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "akrc/rc227",
+      "name": "Radome Tan Fs 33613 10ml",
+      "code": "RC227",
+      "set": "Real Colors - WWII",
+      "hex": "#E7C7A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Egghead",
+        "hex": "#E6C7A2",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "akrc/rc227~2",
+      "name": "Radome Tan Fs 33613 10ml",
+      "code": "RC227",
+      "set": "Real Colors - Air",
+      "hex": "#E7C7A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Egghead",
+        "hex": "#E6C7A2",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "akrc/rc291",
+      "name": "Raf Azure Blue 10ml",
+      "code": "RC291",
+      "set": "Real Colors - Air",
+      "hex": "#7D9FC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alaskan Ice",
+        "hex": "#7E9EC2",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "akrc/rc291~2",
+      "name": "Raf Azure Blue 10ml",
+      "code": "RC291",
+      "set": "Real Colors - WWII",
+      "hex": "#7D9FC4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alaskan Ice",
+        "hex": "#7E9EC2",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "akrc/rc299",
+      "name": "Raf Camouflage (barley) Grey Bs381c/626 – 10ml",
+      "code": "RC299",
+      "set": "Real Colors - Air",
+      "hex": "#96A6A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oily Steel",
+        "hex": "#99AAAA",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "akrc/rc301",
+      "name": "Raf Camouflage Beige (hemp) Bs 381c/389 – 10ml",
+      "code": "RC301",
+      "set": "Real Colors - Air",
+      "hex": "#97946B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silk Road",
+        "hex": "#97976F",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "akrc/rc293",
+      "name": "Raf Cockpit Grey-green 10ml",
+      "code": "RC293",
+      "set": "Real Colors - Air",
+      "hex": "#969F82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rookwood Jade",
+        "hex": "#979F7F",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "akrc/rc293~2",
+      "name": "Raf Cockpit Grey-green 10ml",
+      "code": "RC293",
+      "set": "Real Colors - WWII",
+      "hex": "#969F82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rookwood Jade",
+        "hex": "#979F7F",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "akrc/rc300",
+      "name": "Raf Dark Camouflage Grey Bs381c/629 – 10ml",
+      "code": "RC300",
+      "set": "Real Colors - Air",
+      "hex": "#888888",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Argent",
+        "hex": "#888888",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc287",
+      "name": "Raf Dark Earth – 10ml",
+      "code": "RC287",
+      "set": "Real Colors - Air",
+      "hex": "#5D4A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightingale",
+        "hex": "#5C4827",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "akrc/rc287~2",
+      "name": "Raf Dark Earth – 10ml",
+      "code": "RC287",
+      "set": "Real Colors - WWII",
+      "hex": "#5D4A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightingale",
+        "hex": "#5C4827",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "akrc/rc286",
+      "name": "Raf Dark Green – 10ml",
+      "code": "RC286",
+      "set": "Real Colors - WWII",
+      "hex": "#4F5143",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "akrc/rc286~2",
+      "name": "Raf Dark Green – 10ml",
+      "code": "RC286",
+      "set": "Real Colors - Air",
+      "hex": "#4F5143",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Depths",
+        "hex": "#545648",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "akrc/rc296",
+      "name": "Raf Dark Sea Grey Bs381c/638 – 10ml",
+      "code": "RC296",
+      "set": "Real Colors - WWII",
+      "hex": "#646B75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noctis",
+        "hex": "#646B77",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "akrc/rc296~2",
+      "name": "Raf Dark Sea Grey Bs381c/638 – 10ml",
+      "code": "RC296",
+      "set": "Real Colors - Air",
+      "hex": "#646B75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noctis",
+        "hex": "#646B77",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "akrc/rc294",
+      "name": "Raf Dark Slate Grey 10ml",
+      "code": "RC294",
+      "set": "Real Colors - WWII",
+      "hex": "#5E5E52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hayden Valley",
+        "hex": "#5F5D50",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "akrc/rc294~2",
+      "name": "Raf Dark Slate Grey 10ml",
+      "code": "RC294",
+      "set": "Real Colors - Air",
+      "hex": "#5E5E52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hayden Valley",
+        "hex": "#5F5D50",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "akrc/rc295",
+      "name": "Raf Extra Dark Sea Grey Bs381c/640 – 10ml",
+      "code": "RC295",
+      "set": "Real Colors - WWII",
+      "hex": "#4C565F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Solstice",
+        "hex": "#49545C",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "akrc/rc295~2",
+      "name": "Raf Extra Dark Sea Grey Bs381c/640 – 10ml",
+      "code": "RC295",
+      "set": "Real Colors - Air",
+      "hex": "#4C565F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Solstice",
+        "hex": "#49545C",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "akrc/rc298",
+      "name": "Raf Light Aircraft Grey Bs381c/627 – 10ml",
+      "code": "RC298",
+      "set": "Real Colors - Air",
+      "hex": "#C3C5B8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Light Patina",
+        "hex": "#C0C2B4",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "akrc/rc289",
+      "name": "Raf Medium Sea Grey Bs381c/637 – 10ml",
+      "code": "RC289",
+      "set": "Real Colors - Air",
+      "hex": "#808D93",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Common Feldspar",
+        "hex": "#858F94",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "akrc/rc289~2",
+      "name": "Raf Medium Sea Grey Bs381c/637 – 10ml",
+      "code": "RC289",
+      "set": "Real Colors - WWII",
+      "hex": "#808D93",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Common Feldspar",
+        "hex": "#858F94",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "akrc/rc292",
+      "name": "Raf Middle Stone 10ml",
+      "code": "RC292",
+      "set": "Real Colors - WWII",
+      "hex": "#A37C3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Organic Style",
+        "hex": "#A67E3E",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc292~2",
+      "name": "Raf Middle Stone 10ml",
+      "code": "RC292",
+      "set": "Real Colors - Air",
+      "hex": "#A37C3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Organic Style",
+        "hex": "#A67E3E",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "akrc/rc288",
+      "name": "Raf Ocean Grey – 10ml",
+      "code": "RC288",
+      "set": "Real Colors - WWII",
+      "hex": "#666D75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dapper Greyhound",
+        "hex": "#697078",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "akrc/rc288~2",
+      "name": "Raf Ocean Grey – 10ml",
+      "code": "RC288",
+      "set": "Real Colors - Air",
+      "hex": "#666D75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dapper Greyhound",
+        "hex": "#697078",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "akrc/rc297",
+      "name": "Raf Pru Blue Bs381c/636 – 10ml",
+      "code": "RC297",
+      "set": "Real Colors - Air",
+      "hex": "#597A81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "North Atlantic",
+        "hex": "#5E7B7F",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "akrc/rc290",
+      "name": "Raf Sky / Fs 34424 – 10ml",
+      "code": "RC290",
+      "set": "Real Colors - Air",
+      "hex": "#B1BA8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gloaming Green",
+        "hex": "#B4BE93",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "akrc/rc290~2",
+      "name": "Raf Sky / Fs 34424 – 10ml",
+      "code": "RC290",
+      "set": "Real Colors - WWII",
+      "hex": "#B1BA8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gloaming Green",
+        "hex": "#B4BE93",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "akrc/rc285",
+      "name": "Raf Sky Grey / Fs 26373 – 10ml",
+      "code": "RC285",
+      "set": "Real Colors - WWII",
+      "hex": "#A2A6A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castlegate",
+        "hex": "#A0A5A5",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "akrc/rc285~2",
+      "name": "Raf Sky Grey / Fs 26373 – 10ml",
+      "code": "RC285",
+      "set": "Real Colors - Air",
+      "hex": "#A2A6A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castlegate",
+        "hex": "#A0A5A5",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "akrc/rc006",
+      "name": "Red, RAL 3000",
+      "code": "RC006",
+      "set": "Real Colors - Standard",
+      "hex": "#A61B18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ketchup Later",
+        "hex": "#A91C1C",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc006~2",
+      "name": "Red, RAL 3000",
+      "code": "RC006",
+      "set": "Real Colors - Modern",
+      "hex": "#A61B18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ketchup Later",
+        "hex": "#A91C1C",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc067",
+      "name": "Rot (rotbraun) Red (red Brown) RAL 8012",
+      "code": "RC067",
+      "set": "Real Colors - AFV",
+      "hex": "#6D2114",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prune",
+        "hex": "#701C11",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "akrc/rc067~2",
+      "name": "Rot (rotbraun) Red (red Brown) RAL 8012",
+      "code": "RC067",
+      "set": "Real Colors - WWII",
+      "hex": "#6D2114",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prune",
+        "hex": "#701C11",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "akrc/rc066",
+      "name": "Rot (rotbraun) – Red (red Brown) RAL 8013",
+      "code": "RC066",
+      "set": "Real Colors - AFV",
+      "hex": "#55160D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Brown",
+        "hex": "#4F1507",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "akrc/rc066~2",
+      "name": "Rot (rotbraun) – Red (red Brown) RAL 8013",
+      "code": "RC066",
+      "set": "Real Colors - WWII",
+      "hex": "#55160D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Brown",
+        "hex": "#4F1507",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "akrc/rc068",
+      "name": "Rotbraun – Red Brown RAL 8017",
+      "code": "RC068",
+      "set": "Real Colors - WWII",
+      "hex": "#3C251D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Pod",
+        "hex": "#3C241B",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "akrc/rc068~2",
+      "name": "Rotbraun – Red Brown RAL 8017",
+      "code": "RC068",
+      "set": "Real Colors - AFV",
+      "hex": "#3C251D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Pod",
+        "hex": "#3C241B",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "akrc/rc022",
+      "name": "Rubber Black",
+      "code": "RC022",
+      "set": "Real Colors - Standard",
+      "hex": "#1D1D1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco’s Black",
+        "hex": "#1C1C1A",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "akrc/rc022~2",
+      "name": "Rubber Black",
+      "code": "RC022",
+      "set": "Real Colors - Modern",
+      "hex": "#1D1D1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco’s Black",
+        "hex": "#1C1C1A",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "akrc/rc206",
+      "name": "Russian Cockpit Torquise 10ml",
+      "code": "RC206",
+      "set": "Real Colors - Air",
+      "hex": "#6EC0B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiesta Blue",
+        "hex": "#6FC0B1",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "akrc/rc100",
+      "name": "Russian Grey Green",
+      "code": "RC100",
+      "set": "Real Colors - AFV",
+      "hex": "#515137",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Avocado Pear",
+        "hex": "#555337",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "akrc/rc099",
+      "name": "Russian Greyish Yellow",
+      "code": "RC099",
+      "set": "Real Colors - AFV",
+      "hex": "#C7AE85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Chi",
+        "hex": "#C7AF88",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "akrc/rc098",
+      "name": "Russian Modern Green",
+      "code": "RC098",
+      "set": "Real Colors - AFV",
+      "hex": "#454924",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nori Seaweed Green",
+        "hex": "#464826",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "akrc/rc036",
+      "name": "S.c.c. 14 Blue Black",
+      "code": "RC036",
+      "set": "Real Colors - AFV",
+      "hex": "#1E2326",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Washed Black",
+        "hex": "#1F262A",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "akrc/rc036~2",
+      "name": "S.c.c. 14 Blue Black",
+      "code": "RC036",
+      "set": "Real Colors - WWII",
+      "hex": "#1E2326",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Washed Black",
+        "hex": "#1F262A",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "akrc/rc037",
+      "name": "S.c.c. 15 Olive Drab",
+      "code": "RC037",
+      "set": "Real Colors - WWII",
+      "hex": "#43412A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strong Tone Wash",
+        "hex": "#454129",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "akrc/rc037~2",
+      "name": "S.c.c. 15 Olive Drab",
+      "code": "RC037",
+      "set": "Real Colors - AFV",
+      "hex": "#43412A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strong Tone Wash",
+        "hex": "#454129",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "akrc/rc034",
+      "name": "S.c.c. 1a Brown",
+      "code": "RC034",
+      "set": "Real Colors - WWII",
+      "hex": "#3A1F18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorched",
+        "hex": "#351F19",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "akrc/rc034~2",
+      "name": "S.c.c. 1a Brown",
+      "code": "RC034",
+      "set": "Real Colors - AFV",
+      "hex": "#3A1F18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorched",
+        "hex": "#351F19",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "akrc/rc035",
+      "name": "S.c.c. 2 Brown",
+      "code": "RC035",
+      "set": "Real Colors - WWII",
+      "hex": "#855F2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Brown",
+        "hex": "#825E2F",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "akrc/rc035~2",
+      "name": "S.c.c. 2 Brown",
+      "code": "RC035",
+      "set": "Real Colors - AFV",
+      "hex": "#855F2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Brown",
+        "hex": "#825E2F",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "akrc/rc075",
+      "name": "Sand 7k",
+      "code": "RC075",
+      "set": "Real Colors - AFV",
+      "hex": "#84632D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sleek Otter",
+        "hex": "#825D2A",
+        "delta_e": 2.59
+      }
+    },
+    {
+      "id": "akrc/rc075~2",
+      "name": "Sand 7k",
+      "code": "RC075",
+      "set": "Real Colors - WWII",
+      "hex": "#84632D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sleek Otter",
+        "hex": "#825D2A",
+        "delta_e": 2.59
+      }
+    },
+    {
+      "id": "akrc/rc084",
+      "name": "Sand Fs 30277",
+      "code": "RC084",
+      "set": "Real Colors - AFV",
+      "hex": "#887348",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Willow",
+        "hex": "#89734B",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "akrc/rc226",
+      "name": "Sand Fs 33531 10ml",
+      "code": "RC226",
+      "set": "Real Colors - Air",
+      "hex": "#C8B6A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shaggy Dog",
+        "hex": "#C9B6A1",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "akrc/rc088",
+      "name": "Sandbeige RAL 1039-f9",
+      "code": "RC088",
+      "set": "Real Colors - AFV",
+      "hex": "#AD976E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bauhaus Gold",
+        "hex": "#B0986F",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "akrc/rc092",
+      "name": "Sandbraun RAL 8031-f9",
+      "code": "RC092",
+      "set": "Real Colors - AFV",
+      "hex": "#8C7450",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earthquake",
+        "hex": "#8C7553",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "akrc/rc501",
+      "name": "Satin Varnish",
+      "code": "RC501",
+      "set": "Real Colors - Modern",
+      "hex": "#DCDCDC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gainsboro",
+        "hex": "#DCDCDC",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc501~2",
+      "name": "Satin Varnish",
+      "code": "RC501",
+      "set": "Real Colors - Standard",
+      "hex": "#DCDCDC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gainsboro",
+        "hex": "#DCDCDC",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc341",
+      "name": "Schwarzgrau-black Grey RAL 7021",
+      "code": "RC341",
+      "set": "Real Colors - Air",
+      "hex": "#313234",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tap Shoe",
+        "hex": "#2F3032",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "akrc/rc257",
+      "name": "Sea Blue 10ml",
+      "code": "RC257",
+      "set": "Real Colors - WWII",
+      "hex": "#3D444C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Duck Grey",
+        "hex": "#40464D",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "akrc/rc257~2",
+      "name": "Sea Blue 10ml",
+      "code": "RC257",
+      "set": "Real Colors - Air",
+      "hex": "#3D444C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alpine Duck Grey",
+        "hex": "#40464D",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "akrc/rc217",
+      "name": "Seidengrau-silk Grey RAL 7044",
+      "code": "RC217",
+      "set": "Real Colors - Air",
+      "hex": "#B7B5A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arid Plains",
+        "hex": "#B6B4A9",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "akrc/rc005",
+      "name": "Signal Red, RAL 3020",
+      "code": "RC005",
+      "set": "Real Colors - Standard",
+      "hex": "#C5170E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blood Kiss",
+        "hex": "#C30B0A",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "akrc/rc005~2",
+      "name": "Signal Red, RAL 3020",
+      "code": "RC005",
+      "set": "Real Colors - Modern",
+      "hex": "#C5170E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blood Kiss",
+        "hex": "#C30B0A",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "akrc/rc210",
+      "name": "Silbergrau -silver Grey RAL 7001 10ml",
+      "code": "RC210",
+      "set": "Real Colors - Air",
+      "hex": "#9FA4A8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Chateau",
+        "hex": "#9FA3A7",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "akrc/rc105",
+      "name": "Spanish Green, Fs 3011",
+      "code": "RC105",
+      "set": "Real Colors - AFV",
+      "hex": "#4E5534",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chive",
+        "hex": "#4D5637",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "akrc/rc215",
+      "name": "Staubgrau-dusty Grey RAL 7037 10ml",
+      "code": "RC215",
+      "set": "Real Colors - Air",
+      "hex": "#7A7C7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Namara Grey",
+        "hex": "#7B7C7D",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "akrc/rc213",
+      "name": "Steingrau-stone Grey RAL 7030 10ml",
+      "code": "RC213",
+      "set": "Real Colors - Air",
+      "hex": "#918C86",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rocky Ridge",
+        "hex": "#918C86",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "akrc/rc102",
+      "name": "Syrian Republican Guard Desert Yellow",
+      "code": "RC102",
+      "set": "Real Colors - AFV",
+      "hex": "#DFB048",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gambol Gold",
+        "hex": "#E1B047",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "akrc/rc223",
+      "name": "Tan Fs 20400 10ml",
+      "code": "RC223",
+      "set": "Real Colors - Air",
+      "hex": "#C69B78",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimaera Brown",
+        "hex": "#C89B75",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "akrc/rc091",
+      "name": "Tarngrau RAL 7050-f9",
+      "code": "RC091",
+      "set": "Real Colors - AFV",
+      "hex": "#665543",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hickory Grove",
+        "hex": "#655341",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "akrc/rc097",
+      "name": "Uae Sand Dull",
+      "code": "RC097",
+      "set": "Real Colors - AFV",
+      "hex": "#9F8964",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Historic Town",
+        "hex": "#A18A64",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "akrc/rc229",
+      "name": "Us Army Helo Drab Fs 34031 10ml",
+      "code": "RC229",
+      "set": "Real Colors - Air",
+      "hex": "#464742",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tuatara",
+        "hex": "#454642",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "akrc/rc262",
+      "name": "Us Interior Yellow Green 10ml",
+      "code": "RC262",
+      "set": "Real Colors - WWII",
+      "hex": "#848158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinach Souffle",
+        "hex": "#83825B",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc262~2",
+      "name": "Us Interior Yellow Green 10ml",
+      "code": "RC262",
+      "set": "Real Colors - Air",
+      "hex": "#848158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinach Souffle",
+        "hex": "#83825B",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "akrc/rc228",
+      "name": "Usmc Sand Fs 33711 10ml",
+      "code": "RC228",
+      "set": "Real Colors - Air",
+      "hex": "#E1C9A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gourmet Honey",
+        "hex": "#E3CBA8",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "akrc/rc003",
+      "name": "White Grey, RAL 9002",
+      "code": "RC003",
+      "set": "Real Colors - Standard",
+      "hex": "#F1EDE2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cream White",
+        "hex": "#F2EEE2",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc003~2",
+      "name": "White Grey, RAL 9002",
+      "code": "RC003",
+      "set": "Real Colors - Modern",
+      "hex": "#F1EDE2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cream White",
+        "hex": "#F2EEE2",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "akrc/rc007",
+      "name": "Yellow, RAL 1003",
+      "code": "RC007",
+      "set": "Real Colors - Modern",
+      "hex": "#FDC109",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marigold",
+        "hex": "#FCC006",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "akrc/rc007~2",
+      "name": "Yellow, RAL 1003",
+      "code": "RC007",
+      "set": "Real Colors - Standard",
+      "hex": "#FDC109",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marigold",
+        "hex": "#FCC006",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "akrc/rc077",
+      "name": "Zb Au Basic Protector",
+      "code": "RC077",
+      "set": "Real Colors - WWII",
+      "hex": "#433E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strong Tone Wash",
+        "hex": "#454129",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "akrc/rc077~2",
+      "name": "Zb Au Basic Protector",
+      "code": "RC077",
+      "set": "Real Colors - AFV",
+      "hex": "#433E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strong Tone Wash",
+        "hex": "#454129",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "akrc/rc263",
+      "name": "Zinc Chromate Yellow 10ml",
+      "code": "RC263",
+      "set": "Real Colors - WWII",
+      "hex": "#D1BB4E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Limón Fresco",
+        "hex": "#CEBC55",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "akrc/rc263~2",
+      "name": "Zinc Chromate Yellow 10ml",
+      "code": "RC263",
+      "set": "Real Colors - Air",
+      "hex": "#D1BB4E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Limón Fresco",
+        "hex": "#CEBC55",
+        "delta_e": 1.35
+      }
+    }
+  ]
+}

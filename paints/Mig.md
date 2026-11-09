@@ -3,7 +3,6 @@
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
-| Sand Yellow|AMIG0030|Acrylics|216|166|79|![#D8A64F](https://placehold.co/15x15/D8A64F/D8A64F.png) `#D8A64F`|
 |3b Au Basic Protector Alkidno-uretanovaya|AMIG0022|Acrylics|61|51|26|![#3D331A](https://placehold.co/15x15/3D331A/3D331A.png) `#3D331A`|
 |4bo Russian Green|AMIG0019|Acrylics|79|81|41|![#4F5129](https://placehold.co/15x15/4F5129/4F5129.png) `#4F5129`|
 |6k Russian Brown|AMIG0020|Acrylics|59|49|40|![#3B3128](https://placehold.co/15x15/3B3128/3B3128.png) `#3B3128`|
@@ -25,7 +24,7 @@
 |Burnt Brown Red|AMIG0134|Acrylics|53|32|5|![#352005](https://placehold.co/15x15/352005/352005.png) `#352005`|
 |Burnt Sand|AMIG0118|Acrylics|126|90|58|![#7E5A3A](https://placehold.co/15x15/7E5A3A/7E5A3A.png) `#7E5A3A`|
 |Chipping|AMIG0044|Acrylics|38|14|14|![#260E0E](https://placehold.co/15x15/260E0E/260E0E.png) `#260E0E`|
-|Cinnamon |AMIG0135|Acrylics|147|125|111|![#937D6F](https://placehold.co/15x15/937D6F/937D6F.png) `#937D6F`|
+|Cinnamon|AMIG0135|Acrylics|147|125|111|![#937D6F](https://placehold.co/15x15/937D6F/937D6F.png) `#937D6F`|
 |Clay Brown|AMIG0079|Acrylics|104|63|35|![#683F23](https://placehold.co/15x15/683F23/683F23.png) `#683F23`|
 |Cold Gray|AMIG0119|Acrylics|211|211|211|![#D3D3D3](https://placehold.co/15x15/D3D3D3/D3D3D3.png) `#D3D3D3`|
 |Copper|AMIG0199|Acrylics|201|74|93|![#C94A5D](https://placehold.co/15x15/C94A5D/C94A5D.png) `#C94A5D`|
@@ -92,7 +91,7 @@
 |Fs 36622 Gray|AMIG0226|Acrylics|209|210|194|![#D1D2C2](https://placehold.co/15x15/D1D2C2/D1D2C2.png) `#D1D2C2`|
 |Fs 37886|AMIG0242|Acrylics|240|240|216|![#F0F0D8](https://placehold.co/15x15/F0F0D8/F0F0D8.png) `#F0F0D8`|
 |Fs35237 Blue Gray Amt-11|AMIG0210|Acrylics|109|125|138|![#6D7D8A](https://placehold.co/15x15/6D7D8A/6D7D8A.png) `#6D7D8A`|
-|Fs35260 Sky Line Blue A II |AMIG0224|Acrylics|113|198|227|![#71C6E3](https://placehold.co/15x15/71C6E3/71C6E3.png) `#71C6E3`|
+|Fs35260 Sky Line Blue A II|AMIG0224|Acrylics|113|198|227|![#71C6E3](https://placehold.co/15x15/71C6E3/71C6E3.png) `#71C6E3`|
 |Fs36152 Dark Grey AMT-12|AMIG0235|Acrylics|93|98|104|![#5D6268](https://placehold.co/15x15/5D6268/5D6268.png) `#5D6268`|
 |Gold|AMIG0198|Acrylics|184|176|33|![#B8B021](https://placehold.co/15x15/B8B021/B8B021.png) `#B8B021`|
 |Gold Yellow (RLM 04 Gelb)|AMIG0125|Acrylics|215|192|18|![#D7C012](https://placehold.co/15x15/D7C012/D7C012.png) `#D7C012`|
@@ -112,7 +111,7 @@
 |Khaki|AMIG0071|Acrylics|115|85|51|![#735533](https://placehold.co/15x15/735533/735533.png) `#735533`|
 |Khaki Brown|AMIG0088|Acrylics|179|146|103|![#B39267](https://placehold.co/15x15/B39267/B39267.png) `#B39267`|
 |Khaki Green Nº3 (british 1939-42)|AMIG0113|Acrylics|104|95|56|![#685F38](https://placehold.co/15x15/685F38/685F38.png) `#685F38`|
-|Light Blue |AMIG0249|Acrylics|180|206|219|![#B4CEDB](https://placehold.co/15x15/B4CEDB/B4CEDB.png) `#B4CEDB`|
+|Light Blue|AMIG0249|Acrylics|180|206|219|![#B4CEDB](https://placehold.co/15x15/B4CEDB/B4CEDB.png) `#B4CEDB`|
 |Light Brown-gray|AMIG0120|Acrylics|214|209|206|![#D6D1CE](https://placehold.co/15x15/D6D1CE/D6D1CE.png) `#D6D1CE`|
 |Light Green|AMIG0917|Acrylics|147|175|117|![#93AF75](https://placehold.co/15x15/93AF75/93AF75.png) `#93AF75`|
 |Light Green Khaki|AMIG0058|Acrylics|124|123|77|![#7C7B4D](https://placehold.co/15x15/7C7B4D/7C7B4D.png) `#7C7B4D`|
@@ -157,7 +156,7 @@
 |One Shot Primer - Green|AMIG2028|Primers|38|52|39|![#263427](https://placehold.co/15x15/263427/263427.png) `#263427`|
 |One Shot Primer - Grey|AMIG2024|Primers|107|107|107|![#6B6B6B](https://placehold.co/15x15/6B6B6B/6B6B6B.png) `#6B6B6B`|
 |One Shot Primer - Sand Flesh|AMIG2027|Primers|183|163|113|![#B7A371](https://placehold.co/15x15/B7A371/B7A371.png) `#B7A371`|
-|One Shot Primer - White |AMIG2022|Primers|228|228|228|![#E4E4E4](https://placehold.co/15x15/E4E4E4/E4E4E4.png) `#E4E4E4`|
+|One Shot Primer - White|AMIG2022|Primers|228|228|228|![#E4E4E4](https://placehold.co/15x15/E4E4E4/E4E4E4.png) `#E4E4E4`|
 |Orange|AMIG0129|Acrylics|231|115|30|![#E7731E](https://placehold.co/15x15/E7731E/E7731E.png) `#E7731E`|
 |Pale Green|AMIG0060|Acrylics|58|99|39|![#3A6327](https://placehold.co/15x15/3A6327/3A6327.png) `#3A6327`|
 |Polished Metal|AMIG0192|Acrylics|91|108|92|![#5B6C5C](https://placehold.co/15x15/5B6C5C/5B6C5C.png) `#5B6C5C`|
@@ -223,6 +222,7 @@
 |Russian Shadow|AMIG0930|Acrylics|48|48|14|![#30300E](https://placehold.co/15x15/30300E/30300E.png) `#30300E`|
 |Russian Shine|AMIG0935|Acrylics|158|151|109|![#9E976D](https://placehold.co/15x15/9E976D/9E976D.png) `#9E976D`|
 |Rust Tracks|AMIG0034|Acrylics|56|38|28|![#38261C](https://placehold.co/15x15/38261C/38261C.png) `#38261C`|
+|Sand Yellow|AMIG0030|Acrylics|216|166|79|![#D8A64F](https://placehold.co/15x15/D8A64F/D8A64F.png) `#D8A64F`|
 |Satin Black|AMIG0032|Acrylics|28|28|28|![#1C1C1C](https://placehold.co/15x15/1C1C1C/1C1C1C.png) `#1C1C1C`|
 |Satin White|AMIG0047|Acrylics|232|232|232|![#E8E8E8](https://placehold.co/15x15/E8E8E8/E8E8E8.png) `#E8E8E8`|
 |Scc 15 (british 1944-45 Olive Drab)|AMIG0112|Acrylics|53|59|25|![#353B19](https://placehold.co/15x15/353B19/353B19.png) `#353B19`|

@@ -1,0 +1,3545 @@
+{
+  "brand": "Mig",
+  "slug": "mig",
+  "md_file": "Mig.md",
+  "logo": "logos/Mig.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "mig/amig0022",
+      "name": "3b Au Basic Protector Alkidno-uretanovaya",
+      "code": "AMIG0022",
+      "set": "Acrylics",
+      "hex": "#3D331A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pullman Green",
+        "hex": "#3B331C",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "mig/amig0019",
+      "name": "4bo Russian Green",
+      "code": "AMIG0019",
+      "set": "Acrylics",
+      "hex": "#4F5129",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warplock Bronze",
+        "hex": "#515131",
+        "delta_e": 2.49
+      }
+    },
+    {
+      "id": "mig/amig0020",
+      "name": "6k Russian Brown",
+      "code": "AMIG0020",
+      "set": "Acrylics",
+      "hex": "#3B3128",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee Bean",
+        "hex": "#362D26",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "mig/amig0021",
+      "name": "7k Russian Tan",
+      "code": "AMIG0021",
+      "set": "Acrylics",
+      "hex": "#70603E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "US Field Drab",
+        "hex": "#716140",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "mig/amig1001",
+      "name": "Afrika Korps Wash",
+      "code": "AMIG1001",
+      "set": "Washes",
+      "hex": "#322A1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Go to Hell Black",
+        "hex": "#342C21",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "mig/amig0082",
+      "name": "Apc Interior Light Green",
+      "code": "AMIG0082",
+      "set": "Acrylics",
+      "hex": "#8DA186",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sonoma Sage",
+        "hex": "#90A58A",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "mig/amig0116",
+      "name": "Basic Skin Tone",
+      "code": "AMIG0116",
+      "set": "Acrylics",
+      "hex": "#E3B4A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terra Cotta Blush",
+        "hex": "#E2B5A6",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "mig/amig1011",
+      "name": "Black Wash",
+      "code": "AMIG1011",
+      "set": "Washes",
+      "hex": "#0E0E0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chaos Black",
+        "hex": "#0F0F0F",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "mig/amig0121",
+      "name": "Blood Red",
+      "code": "AMIG0121",
+      "set": "Acrylics",
+      "hex": "#AC2B25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fabulous Red",
+        "hex": "#A92C29",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "mig/amig0086",
+      "name": "Blue (RAL 5019)",
+      "code": "AMIG0086",
+      "set": "Acrylics",
+      "hex": "#1B4F88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Night Sky",
+        "hex": "#214F86",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "mig/amig0069",
+      "name": "Blue Green",
+      "code": "AMIG0069",
+      "set": "Acrylics",
+      "hex": "#283C23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "mig/amig1006",
+      "name": "Blue Wash For Panzer Grey",
+      "code": "AMIG1006",
+      "set": "Washes",
+      "hex": "#1F242A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Beauty",
+        "hex": "#23262B",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "mig/amig0193",
+      "name": "Bluish Titanium",
+      "code": "AMIG0193",
+      "set": "Acrylics",
+      "hex": "#619185",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chlorite",
+        "hex": "#5E8E82",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "mig/amig0122",
+      "name": "Bone",
+      "code": "AMIG0122",
+      "set": "Acrylics",
+      "hex": "#EDEEDC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Colleen Green",
+        "hex": "#EBECDA",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "mig/amig0197",
+      "name": "Brass",
+      "code": "AMIG0197",
+      "set": "Acrylics",
+      "hex": "#B7881C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arrowwood",
+        "hex": "#B3861E",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "mig/amig0080",
+      "name": "Bright Green Amt-4",
+      "code": "AMIG0080",
+      "set": "Acrylics",
+      "hex": "#5E7D3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mangrove Leaf",
+        "hex": "#607C3D",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "mig/amig0076",
+      "name": "Brown Soil",
+      "code": "AMIG0076",
+      "set": "Acrylics",
+      "hex": "#6E4939",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cappuccino",
+        "hex": "#704A3A",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "mig/amig1000",
+      "name": "Brown Wash For German Dark Yellow",
+      "code": "AMIG1000",
+      "set": "Washes",
+      "hex": "#423222",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iroko",
+        "hex": "#433120",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "mig/amig0134",
+      "name": "Burnt Brown Red",
+      "code": "AMIG0134",
+      "set": "Acrylics",
+      "hex": "#352005",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Powdered Cocoa",
+        "hex": "#341C02",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "mig/amig0118",
+      "name": "Burnt Sand",
+      "code": "AMIG0118",
+      "set": "Acrylics",
+      "hex": "#7E5A3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Über Umber",
+        "hex": "#7B5838",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "mig/amig0044",
+      "name": "Chipping",
+      "code": "AMIG0044",
+      "set": "Acrylics",
+      "hex": "#260E0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ponzu Brown",
+        "hex": "#220000",
+        "delta_e": 2.51
+      }
+    },
+    {
+      "id": "mig/amig0135",
+      "name": "Cinnamon",
+      "code": "AMIG0135",
+      "set": "Acrylics",
+      "hex": "#937D6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Motto",
+        "hex": "#917C6F",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "mig/amig0079",
+      "name": "Clay Brown",
+      "code": "AMIG0079",
+      "set": "Acrylics",
+      "hex": "#683F23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Semi Sweet Chocolate",
+        "hex": "#6B4226",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "mig/amig0119",
+      "name": "Cold Gray",
+      "code": "AMIG0119",
+      "set": "Acrylics",
+      "hex": "#D3D3D3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pinball",
+        "hex": "#D3D3D3",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0199",
+      "name": "Copper",
+      "code": "AMIG0199",
+      "set": "Acrylics",
+      "hex": "#C94A5D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Claret Red",
+        "hex": "#C84C61",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "mig/amig0099",
+      "name": "Crystal Black Blue",
+      "code": "AMIG0099",
+      "set": "Acrylics",
+      "hex": "#022334",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Dreams",
+        "hex": "#002233",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "mig/amig0094",
+      "name": "Crystal Glass",
+      "code": "AMIG0094",
+      "set": "Acrylics",
+      "hex": "#A7A7A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moon Landing",
+        "hex": "#A7A7A7",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0092",
+      "name": "Crystal Green",
+      "code": "AMIG0092",
+      "set": "Acrylics",
+      "hex": "#2D4410",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hinterlands Green",
+        "hex": "#304112",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "mig/amig0098",
+      "name": "Crystal Light Blue",
+      "code": "AMIG0098",
+      "set": "Acrylics",
+      "hex": "#0784BE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mediterranean Blue",
+        "hex": "#1682B9",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "mig/amig0097",
+      "name": "Crystal Orange",
+      "code": "AMIG0097",
+      "set": "Acrylics",
+      "hex": "#FE8F00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Princeton Orange",
+        "hex": "#FF8F00",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "mig/amig0096",
+      "name": "Crystal Periscope Green",
+      "code": "AMIG0096",
+      "set": "Acrylics",
+      "hex": "#40770F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropicana",
+        "hex": "#447700",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "mig/amig0093",
+      "name": "Crystal Red",
+      "code": "AMIG0093",
+      "set": "Acrylics",
+      "hex": "#591610",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Philippine Brown",
+        "hex": "#5D1916",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "mig/amig0095",
+      "name": "Crystal Smoke",
+      "code": "AMIG0095",
+      "set": "Acrylics",
+      "hex": "#131E18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Emerald",
+        "hex": "#12221D",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "mig/amig0128",
+      "name": "Cyan",
+      "code": "AMIG0128",
+      "set": "Acrylics",
+      "hex": "#2495FB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Starfleet Blue",
+        "hex": "#0096FF",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "mig/amig1005",
+      "name": "Dark Brown Wash For Green Vehicles",
+      "code": "AMIG1005",
+      "set": "Washes",
+      "hex": "#1D0E0B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bighorn Sheep",
+        "hex": "#20120E",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "mig/amig0915",
+      "name": "Dark Green (bs 241)",
+      "code": "AMIG0915",
+      "set": "Acrylics",
+      "hex": "#455330",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zen Garden Olive",
+        "hex": "#445533",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "mig/amig0041",
+      "name": "Dark Rust",
+      "code": "AMIG0041",
+      "set": "Acrylics",
+      "hex": "#893B24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fire",
+        "hex": "#8F3F2A",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "mig/amig0035",
+      "name": "Dark Tracks",
+      "code": "AMIG0035",
+      "set": "Acrylics",
+      "hex": "#130707",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Matter",
+        "hex": "#110101",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "mig/amig1008",
+      "name": "Dark Wash",
+      "code": "AMIG1008",
+      "set": "Washes",
+      "hex": "#171310",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nuln Oil Gloss",
+        "hex": "#171310",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0052",
+      "name": "Deep Green",
+      "code": "AMIG0052",
+      "set": "Acrylics",
+      "hex": "#0B562D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lemon Balm Green",
+        "hex": "#005228",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "mig/amig0138",
+      "name": "Desert Yellow",
+      "code": "AMIG0138",
+      "set": "Acrylics",
+      "hex": "#B8996D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shelter",
+        "hex": "#B8986C",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "mig/amig0244",
+      "name": "Duck Egg Green (bs 216)",
+      "code": "AMIG0244",
+      "set": "Acrylics",
+      "hex": "#AFB985",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nile",
+        "hex": "#AFB982",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "mig/amig0077",
+      "name": "Dull Green",
+      "code": "AMIG0077",
+      "set": "Acrylics",
+      "hex": "#3D595A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abysse",
+        "hex": "#3D5758",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "mig/amig0902",
+      "name": "Dunkelgelb Base",
+      "code": "AMIG0902",
+      "set": "Acrylics",
+      "hex": "#8E814A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shaded Glen",
+        "hex": "#8E824A",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "mig/amig0901",
+      "name": "Dunkelgelb Dark Base",
+      "code": "AMIG0901",
+      "set": "Acrylics",
+      "hex": "#7B6B37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Musket",
+        "hex": "#7D6D39",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "mig/amig0904",
+      "name": "Dunkelgelb High Light",
+      "code": "AMIG0904",
+      "set": "Acrylics",
+      "hex": "#D0CE93",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Corn Husk Green",
+        "hex": "#CECD95",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "mig/amig0903",
+      "name": "Dunkelgelb Light Base",
+      "code": "AMIG0903",
+      "set": "Acrylics",
+      "hex": "#B7AB79",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nettle",
+        "hex": "#BBAC7D",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "mig/amig0900",
+      "name": "Dunkelgelb Shadow",
+      "code": "AMIG0900",
+      "set": "Acrylics",
+      "hex": "#381B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Balaclavas Are Forever",
+        "hex": "#3B1F23",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "mig/amig0905",
+      "name": "Dunkelgelb Shine",
+      "code": "AMIG0905",
+      "set": "Acrylics",
+      "hex": "#E2E1C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Power",
+        "hex": "#E2E1C6",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "mig/amig0908",
+      "name": "Dunkelgrau Base",
+      "code": "AMIG0908",
+      "set": "Acrylics",
+      "hex": "#333542",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Parisian Night",
+        "hex": "#323341",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "mig/amig0907",
+      "name": "Dunkelgrau Dark Base",
+      "code": "AMIG0907",
+      "set": "Acrylics",
+      "hex": "#474956",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Downing Street",
+        "hex": "#4A4B57",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "mig/amig0909",
+      "name": "Dunkelgrau Light Base",
+      "code": "AMIG0909",
+      "set": "Acrylics",
+      "hex": "#696D76",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dolphin Dream",
+        "hex": "#6B6F78",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "mig/amig0906",
+      "name": "Dunkelgrau Shadow",
+      "code": "AMIG0906",
+      "set": "Acrylics",
+      "hex": "#323335",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tap Shoe",
+        "hex": "#2F3032",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "mig/amig0072",
+      "name": "Dust",
+      "code": "AMIG0072",
+      "set": "Acrylics",
+      "hex": "#968C71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Courtyard Green",
+        "hex": "#978D71",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "mig/amig0073",
+      "name": "Earth",
+      "code": "AMIG0073",
+      "set": "Acrylics",
+      "hex": "#745739",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chewbacca",
+        "hex": "#71563B",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "mig/amig0064",
+      "name": "Earth Brown",
+      "code": "AMIG0064",
+      "set": "Acrylics",
+      "hex": "#814428",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Two Cents",
+        "hex": "#854A2E",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "mig/amig0066",
+      "name": "Faded Sinai Grey",
+      "code": "AMIG0066",
+      "set": "Acrylics",
+      "hex": "#736C5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Momentum",
+        "hex": "#746F5C",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "mig/amig0130",
+      "name": "Faded Yellow",
+      "code": "AMIG0130",
+      "set": "Acrylics",
+      "hex": "#D8CD73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "March Tulip Green",
+        "hex": "#D4C978",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "mig/amig0065",
+      "name": "Forest Green",
+      "code": "AMIG0065",
+      "set": "Acrylics",
+      "hex": "#384527",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Avocado Dark Green",
+        "hex": "#3E4826",
+        "delta_e": 2.16
+      }
+    },
+    {
+      "id": "mig/amig0062",
+      "name": "French Blue",
+      "code": "AMIG0062",
+      "set": "Acrylics",
+      "hex": "#445366",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Into the Stratosphere",
+        "hex": "#425267",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig0229",
+      "name": "Fs 15102 Dark Gray Blue",
+      "code": "AMIG0229",
+      "set": "Acrylics",
+      "hex": "#2489BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyan Cornflower Blue",
+        "hex": "#188BC2",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "mig/amig0237",
+      "name": "Fs 23070 Dark Olive Drab",
+      "code": "AMIG0237",
+      "set": "Acrylics",
+      "hex": "#6C6845",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beat Around the Bush",
+        "hex": "#6E6A44",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "mig/amig0213",
+      "name": "Fs 24277 Green",
+      "code": "AMIG0213",
+      "set": "Acrylics",
+      "hex": "#6B8778",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sycamore Grove",
+        "hex": "#6A8779",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "mig/amig0227",
+      "name": "Fs 25042 Sea Blue (ana 606)",
+      "code": "AMIG0227",
+      "set": "Acrylics",
+      "hex": "#21262C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Beauty",
+        "hex": "#23262B",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "mig/amig0205",
+      "name": "Fs 26231 (bs 638)",
+      "code": "AMIG0205",
+      "set": "Acrylics",
+      "hex": "#71737F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Overlook",
+        "hex": "#717481",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "mig/amig0212",
+      "name": "Fs 26373 Silver Grey",
+      "code": "AMIG0212",
+      "set": "Acrylics",
+      "hex": "#92A2A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "October Sky",
+        "hex": "#8FA2A2",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "mig/amig0202",
+      "name": "Fs 30219 Tan",
+      "code": "AMIG0202",
+      "set": "Acrylics",
+      "hex": "#81603D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Loose Leather",
+        "hex": "#84613D",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "mig/amig0025",
+      "name": "Fs 33446 US Modern Vehicles",
+      "code": "AMIG0025",
+      "set": "Acrylics",
+      "hex": "#C7A780",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toffee Tan",
+        "hex": "#C8A883",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "mig/amig0221",
+      "name": "Fs 33481 Zinc Chromate Yellow",
+      "code": "AMIG0221",
+      "set": "Acrylics",
+      "hex": "#B19846",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Husk",
+        "hex": "#B2994B",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "mig/amig0200",
+      "name": "Fs 33531 Middlestone",
+      "code": "AMIG0200",
+      "set": "Acrylics",
+      "hex": "#D6C7B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pastel Sand",
+        "hex": "#D5C6B4",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "mig/amig0240",
+      "name": "Fs 34086 (ana 613)",
+      "code": "AMIG0240",
+      "set": "Acrylics",
+      "hex": "#3F402E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "mig/amig0238",
+      "name": "Fs 34092 Medium Green",
+      "code": "AMIG0238",
+      "set": "Acrylics",
+      "hex": "#3A523A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlander",
+        "hex": "#3A533D",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig0220",
+      "name": "Fs 34151 Zinc Chromate Green (interior Green)",
+      "code": "AMIG0220",
+      "set": "Acrylics",
+      "hex": "#666E45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coconut Grove",
+        "hex": "#676D43",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "mig/amig0219",
+      "name": "Fs 34226 (bs283) Interior Green",
+      "code": "AMIG0219",
+      "set": "Acrylics",
+      "hex": "#729182",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawkesbury",
+        "hex": "#729183",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "mig/amig0201",
+      "name": "Fs 34424 Light Gray Green",
+      "code": "AMIG0201",
+      "set": "Acrylics",
+      "hex": "#B1CAAA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Relish",
+        "hex": "#B3CBAA",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "mig/amig0228",
+      "name": "Fs 35164 Intermediate Blue (ana 608)",
+      "code": "AMIG0228",
+      "set": "Acrylics",
+      "hex": "#707980",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Shale",
+        "hex": "#737C84",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "mig/amig0204",
+      "name": "Fs 36118 Medium Gunship Gray",
+      "code": "AMIG0204",
+      "set": "Acrylics",
+      "hex": "#3F4551",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Crypt",
+        "hex": "#3F4551",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0239",
+      "name": "Fs 36122 NeutRAL Gray",
+      "code": "AMIG0239",
+      "set": "Acrylics",
+      "hex": "#67686C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plum Charcoal",
+        "hex": "#6A6A6F",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "mig/amig0211",
+      "name": "Fs 36270 Medium Gray",
+      "code": "AMIG0211",
+      "set": "Acrylics",
+      "hex": "#99999B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Million Grey",
+        "hex": "#999999",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "mig/amig0236",
+      "name": "Fs 36293",
+      "code": "AMIG0236",
+      "set": "Acrylics",
+      "hex": "#7F8487",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Great Coat Grey",
+        "hex": "#7F8488",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "mig/amig0207",
+      "name": "Fs 36314 (bs 626)",
+      "code": "AMIG0207",
+      "set": "Acrylics",
+      "hex": "#83978C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paradise Found",
+        "hex": "#83988C",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "mig/amig0208",
+      "name": "Fs 36320 Dark Compass Ghost Gray",
+      "code": "AMIG0208",
+      "set": "Acrylics",
+      "hex": "#70878D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Twilight Stroll",
+        "hex": "#71898D",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "mig/amig0203",
+      "name": "Fs 36375 Light Compass Ghost Gray",
+      "code": "AMIG0203",
+      "set": "Acrylics",
+      "hex": "#8390A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Montage",
+        "hex": "#8190A4",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "mig/amig0241",
+      "name": "Fs 36440 Light Gull Gray",
+      "code": "AMIG0241",
+      "set": "Acrylics",
+      "hex": "#959A94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Toe",
+        "hex": "#929894",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "mig/amig0209",
+      "name": "Fs 36495 Light Gray",
+      "code": "AMIG0209",
+      "set": "Acrylics",
+      "hex": "#A6B7AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smokey Slate",
+        "hex": "#A5B5AC",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "mig/amig0226",
+      "name": "Fs 36622 Gray",
+      "code": "AMIG0226",
+      "set": "Acrylics",
+      "hex": "#D1D2C2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wishing Well",
+        "hex": "#D0D1C1",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "mig/amig0242",
+      "name": "Fs 37886",
+      "code": "AMIG0242",
+      "set": "Acrylics",
+      "hex": "#F0F0D8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Emulsion",
+        "hex": "#F0F0D9",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "mig/amig0210",
+      "name": "Fs35237 Blue Gray Amt-11",
+      "code": "AMIG0210",
+      "set": "Acrylics",
+      "hex": "#6D7D8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Slate Expectations",
+        "hex": "#6E7F8D",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "mig/amig0224",
+      "name": "Fs35260 Sky Line Blue A II",
+      "code": "AMIG0224",
+      "set": "Acrylics",
+      "hex": "#71C6E3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Candid Blue",
+        "hex": "#6CC3E0",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "mig/amig0235",
+      "name": "Fs36152 Dark Grey AMT-12",
+      "code": "AMIG0235",
+      "set": "Acrylics",
+      "hex": "#5D6268",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carriage Wheel",
+        "hex": "#5D6367",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "mig/amig0198",
+      "name": "Gold",
+      "code": "AMIG0198",
+      "set": "Acrylics",
+      "hex": "#B8B021",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citronelle",
+        "hex": "#B8AF23",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "mig/amig0125",
+      "name": "Gold Yellow (RLM 04 Gelb)",
+      "code": "AMIG0125",
+      "set": "Acrylics",
+      "hex": "#D7C012",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Groovy Lemon Pie",
+        "hex": "#D6BE01",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "mig/amig0916",
+      "name": "Green Base",
+      "code": "AMIG0916",
+      "set": "Acrylics",
+      "hex": "#4E6338",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Green",
+        "hex": "#4E6539",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "mig/amig0056",
+      "name": "Green Khaki",
+      "code": "AMIG0056",
+      "set": "Acrylics",
+      "hex": "#545035",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thatch Green",
+        "hex": "#544E31",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "mig/amig0074",
+      "name": "Green Moss",
+      "code": "AMIG0074",
+      "set": "Acrylics",
+      "hex": "#6A6837",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jungle Civilization",
+        "hex": "#69673A",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "mig/amig0217",
+      "name": "Green Slate (RLM 02)",
+      "code": "AMIG0217",
+      "set": "Acrylics",
+      "hex": "#2A381E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Horror",
+        "hex": "#2C3D28",
+        "delta_e": 2.83
+      }
+    },
+    {
+      "id": "mig/amig0059",
+      "name": "Grey",
+      "code": "AMIG0059",
+      "set": "Acrylics",
+      "hex": "#81858E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoky Studio",
+        "hex": "#7E8590",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "mig/amig0252",
+      "name": "Grey Brown Amt-1",
+      "code": "AMIG0252",
+      "set": "Acrylics",
+      "hex": "#827B71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vigilant",
+        "hex": "#81796F",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig0910",
+      "name": "Grey High Light",
+      "code": "AMIG0910",
+      "set": "Acrylics",
+      "hex": "#7D8087",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Victorian Pewter",
+        "hex": "#828388",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "mig/amig0911",
+      "name": "Grey Shine",
+      "code": "AMIG0911",
+      "set": "Acrylics",
+      "hex": "#A2A5AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lionfish",
+        "hex": "#A3A5AA",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "mig/amig0045",
+      "name": "Gun Metal",
+      "code": "AMIG0045",
+      "set": "Acrylics",
+      "hex": "#525044",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruskin Bronze",
+        "hex": "#4D4D41",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "mig/amig0068",
+      "name": "Idf Green",
+      "code": "AMIG0068",
+      "set": "Acrylics",
+      "hex": "#56542E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warplock Bronze",
+        "hex": "#515131",
+        "delta_e": 2.27
+      }
+    },
+    {
+      "id": "mig/amig0223",
+      "name": "Interior Turquoise Green",
+      "code": "AMIG0223",
+      "set": "Acrylics",
+      "hex": "#1C8368",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Accent Green Blue",
+        "hex": "#208468",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "mig/amig1003",
+      "name": "Interiors Wash",
+      "code": "AMIG1003",
+      "set": "Washes",
+      "hex": "#3C3229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cola Bubble",
+        "hex": "#3C3024",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "mig/amig0187",
+      "name": "Jet Exhaust Burnt Iron",
+      "code": "AMIG0187",
+      "set": "Acrylics",
+      "hex": "#3E2417",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Brown",
+        "hex": "#44281B",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "mig/amig0071",
+      "name": "Khaki",
+      "code": "AMIG0071",
+      "set": "Acrylics",
+      "hex": "#735533",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oak Barrel",
+        "hex": "#715636",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "mig/amig0088",
+      "name": "Khaki Brown",
+      "code": "AMIG0088",
+      "set": "Acrylics",
+      "hex": "#B39267",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baguette",
+        "hex": "#B5936A",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig0113",
+      "name": "Khaki Green Nº3 (british 1939-42)",
+      "code": "AMIG0113",
+      "set": "Acrylics",
+      "hex": "#685F38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Medal",
+        "hex": "#6D6240",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "mig/amig0249",
+      "name": "Light Blue",
+      "code": "AMIG0249",
+      "set": "Acrylics",
+      "hex": "#B4CEDB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stencil Blue",
+        "hex": "#B4CEDA",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "mig/amig0120",
+      "name": "Light Brown-gray",
+      "code": "AMIG0120",
+      "set": "Acrylics",
+      "hex": "#D6D1CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiny Ghost Town",
+        "hex": "#D4CFCC",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "mig/amig0917",
+      "name": "Light Green",
+      "code": "AMIG0917",
+      "set": "Acrylics",
+      "hex": "#93AF75",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Geranium Leaf",
+        "hex": "#90AC74",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "mig/amig0058",
+      "name": "Light Green Khaki",
+      "code": "AMIG0058",
+      "set": "Acrylics",
+      "hex": "#7C7B4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tree Hugger",
+        "hex": "#79774A",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "mig/amig0051",
+      "name": "Light Green Khv-553m",
+      "code": "AMIG0051",
+      "set": "Acrylics",
+      "hex": "#A5BB8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forest Tapestry",
+        "hex": "#A4BA8A",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "mig/amig0039",
+      "name": "Light Rust",
+      "code": "AMIG0039",
+      "set": "Acrylics",
+      "hex": "#E5910B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Fusion",
+        "hex": "#EB9600",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "mig/amig1004",
+      "name": "Light Rust Wash",
+      "code": "AMIG1004",
+      "set": "Washes",
+      "hex": "#552E11",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Baker’s Chocolate",
+        "hex": "#5C3317",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "mig/amig0067",
+      "name": "Light Sand Grey",
+      "code": "AMIG0067",
+      "set": "Acrylics",
+      "hex": "#B8A680",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Malt Shake",
+        "hex": "#BBA87F",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "mig/amig0115",
+      "name": "Light Skin Tone",
+      "code": "AMIG0115",
+      "set": "Acrylics",
+      "hex": "#EECAA8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peaches’n’Cream",
+        "hex": "#EEC9A6",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "mig/amig0038",
+      "name": "Light Wood",
+      "code": "AMIG0038",
+      "set": "Acrylics",
+      "hex": "#BBAA7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inner Cervela",
+        "hex": "#BBAA7E",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "mig/amig0124",
+      "name": "Lime Green",
+      "code": "AMIG0124",
+      "set": "Acrylics",
+      "hex": "#109F45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Link Green",
+        "hex": "#01A049",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "mig/amig0123",
+      "name": "Marine Blue",
+      "code": "AMIG0123",
+      "set": "Acrylics",
+      "hex": "#18568F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bandana",
+        "hex": "#01578F",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "mig/amig0194",
+      "name": "Matt Aluminum",
+      "code": "AMIG0194",
+      "set": "Acrylics",
+      "hex": "#AABCB0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Foggy Rain",
+        "hex": "#ACBDB1",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "mig/amig0046",
+      "name": "Matt Black",
+      "code": "AMIG0046",
+      "set": "Acrylics",
+      "hex": "#131313",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cursed Black",
+        "hex": "#131313",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0089",
+      "name": "Matt Varnish",
+      "code": "AMIG0089",
+      "set": "Acrylics",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0050",
+      "name": "Matt White",
+      "code": "AMIG0050",
+      "set": "Acrylics",
+      "hex": "#FCFEFB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whitewash",
+        "hex": "#FEFFFC",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "mig/amig0103",
+      "name": "Medium Blue",
+      "code": "AMIG0103",
+      "set": "Acrylics",
+      "hex": "#294888",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pacific Navy",
+        "hex": "#25488A",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "mig/amig0070",
+      "name": "Medium Brown Dark Earth (bs 450)",
+      "code": "AMIG0070",
+      "set": "Acrylics",
+      "hex": "#523628",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bramble Bush",
+        "hex": "#503629",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "mig/amig0040",
+      "name": "Medium Rust",
+      "code": "AMIG0040",
+      "set": "Acrylics",
+      "hex": "#B85430",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beef Patties",
+        "hex": "#BB5533",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "mig/amig0246",
+      "name": "Medium Sea Grey (bs 637)",
+      "code": "AMIG0246",
+      "set": "Acrylics",
+      "hex": "#858F91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Driftwood",
+        "hex": "#879294",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "mig/amig0189",
+      "name": "Metallic Orange",
+      "code": "AMIG0189",
+      "set": "Acrylics",
+      "hex": "#CD6702",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Curry Powder",
+        "hex": "#CC6600",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "mig/amig0188",
+      "name": "Metallic Red",
+      "code": "AMIG0188",
+      "set": "Acrylics",
+      "hex": "#C13828",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Valiant Poppy",
+        "hex": "#BC3C2C",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "mig/amig0085",
+      "name": "Nato Brown",
+      "code": "AMIG0085",
+      "set": "Acrylics",
+      "hex": "#412C27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ethereal Espresso",
+        "hex": "#3E2723",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "mig/amig0084",
+      "name": "Nato Green",
+      "code": "AMIG0084",
+      "set": "Acrylics",
+      "hex": "#424733",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Country House Green",
+        "hex": "#414634",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "mig/amig1010",
+      "name": "Neutral Wash",
+      "code": "AMIG1010",
+      "set": "Washes",
+      "hex": "#505050",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiftieth Shade of Grey",
+        "hex": "#505050",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0037",
+      "name": "New  Wood",
+      "code": "AMIG0037",
+      "set": "Acrylics",
+      "hex": "#C1AB72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rhubarb Leaf Green",
+        "hex": "#BCA872",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "mig/amig0029",
+      "name": "New Iraqui Army Sand",
+      "code": "AMIG0029",
+      "set": "Acrylics",
+      "hex": "#C8AF76",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sandstone",
+        "hex": "#C9AE74",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "mig/amig0250",
+      "name": "Night Blue Grey",
+      "code": "AMIG0250",
+      "set": "Acrylics",
+      "hex": "#525662",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ball Gown",
+        "hex": "#525661",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "mig/amig0245",
+      "name": "Ocean Grey (bs 629)",
+      "code": "AMIG0245",
+      "set": "Acrylics",
+      "hex": "#626B72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wall Street",
+        "hex": "#656D73",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "mig/amig0102",
+      "name": "Ochre Brown",
+      "code": "AMIG0102",
+      "set": "Acrylics",
+      "hex": "#9E8356",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aztec Brick",
+        "hex": "#9E8352",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "mig/amig0078",
+      "name": "Ochre Earth",
+      "code": "AMIG0078",
+      "set": "Acrylics",
+      "hex": "#C28E5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mid Tan",
+        "hex": "#C4915E",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "mig/amig0055",
+      "name": "Oil Ochre",
+      "code": "AMIG0055",
+      "set": "Acrylics",
+      "hex": "#CEAD50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Lupine",
+        "hex": "#CCAA4D",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "mig/amig0190",
+      "name": "Old Brass",
+      "code": "AMIG0190",
+      "set": "Acrylics",
+      "hex": "#816116",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hè Sè Brown",
+        "hex": "#7F5E00",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "mig/amig0042",
+      "name": "Old Rust",
+      "code": "AMIG0042",
+      "set": "Acrylics",
+      "hex": "#452621",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Mahogany",
+        "hex": "#432722",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "mig/amig0036",
+      "name": "Old Wood",
+      "code": "AMIG0036",
+      "set": "Acrylics",
+      "hex": "#BFAB8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Gold",
+        "hex": "#BFAC8B",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "mig/amig0926",
+      "name": "Olive Drab  Base",
+      "code": "AMIG0926",
+      "set": "Acrylics",
+      "hex": "#524F2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Umber Shade Wash",
+        "hex": "#4E4D2F",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "mig/amig0928",
+      "name": "Olive Drab  High Lights",
+      "code": "AMIG0928",
+      "set": "Acrylics",
+      "hex": "#797653",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Woodpecker Olive",
+        "hex": "#7D7853",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "mig/amig0927",
+      "name": "Olive Drab  Light Base",
+      "code": "AMIG0927",
+      "set": "Acrylics",
+      "hex": "#686542",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eat Your Greens",
+        "hex": "#696845",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "mig/amig0924",
+      "name": "Olive Drab Shadow",
+      "code": "AMIG0924",
+      "set": "Acrylics",
+      "hex": "#323017",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olivenite",
+        "hex": "#333311",
+        "delta_e": 3.13
+      }
+    },
+    {
+      "id": "mig/amig0929",
+      "name": "Olive Drab Shine",
+      "code": "AMIG0929",
+      "set": "Acrylics",
+      "hex": "#898761",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Savage",
+        "hex": "#888866",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "mig/amig2023",
+      "name": "One Shot Primer - Black",
+      "code": "AMIG2023",
+      "set": "Primers",
+      "hex": "#181818",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thamar Black",
+        "hex": "#181818",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig2026",
+      "name": "One Shot Primer - Brown Oxide",
+      "code": "AMIG2026",
+      "set": "Primers",
+      "hex": "#412017",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Longan’s Kernel",
+        "hex": "#442117",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig2028",
+      "name": "One Shot Primer - Green",
+      "code": "AMIG2028",
+      "set": "Primers",
+      "hex": "#263427",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Leather Jacket",
+        "hex": "#253529",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "mig/amig2024",
+      "name": "One Shot Primer - Grey",
+      "code": "AMIG2024",
+      "set": "Primers",
+      "hex": "#6B6B6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boat Anchor",
+        "hex": "#6C6B6A",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "mig/amig2027",
+      "name": "One Shot Primer - Sand Flesh",
+      "code": "AMIG2027",
+      "set": "Primers",
+      "hex": "#B7A371",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horn of Plenty",
+        "hex": "#BBA46D",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "mig/amig2022",
+      "name": "One Shot Primer - White",
+      "code": "AMIG2022",
+      "set": "Primers",
+      "hex": "#E4E4E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Titanium White",
+        "hex": "#E4E4E4",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0129",
+      "name": "Orange",
+      "code": "AMIG0129",
+      "set": "Acrylics",
+      "hex": "#E7731E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Landscape",
+        "hex": "#E47227",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "mig/amig0060",
+      "name": "Pale Green",
+      "code": "AMIG0060",
+      "set": "Acrylics",
+      "hex": "#3A6327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Nori",
+        "hex": "#2D5E22",
+        "delta_e": 2.49
+      }
+    },
+    {
+      "id": "mig/amig0192",
+      "name": "Polished Metal",
+      "code": "AMIG0192",
+      "set": "Acrylics",
+      "hex": "#5B6C5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terrarium",
+        "hex": "#5F6D5C",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "mig/amig0023",
+      "name": "Protective Green",
+      "code": "AMIG0023",
+      "set": "Acrylics",
+      "hex": "#5E733B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Venom Wyrm",
+        "hex": "#607038",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "mig/amig0053",
+      "name": "Protective Mc 1200",
+      "code": "AMIG0053",
+      "set": "Acrylics",
+      "hex": "#18341B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Fir",
+        "hex": "#193925",
+        "delta_e": 2.8
+      }
+    },
+    {
+      "id": "mig/amig0127",
+      "name": "Purple",
+      "code": "AMIG0127",
+      "set": "Acrylics",
+      "hex": "#9154A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vicious Violet",
+        "hex": "#8F509D",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "mig/amig0001",
+      "name": "RAL 6003 Olivgrün Opt.1",
+      "code": "AMIG0001",
+      "set": "Acrylics",
+      "hex": "#353D26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Seaweed",
+        "hex": "#37412A",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "mig/amig0002",
+      "name": "RAL 6003 Olivgrün Opt.2",
+      "code": "AMIG0002",
+      "set": "Acrylics",
+      "hex": "#4E5536",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chive",
+        "hex": "#4D5637",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "mig/amig0004",
+      "name": "RAL 6011 B Resedagrün",
+      "code": "AMIG0004",
+      "set": "Acrylics",
+      "hex": "#525D33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inverness",
+        "hex": "#576238",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "mig/amig0003",
+      "name": "RAL 6011 Resedagrün",
+      "code": "AMIG0003",
+      "set": "Acrylics",
+      "hex": "#677D4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mint Leaves",
+        "hex": "#6A7D4E",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "mig/amig0087",
+      "name": "RAL 6014 Gelboliv",
+      "code": "AMIG0087",
+      "set": "Acrylics",
+      "hex": "#454732",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garden Path",
+        "hex": "#424330",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "mig/amig0005",
+      "name": "RAL 7008 Graugrün",
+      "code": "AMIG0005",
+      "set": "Acrylics",
+      "hex": "#62593C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Bark",
+        "hex": "#5F5537",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "mig/amig0006",
+      "name": "RAL 7008 Graugrün Opt.2",
+      "code": "AMIG0006",
+      "set": "Acrylics",
+      "hex": "#8A854D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snap Pea Green",
+        "hex": "#8A8650",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "mig/amig0007",
+      "name": "RAL 7017 Dunkelbraun",
+      "code": "AMIG0007",
+      "set": "Acrylics",
+      "hex": "#524232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Treasure Chest",
+        "hex": "#544333",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "mig/amig0008",
+      "name": "RAL 7021 Dunkelgrau",
+      "code": "AMIG0008",
+      "set": "Acrylics",
+      "hex": "#272B34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sky Captain",
+        "hex": "#242933",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "mig/amig0009",
+      "name": "RAL 7027 Sandgrau",
+      "code": "AMIG0009",
+      "set": "Acrylics",
+      "hex": "#C0AF93",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rock Cliffs",
+        "hex": "#C0AF92",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "mig/amig0010",
+      "name": "RAL 7028 Dunkelgelb (mid War)",
+      "code": "AMIG0010",
+      "set": "Acrylics",
+      "hex": "#A4943F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shimmering Glade",
+        "hex": "#A4943A",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "mig/amig0011",
+      "name": "RAL 7028 Dunkelgelb AUS ’44 Dg I",
+      "code": "AMIG0011",
+      "set": "Acrylics",
+      "hex": "#C9BE86",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Hint",
+        "hex": "#C9BD88",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "mig/amig0012",
+      "name": "RAL 7028 Dunkelgelb AUS ’44 Dg IIi",
+      "code": "AMIG0012",
+      "set": "Acrylics",
+      "hex": "#D7CEA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Capital Grains",
+        "hex": "#DBD0A8",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "mig/amig0013",
+      "name": "RAL 8000 Gelbbraun",
+      "code": "AMIG0013",
+      "set": "Acrylics",
+      "hex": "#AE9576",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "River Oak",
+        "hex": "#AE9474",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "mig/amig0014",
+      "name": "RAL 8012 Rotbraun",
+      "code": "AMIG0014",
+      "set": "Acrylics",
+      "hex": "#85320A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rogan Josh",
+        "hex": "#883311",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "mig/amig0015",
+      "name": "RAL 8017 Schokobraun",
+      "code": "AMIG0015",
+      "set": "Acrylics",
+      "hex": "#50312C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Espresso",
+        "hex": "#4E312D",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "mig/amig0016",
+      "name": "RAL 8020 Gelbbraun",
+      "code": "AMIG0016",
+      "set": "Acrylics",
+      "hex": "#E7CA7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Waffle Cone",
+        "hex": "#E2C779",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "mig/amig0026",
+      "name": "RAL 8031 F9 Sand Brown",
+      "code": "AMIG0026",
+      "set": "Acrylics",
+      "hex": "#CDA38B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Autumn Malt",
+        "hex": "#CEA48E",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "mig/amig0017",
+      "name": "RAL 9001 Cremeweiss",
+      "code": "AMIG0017",
+      "set": "Acrylics",
+      "hex": "#F2EFC2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Almond Oil",
+        "hex": "#F4EFC1",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "mig/amig0027",
+      "name": "RAL1039 F9 German Sand Beige",
+      "code": "AMIG0027",
+      "set": "Acrylics",
+      "hex": "#C6B074",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saucy",
+        "hex": "#C6B077",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "mig/amig0028",
+      "name": "RAL7050 F7 German Grey Beige",
+      "code": "AMIG0028",
+      "set": "Acrylics",
+      "hex": "#807863",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Galleon",
+        "hex": "#817863",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "mig/amig0231",
+      "name": "RLM 65 Hellblau",
+      "code": "AMIG0231",
+      "set": "Acrylics",
+      "hex": "#C7DBE2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balmy",
+        "hex": "#C5D8DE",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "mig/amig0218",
+      "name": "RLM 66 Schwartzgrau",
+      "code": "AMIG0218",
+      "set": "Acrylics",
+      "hex": "#282B34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sky Captain",
+        "hex": "#242933",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "mig/amig0232",
+      "name": "RLM 70 Schwartzgrün",
+      "code": "AMIG0232",
+      "set": "Acrylics",
+      "hex": "#333C2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sensaimidori Green",
+        "hex": "#374231",
+        "delta_e": 2.03
+      }
+    },
+    {
+      "id": "mig/amig0233",
+      "name": "RLM 71 Dunkelgrün",
+      "code": "AMIG0233",
+      "set": "Acrylics",
+      "hex": "#51563F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lunar Green",
+        "hex": "#4E5541",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "mig/amig0253",
+      "name": "RLM 74 Graugrün",
+      "code": "AMIG0253",
+      "set": "Acrylics",
+      "hex": "#434E48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sporting Green",
+        "hex": "#434C47",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "mig/amig0254",
+      "name": "RLM 75 Grauviolett",
+      "code": "AMIG0254",
+      "set": "Acrylics",
+      "hex": "#7C7E7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Medium Grey",
+        "hex": "#7D7F7C",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "mig/amig0063",
+      "name": "RLM 76 Pale Grey",
+      "code": "AMIG0063",
+      "set": "Acrylics",
+      "hex": "#9AC4B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stanley",
+        "hex": "#9BC2B4",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "mig/amig0247",
+      "name": "RLM 78 Hellblau",
+      "code": "AMIG0247",
+      "set": "Acrylics",
+      "hex": "#819B9C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "North Beach Blue",
+        "hex": "#849C9D",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "mig/amig0222",
+      "name": "RLM 79 Sandgelb",
+      "code": "AMIG0222",
+      "set": "Acrylics",
+      "hex": "#C59942",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Suzani Gold",
+        "hex": "#C2963F",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "mig/amig0248",
+      "name": "RLM 80 Olivgrün",
+      "code": "AMIG0248",
+      "set": "Acrylics",
+      "hex": "#3B4930",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palm Leaf",
+        "hex": "#36482F",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "mig/amig0206",
+      "name": "RLM 81",
+      "code": "AMIG0206",
+      "set": "Acrylics",
+      "hex": "#47512C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Tone",
+        "hex": "#434C28",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "mig/amig0255",
+      "name": "RLM 81 Braunviolett",
+      "code": "AMIG0255",
+      "set": "Acrylics",
+      "hex": "#553C37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vixen",
+        "hex": "#573D37",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "mig/amig0925",
+      "name": "RLM 81 Olive Drab Dark",
+      "code": "AMIG0925",
+      "set": "Acrylics",
+      "hex": "#413D20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strong Tone Wash",
+        "hex": "#454129",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "mig/amig0230",
+      "name": "RLM 82 Camo Green",
+      "code": "AMIG0230",
+      "set": "Acrylics",
+      "hex": "#3E3E00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Not Found",
+        "hex": "#404404",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "mig/amig0256",
+      "name": "RLM 84 Graublau",
+      "code": "AMIG0256",
+      "set": "Acrylics",
+      "hex": "#B9B97B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ushabti Bone",
+        "hex": "#BBBB7F",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "mig/amig0132",
+      "name": "Real Idf Sand Grey 73",
+      "code": "AMIG0132",
+      "set": "Acrylics",
+      "hex": "#84794B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swamp Mud",
+        "hex": "#857947",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "mig/amig0131",
+      "name": "Real Idf Sinai Grey 82",
+      "code": "AMIG0131",
+      "set": "Acrylics",
+      "hex": "#534F2A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 2.24
+      }
+    },
+    {
+      "id": "mig/amig0049",
+      "name": "Red",
+      "code": "AMIG0049",
+      "set": "Acrylics",
+      "hex": "#BD2615",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Redalicious",
+        "hex": "#BB2211",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "mig/amig0913",
+      "name": "Red Brown Base",
+      "code": "AMIG0913",
+      "set": "Acrylics",
+      "hex": "#6B321E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Freshly Roasted Coffee",
+        "hex": "#663322",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "mig/amig0914",
+      "name": "Red Brown Light",
+      "code": "AMIG0914",
+      "set": "Acrylics",
+      "hex": "#9E5340",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kalahari Sunset",
+        "hex": "#9F5440",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "mig/amig0912",
+      "name": "Red Brown Shadow",
+      "code": "AMIG0912",
+      "set": "Acrylics",
+      "hex": "#421D14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Longan’s Kernel",
+        "hex": "#442117",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "mig/amig0133",
+      "name": "Red Leather",
+      "code": "AMIG0133",
+      "set": "Acrylics",
+      "hex": "#643B29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Wood Brown",
+        "hex": "#603B2A",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "mig/amig0922",
+      "name": "Red Primer  High Lights",
+      "code": "AMIG0922",
+      "set": "Primers",
+      "hex": "#7F3D1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kara Cha Brown",
+        "hex": "#783C1D",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "mig/amig0923",
+      "name": "Red Primer  Shine",
+      "code": "AMIG0923",
+      "set": "Primers",
+      "hex": "#9E5922",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Bronze",
+        "hex": "#A05822",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "mig/amig0920",
+      "name": "Red Primer Base",
+      "code": "AMIG0920",
+      "set": "Primers",
+      "hex": "#491404",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chocolate",
+        "hex": "#441100",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "mig/amig0919",
+      "name": "Red Primer Dark Base",
+      "code": "AMIG0919",
+      "set": "Primers",
+      "hex": "#593B23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bracken",
+        "hex": "#5B3D27",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "mig/amig0921",
+      "name": "Red Primer Light Base",
+      "code": "AMIG0921",
+      "set": "Primers",
+      "hex": "#63250C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hot Fudge",
+        "hex": "#5E2912",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "mig/amig0918",
+      "name": "Red Primer Shadow",
+      "code": "AMIG0918",
+      "set": "Primers",
+      "hex": "#321819",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seal Brown",
+        "hex": "#321414",
+        "delta_e": 2.01
+      }
+    },
+    {
+      "id": "mig/amig0139",
+      "name": "Reddish Earth",
+      "code": "AMIG0139",
+      "set": "Acrylics",
+      "hex": "#705446",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hold Your Horses",
+        "hex": "#705446",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0033",
+      "name": "Rubber &amp; Tires",
+      "code": "AMIG0033",
+      "set": "Acrylics",
+      "hex": "#3D383C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bohemian Black",
+        "hex": "#3B373C",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "mig/amig0251",
+      "name": "Russian Blue Amt-7",
+      "code": "AMIG0251",
+      "set": "Acrylics",
+      "hex": "#2F737E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Tide",
+        "hex": "#2A7279",
+        "delta_e": 2.17
+      }
+    },
+    {
+      "id": "mig/amig0931",
+      "name": "Russian Dark Base",
+      "code": "AMIG0931",
+      "set": "Acrylics",
+      "hex": "#4A4F27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Tone",
+        "hex": "#434C28",
+        "delta_e": 2.42
+      }
+    },
+    {
+      "id": "mig/amig0932",
+      "name": "Russian Green Base",
+      "code": "AMIG0932",
+      "set": "Acrylics",
+      "hex": "#5D5C19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kirchner Green",
+        "hex": "#5C6116",
+        "delta_e": 2.54
+      }
+    },
+    {
+      "id": "mig/amig0934",
+      "name": "Russian High Light",
+      "code": "AMIG0934",
+      "set": "Acrylics",
+      "hex": "#8C8557",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aged Eucalyptus",
+        "hex": "#898253",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "mig/amig0933",
+      "name": "Russian Light Base",
+      "code": "AMIG0933",
+      "set": "Acrylics",
+      "hex": "#797244",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vineyard View",
+        "hex": "#777146",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "mig/amig0930",
+      "name": "Russian Shadow",
+      "code": "AMIG0930",
+      "set": "Acrylics",
+      "hex": "#30300E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olivenite",
+        "hex": "#333311",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "mig/amig0935",
+      "name": "Russian Shine",
+      "code": "AMIG0935",
+      "set": "Acrylics",
+      "hex": "#9E976D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cactus Sand",
+        "hex": "#9C9369",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "mig/amig0034",
+      "name": "Rust Tracks",
+      "code": "AMIG0034",
+      "set": "Acrylics",
+      "hex": "#38261C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wetlands Swamp",
+        "hex": "#372418",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "mig/amig0030",
+      "name": "Sand Yellow",
+      "code": "AMIG0030",
+      "set": "Acrylics",
+      "hex": "#D8A64F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plantain Chips",
+        "hex": "#D6A550",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "mig/amig0032",
+      "name": "Satin Black",
+      "code": "AMIG0032",
+      "set": "Acrylics",
+      "hex": "#1C1C1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eerie Black",
+        "hex": "#1B1B1B",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "mig/amig0047",
+      "name": "Satin White",
+      "code": "AMIG0047",
+      "set": "Acrylics",
+      "hex": "#E8E8E8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Unicorn Silver",
+        "hex": "#E8E8E8",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0112",
+      "name": "Scc 15 (british 1944-45 Olive Drab)",
+      "code": "AMIG0112",
+      "set": "Acrylics",
+      "hex": "#353B19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turtle Skin",
+        "hex": "#363E1D",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "mig/amig0110",
+      "name": "Scc 1a  (british Brown 1941-42)",
+      "code": "AMIG0110",
+      "set": "Acrylics",
+      "hex": "#352118",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wetlands Swamp",
+        "hex": "#372418",
+        "delta_e": 2.06
+      }
+    },
+    {
+      "id": "mig/amig0111",
+      "name": "Scc 2 (british 1941-44 Service Drab)",
+      "code": "AMIG0111",
+      "set": "Acrylics",
+      "hex": "#544933",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hóng Zōng Brown",
+        "hex": "#564A33",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "mig/amig0043",
+      "name": "Shadow Rust",
+      "code": "AMIG0043",
+      "set": "Acrylics",
+      "hex": "#331716",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seal Brown",
+        "hex": "#321414",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "mig/amig0054",
+      "name": "Signal Green",
+      "code": "AMIG0054",
+      "set": "Acrylics",
+      "hex": "#28812D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lush Paradise",
+        "hex": "#2E7D32",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "mig/amig0195",
+      "name": "Silver",
+      "code": "AMIG0195",
+      "set": "Acrylics",
+      "hex": "#C6D1C1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dewkist",
+        "hex": "#C4D1C2",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "mig/amig0243",
+      "name": "Sky Type S (bs 210)",
+      "code": "AMIG0243",
+      "set": "Acrylics",
+      "hex": "#B4B299",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alfalfa",
+        "hex": "#B3B299",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "mig/amig0031",
+      "name": "Spanish Green-khaki",
+      "code": "AMIG0031",
+      "set": "Acrylics",
+      "hex": "#504728",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Codium Fragile",
+        "hex": "#524B2A",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "mig/amig1009",
+      "name": "Starship Wash",
+      "code": "AMIG1009",
+      "set": "Washes",
+      "hex": "#0F0B0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stout",
+        "hex": "#0F0B0A",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0191",
+      "name": "Steel",
+      "code": "AMIG0191",
+      "set": "Acrylics",
+      "hex": "#B7C2B1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Belize Green",
+        "hex": "#B9C3B3",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "mig/amig0075",
+      "name": "Stone Grey",
+      "code": "AMIG0075",
+      "set": "Acrylics",
+      "hex": "#B2B2B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangled Web",
+        "hex": "#B2B2B2",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig1002",
+      "name": "Tracks Wash",
+      "code": "AMIG1002",
+      "set": "Washes",
+      "hex": "#1A120F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scandinavian Liquorice",
+        "hex": "#1A1110",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "mig/amig1007",
+      "name": "US Modern Vehicles Wash",
+      "code": "AMIG1007",
+      "set": "Washes",
+      "hex": "#5A4A3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Momentous Occasion",
+        "hex": "#57493D",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "mig/amig0081",
+      "name": "US Olive Drab Vietnam Era (fs 24087)",
+      "code": "AMIG0081",
+      "set": "Acrylics",
+      "hex": "#424A35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rifle Green",
+        "hex": "#414833",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "mig/amig0126",
+      "name": "Violet",
+      "code": "AMIG0126",
+      "set": "Acrylics",
+      "hex": "#56439C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daisy Bush",
+        "hex": "#5B3E90",
+        "delta_e": 3.08
+      }
+    },
+    {
+      "id": "mig/amig0018",
+      "name": "Waffen Ss",
+      "code": "AMIG0018",
+      "set": "Acrylics",
+      "hex": "#42685B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earhart Emerald",
+        "hex": "#416659",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "mig/amig0196",
+      "name": "Warhead Metallic Blue",
+      "code": "AMIG0196",
+      "set": "Acrylics",
+      "hex": "#237EE9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seljuk Blue",
+        "hex": "#4488EE",
+        "delta_e": 3.86
+      }
+    },
+    {
+      "id": "mig/amig0061",
+      "name": "Warm Sand-yellow",
+      "code": "AMIG0061",
+      "set": "Acrylics",
+      "hex": "#D7B657",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Luxurious",
+        "hex": "#D4B75D",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "mig/amig0117",
+      "name": "Warm Skin Tone",
+      "code": "AMIG0117",
+      "set": "Acrylics",
+      "hex": "#B5876F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carmelite",
+        "hex": "#B98970",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "mig/amig0104",
+      "name": "Washable Black",
+      "code": "AMIG0104",
+      "set": "Acrylics",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "mig/amig0105",
+      "name": "Washable Dust (RAL 8000)",
+      "code": "AMIG0105",
+      "set": "Acrylics",
+      "hex": "#9D8152",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aztec Brick",
+        "hex": "#9E8352",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "mig/amig0107",
+      "name": "Washable Earth",
+      "code": "AMIG0107",
+      "set": "Acrylics",
+      "hex": "#714D35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee",
+        "hex": "#6F4E37",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "mig/amig0108",
+      "name": "Washable Mud",
+      "code": "AMIG0108",
+      "set": "Acrylics",
+      "hex": "#533229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acajou",
+        "hex": "#4C2F27",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "mig/amig0109",
+      "name": "Washable Rust",
+      "code": "AMIG0109",
+      "set": "Acrylics",
+      "hex": "#A0402A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rock Spray",
+        "hex": "#9D442D",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "mig/amig0106",
+      "name": "Washable Sand (RAL 8020)",
+      "code": "AMIG0106",
+      "set": "Acrylics",
+      "hex": "#C09853",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Where Buffalo Roam",
+        "hex": "#C19851",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "mig/amig0024",
+      "name": "Washable White Camo",
+      "code": "AMIG0024",
+      "set": "Acrylics",
+      "hex": "#FAFBF6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blanca Peak",
+        "hex": "#F8F9F4",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "mig/amig0083",
+      "name": "Xb-518 Zashchitniy Zeleno (russian Postwar Green)",
+      "code": "AMIG0083",
+      "set": "Acrylics",
+      "hex": "#4E4F30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Waiouru",
+        "hex": "#4C4E31",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "mig/amig0048",
+      "name": "Yellow",
+      "code": "AMIG0048",
+      "set": "Acrylics",
+      "hex": "#EBC30B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Abra Goldenrod",
+        "hex": "#EEC400",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "mig/amig0057",
+      "name": "Yellow Grey",
+      "code": "AMIG0057",
+      "set": "Acrylics",
+      "hex": "#C9B68E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soybean",
+        "hex": "#CAB68B",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "mig/amig0114",
+      "name": "Zimmerit Ochre Color",
+      "code": "AMIG0114",
+      "set": "Acrylics",
+      "hex": "#9A8B76",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinchilla",
+        "hex": "#9C8E7B",
+        "delta_e": 1.27
+      }
+    }
+  ]
+}

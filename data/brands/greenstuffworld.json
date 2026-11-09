@@ -1,0 +1,3096 @@
+{
+  "brand": "Green Stuff World",
+  "slug": "greenstuffworld",
+  "md_file": "GreenStuffWorld.md",
+  "logo": "logos/GreenStuffWorld.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "greenstuffworld/acrylic-colors--abyss-blue",
+      "name": "Abyss Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00134B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kantor Blue",
+        "hex": "#001146",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--acid-green-dip",
+      "name": "Acid Green Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#455C0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lustrian Undergrowth",
+        "hex": "#415A09",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--aether-blue",
+      "name": "Aether Blue",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#666ED0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "C64 Purple",
+        "hex": "#6F6ED1",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--amber-orange",
+      "name": "Amber Orange",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#F4B11A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Yellow",
+        "hex": "#F6B511",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--amberglow-dip",
+      "name": "Amberglow Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#642D0F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Count Chocula",
+        "hex": "#5E2D10",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--amethyst-purple",
+      "name": "Amethyst Purple",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#D7A7F1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petal Plush",
+        "hex": "#DDAAEE",
+        "delta_e": 1.94
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--ancient-sepia",
+      "name": "Ancient Sepia",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#AAA168",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acacia Tree",
+        "hex": "#A69D64",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--andalusian-earth",
+      "name": "Andalusian Earth",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#766B59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toasted Walnut",
+        "hex": "#746A5A",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--anthrax-metal",
+      "name": "Anthrax Metal",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#7B7E83",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tarnished Silver",
+        "hex": "#797B80",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--antique-gold",
+      "name": "Antique Gold",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#957E38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardueline Finch",
+        "hex": "#957B38",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--aqua-turquoise",
+      "name": "Aqua Turquoise",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#9BD1D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Surf",
+        "hex": "#96D0D1",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--arachnid-green",
+      "name": "Arachnid Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#124244",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tiber",
+        "hex": "#184343",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--arctic-blue",
+      "name": "Arctic Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#14ADCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aquarius",
+        "hex": "#2DB0CE",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--arrakis-brown",
+      "name": "Arrakis Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E39C28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clarified Butter",
+        "hex": "#E69C23",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--atramentum-black",
+      "name": "Atramentum Black",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#515151",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiftieth Shade of Grey",
+        "hex": "#505050",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--azure-dip",
+      "name": "Azure Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#094448",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Incubi Darkness",
+        "hex": "#0B474A",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--banana-split",
+      "name": "Banana Split",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F0E229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "The Fifth Sun",
+        "hex": "#F0E22C",
+        "delta_e": 0.15
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--barrel-grey",
+      "name": "Barrel Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#25221B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maire",
+        "hex": "#2A2922",
+        "delta_e": 2.54
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--bestial-brown",
+      "name": "Bestial Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2D1E01",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Swan",
+        "hex": "#332200",
+        "delta_e": 2.27
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--black-green-stone-dip",
+      "name": "Black Green Stone Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#3E4639",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arame Seaweed Green",
+        "hex": "#3F4635",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--black-stallion",
+      "name": "Black Stallion",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--blackroot-grey",
+      "name": "Blackroot Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#343436",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stiletto",
+        "hex": "#323235",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--blue",
+      "name": "Blue",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#5E88FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Denim",
+        "hex": "#6688FF",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--blue-glacier-dip",
+      "name": "Blue Glacier Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#53A7CB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mystic Blue",
+        "hex": "#48A8D0",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--bluebird-grey",
+      "name": "Bluebird Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#6F657D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Victorian Iris",
+        "hex": "#6D657E",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--bluegrey-dusk",
+      "name": "Bluegrey Dusk",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2A2C41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Violet",
+        "hex": "#2B2C42",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--blush-red",
+      "name": "Blush Red",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#DB746D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Melon",
+        "hex": "#E87973",
+        "delta_e": 2.7
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--blushing-flesh",
+      "name": "Blushing Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#DA523A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fire Island",
+        "hex": "#D95137",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--borealis-green",
+      "name": "Borealis Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7AC9D6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lagoona Teal",
+        "hex": "#76C6D3",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--brown-skin",
+      "name": "Brown Skin",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#802709",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mahogany Brown",
+        "hex": "#812308",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--burgundy-dip",
+      "name": "Burgundy Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4F2330",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Rose",
+        "hex": "#532934",
+        "delta_e": 1.78
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--burning-gold",
+      "name": "Burning Gold",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#F2DE2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Juicy Jackfruit",
+        "hex": "#EEDD33",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--caesar-red",
+      "name": "Caesar Red",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#C8606B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Rose",
+        "hex": "#CD616B",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--camouflage-green",
+      "name": "Camouflage Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#63601B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greenish Brown",
+        "hex": "#696112",
+        "delta_e": 2.45
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--canary-green",
+      "name": "Canary Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D3DC65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chinese Green",
+        "hex": "#D0DB61",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--carnage-red",
+      "name": "Carnage Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C22B24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Pie",
+        "hex": "#BD2C22",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--celestial-azure",
+      "name": "Celestial Azure",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7CC8D6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lagoona Teal",
+        "hex": "#76C6D3",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--chancellor-blue",
+      "name": "Chancellor Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#323045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oil Rush",
+        "hex": "#333144",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--choco-brown",
+      "name": "Choco Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3F2001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Ebony",
+        "hex": "#3D2004",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--chrome-paint",
+      "name": "Chrome Paint",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#FCFDFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wash Me",
+        "hex": "#FAFBFD",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--citrine-yellow",
+      "name": "Citrine Yellow",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#FFF64F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Cattleya",
+        "hex": "#FFF44F",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--cobalt-blue",
+      "name": "Cobalt Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#4476D7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skies of Cyberspace",
+        "hex": "#4477DD",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--cool-blue-dip",
+      "name": "Cool Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#387971",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pearl Green",
+        "hex": "#377B70",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--coyote-brown",
+      "name": "Coyote Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#806B3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Cheese Olive",
+        "hex": "#80693D",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--crimson-magenta",
+      "name": "Crimson Magenta",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#FF5A94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fuchsia Fever",
+        "hex": "#FF5599",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--cutthroat-red",
+      "name": "Cutthroat Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8E1316",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Socialist",
+        "hex": "#921A1C",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--cyber-yellow",
+      "name": "Cyber Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F2D12C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Giallo",
+        "hex": "#F1D236",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--dark-beige",
+      "name": "Dark Beige",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#715C41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Muddy River",
+        "hex": "#715D3D",
+        "delta_e": 2.05
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--dark-elder-bronze",
+      "name": "Dark Elder Bronze",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#3E2C14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Tumbleweed",
+        "hex": "#37290E",
+        "delta_e": 2.92
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--dark-umber",
+      "name": "Dark Umber",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3B302E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mole",
+        "hex": "#392D2B",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--darth-blue",
+      "name": "Darth Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#4476D9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skies of Cyberspace",
+        "hex": "#4477DD",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--deck-grey",
+      "name": "Deck Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D1C2A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Double Spanish White",
+        "hex": "#D2C3A3",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--deep-black-dip",
+      "name": "Deep Black Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#252525",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nero",
+        "hex": "#252525",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--desert-camo",
+      "name": "Desert Camo",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#947B3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardueline Finch",
+        "hex": "#957B38",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--dusty-blue-dip",
+      "name": "Dusty Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#2C4655",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Forest Blue",
+        "hex": "#29485A",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--dusty-rose",
+      "name": "Dusty Rose",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F0636B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Usubeni Red",
+        "hex": "#F2666C",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--dwarven-flesh",
+      "name": "Dwarven Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FF7D4B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nārangī Orange",
+        "hex": "#FF8050",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--el-dorado",
+      "name": "El Dorado",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#BA931C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prospector’s Find",
+        "hex": "#BF961F",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--elfwood-brown-dip",
+      "name": "Elfwood Brown Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4C361F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Café Noir",
+        "hex": "#4B3621",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--elven-flesh",
+      "name": "Elven Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F2AA82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Liqueur",
+        "hex": "#EDAA80",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--ember-orange",
+      "name": "Ember Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D94A22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crab Curry",
+        "hex": "#D94B28",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--emerald-getaway",
+      "name": "Emerald Getaway",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#33AE92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mermaid Song",
+        "hex": "#25AE8E",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--english-field-brown",
+      "name": "English Field Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#6C4615",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Very Coffee",
+        "hex": "#664411",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--evil-forest",
+      "name": "Evil Forest",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#531516",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mama Africa",
+        "hex": "#551111",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--faded-orange",
+      "name": "Faded Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F4793D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Nettle",
+        "hex": "#F47633",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--fang-white",
+      "name": "Fang White",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFFBDD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rice Paper",
+        "hex": "#FFFCDB",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--field-green-grey",
+      "name": "Field Green-grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1B4724",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cal Poly Pomona Green",
+        "hex": "#1E4D2B",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--flaming-orange",
+      "name": "Flaming Orange",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#EA701B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivid Tangelo",
+        "hex": "#F07427",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--flesh-rose",
+      "name": "Flesh Rose",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D16855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Track and Field",
+        "hex": "#D66352",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--flubber-green",
+      "name": "Flubber Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#88B719",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Lime",
+        "hex": "#84B701",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--forest-green",
+      "name": "Forest Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#003910",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gameboy Contrast",
+        "hex": "#0F380F",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--foxhide-brown",
+      "name": "Foxhide Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C16001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crema",
+        "hex": "#C16104",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--gangrene",
+      "name": "Gangrene",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3B4312",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Olive",
+        "hex": "#373E02",
+        "delta_e": 2.63
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--garnet-purple-dip",
+      "name": "Garnet Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#712F53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bordeaux Red",
+        "hex": "#6F2C4F",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--gengis-khaki",
+      "name": "Gengis Khaki",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#665B3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beach Casuarina",
+        "hex": "#665A38",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--gladius-bronze",
+      "name": "Gladius Bronze",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#E1A767",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "India Trade",
+        "hex": "#E0A362",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--glorious-magenta-dip",
+      "name": "Glorious Magenta Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#7A2E4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flirt",
+        "hex": "#7A2E4D",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--go-mango",
+      "name": "Go Mango",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFA032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blazing Bonfire",
+        "hex": "#FFA035",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--golden-cream",
+      "name": "Golden Cream",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFCE53",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canary Diamond",
+        "hex": "#FFCE52",
+        "delta_e": 0.11
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--gorgon-dark-green",
+      "name": "Gorgon Dark Green",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#6EA87F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Primavera",
+        "hex": "#6FA77A",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--goth-skin-dip",
+      "name": "Goth Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#632D2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rookwood Red",
+        "hex": "#622F2D",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--green-ghost-dip",
+      "name": "Green Ghost Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#1D5113",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Patch of Land",
+        "hex": "#225511",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--green-shark-skin-dip",
+      "name": "Green Shark Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#004542",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Side",
+        "hex": "#004444",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--grey-mist-dip",
+      "name": "Grey Mist Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#787878",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel",
+        "hex": "#797979",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--grey-teal",
+      "name": "Grey Teal",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#64857E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marsh Creek",
+        "hex": "#6B8781",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--gunmetal-grey",
+      "name": "Gunmetal Grey",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#ACB1B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cistern",
+        "hex": "#A9B0B6",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--hellfire-red",
+      "name": "Hellfire Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#CB160F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Love Goddess",
+        "hex": "#CD0D0D",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--hulky-green-dip",
+      "name": "Hulky Green Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#094625",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moisty Mire",
+        "hex": "#004422",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--hunter-green",
+      "name": "Hunter Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#017601",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moth Green",
+        "hex": "#007700",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--hydromiel-yellow",
+      "name": "Hydromiel Yellow",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#F5F092",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milan",
+        "hex": "#F6F493",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--imperium-blue",
+      "name": "Imperium Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1A3085",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bavarian Blue",
+        "hex": "#1C3382",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--indigo-blue-dip",
+      "name": "Indigo Blue Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#1C2F59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ending Navy Blue",
+        "hex": "#1C305C",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--ivory-tusk",
+      "name": "Ivory Tusk",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F3DFBE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cracked Wheat",
+        "hex": "#F4DFBD",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#9BFFD4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Turquoise",
+        "hex": "#A5FBD5",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--komodo-khaki",
+      "name": "Komodo Khaki",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#885A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treacle",
+        "hex": "#885D2D",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--kraken-green",
+      "name": "Kraken Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#034C39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raspberry Leaf Green",
+        "hex": "#044F3B",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--lapislazuli",
+      "name": "Lapislazuli",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#172C63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mythical Night",
+        "hex": "#1C2E63",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--leather-brown",
+      "name": "Leather Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#AF6816",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pumpkin Spice",
+        "hex": "#B2691A",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--liche-purple",
+      "name": "Liche Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#441C5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Plunged Into Darkness",
+        "hex": "#431C53",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--lilac-purple",
+      "name": "Lilac Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#B076B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moonlight Melody",
+        "hex": "#AF73B0",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--lime",
+      "name": "Lime",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#4EFF71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Experimintal Green",
+        "hex": "#4CFF7B",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--limelight-dip",
+      "name": "Limelight Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#605A02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brussels Sprout Green",
+        "hex": "#665E0D",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--lollipop-magenta",
+      "name": "Lollipop Magenta",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#AB0061",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Banafsaji Purple",
+        "hex": "#A50B5E",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--majin-pink",
+      "name": "Majin Pink",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D5618E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Preppy Rose",
+        "hex": "#D1668F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--malefic-purple",
+      "name": "Malefic Purple",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#110B49",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silent Twilight",
+        "hex": "#0F084B",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--marine-blue",
+      "name": "Marine Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#12407E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bracing Blue",
+        "hex": "#014182",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--martian-green",
+      "name": "Martian Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#869B62",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walking Dead",
+        "hex": "#849B63",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--military-green",
+      "name": "Military Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#22260F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Liquorice Root",
+        "hex": "#222200",
+        "delta_e": 3.13
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--mint-twister",
+      "name": "Mint Twister",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00BAA3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aare River",
+        "hex": "#00B89F",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--mirage-blue",
+      "name": "Mirage Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#36455A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spelunking",
+        "hex": "#35465E",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--misted-yellow-dip",
+      "name": "Misted Yellow Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#8D611A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kumera",
+        "hex": "#886221",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--moon-mist-grey",
+      "name": "Moon Mist Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#DCCFC9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pearls & Lace",
+        "hex": "#DCD0CB",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--moonstone-grey",
+      "name": "Moonstone Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8C8C8C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "More Than a Week",
+        "hex": "#8D8D8D",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--morrow-purple-dip",
+      "name": "Morrow Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#786696",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Paradise",
+        "hex": "#79669D",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--moss-green",
+      "name": "Moss Green",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#6EAC56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Techno Green",
+        "hex": "#69AC58",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--mustard-yellow",
+      "name": "Mustard Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#936611",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mandolin",
+        "hex": "#97691E",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--mystic-gold",
+      "name": "Mystic Gold",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#F2DE2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Juicy Jackfruit",
+        "hex": "#EEDD33",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--mystic-white",
+      "name": "Mystic White",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#EFF0F4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Grey",
+        "hex": "#EBECF0",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--nebula-copper",
+      "name": "Nebula Copper",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#C94FA6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Krameria",
+        "hex": "#CD48A9",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--neptunus-blue",
+      "name": "Neptunus Blue",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#60BAF8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hello Summer",
+        "hex": "#55BBFF",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--nightsahde-purple-dip",
+      "name": "Nightsahde Purple Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#472D5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scarlet Gum",
+        "hex": "#4A2D57",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--nuclear-white",
+      "name": "Nuclear White",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--nude-skin-dip",
+      "name": "Nude Skin Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#DE9390",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusty Cedar",
+        "hex": "#DD9592",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--ochre-desert",
+      "name": "Ochre Desert",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E08500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fulvous",
+        "hex": "#E48400",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--olive-brown-ops",
+      "name": "Olive-brown Ops",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#372D0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Secret Passage",
+        "hex": "#372A05",
+        "delta_e": 1.82
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--olivegrove-green",
+      "name": "Olivegrove Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#1B290F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Pines",
+        "hex": "#17240B",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--opulentus-black",
+      "name": "Opulentus Black",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#515151",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiftieth Shade of Grey",
+        "hex": "#505050",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F96E33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Orange",
+        "hex": "#FF7034",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--orchid-purple",
+      "name": "Orchid Purple",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#734472",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Passion",
+        "hex": "#784674",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--ork-flesh-dip",
+      "name": "Ork Flesh Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#13331B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Fir",
+        "hex": "#193925",
+        "delta_e": 2.59
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--overlord-olive",
+      "name": "Overlord Olive",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#37321F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Devlan Mud Wash",
+        "hex": "#3C3523",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--pale-flesh",
+      "name": "Pale Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E8B9A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Embrace",
+        "hex": "#E8B8A7",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--papyrus-dip",
+      "name": "Papyrus Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#6E4E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trojan Horse Brown",
+        "hex": "#775020",
+        "delta_e": 3.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--parchment",
+      "name": "Parchment",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E1C095",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dapper Dingo",
+        "hex": "#E2C299",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--peach-flesh",
+      "name": "Peach Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E47700",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pumpkin Soup",
+        "hex": "#E17701",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--pecatum-flesh",
+      "name": "Pecatum Flesh",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#F4929F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Foam",
+        "hex": "#F392A0",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--persian-violet",
+      "name": "Persian Violet",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#412480",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Galactic Civilization",
+        "hex": "#442288",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--phantom-violet",
+      "name": "Phantom Violet",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D367C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sparkling Grape",
+        "hex": "#82387E",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--phoenix-orange",
+      "name": "Phoenix Orange",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#F1A760",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lion of Menecrates",
+        "hex": "#EEAA66",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--pinky-blue",
+      "name": "Pinky Blue",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#78CDD2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soft Turquoise",
+        "hex": "#74CED2",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "greenstuffworld/gloss-surface--primer-black",
+      "name": "Primer Black",
+      "code": null,
+      "set": "Gloss Surface",
+      "hex": "#202020",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lead",
+        "hex": "#212121",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "greenstuffworld/matt-surface--primer-black",
+      "name": "Primer Black",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#1A1A1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eerie Black",
+        "hex": "#1B1B1B",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "greenstuffworld/matt-surface--primer-green",
+      "name": "Primer Green",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#485A04",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlands Moss",
+        "hex": "#445500",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "greenstuffworld/matt-surface--primer-grey",
+      "name": "Primer Grey",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#CCCCCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cerebral Grey",
+        "hex": "#CCCCCC",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/matt-surface--primer-red",
+      "name": "Primer Red",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#882A1E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Borscht",
+        "hex": "#8C2C24",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "greenstuffworld/matt-surface--primer-white",
+      "name": "Primer White",
+      "code": null,
+      "set": "Matt Surface",
+      "hex": "#FDFDFD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brilliance",
+        "hex": "#FDFDFD",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--prussian-blue",
+      "name": "Prussian Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#00416B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indigo Dye",
+        "hex": "#00416C",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--prussian-green",
+      "name": "Prussian Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#152E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Méi Hēi Coal",
+        "hex": "#123120",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--psychotic-illusions",
+      "name": "Psychotic Illusions",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#69ACB5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Experience",
+        "hex": "#64ACB5",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--purple-vanity-dip",
+      "name": "Purple Vanity Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#392E56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Pie",
+        "hex": "#372D52",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--quartz-magenta",
+      "name": "Quartz Magenta",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#EA86AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aurora Pink",
+        "hex": "#E881A6",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--quicksand-brown",
+      "name": "Quicksand Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D4A1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milk Chocolate",
+        "hex": "#7F4E1E",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--quicksilver",
+      "name": "Quicksilver",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#E0E3E8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Iris",
+        "hex": "#DFE2E7",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--radiant-orange-dip",
+      "name": "Radiant Orange Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#844406",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Pancakes",
+        "hex": "#884400",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--ranger-green",
+      "name": "Ranger Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#38352E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acadia",
+        "hex": "#35312C",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--red",
+      "name": "Red",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F03C25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato",
+        "hex": "#EF4026",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--red-cloak-dip",
+      "name": "Red Cloak Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#B2655D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pineapple Blossom",
+        "hex": "#B4655C",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--red-goblin",
+      "name": "Red Goblin",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#A9BA73",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Curry",
+        "hex": "#ACB977",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--red-opulence-dip",
+      "name": "Red Opulence Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BB2320",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Inferno",
+        "hex": "#BB1E1E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--red-truth",
+      "name": "Red Truth",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#EC2005",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uproar Red",
+        "hex": "#EE1100",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--redwood-brown",
+      "name": "Redwood Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3E0D00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Bean",
+        "hex": "#3D0C02",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--rocket-green",
+      "name": "Rocket Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#415E24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obscure Olive",
+        "hex": "#4A5D23",
+        "delta_e": 2.67
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--rose",
+      "name": "Rose",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F470A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "French Pink",
+        "hex": "#FD6C9E",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--rotten-green",
+      "name": "Rotten Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#77932C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Siskin Sprout",
+        "hex": "#7A942E",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--royal-burgundy",
+      "name": "Royal Burgundy",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#90A375",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lady Fern",
+        "hex": "#8FA174",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--ruby-red",
+      "name": "Ruby Red",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#F5904C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Poppy Glow",
+        "hex": "#F18C49",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--sacra-purple",
+      "name": "Sacra Purple",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#8869B9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lavish Spending",
+        "hex": "#8469BC",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--sandstorm",
+      "name": "Sandstorm",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#BF9F66",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Moss",
+        "hex": "#BEA166",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--sangria-red",
+      "name": "Sangria Red",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#5E0A0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacramental Red",
+        "hex": "#5E0E0B",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--sanguinem-red",
+      "name": "Sanguinem Red",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#FF6050",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pickled Salmon",
+        "hex": "#FF6655",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--sapphire-blue",
+      "name": "Sapphire Blue",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#ACC9FF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Snow",
+        "hex": "#AACCFF",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--scorched-wood",
+      "name": "Scorched Wood",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#24110A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Severely Burnt Toast",
+        "hex": "#241005",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--sepia-vetus",
+      "name": "Sepia Vetus",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#ABA269",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wavy Glass",
+        "hex": "#AEA266",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--seraphim-flesh-dip",
+      "name": "Seraphim Flesh Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BC6F51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Firenze",
+        "hex": "#BC7256",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--sharkfin-blue",
+      "name": "Sharkfin Blue",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#95CAF6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Sky",
+        "hex": "#8ECCFE",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--shiny-gold",
+      "name": "Shiny Gold",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#BFA22C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Leaf",
+        "hex": "#B9A023",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--sirenscale-green",
+      "name": "Sirenscale Green",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#05C18E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cōng Lǜ Green",
+        "hex": "#01C08D",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--skeleton-brown-dip",
+      "name": "Skeleton Brown Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#4E3E25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witch’s Cottage",
+        "hex": "#4C3D29",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--skull-linen-dip",
+      "name": "Skull Linen Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#A2A19D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gateway Grey",
+        "hex": "#A0A09C",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--slate-grey",
+      "name": "Slate Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#565656",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stone Cold",
+        "hex": "#555555",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--smoked-blue",
+      "name": "Smoked Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#55677F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dana",
+        "hex": "#576780",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--solar-anomalie",
+      "name": "Solar Anomalie",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#D154A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nova Pink",
+        "hex": "#D94F9A",
+        "delta_e": 2.54
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--starship-grey",
+      "name": "Starship Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#7D6C72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gothic Spire",
+        "hex": "#7C6B6F",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--steampunk-copper",
+      "name": "Steampunk Copper",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#DDA37E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nice Tan",
+        "hex": "#DBA37E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--steel-grey",
+      "name": "Steel Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#2A333C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chimney Sweep",
+        "hex": "#272F38",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--storm-surge-green",
+      "name": "Storm Surge Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#61A694",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Pine",
+        "hex": "#5DA493",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--summersea-blue",
+      "name": "Summersea Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#0268B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wing Commander",
+        "hex": "#0065AC",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--sun-bleached-bone",
+      "name": "Sun-bleached Bone",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D1904E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cold Pilsner",
+        "hex": "#D09351",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--swamp-brown",
+      "name": "Swamp Brown",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#A85D46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Colourful Leaves",
+        "hex": "#AA5C43",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--temple-ochre",
+      "name": "Temple Ochre",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#CA9F5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Leather",
+        "hex": "#C89F59",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--tenebris-blue",
+      "name": "Tenebris Blue",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#676FD1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "C64 Purple",
+        "hex": "#6F6ED1",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--tiger-brown",
+      "name": "Tiger Brown",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#F19200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shiritorier’s Orange",
+        "hex": "#F19000",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "greenstuffworld/candy-ink-metallic--tiger-eye-brown",
+      "name": "Tiger Eye Brown",
+      "code": null,
+      "set": "Candy Ink Metallic",
+      "hex": "#E8C196",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Laksa",
+        "hex": "#E6BF95",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "greenstuffworld/metallic-colors--tinmetal-grey",
+      "name": "Tinmetal Grey",
+      "code": null,
+      "set": "Metallic Colors",
+      "hex": "#B9ADAD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fairy Bubbles",
+        "hex": "#BCB0B1",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--toxic-purple",
+      "name": "Toxic Purple",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#7A398D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dull Violet",
+        "hex": "#803790",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "greenstuffworld/chameleon-colorshift-metallic--tropical-green",
+      "name": "Tropical Green",
+      "code": null,
+      "set": "Chameleon Colorshift Metallic",
+      "hex": "#B3D924",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellowish Green",
+        "hex": "#B0DD16",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--tropical-turquoise",
+      "name": "Tropical Turquoise",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#33AFA5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Moment",
+        "hex": "#3FB2A8",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--turquoise-ghost-dip",
+      "name": "Turquoise Ghost Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#055145",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fjord Green",
+        "hex": "#005043",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--ultramar-blue",
+      "name": "Ultramar Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#343468",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Koamaru",
+        "hex": "#343467",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--valkyrie-yellow",
+      "name": "Valkyrie Yellow",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#E7D96C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Straw",
+        "hex": "#E4D96F",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--vanilla-drop",
+      "name": "Vanilla Drop",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#FEE591",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swallowtail",
+        "hex": "#FFE690",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "greenstuffworld/wash-ink--vicious-purple",
+      "name": "Vicious Purple",
+      "code": null,
+      "set": "Wash Ink",
+      "hex": "#8767BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lavish Spending",
+        "hex": "#8469BC",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--violet",
+      "name": "Violet",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#BE68E3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lavender",
+        "hex": "#B56EDC",
+        "delta_e": 2.09
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--violet-hint-dip",
+      "name": "Violet Hint Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#9A82BC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Mountains’ Majesty",
+        "hex": "#9D81BA",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--viridian-green",
+      "name": "Viridian Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#019A88",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flamboyant Teal",
+        "hex": "#129C8B",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--viridis-green",
+      "name": "Viridis Green",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#5AA38F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jargon Jade",
+        "hex": "#53A38F",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "greenstuffworld/intensity-ink--walnut-brown",
+      "name": "Walnut Brown",
+      "code": null,
+      "set": "Intensity Ink",
+      "hex": "#776C5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toasted Walnut",
+        "hex": "#746A5A",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--warcry-green",
+      "name": "Warcry Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#3E6121",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainforest Matcha",
+        "hex": "#446019",
+        "delta_e": 2.42
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--white",
+      "name": "White",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--whitecap-beige",
+      "name": "Whitecap Beige",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#D6C4B0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wisp of Cocoa",
+        "hex": "#D9C6B2",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--wolven-grey",
+      "name": "Wolven Grey",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#B0B6C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brother Blue",
+        "hex": "#B0B7C6",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--wonka-violet",
+      "name": "Wonka Violet",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#771641",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Her Fierceness",
+        "hex": "#6F123C",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F8FB48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sylph of Light",
+        "hex": "#F7FB4E",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--yellow-submarine-dip",
+      "name": "Yellow Submarine Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#BD9C0F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perennial",
+        "hex": "#BC9B08",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--yellow-brown-ops",
+      "name": "Yellow-brown Ops",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#8A5E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grizzly",
+        "hex": "#885818",
+        "delta_e": 2.21
+      }
+    },
+    {
+      "id": "greenstuffworld/fluor-metallic--yellow-orange",
+      "name": "Yellow-orange",
+      "code": null,
+      "set": "Fluor Metallic",
+      "hex": "#F89D68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sharegaki Persimmon",
+        "hex": "#FFA26B",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--yoda-green",
+      "name": "Yoda Green",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#557C5D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Mantle",
+        "hex": "#5B7C5B",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--zima-blue",
+      "name": "Zima Blue",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#48A3C0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pottery Blue",
+        "hex": "#54A6C2",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "greenstuffworld/dipping-inks--zombie-dip",
+      "name": "Zombie Dip",
+      "code": null,
+      "set": "Dipping Inks",
+      "hex": "#373B22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 2.51
+      }
+    },
+    {
+      "id": "greenstuffworld/acrylic-colors--zombie-flesh",
+      "name": "Zombie Flesh",
+      "code": null,
+      "set": "Acrylic Colors",
+      "hex": "#C9AC6A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dried Moss",
+        "hex": "#C6AD6F",
+        "delta_e": 1.34
+      }
+    }
+  ]
+}

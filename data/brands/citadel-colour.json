@@ -1,0 +1,6344 @@
+{
+  "brand": "Citadel Colour",
+  "slug": "citadel-colour",
+  "md_file": "Citadel_Colour.md",
+  "logo": "logos/Citadel_Colour.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "citadel-colour/technical--ardcoat",
+      "name": "'Ardcoat",
+      "code": null,
+      "set": "Technical",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--abaddon-black",
+      "name": "Abaddon Black",
+      "code": null,
+      "set": "Air",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/base--abaddon-black",
+      "name": "Abaddon Black",
+      "code": null,
+      "set": "Base",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--adeptus-battlegrey",
+      "name": "Adeptus Battlegrey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#4A4C58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Mystery",
+        "hex": "#494C59",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/layer--administratum-grey",
+      "name": "Administratum Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#989C94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acacia Haze",
+        "hex": "#969C92",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "citadel-colour/air--administratum-grey",
+      "name": "Administratum Grey",
+      "code": null,
+      "set": "Air",
+      "hex": "#8F9690",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Toe",
+        "hex": "#929894",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--aethermatic-blue",
+      "name": "Aethermatic Blue",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#1C7E92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pagoda",
+        "hex": "#127E93",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--aggaros-dunes",
+      "name": "Aggaros Dunes",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#706542",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mount Olive",
+        "hex": "#716646",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "citadel-colour/shade--agrax-earthshade",
+      "name": "Agrax Earthshade",
+      "code": null,
+      "set": "Shade",
+      "hex": "#A99D8D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "City Loft",
+        "hex": "#A79B8A",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "citadel-colour/shade--agrax-earthshade-gloss",
+      "name": "Agrax Earthshade Gloss",
+      "code": null,
+      "set": "Shade",
+      "hex": "#B4AA9E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perfect Taupe",
+        "hex": "#B6ACA0",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/technical--agrellan-badland",
+      "name": "Agrellan Badland",
+      "code": null,
+      "set": "Technical",
+      "hex": "#B39E80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silestone",
+        "hex": "#B29E81",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "citadel-colour/technical--agrellan-earth",
+      "name": "Agrellan Earth",
+      "code": null,
+      "set": "Technical",
+      "hex": "#B39E80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silestone",
+        "hex": "#B29E81",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ahriman-blue",
+      "name": "Ahriman Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#00708A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Jay Crest",
+        "hex": "#01708A",
+        "delta_e": 0.03
+      }
+    },
+    {
+      "id": "citadel-colour/air--air-caste-thinner",
+      "name": "Air Caste Thinner",
+      "code": null,
+      "set": "Air",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--akhelian-green",
+      "name": "Akhelian Green",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#004F63",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raging Thunderstorm",
+        "hex": "#004F63",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--alaitoc-blue",
+      "name": "Alaitoc Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#2F4F85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Assassin",
+        "hex": "#2D4F83",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "citadel-colour/layer--altdorf-guard-blue",
+      "name": "Altdorf Guard Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#2D4696",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Oblivion",
+        "hex": "#26428B",
+        "delta_e": 2.03
+      }
+    },
+    {
+      "id": "citadel-colour/air--angron-red-clear",
+      "name": "Angron Red Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#E21823",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brutal Doom",
+        "hex": "#E61626",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--apothecary-white",
+      "name": "Apothecary White",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#A5BED4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Angel Falls",
+        "hex": "#A3BDD3",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "citadel-colour/technical--armageddon-dunes",
+      "name": "Armageddon Dunes",
+      "code": null,
+      "set": "Technical",
+      "hex": "#E8D36F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bold Gold",
+        "hex": "#EAD56D",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "citadel-colour/technical--armageddon-dust",
+      "name": "Armageddon Dust",
+      "code": null,
+      "set": "Technical",
+      "hex": "#D2AD00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hot Sand",
+        "hex": "#CCAA00",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "citadel-colour/dry--astorath-red",
+      "name": "Astorath Red",
+      "code": null,
+      "set": "Dry",
+      "hex": "#A9311E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sugo Della Nonna",
+        "hex": "#A32E1D",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "citadel-colour/technical--astrogranite",
+      "name": "Astrogranite",
+      "code": null,
+      "set": "Technical",
+      "hex": "#767675",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iron Mountain",
+        "hex": "#757574",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "citadel-colour/technical--astrogranite-debris",
+      "name": "Astrogranite Debris",
+      "code": null,
+      "set": "Technical",
+      "hex": "#9D9D9D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Waiting",
+        "hex": "#9D9D9D",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--astronomicon-grey",
+      "name": "Astronomicon Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#93ABAF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beach Cottage",
+        "hex": "#94ADB0",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--asurmen-blue-wash",
+      "name": "Asurmen Blue Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#273E51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Asurmen Blue Wash",
+        "hex": "#273E51",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/shade--athonian-camoshade",
+      "name": "Athonian Camoshade",
+      "code": null,
+      "set": "Shade",
+      "hex": "#B6B788",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aloe Plant",
+        "hex": "#B8BA87",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "citadel-colour/layer--auric-armour-gold",
+      "name": "Auric Armour Gold",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFC451",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Delight",
+        "hex": "#FFC355",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "citadel-colour/air--averland-sunset",
+      "name": "Averland Sunset",
+      "code": null,
+      "set": "Air",
+      "hex": "#FBB81C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Sun",
+        "hex": "#FBB719",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "citadel-colour/base--averland-sunset",
+      "name": "Averland Sunset",
+      "code": null,
+      "set": "Base",
+      "hex": "#FBB81C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tropical Sun",
+        "hex": "#FBB719",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--baal-red-wash",
+      "name": "Baal Red Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#630808",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampire Hunter",
+        "hex": "#610507",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bad-moon-yellow",
+      "name": "Bad Moon Yellow",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#FFF200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dorn Yellow",
+        "hex": "#FFF200",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--badab-black-wash",
+      "name": "Badab Black Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--baharroth-blue",
+      "name": "Baharroth Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#54BDCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Faded Jeans",
+        "hex": "#5DBDCB",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "citadel-colour/layer--balor-brown",
+      "name": "Balor Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#875408",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caffeinated Cinnamon",
+        "hex": "#885511",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "citadel-colour/air--balor-brown",
+      "name": "Balor Brown",
+      "code": null,
+      "set": "Air",
+      "hex": "#875408",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caffeinated Cinnamon",
+        "hex": "#885511",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "citadel-colour/air--balthasar-gold",
+      "name": "Balthasar Gold",
+      "code": null,
+      "set": "Air",
+      "hex": "#A77353",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pecan",
+        "hex": "#A67253",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "citadel-colour/base--balthasar-gold",
+      "name": "Balthasar Gold",
+      "code": null,
+      "set": "Base",
+      "hex": "#A77353",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pecan",
+        "hex": "#A67253",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "citadel-colour/air--baneblade-brown",
+      "name": "Baneblade Brown",
+      "code": null,
+      "set": "Air",
+      "hex": "#8F7C68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squirrel",
+        "hex": "#8F7D6B",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "citadel-colour/layer--baneblade-brown",
+      "name": "Baneblade Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#8F7C68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squirrel",
+        "hex": "#8F7D6B",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "citadel-colour/base--barak-nar-burgundy",
+      "name": "Barak-Nar Burgundy",
+      "code": null,
+      "set": "Base",
+      "hex": "#451636",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prestige Mauve",
+        "hex": "#4C213D",
+        "delta_e": 2.89
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--basilicanum-grey",
+      "name": "Basilicanum Grey",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#212121",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lead",
+        "hex": "#212121",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--beaten-copper",
+      "name": "Beaten Copper",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#73372D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beaten Copper",
+        "hex": "#73372D",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bestial-brown",
+      "name": "Bestial Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#7B4A39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Egyptian Jasper",
+        "hex": "#7A4B3A",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/layer--bestigor-flesh",
+      "name": "Bestigor Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#D08951",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flaming Torch",
+        "hex": "#D2864E",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "citadel-colour/shade--biel-tan-green",
+      "name": "Biel-Tan Green",
+      "code": null,
+      "set": "Shade",
+      "hex": "#7DA57A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greyish Green",
+        "hex": "#82A67D",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bilious-green",
+      "name": "Bilious Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A9D171",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bilious Green",
+        "hex": "#A9D171",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--black-ink",
+      "name": "Black Ink",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--black-legion",
+      "name": "Black Legion",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#232324",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Verified Black",
+        "hex": "#232324",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--black-templar",
+      "name": "Black Templar",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#171717",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cynical Black",
+        "hex": "#171717",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--blazing-orange",
+      "name": "Blazing Orange",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#E65925",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flame",
+        "hex": "#E25822",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bleached-bone",
+      "name": "Bleached Bone",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#EED5AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ashwood",
+        "hex": "#EDD6AE",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--blood-angels-red",
+      "name": "Blood Angels Red",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#860B0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Netherworld",
+        "hex": "#881111",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "citadel-colour/technical--blood-for-the-blood-god",
+      "name": "Blood For The Blood God",
+      "code": null,
+      "set": "Technical",
+      "hex": "#600106",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampire Hunter",
+        "hex": "#610507",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--blood-red",
+      "name": "Blood Red",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#D2223E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sovereign Red",
+        "hex": "#CE243F",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "citadel-colour/glaze--bloodletter",
+      "name": "Bloodletter",
+      "code": null,
+      "set": "Glaze",
+      "hex": "#F37355",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Blush",
+        "hex": "#F26E54",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "citadel-colour/layer--bloodreaver-flesh",
+      "name": "Bloodreaver Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#6A4848",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Painite",
+        "hex": "#6B4947",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--blue-horror",
+      "name": "Blue Horror",
+      "code": null,
+      "set": "Layer",
+      "hex": "#9EB5CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stellar Blue",
+        "hex": "#9FB5CE",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--boltgun-metal",
+      "name": "Boltgun Metal",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#888789",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Titanium",
+        "hex": "#888586",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "citadel-colour/layer--brass-scorpion",
+      "name": "Brass Scorpion",
+      "code": null,
+      "set": "Layer",
+      "hex": "#A65D2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scarecrow Frown",
+        "hex": "#A55E2B",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--brazen-brass",
+      "name": "Brazen Brass",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#966747",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Pot",
+        "hex": "#936647",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bronzed-flesh",
+      "name": "Bronzed Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#EC9A36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nuclear Mango",
+        "hex": "#EE9933",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--bubonic-brown",
+      "name": "Bubonic Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B89142",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alluvial Inca",
+        "hex": "#BB934B",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "citadel-colour/base--bugman-glow",
+      "name": "Bugman Glow",
+      "code": null,
+      "set": "Base",
+      "hex": "#804C43",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Bluff",
+        "hex": "#824E46",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--burnished-gold",
+      "name": "Burnished Gold",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#E0C068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Highlight Gold",
+        "hex": "#DFC16D",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "citadel-colour/layer--cadian-fleshtone",
+      "name": "Cadian Fleshtone",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C47652",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moroccan Sky",
+        "hex": "#BF7756",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "citadel-colour/air--caledor-sky",
+      "name": "Caledor Sky",
+      "code": null,
+      "set": "Air",
+      "hex": "#366699",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summerday Blue",
+        "hex": "#376698",
+        "delta_e": 0.16
+      }
+    },
+    {
+      "id": "citadel-colour/base--caledor-sky",
+      "name": "Caledor Sky",
+      "code": null,
+      "set": "Base",
+      "hex": "#366699",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summerday Blue",
+        "hex": "#376698",
+        "delta_e": 0.16
+      }
+    },
+    {
+      "id": "citadel-colour/air--calgar-blue",
+      "name": "Calgar Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#2A497F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Florida Waters",
+        "hex": "#2A4983",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/layer--calgar-blue",
+      "name": "Calgar Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#2A497F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Florida Waters",
+        "hex": "#2A4983",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/base--caliban-green",
+      "name": "Caliban Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#003D15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Pond",
+        "hex": "#014420",
+        "delta_e": 2.67
+      }
+    },
+    {
+      "id": "citadel-colour/air--caliban-green",
+      "name": "Caliban Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#003D15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Pond",
+        "hex": "#014420",
+        "delta_e": 2.67
+      }
+    },
+    {
+      "id": "citadel-colour/air--calth-blue-clear",
+      "name": "Calth Blue Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#0087D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Water Blue",
+        "hex": "#0E87CC",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--calthan-brown",
+      "name": "Calthan Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#7A4231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peanut",
+        "hex": "#7A4434",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--camo-green",
+      "name": "Camo Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#878D52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Special Ops",
+        "hex": "#868B53",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "citadel-colour/layer--canoptek-alloy",
+      "name": "Canoptek Alloy",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C3B2AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Artistic Taupe",
+        "hex": "#C3B1AC",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "citadel-colour/shade--carroburg-crimson",
+      "name": "Carroburg Crimson",
+      "code": null,
+      "set": "Shade",
+      "hex": "#BE80A4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Cheeks",
+        "hex": "#B67CA2",
+        "delta_e": 2.05
+      }
+    },
+    {
+      "id": "citadel-colour/shade--cassandora-yellow",
+      "name": "Cassandora Yellow",
+      "code": null,
+      "set": "Shade",
+      "hex": "#F5CC92",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet!",
+        "hex": "#F1CA90",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "citadel-colour/air--castellan-green",
+      "name": "Castellan Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#264715",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treetop Cathedral",
+        "hex": "#2F4A15",
+        "delta_e": 2.13
+      }
+    },
+    {
+      "id": "citadel-colour/base--castellan-green",
+      "name": "Castellan Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#264715",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Treetop Cathedral",
+        "hex": "#2F4A15",
+        "delta_e": 2.13
+      }
+    },
+    {
+      "id": "citadel-colour/air--castellax-bronze",
+      "name": "Castellax Bronze",
+      "code": null,
+      "set": "Air",
+      "hex": "#C68351",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maple Syrup Brown",
+        "hex": "#C88554",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/layer--castellax-bronze",
+      "name": "Castellax Bronze",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C68351",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maple Syrup Brown",
+        "hex": "#C88554",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/base--catachan-fleshtone",
+      "name": "Catachan Fleshtone",
+      "code": null,
+      "set": "Base",
+      "hex": "#442B25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Mahogany",
+        "hex": "#432722",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--catachan-green",
+      "name": "Catachan Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#455440",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castellan Green",
+        "hex": "#455440",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/base--celestra-grey",
+      "name": "Celestra Grey",
+      "code": null,
+      "set": "Base",
+      "hex": "#8BA3A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "In the Deep End",
+        "hex": "#91A8A8",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--chainmail",
+      "name": "Chainmail",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#8E8C91",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alloy",
+        "hex": "#908F92",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "citadel-colour/dry--changeling-pink",
+      "name": "Changeling Pink",
+      "code": null,
+      "set": "Dry",
+      "hex": "#F3ABCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose Mallow",
+        "hex": "#F4AAC7",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--chaos-black",
+      "name": "Chaos Black",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#001522",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Creeping Death",
+        "hex": "#041723",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "citadel-colour/spray--chaos-black",
+      "name": "Chaos Black",
+      "code": null,
+      "set": "Spray",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--charadon-granite",
+      "name": "Charadon Granite",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#463F39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skavenblight Dinge",
+        "hex": "#47413B",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "citadel-colour/air--chemos-purple",
+      "name": "Chemos Purple",
+      "code": null,
+      "set": "Air",
+      "hex": "#4F356C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petunia",
+        "hex": "#4D3466",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "citadel-colour/dry--chronus-blue",
+      "name": "Chronus Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#4B90CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Delphinium Corsage",
+        "hex": "#4F92CD",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--codex-grey",
+      "name": "Codex Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#808285",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sharkskin",
+        "hex": "#808184",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "citadel-colour/shade--coelia-greenshade",
+      "name": "Coelia Greenshade",
+      "code": null,
+      "set": "Shade",
+      "hex": "#1B8F85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ocean Liner",
+        "hex": "#189086",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--commando-khaki",
+      "name": "Commando Khaki",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#9A8C7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "German Camouflage Beige",
+        "hex": "#9B8C7B",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "citadel-colour/technical--contrast-medium",
+      "name": "Contrast Medium",
+      "code": null,
+      "set": "Technical",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/base--corax-white",
+      "name": "Corax White",
+      "code": null,
+      "set": "Base",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/spray--corax-white",
+      "name": "Corax White",
+      "code": null,
+      "set": "Spray",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--corvus-black",
+      "name": "Corvus Black",
+      "code": null,
+      "set": "Air",
+      "hex": "#171314",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kettle Black",
+        "hex": "#141314",
+        "delta_e": 1.93
+      }
+    },
+    {
+      "id": "citadel-colour/base--corvus-black",
+      "name": "Corvus Black",
+      "code": null,
+      "set": "Base",
+      "hex": "#171314",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kettle Black",
+        "hex": "#141314",
+        "delta_e": 1.93
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--creed-camo",
+      "name": "Creed Camo",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#145D2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sombre Green",
+        "hex": "#005C2B",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/shade--cryptek-armourshade-gloss",
+      "name": "Cryptek Armourshade Gloss",
+      "code": null,
+      "set": "Shade",
+      "hex": "#856A67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ferra",
+        "hex": "#876A68",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--cygor-brown",
+      "name": "Cygor Brown",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#3E1A17",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Sienna",
+        "hex": "#3C1414",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "citadel-colour/base--daemonette-hide",
+      "name": "Daemonette Hide",
+      "code": null,
+      "set": "Base",
+      "hex": "#655F81",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Gumball",
+        "hex": "#6A6283",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--dark-angels-green",
+      "name": "Dark Angels Green",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#00110F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Glaze",
+        "hex": "#001111",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dark-angels-green",
+      "name": "Dark Angels Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#19553C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trapper Green",
+        "hex": "#005239",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dark-flesh",
+      "name": "Dark Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#683B31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Peel",
+        "hex": "#6D3C32",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dark-green-ink",
+      "name": "Dark Green Ink",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#108473",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Turquoise",
+        "hex": "#008572",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "citadel-colour/layer--dark-reaper",
+      "name": "Dark Reaper",
+      "code": null,
+      "set": "Layer",
+      "hex": "#354D4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Frontier",
+        "hex": "#314A49",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--darkoath-flesh",
+      "name": "Darkoath Flesh",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#98615B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brick Hearth",
+        "hex": "#956159",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "citadel-colour/dry--dawnstone",
+      "name": "Dawnstone",
+      "code": null,
+      "set": "Dry",
+      "hex": "#697068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Queen Valley",
+        "hex": "#6C7068",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "citadel-colour/air--dawnstone",
+      "name": "Dawnstone",
+      "code": null,
+      "set": "Air",
+      "hex": "#697068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Queen Valley",
+        "hex": "#6C7068",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "citadel-colour/layer--dawnstone",
+      "name": "Dawnstone",
+      "code": null,
+      "set": "Layer",
+      "hex": "#697068",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Queen Valley",
+        "hex": "#6C7068",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "citadel-colour/spray--death-guard-green",
+      "name": "Death Guard Green",
+      "code": null,
+      "set": "Spray",
+      "hex": "#556229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Basil Green",
+        "hex": "#54622E",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "citadel-colour/base--death-guard-green",
+      "name": "Death Guard Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#6D774D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dill Pickle",
+        "hex": "#67744A",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "citadel-colour/air--death-korps-drab",
+      "name": "Death Korps Drab",
+      "code": null,
+      "set": "Air",
+      "hex": "#3D4539",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kombu Green",
+        "hex": "#3A4032",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "citadel-colour/base--death-korps-drab",
+      "name": "Death Korps Drab",
+      "code": null,
+      "set": "Base",
+      "hex": "#3D4539",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kombu Green",
+        "hex": "#3A4032",
+        "delta_e": 2.07
+      }
+    },
+    {
+      "id": "citadel-colour/layer--deathclaw-brown",
+      "name": "Deathclaw Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#AF634F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clay Figure",
+        "hex": "#AF604D",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--deathclaw-brown",
+      "name": "Deathclaw Brown",
+      "code": null,
+      "set": "Air",
+      "hex": "#AF634F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clay Figure",
+        "hex": "#AF604D",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--deathshroud-clear",
+      "name": "Deathshroud Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#1C1C1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coco’s Black",
+        "hex": "#1C1C1A",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/base--deathworld-forest",
+      "name": "Deathworld Forest",
+      "code": null,
+      "set": "Base",
+      "hex": "#556229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Basil Green",
+        "hex": "#54622E",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "citadel-colour/air--deathworld-forest",
+      "name": "Deathworld Forest",
+      "code": null,
+      "set": "Air",
+      "hex": "#556229",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Basil Green",
+        "hex": "#54622E",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "citadel-colour/layer--dechala-lilac",
+      "name": "Dechala Lilac",
+      "code": null,
+      "set": "Layer",
+      "hex": "#B598C9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Tulip",
+        "hex": "#B598C3",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "citadel-colour/layer--deepkin-flesh",
+      "name": "Deepkin Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#A9B79F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Salvia",
+        "hex": "#A8B59E",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--desert-yellow",
+      "name": "Desert Yellow",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#9C8855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wasteland",
+        "hex": "#9C8855",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--devlan-mud-wash",
+      "name": "Devlan Mud Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#393121",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Agrax Earthshade",
+        "hex": "#393121",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dheneb-stone",
+      "name": "Dheneb Stone",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B8ACA0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Perfect Greige",
+        "hex": "#B7AB9F",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "citadel-colour/layer--doombull-brown",
+      "name": "Doombull Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#570003",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soooo Bloody",
+        "hex": "#550000",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/layer--dorn-yellow",
+      "name": "Dorn Yellow",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFF55A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lemon Seed",
+        "hex": "#FFF45A",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "citadel-colour/shade--drakenhof-nightshade",
+      "name": "Drakenhof Nightshade",
+      "code": null,
+      "set": "Shade",
+      "hex": "#A1A5AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pandemonium",
+        "hex": "#A1A4AE",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "citadel-colour/shade--druchii-violet",
+      "name": "Druchii Violet",
+      "code": null,
+      "set": "Shade",
+      "hex": "#8F6592",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hashita Purple",
+        "hex": "#8D608C",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "citadel-colour/base--dryad-bark",
+      "name": "Dryad Bark",
+      "code": null,
+      "set": "Base",
+      "hex": "#2B2A24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maire",
+        "hex": "#2A2922",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "citadel-colour/air--dryad-bark",
+      "name": "Dryad Bark",
+      "code": null,
+      "set": "Air",
+      "hex": "#2B2A24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maire",
+        "hex": "#2A2922",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dwarf-bronze",
+      "name": "Dwarf Bronze",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A26840",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth",
+        "hex": "#A2653E",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--dwarf-flesh",
+      "name": "Dwarf Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#DA9382",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paddy",
+        "hex": "#DA9585",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "citadel-colour/air--eidolon-purple-clear",
+      "name": "Eidolon Purple Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#7D4D99",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Sapphire",
+        "hex": "#754B8F",
+        "delta_e": 2.27
+      }
+    },
+    {
+      "id": "citadel-colour/dry--eldar-flesh",
+      "name": "Eldar Flesh",
+      "code": null,
+      "set": "Dry",
+      "hex": "#E8C07F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Freshly Baked",
+        "hex": "#E9C180",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--elf-flesh",
+      "name": "Elf Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#EDAE74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Salmonberry",
+        "hex": "#F0B073",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "citadel-colour/layer--elysian-green",
+      "name": "Elysian Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#6B8C37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gǎn Lǎn Lǜ Green",
+        "hex": "#658B38",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "citadel-colour/air--elysian-green",
+      "name": "Elysian Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#6B8C37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gǎn Lǎn Lǜ Green",
+        "hex": "#658B38",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "citadel-colour/layer--emperor-children",
+      "name": "Emperor Children",
+      "code": null,
+      "set": "Layer",
+      "hex": "#B74073",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Valentino",
+        "hex": "#B64476",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--enchanted-blue",
+      "name": "Enchanted Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#0071B7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Blue",
+        "hex": "#0070B8",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "citadel-colour/layer--eshin-grey",
+      "name": "Eshin Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#484B4E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indigo Ink",
+        "hex": "#474A4D",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "citadel-colour/dry--etherium-blue",
+      "name": "Etherium Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#9EB5CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stellar Blue",
+        "hex": "#9FB5CE",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/layer--evil-sunz-scarlet",
+      "name": "Evil Sunz Scarlet",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C01411",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Furious Tomato",
+        "hex": "#C30A12",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "citadel-colour/air--evil-sunz-scarlet",
+      "name": "Evil Sunz Scarlet",
+      "code": null,
+      "set": "Air",
+      "hex": "#C01411",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Furious Tomato",
+        "hex": "#C30A12",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "citadel-colour/layer--fenrisian-grey",
+      "name": "Fenrisian Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#6D94B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cranberry Blue",
+        "hex": "#7494B1",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "citadel-colour/air--fenrisian-grey",
+      "name": "Fenrisian Grey",
+      "code": null,
+      "set": "Air",
+      "hex": "#6D94B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cranberry Blue",
+        "hex": "#7494B1",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--fenrys-grey",
+      "name": "Fenrys Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#2C4363",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Turmeric",
+        "hex": "#2C4364",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--fiery-orange",
+      "name": "Fiery Orange",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#F47920",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sun Orange",
+        "hex": "#F37724",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "citadel-colour/layer--fire-dragon-bright",
+      "name": "Fire Dragon Bright",
+      "code": null,
+      "set": "Layer",
+      "hex": "#F4874E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crusta",
+        "hex": "#F38653",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "citadel-colour/air--flash-gitz-yellow",
+      "name": "Flash Gitz Yellow",
+      "code": null,
+      "set": "Air",
+      "hex": "#FFF300",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zheleznogorsk Yellow",
+        "hex": "#FEF200",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "citadel-colour/layer--flash-gitz-yellow",
+      "name": "Flash Gitz Yellow",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFF300",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zheleznogorsk Yellow",
+        "hex": "#FEF200",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "citadel-colour/layer--flayed-one-flesh",
+      "name": "Flayed One Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#EEC483",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunset in Italy",
+        "hex": "#F0C484",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--flesh-tearers-red",
+      "name": "Flesh Tearers Red",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#4B0402",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Old Mahogany",
+        "hex": "#4A0100",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--flesh-wash",
+      "name": "Flesh Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#CE8C42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hey Honey!",
+        "hex": "#CD8E43",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--fortress-grey",
+      "name": "Fortress Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#BCBDC0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Microchip",
+        "hex": "#BABCC0",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "citadel-colour/shade--fuegan-orange",
+      "name": "Fuegan Orange",
+      "code": null,
+      "set": "Shade",
+      "hex": "#BB7648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spice Cake",
+        "hex": "#B87243",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "citadel-colour/layer--fulgrim-pink",
+      "name": "Fulgrim Pink",
+      "code": null,
+      "set": "Layer",
+      "hex": "#F3ABCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rose Mallow",
+        "hex": "#F4AAC7",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/layer--fulgurite-copper",
+      "name": "Fulgurite Copper",
+      "code": null,
+      "set": "Layer",
+      "hex": "#CE8D51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Nectar Bat",
+        "hex": "#CE8C4F",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--fyreslayer-flesh",
+      "name": "Fyreslayer Flesh",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#724E3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Traditional Leather",
+        "hex": "#6F4F3E",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "citadel-colour/base--gal-vorbak-red",
+      "name": "Gal Vorbak Red",
+      "code": null,
+      "set": "Base",
+      "hex": "#4B213C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prestige Mauve",
+        "hex": "#4C213D",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/air--gal-vorbak-red",
+      "name": "Gal Vorbak Red",
+      "code": null,
+      "set": "Air",
+      "hex": "#4B213C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prestige Mauve",
+        "hex": "#4C213D",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/layer--gauss-blaster-green",
+      "name": "Gauss Blaster Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#7FC1A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Balloon",
+        "hex": "#80C4A9",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "citadel-colour/layer--gehenna-gold",
+      "name": "Gehenna Gold",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C96B18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brusque Brown",
+        "hex": "#CC6611",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "citadel-colour/air--genestealer-purple",
+      "name": "Genestealer Purple",
+      "code": null,
+      "set": "Air",
+      "hex": "#7658A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sumire Violet",
+        "hex": "#7058A3",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "citadel-colour/layer--genestealer-purple",
+      "name": "Genestealer Purple",
+      "code": null,
+      "set": "Layer",
+      "hex": "#7658A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sumire Violet",
+        "hex": "#7058A3",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--ghostly-grey",
+      "name": "Ghostly Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#C3C6CD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flat Aluminium",
+        "hex": "#C3C6CD",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--goblin-green",
+      "name": "Goblin Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#3D9353",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Forest",
+        "hex": "#38914A",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "citadel-colour/dry--golden-griffon",
+      "name": "Golden Griffon",
+      "code": null,
+      "set": "Dry",
+      "hex": "#E1BA7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ambitious",
+        "hex": "#DFB77D",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--golden-yellow",
+      "name": "Golden Yellow",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#FFC20E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Yipee",
+        "hex": "#FFC217",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "citadel-colour/dry--golgfag-brown",
+      "name": "Golgfag Brown",
+      "code": null,
+      "set": "Dry",
+      "hex": "#8F502A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roasted Pecan",
+        "hex": "#93542B",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--gore-grunta-fur",
+      "name": "Gore-Grunta Fur",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#613B1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cassiterite Brown",
+        "hex": "#623C1F",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "citadel-colour/layer--gorthor-brown",
+      "name": "Gorthor Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#5F463F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warm Brownie",
+        "hex": "#604840",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--graveyard-earth",
+      "name": "Graveyard Earth",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#665238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desert Palm",
+        "hex": "#675239",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--gretchin-green",
+      "name": "Gretchin Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#7E6930",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Time Honoured",
+        "hex": "#7F6D37",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "citadel-colour/air--grey-knights-steel",
+      "name": "Grey Knights Steel",
+      "code": null,
+      "set": "Air",
+      "hex": "#B0BDC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Wonderland",
+        "hex": "#B3BFC8",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/base--grey-knights-steel",
+      "name": "Grey Knights Steel",
+      "code": null,
+      "set": "Base",
+      "hex": "#B0BDC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Wonderland",
+        "hex": "#B3BFC8",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/base--grey-seer",
+      "name": "Grey Seer",
+      "code": null,
+      "set": "Base",
+      "hex": "#A2A5A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Power Grey",
+        "hex": "#A2A4A6",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/spray--grey-seer",
+      "name": "Grey Seer",
+      "code": null,
+      "set": "Spray",
+      "hex": "#A2A5A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Power Grey",
+        "hex": "#A2A4A6",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--gryph-charger-grey",
+      "name": "Gryph-Charger Grey",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#25698A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bondi",
+        "hex": "#16698C",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--gryph-hound-orange",
+      "name": "Gryph-Hound Orange",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#94300E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hawaiian Malasada",
+        "hex": "#96300D",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--gryphonne-sepia-wash",
+      "name": "Gryphonne Sepia Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#843910",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Orange",
+        "hex": "#873E1A",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "citadel-colour/glaze--guilliman-blue",
+      "name": "Guilliman Blue",
+      "code": null,
+      "set": "Glaze",
+      "hex": "#2F9AD6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sorcerer",
+        "hex": "#3398CE",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--guilliman-flesh",
+      "name": "Guilliman Flesh",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#9F4639",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toasted Cranberry",
+        "hex": "#A24A3B",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/layer--hashut-copper",
+      "name": "Hashut Copper",
+      "code": null,
+      "set": "Layer",
+      "hex": "#BA885F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doe",
+        "hex": "#B68761",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--hawk-turquoise",
+      "name": "Hawk Turquoise",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#008194",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Craftsman Blue",
+        "hex": "#008193",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "citadel-colour/dry--hellion-green",
+      "name": "Hellion Green",
+      "code": null,
+      "set": "Dry",
+      "hex": "#7FC1A5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Balloon",
+        "hex": "#80C4A9",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "citadel-colour/dry--hexos-palesun",
+      "name": "Hexos Palesun",
+      "code": null,
+      "set": "Dry",
+      "hex": "#FFF55A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lemon Seed",
+        "hex": "#FFF45A",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "citadel-colour/technical--hexwraith-flame",
+      "name": "Hexwraith Flame",
+      "code": null,
+      "set": "Technical",
+      "hex": "#29A236",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Bad Green",
+        "hex": "#3CA335",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "citadel-colour/base--hobgrot-hide",
+      "name": "Hobgrot Hide",
+      "code": null,
+      "set": "Base",
+      "hex": "#9C823B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Madagascar",
+        "hex": "#9D8544",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "citadel-colour/layer--hoeth-blue",
+      "name": "Hoeth Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#4C78AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sail On",
+        "hex": "#4575AD",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "citadel-colour/dry--hoeth-blue",
+      "name": "Hoeth Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#4C78AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sail On",
+        "hex": "#4575AD",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--hormagaunt-purple",
+      "name": "Hormagaunt Purple",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#54496B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roman Purple",
+        "hex": "#524765",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--ice-blue",
+      "name": "Ice Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#81D3EB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer Splash",
+        "hex": "#80CFE5",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--imperial-purple",
+      "name": "Imperial Purple",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#562F7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Foggy Amethyst",
+        "hex": "#57317E",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/dry--imrik-blue",
+      "name": "Imrik Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#208ABF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyan Cornflower Blue",
+        "hex": "#188BC2",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "citadel-colour/base--incubi-darkness",
+      "name": "Incubi Darkness",
+      "code": null,
+      "set": "Base",
+      "hex": "#082E32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elite Teal",
+        "hex": "#133337",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "citadel-colour/base--ionrach-skin",
+      "name": "Ionrach Skin",
+      "code": null,
+      "set": "Base",
+      "hex": "#97A384",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glade",
+        "hex": "#9CA687",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "citadel-colour/air--iron-hands-steel",
+      "name": "Iron Hands Steel",
+      "code": null,
+      "set": "Air",
+      "hex": "#B2A79F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aura",
+        "hex": "#B2A8A1",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/base--iron-hands-steel",
+      "name": "Iron Hands Steel",
+      "code": null,
+      "set": "Base",
+      "hex": "#B2A79F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aura",
+        "hex": "#B2A8A1",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/base--iron-warriors",
+      "name": "Iron Warriors",
+      "code": null,
+      "set": "Base",
+      "hex": "#706E6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hulett Ore",
+        "hex": "#726F6C",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "citadel-colour/air--ironbreaker",
+      "name": "Ironbreaker",
+      "code": null,
+      "set": "Air",
+      "hex": "#899092",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gotham Grey",
+        "hex": "#8A9192",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ironbreaker",
+      "name": "Ironbreaker",
+      "code": null,
+      "set": "Layer",
+      "hex": "#899092",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gotham Grey",
+        "hex": "#8A9192",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--iyanden-darksun",
+      "name": "Iyanden Darksun",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#AD852E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Honey",
+        "hex": "#AE8934",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--iyanden-yellow",
+      "name": "Iyanden Yellow",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#DB7F0C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Pepper",
+        "hex": "#DA7D00",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--jade-green",
+      "name": "Jade Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#069B7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paolo Veronese Green",
+        "hex": "#009B7D",
+        "delta_e": 0.11
+      }
+    },
+    {
+      "id": "citadel-colour/base--jokaero-orange",
+      "name": "Jokaero Orange",
+      "code": null,
+      "set": "Base",
+      "hex": "#ED3814",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arcade Fire",
+        "hex": "#EE3311",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "citadel-colour/layer--kabalite-green",
+      "name": "Kabalite Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#008962",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chagall Green",
+        "hex": "#008B62",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/layer--kakophoni-purple",
+      "name": "Kakophoni Purple",
+      "code": null,
+      "set": "Layer",
+      "hex": "#8869AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Knight Elf",
+        "hex": "#926CAC",
+        "delta_e": 2.94
+      }
+    },
+    {
+      "id": "citadel-colour/air--kakophoni-purple",
+      "name": "Kakophoni Purple",
+      "code": null,
+      "set": "Air",
+      "hex": "#8869AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Knight Elf",
+        "hex": "#926CAC",
+        "delta_e": 2.94
+      }
+    },
+    {
+      "id": "citadel-colour/air--kantor-blue",
+      "name": "Kantor Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#02134E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kantor Blue",
+        "hex": "#001146",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "citadel-colour/base--kantor-blue",
+      "name": "Kantor Blue",
+      "code": null,
+      "set": "Base",
+      "hex": "#02134E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kantor Blue",
+        "hex": "#001146",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "citadel-colour/layer--karak-stone",
+      "name": "Karak Stone",
+      "code": null,
+      "set": "Layer",
+      "hex": "#B7945C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barley Corn",
+        "hex": "#B6935C",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/air--karak-stone",
+      "name": "Karak Stone",
+      "code": null,
+      "set": "Air",
+      "hex": "#B7945C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barley Corn",
+        "hex": "#B6935C",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--khemri-brown",
+      "name": "Khemri Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#73614D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tanbark Trail",
+        "hex": "#766451",
+        "delta_e": 1.23
+      }
+    },
+    {
+      "id": "citadel-colour/base--khorne-red",
+      "name": "Khorne Red",
+      "code": null,
+      "set": "Base",
+      "hex": "#650001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Blood",
+        "hex": "#660000",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/air--khorne-red",
+      "name": "Khorne Red",
+      "code": null,
+      "set": "Air",
+      "hex": "#650001",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Blood",
+        "hex": "#660000",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/dry--kindleflame",
+      "name": "Kindleflame",
+      "code": null,
+      "set": "Dry",
+      "hex": "#F69C82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pouring Copper",
+        "hex": "#FB9B82",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "citadel-colour/layer--kislev-flesh",
+      "name": "Kislev Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#D1A570",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wonton Dumpling",
+        "hex": "#D0A46D",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "citadel-colour/air--kislev-flesh",
+      "name": "Kislev Flesh",
+      "code": null,
+      "set": "Air",
+      "hex": "#D1A570",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wonton Dumpling",
+        "hex": "#D0A46D",
+        "delta_e": 0.59
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--knarloc-green",
+      "name": "Knarloc Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#48563C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Tone Ink",
+        "hex": "#47553C",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "citadel-colour/layer--knight-questor-flesh",
+      "name": "Knight-Questor Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#996563",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cedar Ridge",
+        "hex": "#9B6663",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--kommando-khaki",
+      "name": "Kommando Khaki",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#9E915C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tirol",
+        "hex": "#9E915C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--kommando-khaki~2",
+      "name": "Kommando Khaki",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#9B8C7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "German Camouflage Beige",
+        "hex": "#9B8C7B",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--krieg-khaki",
+      "name": "Krieg Khaki",
+      "code": null,
+      "set": "Layer",
+      "hex": "#BCBB7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ushabti Bone",
+        "hex": "#BBBB7F",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/technical--lahmian-medium",
+      "name": "Lahmian Medium",
+      "code": null,
+      "set": "Technical",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/glaze--lamenters-yellow",
+      "name": "Lamenters Yellow",
+      "code": null,
+      "set": "Glaze",
+      "hex": "#FFF56B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kihada Yellow",
+        "hex": "#FEF263",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/spray--leadbelcher",
+      "name": "Leadbelcher",
+      "code": null,
+      "set": "Spray",
+      "hex": "#868686",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mithril",
+        "hex": "#878787",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/base--leadbelcher",
+      "name": "Leadbelcher",
+      "code": null,
+      "set": "Base",
+      "hex": "#969696",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Grey",
+        "hex": "#989898",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/air--leadbelcher",
+      "name": "Leadbelcher",
+      "code": null,
+      "set": "Air",
+      "hex": "#969696",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Grey",
+        "hex": "#989898",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--leprous-brown",
+      "name": "Leprous Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#D88E2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turmeric Tea",
+        "hex": "#D88E2D",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--leviadon-blue",
+      "name": "Leviadon Blue",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#000A13",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Knight",
+        "hex": "#010B13",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--leviathan-purple-wash",
+      "name": "Leviathan Purple Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#842994",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Druchii Violet",
+        "hex": "#842994",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--liberator-gold",
+      "name": "Liberator Gold",
+      "code": null,
+      "set": "Layer",
+      "hex": "#E1BA7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ambitious",
+        "hex": "#DFB77D",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--liche-purple",
+      "name": "Liche Purple",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#2C2D8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cosmic Cobalt",
+        "hex": "#2E2D88",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--lightning-bolt-blue",
+      "name": "Lightning Bolt Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#8BB9DD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Goluboy Blue",
+        "hex": "#8BB9DD",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/dry--longbeard-grey",
+      "name": "Longbeard Grey",
+      "code": null,
+      "set": "Dry",
+      "hex": "#DBDCC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sip of Mint",
+        "hex": "#DEDFC9",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "citadel-colour/layer--loren-forest",
+      "name": "Loren Forest",
+      "code": null,
+      "set": "Layer",
+      "hex": "#486C25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Botanical",
+        "hex": "#4D6E2F",
+        "delta_e": 1.8
+      }
+    },
+    {
+      "id": "citadel-colour/air--lothern-blue",
+      "name": "Lothern Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#2C9BCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stratos Blue",
+        "hex": "#3799C8",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "citadel-colour/layer--lothern-blue",
+      "name": "Lothern Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#2C9BCC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stratos Blue",
+        "hex": "#3799C8",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "citadel-colour/dry--lucius-lilac",
+      "name": "Lucius Lilac",
+      "code": null,
+      "set": "Dry",
+      "hex": "#B598C9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Tulip",
+        "hex": "#B598C3",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "citadel-colour/layer--lugganath-orange",
+      "name": "Lugganath Orange",
+      "code": null,
+      "set": "Layer",
+      "hex": "#F69B82",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pouring Copper",
+        "hex": "#FB9B82",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/base--lupercal-green",
+      "name": "Lupercal Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#002C2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roof Tile Green",
+        "hex": "#043132",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "citadel-colour/air--lupercal-green",
+      "name": "Lupercal Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#002C2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roof Tile Green",
+        "hex": "#043132",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--macharius-solar-orange",
+      "name": "Macharius Solar Orange",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B94023",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Firethorn",
+        "hex": "#B74027",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "citadel-colour/spray--macragge-blue",
+      "name": "Macragge Blue",
+      "code": null,
+      "set": "Spray",
+      "hex": "#103E7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bracing Blue",
+        "hex": "#014182",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "citadel-colour/air--macragge-blue",
+      "name": "Macragge Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#0F3D7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azure Dragon",
+        "hex": "#053976",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "citadel-colour/base--macragge-blue",
+      "name": "Macragge Blue",
+      "code": null,
+      "set": "Base",
+      "hex": "#0F3D7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Azure Dragon",
+        "hex": "#053976",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--magenta-ink",
+      "name": "Magenta Ink",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#DE007B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampire Love Story",
+        "hex": "#DD0077",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--magos-purple",
+      "name": "Magos Purple",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#7A3F6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Commitment to Purple",
+        "hex": "#7D4071",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "citadel-colour/technical--martian-ironcrust",
+      "name": "Martian Ironcrust",
+      "code": null,
+      "set": "Technical",
+      "hex": "#CF705D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "OK Corral",
+        "hex": "#D07360",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/technical--martian-ironearth",
+      "name": "Martian Ironearth",
+      "code": null,
+      "set": "Technical",
+      "hex": "#CF705D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "OK Corral",
+        "hex": "#D07360",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/spray--mechanicus-standard-grey",
+      "name": "Mechanicus Standard Grey",
+      "code": null,
+      "set": "Spray",
+      "hex": "#39484A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mechanicus Standard Grey",
+        "hex": "#3D4B4D",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "citadel-colour/base--mechanicus-standard-grey",
+      "name": "Mechanicus Standard Grey",
+      "code": null,
+      "set": "Base",
+      "hex": "#39484A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mechanicus Standard Grey",
+        "hex": "#3D4B4D",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "citadel-colour/air--mechanicus-standard-grey",
+      "name": "Mechanicus Standard Grey",
+      "code": null,
+      "set": "Air",
+      "hex": "#39484A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mechanicus Standard Grey",
+        "hex": "#3D4B4D",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--mechrite-red",
+      "name": "Mechrite Red",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A82014",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Evil Centipede",
+        "hex": "#AA2211",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "citadel-colour/air--mephiston-red",
+      "name": "Mephiston Red",
+      "code": null,
+      "set": "Air",
+      "hex": "#960C09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noble Cause",
+        "hex": "#990C0D",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/spray--mephiston-red",
+      "name": "Mephiston Red",
+      "code": null,
+      "set": "Spray",
+      "hex": "#960D0A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noble Cause",
+        "hex": "#990C0D",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "citadel-colour/base--mephiston-red",
+      "name": "Mephiston Red",
+      "code": null,
+      "set": "Base",
+      "hex": "#960C09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noble Cause",
+        "hex": "#990C0D",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--midnight-blue",
+      "name": "Midnight Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#002561",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Sea Night",
+        "hex": "#052462",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--militarum-green",
+      "name": "Militarum Green",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#6B7711",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murky Green",
+        "hex": "#6C7A0E",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--mithril-silver",
+      "name": "Mithril Silver",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B7BEC5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Springs",
+        "hex": "#B7BDC4",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "citadel-colour/air--moot-green",
+      "name": "Moot Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#3DAF44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matt Green",
+        "hex": "#39AD48",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "citadel-colour/layer--moot-green",
+      "name": "Moot Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#3DAF44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Matt Green",
+        "hex": "#39AD48",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "citadel-colour/technical--mordant-earth",
+      "name": "Mordant Earth",
+      "code": null,
+      "set": "Technical",
+      "hex": "#171314",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kettle Black",
+        "hex": "#141314",
+        "delta_e": 1.93
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--mordian-blue",
+      "name": "Mordian Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#244882",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Florida Waters",
+        "hex": "#2A4983",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "citadel-colour/base--morghast-bone",
+      "name": "Morghast Bone",
+      "code": null,
+      "set": "Base",
+      "hex": "#C0A973",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusted Olive",
+        "hex": "#BEA775",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "citadel-colour/air--mortarion-green-clear",
+      "name": "Mortarion Green Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#00832B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Broccoli Paradise",
+        "hex": "#008833",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "citadel-colour/base--mournfang-brown",
+      "name": "Mournfang Brown",
+      "code": null,
+      "set": "Base",
+      "hex": "#490F06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean",
+        "hex": "#4A1207",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/air--mournfang-brown",
+      "name": "Mournfang Brown",
+      "code": null,
+      "set": "Air",
+      "hex": "#490F06",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean",
+        "hex": "#4A1207",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/spray--munitorum-varnish",
+      "name": "Munitorum Varnish",
+      "code": null,
+      "set": "Spray",
+      "hex": "#FAFAFA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dr. White",
+        "hex": "#FAFAFA",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/base--naggaroth-night",
+      "name": "Naggaroth Night",
+      "code": null,
+      "set": "Base",
+      "hex": "#3B2B50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Operetta Mauve",
+        "hex": "#3A284C",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--nauseating-blue",
+      "name": "Nauseating Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#412A7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Purple",
+        "hex": "#412A7A",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--nazdreg-yellow",
+      "name": "Nazdreg Yellow",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#6C4C00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Bronze",
+        "hex": "#704A07",
+        "delta_e": 2.79
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--necron-abyss",
+      "name": "Necron Abyss",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#1A213D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightwalker",
+        "hex": "#161D3B",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "citadel-colour/dry--necron-compound",
+      "name": "Necron Compound",
+      "code": null,
+      "set": "Dry",
+      "hex": "#DADDDF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Script White",
+        "hex": "#DBDDDF",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "citadel-colour/dry--niblet-green",
+      "name": "Niblet Green",
+      "code": null,
+      "set": "Dry",
+      "hex": "#378C35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Resplendent Growth",
+        "hex": "#3D8B37",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/air--night-lords-blue",
+      "name": "Night Lords Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#002B5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marine",
+        "hex": "#042E60",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "citadel-colour/base--night-lords-blue",
+      "name": "Night Lords Blue",
+      "code": null,
+      "set": "Base",
+      "hex": "#002B5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marine",
+        "hex": "#042E60",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "citadel-colour/technical--nighthaunt-gloom",
+      "name": "Nighthaunt Gloom",
+      "code": null,
+      "set": "Technical",
+      "hex": "#3A686E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "China Green Blue",
+        "hex": "#3A6468",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "citadel-colour/technical--nihilakh-oxide",
+      "name": "Nihilakh Oxide",
+      "code": null,
+      "set": "Technical",
+      "hex": "#66B39A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Keppel",
+        "hex": "#5FB69C",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "citadel-colour/base--nocturne-green",
+      "name": "Nocturne Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#162A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swamp Thing",
+        "hex": "#162825",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "citadel-colour/air--nocturne-green",
+      "name": "Nocturne Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#162A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swamp Thing",
+        "hex": "#162825",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "citadel-colour/shade--nuln-oil",
+      "name": "Nuln Oil",
+      "code": null,
+      "set": "Shade",
+      "hex": "#9E9A98",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Battleship",
+        "hex": "#9C9895",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "citadel-colour/shade--nuln-oil-gloss",
+      "name": "Nuln Oil Gloss",
+      "code": null,
+      "set": "Shade",
+      "hex": "#B3AFAE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duct Tape Grey",
+        "hex": "#AEACAC",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "citadel-colour/technical--nurgles-rot",
+      "name": "Nurgles Rot",
+      "code": null,
+      "set": "Technical",
+      "hex": "#9D8B16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Offbeat Green",
+        "hex": "#9C8B1F",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "citadel-colour/layer--nurgling-green",
+      "name": "Nurgling Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#7E975E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegetarian Veteran",
+        "hex": "#78945A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "citadel-colour/dry--nurgling-green",
+      "name": "Nurgling Green",
+      "code": null,
+      "set": "Dry",
+      "hex": "#7E975E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vegetarian Veteran",
+        "hex": "#78945A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ogryn-camo",
+      "name": "Ogryn Camo",
+      "code": null,
+      "set": "Layer",
+      "hex": "#96A648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arathi Highlands",
+        "hex": "#93A344",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/air--ogryn-camo",
+      "name": "Ogryn Camo",
+      "code": null,
+      "set": "Air",
+      "hex": "#96A648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arathi Highlands",
+        "hex": "#93A344",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-wash-discontinued--ogryn-flesh-wash",
+      "name": "Ogryn Flesh Wash",
+      "code": null,
+      "set": "Foundation Wash (discontinued)",
+      "hex": "#CE8C42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hey Honey!",
+        "hex": "#CD8E43",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--ork-flesh",
+      "name": "Ork Flesh",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#00591E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "O Tannenbaum",
+        "hex": "#005522",
+        "delta_e": 2.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--orkhide-shade",
+      "name": "Orkhide Shade",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#26372D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mussel Green",
+        "hex": "#24342A",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "citadel-colour/base--orruk-flesh",
+      "name": "Orruk Flesh",
+      "code": null,
+      "set": "Base",
+      "hex": "#97C17E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sago Garden",
+        "hex": "#94BE7F",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--pallid-flesh",
+      "name": "Pallid Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#EEC8C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rosebud Tea",
+        "hex": "#EEC6C3",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "citadel-colour/layer--pallid-wych-flesh",
+      "name": "Pallid Wych Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#CACCBB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Misty Memory",
+        "hex": "#CBCDBE",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/layer--phalanx-yellow",
+      "name": "Phalanx Yellow",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFE200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivid Yellow",
+        "hex": "#FFE302",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "citadel-colour/air--phalanx-yellow",
+      "name": "Phalanx Yellow",
+      "code": null,
+      "set": "Air",
+      "hex": "#FFE200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivid Yellow",
+        "hex": "#FFE302",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "citadel-colour/base--phoenician-purple",
+      "name": "Phoenician Purple",
+      "code": null,
+      "set": "Base",
+      "hex": "#440052",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clairvoyant",
+        "hex": "#480656",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/air--phoenician-purple",
+      "name": "Phoenician Purple",
+      "code": null,
+      "set": "Air",
+      "hex": "#440052",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clairvoyant",
+        "hex": "#480656",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/layer--pink-horror",
+      "name": "Pink Horror",
+      "code": null,
+      "set": "Layer",
+      "hex": "#8E2757",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Raspberry",
+        "hex": "#872657",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--plaguebearer-flesh",
+      "name": "Plaguebearer Flesh",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#718025",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pacifika",
+        "hex": "#778120",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "citadel-colour/dry--praxeti-white",
+      "name": "Praxeti White",
+      "code": null,
+      "set": "Dry",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--purple-ink",
+      "name": "Purple Ink",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#842994",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Druchii Violet",
+        "hex": "#842994",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--pyroclast-orange-clear",
+      "name": "Pyroclast Orange Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#ED8022",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Retro Nectarine",
+        "hex": "#EF7D16",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/base--rakarth-flesh",
+      "name": "Rakarth Flesh",
+      "code": null,
+      "set": "Base",
+      "hex": "#9C998D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "London Fog",
+        "hex": "#9D988C",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "citadel-colour/base--ratskin-flesh",
+      "name": "Ratskin Flesh",
+      "code": null,
+      "set": "Base",
+      "hex": "#A86648",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toffee Glaze",
+        "hex": "#A5654A",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--red-gore",
+      "name": "Red Gore",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#9D2B3F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Cake",
+        "hex": "#9D253D",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--regal-blue",
+      "name": "Regal Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#003F70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Epic Adventure",
+        "hex": "#0E426F",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "citadel-colour/shade--reikland-fleshshade",
+      "name": "Reikland Fleshshade",
+      "code": null,
+      "set": "Shade",
+      "hex": "#BE9A80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Taupe",
+        "hex": "#BC987E",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/shade--reikland-fleshshade-gloss",
+      "name": "Reikland Fleshshade Gloss",
+      "code": null,
+      "set": "Shade",
+      "hex": "#C2A896",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Adobe Straw",
+        "hex": "#C3A998",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "citadel-colour/air--relictor-gold",
+      "name": "Relictor Gold",
+      "code": null,
+      "set": "Air",
+      "hex": "#EAC58F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Hearted",
+        "hex": "#E6C28C",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "citadel-colour/base--retributor-armour",
+      "name": "Retributor Armour",
+      "code": null,
+      "set": "Base",
+      "hex": "#EDC169",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Idea",
+        "hex": "#ECBE63",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "citadel-colour/spray--retributor-armour",
+      "name": "Retributor Armour",
+      "code": null,
+      "set": "Spray",
+      "hex": "#EDC06A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bright Idea",
+        "hex": "#ECBE63",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/base--rhinox-hide",
+      "name": "Rhinox Hide",
+      "code": null,
+      "set": "Base",
+      "hex": "#462F30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rhinox Hide",
+        "hex": "#493435",
+        "delta_e": 1.72
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--rotting-flesh",
+      "name": "Rotting Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B8C39E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seagrass",
+        "hex": "#BCC6A2",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "citadel-colour/layer--runefang-steel",
+      "name": "Runefang Steel",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C2C8CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Spring",
+        "hex": "#C7CBCE",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "citadel-colour/air--runefang-steel",
+      "name": "Runefang Steel",
+      "code": null,
+      "set": "Air",
+      "hex": "#C2C8CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Spring",
+        "hex": "#C7CBCE",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "citadel-colour/base--runelord-brass",
+      "name": "Runelord Brass",
+      "code": null,
+      "set": "Base",
+      "hex": "#8D806F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mocha Accent",
+        "hex": "#8D8171",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "citadel-colour/air--russ-grey",
+      "name": "Russ Grey",
+      "code": null,
+      "set": "Air",
+      "hex": "#507085",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shipyard",
+        "hex": "#4F6F85",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "citadel-colour/layer--russ-grey",
+      "name": "Russ Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#507085",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shipyard",
+        "hex": "#4F6F85",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "citadel-colour/dry--ryza-rust",
+      "name": "Ryza Rust",
+      "code": null,
+      "set": "Dry",
+      "hex": "#F16C23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Orange",
+        "hex": "#ED681F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--scab-red",
+      "name": "Scab Red",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#90263D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rumba Red",
+        "hex": "#902A40",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--scaly-green",
+      "name": "Scaly Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#006063",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sandhill Crane",
+        "hex": "#015E60",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--scorched-brown",
+      "name": "Scorched Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#5A422F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Antique Brown",
+        "hex": "#553F2D",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--scorpion-green",
+      "name": "Scorpion Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#65B345",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sour Candy",
+        "hex": "#66B348",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/base--screamer-pink",
+      "name": "Screamer Pink",
+      "code": null,
+      "set": "Base",
+      "hex": "#7A0E44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Renanthera Orchid",
+        "hex": "#820747",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "citadel-colour/base--screaming-bell",
+      "name": "Screaming Bell",
+      "code": null,
+      "set": "Base",
+      "hex": "#D18A5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grounded",
+        "hex": "#D18C62",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "citadel-colour/layer--screaming-skull",
+      "name": "Screaming Skull",
+      "code": null,
+      "set": "Layer",
+      "hex": "#B9C099",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beige and Sage",
+        "hex": "#BBC199",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "citadel-colour/shade--seraphim-sepia",
+      "name": "Seraphim Sepia",
+      "code": null,
+      "set": "Shade",
+      "hex": "#AE8158",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Circus Peanut",
+        "hex": "#AD835C",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--shadow-grey",
+      "name": "Shadow Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#106993",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea Blue",
+        "hex": "#006994",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--shining-gold",
+      "name": "Shining Gold",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#EFB736",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sneezeweeds",
+        "hex": "#F2B635",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--shyish-purple",
+      "name": "Shyish Purple",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#2B0E42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oily Purple",
+        "hex": "#2D0F47",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "citadel-colour/air--sigismund-yellow-clear",
+      "name": "Sigismund Yellow Clear",
+      "code": null,
+      "set": "Air",
+      "hex": "#FFE32F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gorse",
+        "hex": "#FDE336",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "citadel-colour/dry--sigmarite",
+      "name": "Sigmarite",
+      "code": null,
+      "set": "Dry",
+      "hex": "#D6AC57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sell Gold",
+        "hex": "#D4AE5E",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "citadel-colour/layer--skarsnik-green",
+      "name": "Skarsnik Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#588F6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Murdoch",
+        "hex": "#5B8D6B",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "citadel-colour/layer--skavenblight-dinge",
+      "name": "Skavenblight Dinge",
+      "code": null,
+      "set": "Layer",
+      "hex": "#45413B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pasilla Chiles",
+        "hex": "#44413B",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--skeleton-horde",
+      "name": "Skeleton Horde",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#A4966F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sponge",
+        "hex": "#A0956F",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/dry--skink-blue",
+      "name": "Skink Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#54BDCA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Faded Jeans",
+        "hex": "#5DBDCB",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "citadel-colour/layer--skrag-brown",
+      "name": "Skrag Brown",
+      "code": null,
+      "set": "Layer",
+      "hex": "#8B4806",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Pancakes",
+        "hex": "#884400",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--skull-white",
+      "name": "Skull White",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--skullcrusher-brass",
+      "name": "Skullcrusher Brass",
+      "code": null,
+      "set": "Layer",
+      "hex": "#F4CB7A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pastel de Nata",
+        "hex": "#F2C975",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/layer--slaanesh-grey",
+      "name": "Slaanesh Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#8B8893",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horseshoe",
+        "hex": "#8B8893",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/dry--slaanesh-grey",
+      "name": "Slaanesh Grey",
+      "code": null,
+      "set": "Dry",
+      "hex": "#8B8893",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horseshoe",
+        "hex": "#8B8893",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-primer-discontinued--smelly-primer",
+      "name": "Smelly Primer",
+      "code": null,
+      "set": "Foundation Primer (discontinued)",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--snakebite-leather",
+      "name": "Snakebite Leather",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#8C6C40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ground Cumin",
+        "hex": "#8A6C42",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--snakebite-leather",
+      "name": "Snakebite Leather",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#694C29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Queen",
+        "hex": "#694D27",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--snot-green",
+      "name": "Snot Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#006F45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "So-Sari",
+        "hex": "#006F47",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/air--sons-of-horus-green",
+      "name": "Sons of Horus Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#00545E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kali Blue",
+        "hex": "#00505A",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "citadel-colour/layer--sons-of-horus-green",
+      "name": "Sons of Horus Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#00545E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kali Blue",
+        "hex": "#00505A",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "citadel-colour/layer--sotek-green",
+      "name": "Sotek Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#0B6371",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Spool",
+        "hex": "#006474",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "citadel-colour/technical--soulstone-blue",
+      "name": "Soulstone Blue",
+      "code": null,
+      "set": "Technical",
+      "hex": "#142758",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fibonacci Blue",
+        "hex": "#112358",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--space-wolves-grey",
+      "name": "Space Wolves Grey",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#1F486B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terror From the Deep",
+        "hex": "#1D4769",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--space-wolves-grey",
+      "name": "Space Wolves Grey",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#91BFDC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "January Frost",
+        "hex": "#99C1DC",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "citadel-colour/technical--spiritstone-red",
+      "name": "Spiritstone Red",
+      "code": null,
+      "set": "Technical",
+      "hex": "#8A2A1E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Borscht",
+        "hex": "#8C2C24",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "citadel-colour/layer--squig-orange",
+      "name": "Squig Orange",
+      "code": null,
+      "set": "Layer",
+      "hex": "#A74D42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Squig Orange",
+        "hex": "#AA4F44",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "citadel-colour/base--steel-legion-drab",
+      "name": "Steel Legion Drab",
+      "code": null,
+      "set": "Base",
+      "hex": "#584E2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "West Coast",
+        "hex": "#5C512F",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "citadel-colour/air--steel-legion-drab",
+      "name": "Steel Legion Drab",
+      "code": null,
+      "set": "Air",
+      "hex": "#584E2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "West Coast",
+        "hex": "#5C512F",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "citadel-colour/base--stegadon-scale-green",
+      "name": "Stegadon Scale Green",
+      "code": null,
+      "set": "Base",
+      "hex": "#06455D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Loyal Blue",
+        "hex": "#01455E",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "citadel-colour/technical--stirland-battlemire",
+      "name": "Stirland Battlemire",
+      "code": null,
+      "set": "Technical",
+      "hex": "#70490D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hairy Brown",
+        "hex": "#734A12",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "citadel-colour/technical--stirland-mud",
+      "name": "Stirland Mud",
+      "code": null,
+      "set": "Technical",
+      "hex": "#482B00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stirland Mud",
+        "hex": "#492B00",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--storm-blue",
+      "name": "Storm Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#27357E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Migol Blue",
+        "hex": "#283482",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "citadel-colour/dry--stormfang",
+      "name": "Stormfang",
+      "code": null,
+      "set": "Dry",
+      "hex": "#5A7FA3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Revival",
+        "hex": "#5F81A4",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "citadel-colour/layer--stormhost-silver",
+      "name": "Stormhost Silver",
+      "code": null,
+      "set": "Layer",
+      "hex": "#DADDDF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Script White",
+        "hex": "#DBDDDF",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "citadel-colour/technical--stormshield",
+      "name": "Stormshield",
+      "code": null,
+      "set": "Technical",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--stormvermin-fur",
+      "name": "Stormvermin Fur",
+      "code": null,
+      "set": "Layer",
+      "hex": "#6D655F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Back Stage",
+        "hex": "#6B625B",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "citadel-colour/air--straken-green",
+      "name": "Straken Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#597F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enchanted Forest",
+        "hex": "#5C821A",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "citadel-colour/layer--straken-green",
+      "name": "Straken Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#597F1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Enchanted Forest",
+        "hex": "#5C821A",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--sunburst-yellow",
+      "name": "Sunburst Yellow",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#FFD400",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyber Yellow",
+        "hex": "#FFD400",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--sybarite-green",
+      "name": "Sybarite Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#17A166",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emerald Light Green",
+        "hex": "#00A267",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "citadel-colour/layer--sybarite-green",
+      "name": "Sybarite Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#17A166",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Emerald Light Green",
+        "hex": "#00A267",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "citadel-colour/layer--sycorax-bronze",
+      "name": "Sycorax Bronze",
+      "code": null,
+      "set": "Layer",
+      "hex": "#BB9F84",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Au Lait Ole",
+        "hex": "#B99D83",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "citadel-colour/dry--sylvaneth-bark",
+      "name": "Sylvaneth Bark",
+      "code": null,
+      "set": "Dry",
+      "hex": "#4E483B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wet Suit",
+        "hex": "#50493C",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--talassar-blue",
+      "name": "Talassar Blue",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#003B70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tardis Blue",
+        "hex": "#003B6F",
+        "delta_e": 0.18
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--tallarn-flesh",
+      "name": "Tallarn Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#B27B67",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Trails",
+        "hex": "#B67A63",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "citadel-colour/layer--tallarn-sand",
+      "name": "Tallarn Sand",
+      "code": null,
+      "set": "Layer",
+      "hex": "#A07409",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barbarian Leather",
+        "hex": "#A17308",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "citadel-colour/air--tallarn-sand",
+      "name": "Tallarn Sand",
+      "code": null,
+      "set": "Air",
+      "hex": "#A07409",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barbarian Leather",
+        "hex": "#A17308",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--tanned-flesh",
+      "name": "Tanned Flesh",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A95C3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gladiator Leather",
+        "hex": "#A95C3E",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--tau-light-ochre",
+      "name": "Tau Light Ochre",
+      "code": null,
+      "set": "Air",
+      "hex": "#BC6B10",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Orange",
+        "hex": "#B96902",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "citadel-colour/layer--tau-light-ochre",
+      "name": "Tau Light Ochre",
+      "code": null,
+      "set": "Layer",
+      "hex": "#BC6B10",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Orange",
+        "hex": "#B96902",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--tausept-ochre",
+      "name": "Tausept Ochre",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A06E3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Castellina",
+        "hex": "#A27040",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "citadel-colour/layer--teclis-blue",
+      "name": "Teclis Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#3877BF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Windows Blue",
+        "hex": "#3778BF",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "citadel-colour/layer--temple-guard-blue",
+      "name": "Temple Guard Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#239489",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Peacock Blue",
+        "hex": "#009286",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "citadel-colour/air--temple-guard-blue",
+      "name": "Temple Guard Blue",
+      "code": null,
+      "set": "Air",
+      "hex": "#239489",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Peacock Blue",
+        "hex": "#009286",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--tentacle-pink",
+      "name": "Tentacle Pink",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#DC9DC6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prominent Pink",
+        "hex": "#DA9EC5",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "citadel-colour/air--terminatus-stone",
+      "name": "Terminatus Stone",
+      "code": null,
+      "set": "Air",
+      "hex": "#C8B79D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elemental Tan",
+        "hex": "#CAB79C",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "citadel-colour/dry--terminatus-stone",
+      "name": "Terminatus Stone",
+      "code": null,
+      "set": "Dry",
+      "hex": "#C8B79D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elemental Tan",
+        "hex": "#CAB79C",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--terracotta",
+      "name": "Terracotta",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#793721",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bootstrap Leather",
+        "hex": "#793721",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--terradon-turquoise",
+      "name": "Terradon Turquoise",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#005862",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Entrapment",
+        "hex": "#005961",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "citadel-colour/technical--tesseract-glow",
+      "name": "Tesseract Glow",
+      "code": null,
+      "set": "Technical",
+      "hex": "#65AB46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caterpillar",
+        "hex": "#66A545",
+        "delta_e": 1.83
+      }
+    },
+    {
+      "id": "citadel-colour/air--thallax-gold",
+      "name": "Thallax Gold",
+      "code": null,
+      "set": "Air",
+      "hex": "#E88F47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramelised Orange",
+        "hex": "#EF924A",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "citadel-colour/air--the-fang",
+      "name": "The Fang",
+      "code": null,
+      "set": "Air",
+      "hex": "#405B71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Tide",
+        "hex": "#3E586E",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "citadel-colour/base--the-fang",
+      "name": "The Fang",
+      "code": null,
+      "set": "Base",
+      "hex": "#405B71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Tide",
+        "hex": "#3E586E",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "citadel-colour/base--thondia-brown",
+      "name": "Thondia Brown",
+      "code": null,
+      "set": "Base",
+      "hex": "#4F322C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "American Mahogany",
+        "hex": "#52352F",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "citadel-colour/base--thousand-sons-blue",
+      "name": "Thousand Sons Blue",
+      "code": null,
+      "set": "Base",
+      "hex": "#00506F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Captain Blue",
+        "hex": "#005171",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "citadel-colour/dry--thunderhawk-blue",
+      "name": "Thunderhawk Blue",
+      "code": null,
+      "set": "Dry",
+      "hex": "#396A70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aquarium",
+        "hex": "#356B6F",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "citadel-colour/layer--thunderhawk-blue",
+      "name": "Thunderhawk Blue",
+      "code": null,
+      "set": "Layer",
+      "hex": "#396A70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aquarium",
+        "hex": "#356B6F",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--tin-bitz",
+      "name": "Tin Bitz",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#473F39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turkish Coffee",
+        "hex": "#483F39",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "citadel-colour/air--troll-slayer-orange",
+      "name": "Troll Slayer Orange",
+      "code": null,
+      "set": "Air",
+      "hex": "#F16C23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Orange",
+        "hex": "#ED681F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/layer--troll-slayer-orange",
+      "name": "Troll Slayer Orange",
+      "code": null,
+      "set": "Layer",
+      "hex": "#F16C23",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Island Orange",
+        "hex": "#ED681F",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "citadel-colour/air--tuskgor-fur",
+      "name": "Tuskgor Fur",
+      "code": null,
+      "set": "Air",
+      "hex": "#863231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Planet of the Apes",
+        "hex": "#883333",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/layer--tuskgor-fur",
+      "name": "Tuskgor Fur",
+      "code": null,
+      "set": "Layer",
+      "hex": "#863231",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Planet of the Apes",
+        "hex": "#883333",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "citadel-colour/air--typhon-ash",
+      "name": "Typhon Ash",
+      "code": null,
+      "set": "Air",
+      "hex": "#E4D8C1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Garlic Clove",
+        "hex": "#E2D7C1",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "citadel-colour/technical--typhus-corrosion",
+      "name": "Typhus Corrosion",
+      "code": null,
+      "set": "Technical",
+      "hex": "#373A22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Kelp",
+        "hex": "#393D2A",
+        "delta_e": 2.34
+      }
+    },
+    {
+      "id": "citadel-colour/dry--tyrant-skull",
+      "name": "Tyrant Skull",
+      "code": null,
+      "set": "Dry",
+      "hex": "#C8C483",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiddlehead Fern",
+        "hex": "#C8C387",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ulthuan-grey",
+      "name": "Ulthuan Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#C4DDD5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Wave",
+        "hex": "#C3DCD5",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "citadel-colour/air--ulthuan-grey",
+      "name": "Ulthuan Grey",
+      "code": null,
+      "set": "Air",
+      "hex": "#C4DDD5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Wave",
+        "hex": "#C3DCD5",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--ultramarine-blue",
+      "name": "Ultramarine Blue",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#0066B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cobalt Stone",
+        "hex": "#0264AE",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--ultramarines-blue",
+      "name": "Ultramarines Blue",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#091948",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cetacean Blue",
+        "hex": "#001440",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "citadel-colour/dry--underhive-ash",
+      "name": "Underhive Ash",
+      "code": null,
+      "set": "Dry",
+      "hex": "#BCBB7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ushabti Bone",
+        "hex": "#BBBB7F",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ungor-flesh",
+      "name": "Ungor Flesh",
+      "code": null,
+      "set": "Layer",
+      "hex": "#D1A560",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnside",
+        "hex": "#D0A664",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "citadel-colour/air--ushabti-bone",
+      "name": "Ushabti Bone",
+      "code": null,
+      "set": "Air",
+      "hex": "#ABA173",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Throw Rug",
+        "hex": "#ADA274",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "citadel-colour/layer--ushabti-bone",
+      "name": "Ushabti Bone",
+      "code": null,
+      "set": "Layer",
+      "hex": "#ABA173",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Throw Rug",
+        "hex": "#ADA274",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "citadel-colour/air--valdor-gold",
+      "name": "Valdor Gold",
+      "code": null,
+      "set": "Air",
+      "hex": "#CE8D51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Nectar Bat",
+        "hex": "#CE8C4F",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "citadel-colour/technical--valhallan-blizzard",
+      "name": "Valhallan Blizzard",
+      "code": null,
+      "set": "Technical",
+      "hex": "#E1E1E1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jupiter",
+        "hex": "#E1E1E2",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--vermin-brown",
+      "name": "Vermin Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#843910",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dusky Orange",
+        "hex": "#873E1A",
+        "delta_e": 1.79
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--vermin-fur",
+      "name": "Vermin Fur",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#904F2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Khaki Brown",
+        "hex": "#954E2A",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "citadel-colour/dry--verminlord-hide",
+      "name": "Verminlord Hide",
+      "code": null,
+      "set": "Dry",
+      "hex": "#7E3331",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dockside Red",
+        "hex": "#813533",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--vile-green",
+      "name": "Vile Green",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#82C59C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Willow Hedge",
+        "hex": "#84C299",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--volupus-pink",
+      "name": "Volupus Pink",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#60001C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Merguez",
+        "hex": "#650021",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--vomit-brown",
+      "name": "Vomit Brown",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#CE8B3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hey Honey!",
+        "hex": "#CD8E43",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "citadel-colour/layer--vulkan-green",
+      "name": "Vulkan Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#223C2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palm Green",
+        "hex": "#20392C",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "citadel-colour/air--vulkan-green",
+      "name": "Vulkan Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#223C2E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palm Green",
+        "hex": "#20392C",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "citadel-colour/base--waaagh-flesh",
+      "name": "Waaagh! Flesh",
+      "code": null,
+      "set": "Base",
+      "hex": "#0B3B36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Turquoise",
+        "hex": "#003833",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/layer--warboss-green",
+      "name": "Warboss Green",
+      "code": null,
+      "set": "Layer",
+      "hex": "#317E57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canadian Pine",
+        "hex": "#2E7B52",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/air--warboss-green",
+      "name": "Warboss Green",
+      "code": null,
+      "set": "Air",
+      "hex": "#317E57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Canadian Pine",
+        "hex": "#2E7B52",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/foundation-discontinued--warlock-purple",
+      "name": "Warlock Purple",
+      "code": null,
+      "set": "Foundation (discontinued)",
+      "hex": "#A43E8B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Aster",
+        "hex": "#A53783",
+        "delta_e": 1.99
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--warp-lightning",
+      "name": "Warp Lightning",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#005E26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sombre Green",
+        "hex": "#005C2B",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "citadel-colour/layer--warpfiend-grey",
+      "name": "Warpfiend Grey",
+      "code": null,
+      "set": "Layer",
+      "hex": "#66656E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eventide",
+        "hex": "#656470",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "citadel-colour/base--warplock-bronze",
+      "name": "Warplock Bronze",
+      "code": null,
+      "set": "Base",
+      "hex": "#B36E4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Santa Fe",
+        "hex": "#B16D52",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "citadel-colour/layer--warpstone-glow",
+      "name": "Warpstone Glow",
+      "code": null,
+      "set": "Layer",
+      "hex": "#0F702A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bogey Green",
+        "hex": "#116F26",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/technical--waystone-green",
+      "name": "Waystone Green",
+      "code": null,
+      "set": "Technical",
+      "hex": "#23513D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fresh Mint",
+        "hex": "#2A5443",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "citadel-colour/glaze--waywatcher-green",
+      "name": "Waywatcher Green",
+      "code": null,
+      "set": "Glaze",
+      "hex": "#6DC066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mantis",
+        "hex": "#74C365",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "citadel-colour/layer--wazdakka-red",
+      "name": "Wazdakka Red",
+      "code": null,
+      "set": "Layer",
+      "hex": "#880804",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blood Omen",
+        "hex": "#8A0303",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "citadel-colour/layer--white-scar",
+      "name": "White Scar",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/air--white-scar",
+      "name": "White Scar",
+      "code": null,
+      "set": "Air",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--wild-rider-red",
+      "name": "Wild Rider Red",
+      "code": null,
+      "set": "Layer",
+      "hex": "#E82E1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Don’t Be Shy",
+        "hex": "#ED2C1A",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "citadel-colour/layer--word-bearers-red",
+      "name": "Word Bearers Red",
+      "code": null,
+      "set": "Layer",
+      "hex": "#620104",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampire Hunter",
+        "hex": "#610507",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/air--word-bearers-red",
+      "name": "Word Bearers Red",
+      "code": null,
+      "set": "Air",
+      "hex": "#620104",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vampire Hunter",
+        "hex": "#610507",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "citadel-colour/dry--wrack-white",
+      "name": "Wrack White",
+      "code": null,
+      "set": "Dry",
+      "hex": "#D3D0CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Day on Mercury",
+        "hex": "#D5D2D1",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "citadel-colour/base--wraithbone",
+      "name": "Wraithbone",
+      "code": null,
+      "set": "Base",
+      "hex": "#DBD1B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Suna White",
+        "hex": "#DCD3B2",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "citadel-colour/spray--wraithbone",
+      "name": "Wraithbone",
+      "code": null,
+      "set": "Spray",
+      "hex": "#DBD1B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Suna White",
+        "hex": "#DCD3B2",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "citadel-colour/contrast--wyldwood",
+      "name": "Wyldwood",
+      "code": null,
+      "set": "Contrast",
+      "hex": "#432822",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Mahogany",
+        "hex": "#432722",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "citadel-colour/air--xv-88",
+      "name": "XV-88",
+      "code": null,
+      "set": "Air",
+      "hex": "#6C4811",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Very Coffee",
+        "hex": "#664411",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "citadel-colour/base--xv-88",
+      "name": "XV-88",
+      "code": null,
+      "set": "Base",
+      "hex": "#6C4811",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Very Coffee",
+        "hex": "#664411",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "citadel-colour/layer--xereus-purple",
+      "name": "Xereus Purple",
+      "code": null,
+      "set": "Layer",
+      "hex": "#47125A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clairvoyant",
+        "hex": "#480656",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "citadel-colour/layer--yriel-yellow",
+      "name": "Yriel Yellow",
+      "code": null,
+      "set": "Layer",
+      "hex": "#FFD900",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soviet Gold",
+        "hex": "#FFD900",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "citadel-colour/layer--zamesi-desert",
+      "name": "Zamesi Desert",
+      "code": null,
+      "set": "Layer",
+      "hex": "#D89D1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zamesi Desert",
+        "hex": "#DDA026",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "citadel-colour/spray--zandri-dust",
+      "name": "Zandri Dust",
+      "code": null,
+      "set": "Spray",
+      "hex": "#988E56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardamom Green",
+        "hex": "#989057",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "citadel-colour/base--zandri-dust",
+      "name": "Zandri Dust",
+      "code": null,
+      "set": "Base",
+      "hex": "#988E56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardamom Green",
+        "hex": "#989057",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "citadel-colour/air--zandri-dust",
+      "name": "Zandri Dust",
+      "code": null,
+      "set": "Air",
+      "hex": "#988E56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardamom Green",
+        "hex": "#989057",
+        "delta_e": 0.9
+      }
+    }
+  ]
+}

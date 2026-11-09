@@ -1,0 +1,1850 @@
+{
+  "brand": "P3",
+  "slug": "p3",
+  "md_file": "P3.md",
+  "logo": "logos/P3.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "p3/privateer-press-formula-p3--jack-bone",
+      "name": "'Jack Bone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D6D3AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Morning Moor",
+        "hex": "#DAD6AE",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--amethyst-rose",
+      "name": "Amethyst Rose",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#481306",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean",
+        "hex": "#4A1207",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--arcane-blue",
+      "name": "Arcane Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7ACFD9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summer of ’82",
+        "hex": "#74CDD8",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--arcantrik-green",
+      "name": "Arcantrik Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#547E5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Mantle",
+        "hex": "#5B7C5B",
+        "delta_e": 2.02
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3-wash--armor-wash",
+      "name": "Armor Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#879284",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Eucalyptus",
+        "hex": "#899587",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--asheth-grey",
+      "name": "Asheth Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2A2524",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Black",
+        "hex": "#2A2424",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bad-bruise",
+      "name": "Bad Bruise",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#33283A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Obsidian Red",
+        "hex": "#372A38",
+        "delta_e": 2.2
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bane-grey",
+      "name": "Bane Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#564F3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Woody",
+        "hex": "#58503C",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--basilisk-brown",
+      "name": "Basilisk Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#76412B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Canyon",
+        "hex": "#77422C",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bastion-grey",
+      "name": "Bastion Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#777965",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "November Green",
+        "hex": "#767764",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--battle-dress-green",
+      "name": "Battle Dress Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5E4E14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sugarloaf Brown",
+        "hex": "#554400",
+        "delta_e": 3.61
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--battledress-green",
+      "name": "Battledress Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#757131",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crocodile Style",
+        "hex": "#767437",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--battlefield-brown",
+      "name": "Battlefield Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#32261D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cocoa Brown",
+        "hex": "#35281E",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--beast-hide",
+      "name": "Beast Hide",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AF9369",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Modern Avocado",
+        "hex": "#AD9167",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--beaten-purple",
+      "name": "Beaten Purple",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#552A72",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Seduction",
+        "hex": "#522A6F",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bile-thrall",
+      "name": "Bile Thrall",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6A4E16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Field Drab",
+        "hex": "#6C541E",
+        "delta_e": 2.4
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--blazing-ink",
+      "name": "Blazing Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EEAA58",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Polished Gold",
+        "hex": "#EEAA55",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bleached-blue",
+      "name": "Bleached Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#877A68",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Native Soil",
+        "hex": "#887B69",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--blighted-gold",
+      "name": "Blighted Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8B9742",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chrysolite",
+        "hex": "#8E9849",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--blindwater-green",
+      "name": "Blindwater Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2A271A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 2.71
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bloodstone",
+      "name": "Bloodstone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9E4923",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Catlinite",
+        "hex": "#9E4D28",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bloodtracker-brown",
+      "name": "Bloodtracker Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A56A28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Theatre Gold",
+        "hex": "#A76924",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--blue-ink",
+      "name": "Blue Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#3B5BA1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Bad Blue",
+        "hex": "#3C5AA2",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bog-moss",
+      "name": "Bog Moss",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#80703C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Musket",
+        "hex": "#7D6D39",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bogrin-brown",
+      "name": "Bogrin Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#92653C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Topaz Mountain",
+        "hex": "#92653F",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--boiler-black",
+      "name": "Boiler Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5D5A55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stormvermin Fur",
+        "hex": "#5C5954",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bootstrap-leather",
+      "name": "Bootstrap Leather",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#946839",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lion’s Mane Blonde",
+        "hex": "#946B41",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--brass-balls",
+      "name": "Brass Balls",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FAF8D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Utepils",
+        "hex": "#FAFAD2",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--broken-brick",
+      "name": "Broken Brick",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A53331",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Très Bien",
+        "hex": "#A82F2E",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--bronze-badge",
+      "name": "Bronze Badge",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#954A02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brownie",
+        "hex": "#964B00",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--brown-ink",
+      "name": "Brown Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#744439",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcanic Brick",
+        "hex": "#72453A",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--carnal-pink",
+      "name": "Carnal Pink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F9E0EA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spun Sugar",
+        "hex": "#FAE2ED",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3-wash--caspian-flesh-wash",
+      "name": "Caspian Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#A49881",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Livingston",
+        "hex": "#A39880",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--coal-black",
+      "name": "Coal Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#005A61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Entrapment",
+        "hex": "#005961",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cold-steel",
+      "name": "Cold Steel",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#BFCACE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Distant Hills",
+        "hex": "#BCC8CC",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--copper-pipe",
+      "name": "Copper Pipe",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#745738",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oak Barrel",
+        "hex": "#715636",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cryx-bane-base",
+      "name": "Cryx Bane Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#313A25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Seaweed",
+        "hex": "#37412A",
+        "delta_e": 2.3
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cryx-bane-highlight",
+      "name": "Cryx Bane Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#908E7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meander",
+        "hex": "#8F8C79",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cryx-green",
+      "name": "Cryx Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2C281B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 2.94
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cygnar-blue-base",
+      "name": "Cygnar Blue Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#124B9A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sea of Tears",
+        "hex": "#1D4DA0",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cygnar-blue-highlight",
+      "name": "Cygnar Blue Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2C75BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bluish",
+        "hex": "#2976BB",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--cygnus-yellow",
+      "name": "Cygnus Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F7E52D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Quinoline Yellow",
+        "hex": "#F5E326",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--deathless-metal",
+      "name": "Deathless Metal",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#503528",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bramble Bush",
+        "hex": "#503629",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--devout-white",
+      "name": "Devout White",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B3A998",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Langdon Dove",
+        "hex": "#B5AB9A",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--drake-grey",
+      "name": "Drake Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8D8581",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mecha Grey",
+        "hex": "#8D847F",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--eldritch",
+      "name": "Eldritch",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#35795E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Liquid Green Stuff",
+        "hex": "#3B7A5F",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--eldritch-green",
+      "name": "Eldritch Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#21573B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kaitoke Green",
+        "hex": "#245336",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--ember-orange",
+      "name": "Ember Orange",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EE2C24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodmyst Isle",
+        "hex": "#F02723",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--exile-blue",
+      "name": "Exile Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#203467",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Passionate Blue",
+        "hex": "#1F3465",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3-wash--flesh-wash",
+      "name": "Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#CCB19D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Soba",
+        "hex": "#D1B49F",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--frostbite",
+      "name": "Frostbite",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E6EFF5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Vision",
+        "hex": "#E7F0F7",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--galvanized-steel",
+      "name": "Galvanized Steel",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B5BCB2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Moss",
+        "hex": "#B6BCB2",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--gnarls-green",
+      "name": "Gnarls Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#0D6232",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ficus Elastica",
+        "hex": "#006131",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--gravedigger-denim",
+      "name": "Gravedigger Denim",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4A5456",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Urbanite",
+        "hex": "#4D5659",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--greatcoat-grey",
+      "name": "Greatcoat Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4E5861",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark and Stormy Night",
+        "hex": "#4F5A62",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--green-ink",
+      "name": "Green Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#129959",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Militant Vegan",
+        "hex": "#229955",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--greylord",
+      "name": "Greylord",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#48453D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Glen",
+        "hex": "#4A473F",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--gun-corps-brown",
+      "name": "Gun Corps Brown",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#927D47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Nile",
+        "hex": "#95804A",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--hammerfall-khaki",
+      "name": "Hammerfall Khaki",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C7BF97",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tangled Vines",
+        "hex": "#CAC19A",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--heartfire",
+      "name": "Heartfire",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F4AF46",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Artisans Gold",
+        "hex": "#F2AB46",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--hoksune-red",
+      "name": "Hoksune Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4B2015",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barbecue Sauce",
+        "hex": "#471C0F",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--icy-yellow",
+      "name": "Icy Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C7B378",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saucy",
+        "hex": "#C6B077",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--idrian-flesh",
+      "name": "Idrian Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9B5E37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Toffee Crunch",
+        "hex": "#995E39",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--immortal-black",
+      "name": "Immortal Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#30281F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Melon Seed",
+        "hex": "#332C22",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--inferno-orange",
+      "name": "Inferno Orange",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E16E41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Knockout Orange",
+        "hex": "#E16F3E",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--iosan-green",
+      "name": "Iosan Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#23A652",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Liberty Green",
+        "hex": "#16A74E",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--ironhull-grey",
+      "name": "Ironhull Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8E959A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Radiant Silver",
+        "hex": "#8F979D",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--jack-bone~2",
+      "name": "Jack Bone",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D6D3AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crystal Palace",
+        "hex": "#D3CFAB",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--kapitan-red",
+      "name": "Kapitan Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D07B3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fired Up",
+        "hex": "#D37A38",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--khador-red-base",
+      "name": "Khador Red Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EE2C24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodmyst Isle",
+        "hex": "#F02723",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--khador-red-highlight",
+      "name": "Khador Red Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F09042",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mandarin Rind",
+        "hex": "#F1903D",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--khardic-flesh",
+      "name": "Khardic Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C87A5A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Terracotta Chip",
+        "hex": "#C47C5E",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3-wash--kossite-flesh-wash",
+      "name": "Kossite Flesh Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#AA9883",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Adolescent Rodent",
+        "hex": "#A99681",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--lyossan-flesh",
+      "name": "Lyossan Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AC8454",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bread Basket",
+        "hex": "#AB8659",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--mage-hunter-green",
+      "name": "Mage Hunter Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#596453",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lakeside Pine",
+        "hex": "#566552",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--meaty-ochre",
+      "name": "Meaty Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B28240",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amber Romance",
+        "hex": "#B18140",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--menoth-white-base",
+      "name": "Menoth White Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EFECBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Apple Slice",
+        "hex": "#F1F0BF",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--menoth-white-highlight",
+      "name": "Menoth White Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F2F1DC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazy Grove",
+        "hex": "#F2F1DC",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--meredius-blue",
+      "name": "Meredius Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#00AFB8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marrakech Mile",
+        "hex": "#01B2BD",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--meridius-blue",
+      "name": "Meridius Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#1F9095",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Splashy",
+        "hex": "#019196",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--midlund-flesh",
+      "name": "Midlund Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#EEA883",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ceramic Glaze",
+        "hex": "#E8A784",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--moldy-ochre",
+      "name": "Moldy Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#DCB43D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Citronite",
+        "hex": "#DBB239",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--molten-bronze",
+      "name": "Molten Bronze",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#CB8C57",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Napa Sunset",
+        "hex": "#CD915C",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--morrow-white",
+      "name": "Morrow White",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FFFCFD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flawed White",
+        "hex": "#FFFBFC",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--mouldy-ochre",
+      "name": "Mouldy Ochre",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B0830E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arrowwood",
+        "hex": "#B3861E",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--mud-rut",
+      "name": "Mud Rut",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#674D2D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Saluki Bronze",
+        "hex": "#65492A",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3-wash--muddy-wash",
+      "name": "Muddy Wash",
+      "code": null,
+      "set": "Privateer Press Formula P3 Wash",
+      "hex": "#8A7F6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Habitat",
+        "hex": "#897D6D",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--murderous-magenta",
+      "name": "Murderous Magenta",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#A91F5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vivacious",
+        "hex": "#A7295F",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--necrotite-green",
+      "name": "Necrotite Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7FC246",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Conceptual",
+        "hex": "#7AC34F",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--ordic-olive",
+      "name": "Ordic Olive",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6E7E36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Leaps and Bounds",
+        "hex": "#6F803B",
+        "delta_e": 1.04
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--orgoth-bronze",
+      "name": "Orgoth Bronze",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6D6346",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mount Olive",
+        "hex": "#716646",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--pig-iron",
+      "name": "Pig Iron",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#797979",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel",
+        "hex": "#797979",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--piggy-purple-ink",
+      "name": "Piggy Purple Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6E5D7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Princely Violet",
+        "hex": "#6D5C7B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--pyg-grey",
+      "name": "Pyg Grey",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#5F6156",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "English Forest",
+        "hex": "#606256",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--quick-silver",
+      "name": "Quick Silver",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#D7D9E0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Muffled White",
+        "hex": "#DADBE2",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--radiant-platinum",
+      "name": "Radiant Platinum",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C0C0AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Land Before Time",
+        "hex": "#BFBEAD",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--red-ink",
+      "name": "Red Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E9543A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orangeade",
+        "hex": "#E35435",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--rhok-hide",
+      "name": "Rhok Hide",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#35211C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scorched",
+        "hex": "#351F19",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--rhulic-gold",
+      "name": "Rhulic Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F7D259",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Primrose Yellow",
+        "hex": "#F6D155",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--riven-green",
+      "name": "Riven Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#99AB90",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zucchini Cream",
+        "hex": "#97A98B",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--royal-violet",
+      "name": "Royal Violet",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#553D55",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bella",
+        "hex": "#574057",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--rucksack-tan",
+      "name": "Rucksack Tan",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B2953D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Balsam Pear",
+        "hex": "#B19338",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--ruddy-blush",
+      "name": "Ruddy Blush",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#AB3737",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desirable",
+        "hex": "#A93435",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--runeshot",
+      "name": "Runeshot",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#2E728B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bengal Blue",
+        "hex": "#38738B",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--ryn-flesh",
+      "name": "Ryn Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F8E2D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sandy Beach",
+        "hex": "#F9E2D0",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sanguine-base",
+      "name": "Sanguine Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#6B160F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sanguine",
+        "hex": "#6C110E",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sanguine-highlight",
+      "name": "Sanguine Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C64958",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "English Coral",
+        "hex": "#C64A55",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sanguine-shadow",
+      "name": "Sanguine Shadow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#541A0E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Brown",
+        "hex": "#4F1507",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sickly-skin",
+      "name": "Sickly Skin",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#E8E6BD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lily Scent Green",
+        "hex": "#E6E6BC",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sinari-skin",
+      "name": "Sinari Skin",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4B2B1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Couch",
+        "hex": "#4E2A20",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--skorne-flesh",
+      "name": "Skorne Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#9D6327",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Kisses",
+        "hex": "#9D652B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--skorne-red",
+      "name": "Skorne Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B12024",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brick by Brick",
+        "hex": "#B22122",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--solid-gold",
+      "name": "Solid Gold",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F8F39F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yippie Ya Yellow",
+        "hex": "#F9F59F",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--stormguard-blue",
+      "name": "Stormguard Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#285C8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sapphire Lace",
+        "hex": "#235C8E",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sul-red",
+      "name": "Sul Red",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#4A2518",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wild Brown",
+        "hex": "#47241A",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--sulfuric-yellow",
+      "name": "Sulfuric Yellow",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#F0D133",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Giallo",
+        "hex": "#F1D236",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--thamar-black",
+      "name": "Thamar Black",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--tharn-flesh",
+      "name": "Tharn Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7A5131",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Bells",
+        "hex": "#775130",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--thornwood-green",
+      "name": "Thornwood Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#65644B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Incense Cedar",
+        "hex": "#65644A",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--thrall-flesh",
+      "name": "Thrall Flesh",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#CFD7AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Jade",
+        "hex": "#D0D6A8",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--traitor-green",
+      "name": "Traitor Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#808F65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moss Point Green",
+        "hex": "#7E8D60",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--troll-tongue",
+      "name": "Troll Tongue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#B65E77",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kir Royale Rose",
+        "hex": "#B45877",
+        "delta_e": 2.15
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--trollblod-highlight",
+      "name": "Trollblod Highlight",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#BBB4A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ashes to Ashes",
+        "hex": "#BBB3A2",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--trollblood-base",
+      "name": "Trollblood Base",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#178799",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marker Blue",
+        "hex": "#00869A",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--trollblood-blue",
+      "name": "Trollblood Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#1F6A77",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Persian Mosaic",
+        "hex": "#206874",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--turquoise-ink",
+      "name": "Turquoise Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#006669",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Joyful Tears",
+        "hex": "#006669",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--umbral-umber",
+      "name": "Umbral Umber",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#240600",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Root Brew",
+        "hex": "#290E05",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--underbelly-blue",
+      "name": "Underbelly Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#C0D4D9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cloudy Sky",
+        "hex": "#C2D5DA",
+        "delta_e": 0.46
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--voltaic-blue",
+      "name": "Voltaic Blue",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#7AA0AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seascape",
+        "hex": "#77A2AD",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--wurm-green",
+      "name": "Wurm Green",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#8FBE40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Frog on a Log",
+        "hex": "#8FB943",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "p3/privateer-press-formula-p3--yellow-ink",
+      "name": "Yellow Ink",
+      "code": null,
+      "set": "Privateer Press Formula P3",
+      "hex": "#FBE734",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zard Yellow",
+        "hex": "#FDE634",
+        "delta_e": 0.72
+      }
+    }
+  ]
+}

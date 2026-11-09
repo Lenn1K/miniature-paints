@@ -1,0 +1,1248 @@
+{
+  "brand": "Revell",
+  "slug": "revell",
+  "md_file": "Revell.md",
+  "logo": "logos/Revell.png",
+  "columns": [
+    "Name",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "revell/email-color-matt--africa-brown",
+      "name": "Africa Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#D49C61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dechant Pear Yellow",
+        "hex": "#D79E62",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--aluminium",
+      "name": "Aluminium",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#BABFC2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Lined",
+        "hex": "#BBBFC3",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "revell/email-color-matt--anthracite-grey",
+      "name": "Anthracite Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#2E2F34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stretch Limo",
+        "hex": "#2D2E33",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "revell/email-color-matt--beige",
+      "name": "Beige",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#A7937B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tawny Ember",
+        "hex": "#A7947C",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "revell/email-color-silk--beige",
+      "name": "Beige",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#CFB487",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oak Harbour",
+        "hex": "#CDB386",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--black",
+      "name": "Black",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#17181C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aswad Black",
+        "hex": "#17181C",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-silk--black",
+      "name": "Black",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#141519",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aswad Black",
+        "hex": "#17181C",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "revell/email-color-matt--black",
+      "name": "Black",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#212026",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Closed Shutter",
+        "hex": "#25252C",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "revell/email-color-matt--black-green",
+      "name": "Black Green",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#013832",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Turquoise",
+        "hex": "#003833",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "revell/email-color-matt--blue",
+      "name": "Blue",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#0070B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spanish Blue",
+        "hex": "#0070B8",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--blue",
+      "name": "Blue",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#01448A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pacific Depths",
+        "hex": "#004488",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--brass",
+      "name": "Brass",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#BE8F03",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moutarde de Bénichon",
+        "hex": "#BF9005",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--bronze",
+      "name": "Bronze",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#9C653C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ambit",
+        "hex": "#97653F",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "revell/email-color-matt--bronze-green",
+      "name": "Bronze Green",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#4A563E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chard",
+        "hex": "#48553F",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "revell/email-color-silk--brown",
+      "name": "Brown",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#765C4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heavy Siena",
+        "hex": "#735848",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "revell/email-color-matt--brown",
+      "name": "Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#A45D33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Creek",
+        "hex": "#A35D31",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "revell/email-color-matt--carmine-red",
+      "name": "Carmine Red",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#991523",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tilted Red",
+        "hex": "#991122",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--clear",
+      "name": "Clear",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-matt--clear",
+      "name": "Clear",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--clear-blue",
+      "name": "Clear Blue",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#A8DEF8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fairy Sparkles",
+        "hex": "#B0E0F7",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--clear-orange",
+      "name": "Clear Orange",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#FE8C45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orangish",
+        "hex": "#FD8D49",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--clear-red",
+      "name": "Clear Red",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#FE6255",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunset Orange",
+        "hex": "#FD5E53",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--copper",
+      "name": "Copper",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#B37451",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Outlawed Orange",
+        "hex": "#B67350",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "revell/email-color-silk--dark-blue",
+      "name": "Dark Blue",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#1F2D52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pico Void",
+        "hex": "#1D2B53",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "revell/email-color-matt--dark-earth-raf",
+      "name": "Dark Earth (RAF)",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#8C673B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beagle Brown",
+        "hex": "#8D6737",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "revell/email-color-silk--dark-green",
+      "name": "Dark Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#394736",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Pyrite Green",
+        "hex": "#3E4939",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "revell/email-color-matt--dark-green",
+      "name": "Dark Green",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#1C5A45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rousseau Green",
+        "hex": "#175844",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "revell/email-color-matt--dark-green-raf",
+      "name": "Dark Green (RAF)",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#274837",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wine Bottle Green",
+        "hex": "#254636",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "revell/email-color-silk--dark-grey",
+      "name": "Dark Grey",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#565E61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Anchor Grey",
+        "hex": "#596062",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "revell/email-color-matt--dust-grey",
+      "name": "Dust Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#565E61",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Anchor Grey",
+        "hex": "#596062",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "revell/email-color-matt--earth-brown",
+      "name": "Earth Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#766A5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brainstorm Bronze",
+        "hex": "#74685A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--emerald-green",
+      "name": "Emerald Green",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#016E44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainforest Retreat",
+        "hex": "#016D43",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--fiery-red",
+      "name": "Fiery Red",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#9F2927",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rustic Rouge",
+        "hex": "#9D2626",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "revell/email-color-silk--fiery-red",
+      "name": "Fiery Red",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#A02625",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rustic Rouge",
+        "hex": "#9D2626",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "revell/email-color-matt--flesh",
+      "name": "Flesh",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#EFA87C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Liqueur",
+        "hex": "#EDAA80",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--gold",
+      "name": "Gold",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#CDB285",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Oak Harbour",
+        "hex": "#CDB386",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "revell/email-color-matt--granite-grey",
+      "name": "Granite Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#354044",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Stone",
+        "hex": "#334046",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "revell/email-color-silk--green",
+      "name": "Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#56733D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Pine",
+        "hex": "#557138",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "revell/email-color-matt--greenish-grey",
+      "name": "Greenish Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#585D56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pointed Fir",
+        "hex": "#575D56",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "revell/email-color-matt--grey",
+      "name": "Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#798790",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Channel",
+        "hex": "#7A8790",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "revell/email-color-silk--grey",
+      "name": "Grey",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#8C969F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raging Sea",
+        "hex": "#8D969E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "revell/email-color-matt--grey-usaf",
+      "name": "Grey (USAF)",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#889093",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gotham Grey",
+        "hex": "#8A9192",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "revell/email-color-matt--greyish-blue",
+      "name": "Greyish Blue",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#5B6870",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Made of Steel",
+        "hex": "#5B686F",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "revell/email-color-silk--greyish-green",
+      "name": "Greyish Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#76765A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Finch",
+        "hex": "#75785A",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "revell/email-color-matt--gunship-grey",
+      "name": "Gunship Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#5E6369",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shuttle Grey",
+        "hex": "#61666B",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--italian-red",
+      "name": "Italian Red",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#C80225",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Super Rose Red",
+        "hex": "#CB1028",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "revell/email-color-silk--leaf-green",
+      "name": "Leaf Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#276D3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camarone",
+        "hex": "#206937",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "revell/email-color-matt--leather-brown",
+      "name": "Leather Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#583E41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wood-Black Red",
+        "hex": "#584043",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--light-blue",
+      "name": "Light Blue",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#2881BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Phuket Palette",
+        "hex": "#0480BD",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "revell/email-color-matt--light-blue",
+      "name": "Light Blue",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#86B9B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vintage Blue",
+        "hex": "#87B8B5",
+        "delta_e": 1.0
+      }
+    },
+    {
+      "id": "revell/email-color-matt--light-green",
+      "name": "Light Green",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#76BABB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Surfer",
+        "hex": "#70B8BA",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "revell/email-color-silk--light-grey",
+      "name": "Light Grey",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#C4CACA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grey Screen",
+        "hex": "#C6CACA",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "revell/email-color-matt--light-grey-usaf",
+      "name": "Light Grey (USAF)",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#9DA2A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aegean Splendour",
+        "hex": "#9BA0A4",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "revell/email-color-matt--light-olive",
+      "name": "Light Olive",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#79796D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Jeans",
+        "hex": "#7A796E",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "revell/email-color-matt--luminous-orange",
+      "name": "Luminous Orange",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#FA0200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Minesweeper’s Red",
+        "hex": "#FA0103",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "revell/email-color-silk--luminous-red",
+      "name": "Luminous Red",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#BF111B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Tolumnia Orchid",
+        "hex": "#BE0119",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "revell/email-color-silk--luminous-yellow",
+      "name": "Luminous Yellow",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#ECEA40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Biotic Grasp",
+        "hex": "#EEEE44",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "revell/email-color-matt--mouse-grey",
+      "name": "Mouse Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#6C706F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Almost Charcoal",
+        "hex": "#6B7070",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--mud-brown",
+      "name": "Mud Brown",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#815331",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lion’s Lair",
+        "hex": "#81522E",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "revell/email-color-matt--nato-olive",
+      "name": "NATO Olive",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#565246",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Roycroft Bronze Green",
+        "hex": "#575449",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--night-blue",
+      "name": "Night Blue",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#28285E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Breath",
+        "hex": "#27275F",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "revell/email-color-matt--ochre-brown",
+      "name": "Ochre Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#AE8551",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camel Spider",
+        "hex": "#AF8751",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "revell/email-color-matt--olive-brown",
+      "name": "Olive Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#756544",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "US Field Drab",
+        "hex": "#716140",
+        "delta_e": 1.49
+      }
+    },
+    {
+      "id": "revell/email-color-silk--olive-green",
+      "name": "Olive Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#4F543D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lunar Green",
+        "hex": "#4E5541",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "revell/email-color-matt--olive-grey",
+      "name": "Olive Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#565857",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Davy’s Grey",
+        "hex": "#535554",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "revell/email-color-matt--olive-yellow",
+      "name": "Olive Yellow",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#424335",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "I R Dark Green",
+        "hex": "#404034",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--orange",
+      "name": "Orange",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#E5550F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lava Nectar",
+        "hex": "#E5530E",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "revell/email-color-silk--patina-green",
+      "name": "Patina Green",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#317663",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Majorelle Gardens",
+        "hex": "#337766",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "revell/email-color-silk--purple-red",
+      "name": "Purple Red",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#6B1A29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Velvet Outbreak",
+        "hex": "#6B1B2A",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "revell/email-color-matt--reddish-brown",
+      "name": "Reddish Brown",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#6C312B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Mahogany",
+        "hex": "#6A332D",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "revell/email-color-matt--rust",
+      "name": "Rust",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#894E4A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lotus",
+        "hex": "#8B504B",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "revell/email-color-matt--sandy-yellow",
+      "name": "Sandy Yellow",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#B8964F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Base Sand",
+        "hex": "#BB9955",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--sea-green",
+      "name": "Sea Green",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#4A563E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chard",
+        "hex": "#48553F",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "revell/email-color-matt--sea-green",
+      "name": "Sea Green",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#2C544C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hunter",
+        "hex": "#33534B",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--silver",
+      "name": "Silver",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#A6A9AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chrome Aluminium",
+        "hex": "#A8A9AD",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "revell/email-color-matt--sky-raf",
+      "name": "Sky (RAF)",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#C3D4B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Morris Leaf",
+        "hex": "#C2D3AF",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "revell/email-color-metallic--steel",
+      "name": "Steel",
+      "code": null,
+      "set": "Email Color - Metallic",
+      "hex": "#757A80",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Liquid Mercury",
+        "hex": "#757A80",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-matt--stone-grey",
+      "name": "Stone Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#909088",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Four-Wheel Grey",
+        "hex": "#90908B",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "revell/email-color-matt--tank-grey",
+      "name": "Tank Grey",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#484B52",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Isolation",
+        "hex": "#494D55",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "revell/email-color-matt--tar-black",
+      "name": "Tar Black",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#252429",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Darth Vader",
+        "hex": "#27252A",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--ultramarine-blue",
+      "name": "Ultramarine Blue",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#182F7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Below the Surface",
+        "hex": "#0A2F7C",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "revell/email-color-matt--white",
+      "name": "White",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-silk--white",
+      "name": "White",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#BABFC2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silver Lined",
+        "hex": "#BBBFC3",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--white",
+      "name": "White",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#F3F2ED",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pearl White",
+        "hex": "#F3F2ED",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "revell/email-color-silk--wood-brown",
+      "name": "Wood Brown",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#9C6836",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Woodgrain",
+        "hex": "#996633",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "revell/email-color-gloss--yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Email Color - Gloss",
+      "hex": "#FDDA38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buttercup Field",
+        "hex": "#FCD93B",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "revell/email-color-matt--yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Email Color - Matt",
+      "hex": "#FCD937",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buttercup Field",
+        "hex": "#FCD93B",
+        "delta_e": 0.28
+      }
+    },
+    {
+      "id": "revell/email-color-silk--yellow",
+      "name": "Yellow",
+      "code": null,
+      "set": "Email Color - Silk",
+      "hex": "#FEA500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange",
+        "hex": "#FFA500",
+        "delta_e": 0.23
+      }
+    }
+  ]
+}

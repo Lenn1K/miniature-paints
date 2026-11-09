@@ -1,0 +1,1851 @@
+{
+  "brand": "Monument",
+  "slug": "monument",
+  "md_file": "Monument.md",
+  "logo": "logos/Monument.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "monument/s41",
+      "name": "AdeptiCon Spray-Team Bright Shadow Flesh",
+      "code": "S41",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#F79B7D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cumquat Cream",
+        "hex": "#F19B7D",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "monument/s40",
+      "name": "AdeptiCon Spray-Team Drab Brown",
+      "code": "S40",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#4E3E28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witch’s Cottage",
+        "hex": "#4C3D29",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "monument/s42",
+      "name": "AdeptiCon Spray-Team Magnesium",
+      "code": "S42",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#463D2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bold Eagle",
+        "hex": "#463D2F",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/s38",
+      "name": "AdeptiCon Spray-Team Orange Oxide",
+      "code": "S38",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#804C31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pookie Bear",
+        "hex": "#824B2E",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "monument/s37",
+      "name": "AdeptiCon Spray-Team Red Oxide",
+      "code": "S37",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#863531",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heirloom Tomato",
+        "hex": "#833633",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "monument/s39",
+      "name": "AdeptiCon Spray-Team Satin Black",
+      "code": "S39",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#131212",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sticky Black Tarmac",
+        "hex": "#131212",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/s17",
+      "name": "Ben Komets Advanced Flesh Tone",
+      "code": "S17",
+      "set": "Monument Pro Signature Series",
+      "hex": "#8F5D4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sequoia Grove",
+        "hex": "#935E4E",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "monument/s15",
+      "name": "Ben Komets Dark Burgundy",
+      "code": "S15",
+      "set": "Monument Pro Signature Series",
+      "hex": "#2E1B1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hornblende",
+        "hex": "#332222",
+        "delta_e": 2.33
+      }
+    },
+    {
+      "id": "monument/s13",
+      "name": "Ben Komets Dark Sea Ben",
+      "code": "S13",
+      "set": "Monument Pro Signature Series",
+      "hex": "#09202E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Dreams",
+        "hex": "#002233",
+        "delta_e": 1.99
+      }
+    },
+    {
+      "id": "monument/s16",
+      "name": "Ben Komets Green Oxide",
+      "code": "S16",
+      "set": "Monument Pro Signature Series",
+      "hex": "#296155",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eden",
+        "hex": "#266255",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "monument/s18",
+      "name": "Ben Komets Heavy Warm White",
+      "code": "S18",
+      "set": "Monument Pro Signature Series",
+      "hex": "#F1D0A1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Peachy Skin",
+        "hex": "#F0CFA0",
+        "delta_e": 0.23
+      }
+    },
+    {
+      "id": "monument/s14",
+      "name": "Ben Komets Petroleum Brown",
+      "code": "S14",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3B2313",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Close but No Cigar",
+        "hex": "#361D0A",
+        "delta_e": 1.91
+      }
+    },
+    {
+      "id": "monument/040",
+      "name": "Black Brown",
+      "code": "040",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#2C2D28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eternity",
+        "hex": "#2D2F28",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "monument/057",
+      "name": "Black Green",
+      "code": "057",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#3F5F50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ethereal Woods",
+        "hex": "#3E5E4E",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "monument/200",
+      "name": "Black Wash",
+      "code": "200",
+      "set": "Monument Pro Acrylic Wash",
+      "hex": "#080505",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pupil",
+        "hex": "#070303",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "monument/005",
+      "name": "Blue",
+      "code": "005",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#0855A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raiden Blue",
+        "hex": "#0056A8",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "monument/056",
+      "name": "Blue Black",
+      "code": "056",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#517283",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Russ Grey",
+        "hex": "#547587",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "monument/003",
+      "name": "Bold Pyrrole Red",
+      "code": "003",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#A90F0F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Büchel Cherry",
+        "hex": "#AA1111",
+        "delta_e": 0.38
+      }
+    },
+    {
+      "id": "monument/001",
+      "name": "Bold Titanium White",
+      "code": "001",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E7E9E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winsome Grey",
+        "hex": "#E7E9E4",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/031",
+      "name": "Bright Gold",
+      "code": "031",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#BC9866",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Edgy Green",
+        "hex": "#BF9A67",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "monument/022",
+      "name": "Bright Ivory",
+      "code": "022",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E7E8C8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Essence",
+        "hex": "#E9EAC8",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "monument/067",
+      "name": "Bright Jade",
+      "code": "067",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#408C8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Chill",
+        "hex": "#408F90",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "monument/045",
+      "name": "Bright Neutral Grey",
+      "code": "045",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#ABAEA7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Fox",
+        "hex": "#ACB0A9",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "monument/058",
+      "name": "Bright Pale Green",
+      "code": "058",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#D8F4E8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Diluted Mint",
+        "hex": "#DAF4EA",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "monument/015",
+      "name": "Bright Warm Grey",
+      "code": "015",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#BBC0AC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sidekick",
+        "hex": "#BFC3AE",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "monument/039",
+      "name": "Bright Yellow Green",
+      "code": "039",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#88B423",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cocktail Green",
+        "hex": "#8EB826",
+        "delta_e": 1.31
+      }
+    },
+    {
+      "id": "monument/032",
+      "name": "Bronze",
+      "code": "032",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#78685B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Braid",
+        "hex": "#77675B",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "monument/201",
+      "name": "Brown Wash",
+      "code": "201",
+      "set": "Monument Pro Acrylic Wash",
+      "hex": "#2C170E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zinnwaldite Brown",
+        "hex": "#2C1608",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "monument/069",
+      "name": "Burgundy",
+      "code": "069",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#733739",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cuba Libre",
+        "hex": "#73383C",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "monument/037",
+      "name": "Burnt Orange",
+      "code": "037",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#802715",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chestnut Plum",
+        "hex": "#852E19",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "monument/008",
+      "name": "Burnt Red",
+      "code": "008",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#631410",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blood Organ",
+        "hex": "#630F0F",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "monument/059",
+      "name": "Burnt Sienna",
+      "code": "059",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#AD4E32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pico Earth",
+        "hex": "#AB5236",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "monument/020",
+      "name": "Camo Green",
+      "code": "020",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#365337",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ficus",
+        "hex": "#3B593A",
+        "delta_e": 2.13
+      }
+    },
+    {
+      "id": "monument/002",
+      "name": "Coal Black",
+      "code": "002",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#18191B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gluon Grey",
+        "hex": "#1A1B1C",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "monument/027",
+      "name": "Copper",
+      "code": "027",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#AE7849",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Meerkat",
+        "hex": "#AB7647",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "monument/034",
+      "name": "Dark Blue",
+      "code": "034",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#142038",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Balaclavas Are Forever",
+        "hex": "#18233D",
+        "delta_e": 1.36
+      }
+    },
+    {
+      "id": "monument/036",
+      "name": "Dark Camo Green",
+      "code": "036",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#313C2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sensaimidori Green",
+        "hex": "#374231",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "monument/068",
+      "name": "Dark Flesh",
+      "code": "068",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#674137",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brunette",
+        "hex": "#664238",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "monument/062",
+      "name": "Dark Golden Brown",
+      "code": "062",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#A58F56",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Griffon",
+        "hex": "#A99058",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "monument/014",
+      "name": "Dark Grey Blue",
+      "code": "014",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#184366",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Opal",
+        "hex": "#124168",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "monument/044",
+      "name": "Dark Neutral Grey",
+      "code": "044",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#2A3235",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightmare Fuel",
+        "hex": "#293135",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "monument/035",
+      "name": "Dark Purple",
+      "code": "035",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#1D2347",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Konkikyō Blue",
+        "hex": "#191F45",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "monument/030",
+      "name": "Dark Silver",
+      "code": "030",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#25292C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Charcoal",
+        "hex": "#262B2F",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "monument/019",
+      "name": "Dark Umber",
+      "code": "019",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#423431",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodstone",
+        "hex": "#413431",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "monument/016",
+      "name": "Dark Warm Grey",
+      "code": "016",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#464C4C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Lead",
+        "hex": "#474C4D",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "monument/066",
+      "name": "Faded Green",
+      "code": "066",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#9AA37F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Renkon Beige",
+        "hex": "#989F7A",
+        "delta_e": 1.39
+      }
+    },
+    {
+      "id": "monument/063",
+      "name": "Faded Plum",
+      "code": "063",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#C8B5D5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Elfin Herb",
+        "hex": "#CAB4D4",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "monument/013",
+      "name": "Faded Ultramarine",
+      "code": "013",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#638AC1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Provence",
+        "hex": "#658DC6",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "monument/s30",
+      "name": "Flameon Bright Pale Yellow",
+      "code": "S30",
+      "set": "Monument Pro Signature Series",
+      "hex": "#FFF7CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Laughter",
+        "hex": "#FDF5CA",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "monument/s29",
+      "name": "Flameon Bright Yellow Ochre",
+      "code": "S29",
+      "set": "Monument Pro Signature Series",
+      "hex": "#DDA55B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pan de Coco",
+        "hex": "#DCA356",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "monument/s28",
+      "name": "Flameon Caramel Brown",
+      "code": "S28",
+      "set": "Monument Pro Signature Series",
+      "hex": "#805F3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Iris",
+        "hex": "#7F5D3B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "monument/s25",
+      "name": "Flameon Dark Green Brown",
+      "code": "S25",
+      "set": "Monument Pro Signature Series",
+      "hex": "#614529",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Hen",
+        "hex": "#5E442C",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "monument/s26",
+      "name": "Flameon Dark Orange Brown",
+      "code": "S26",
+      "set": "Monument Pro Signature Series",
+      "hex": "#8D5C25",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Afghan Carpet",
+        "hex": "#905E26",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "monument/s27",
+      "name": "Flameon Orange Brown",
+      "code": "S27",
+      "set": "Monument Pro Signature Series",
+      "hex": "#805F3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Iris",
+        "hex": "#7F5D3B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "monument/202",
+      "name": "Flesh Wash",
+      "code": "202",
+      "set": "Monument Pro Acrylic Wash",
+      "hex": "#734238",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Chocolate",
+        "hex": "#6F4136",
+        "delta_e": 1.14
+      }
+    },
+    {
+      "id": "monument/f04",
+      "name": "Fluorescent Green",
+      "code": "F04",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3FB549",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Classic Green",
+        "hex": "#3EB753",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "monument/f02",
+      "name": "Fluorescent Orange",
+      "code": "F02",
+      "set": "Monument Pro Signature Series",
+      "hex": "#F04D26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hot Shot",
+        "hex": "#EC4F28",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "monument/f06",
+      "name": "Fluorescent Pink",
+      "code": "F06",
+      "set": "Monument Pro Signature Series",
+      "hex": "#EE387C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Extra Fuchsia",
+        "hex": "#EF347C",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "monument/f05",
+      "name": "Fluorescent Purple",
+      "code": "F05",
+      "set": "Monument Pro Signature Series",
+      "hex": "#A32388",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Magneto’s Magenta",
+        "hex": "#AA1D8E",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "monument/f01",
+      "name": "Fluorescent Red",
+      "code": "F01",
+      "set": "Monument Pro Signature Series",
+      "hex": "#EF3A37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trial by Fire",
+        "hex": "#EF3939",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "monument/f03",
+      "name": "Fluorescent Yellow",
+      "code": "F03",
+      "set": "Monument Pro Signature Series",
+      "hex": "#F2DD26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caduceus Staff",
+        "hex": "#EEDD22",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "monument/017",
+      "name": "Golden Brown",
+      "code": "017",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#BE9953",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fallow",
+        "hex": "#C19A51",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "monument/006",
+      "name": "Golden Yellow",
+      "code": "006",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E9D035",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Big Cheese",
+        "hex": "#E9D035",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/004",
+      "name": "Green",
+      "code": "004",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#16864E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pixel Nature",
+        "hex": "#008751",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "monument/055",
+      "name": "Grey Blue",
+      "code": "055",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#BCE3F2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Breaking the Ice",
+        "hex": "#B8E4F5",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "monument/023",
+      "name": "Ivory",
+      "code": "023",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#D5D0B3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Ivy",
+        "hex": "#D4CFB2",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "monument/021",
+      "name": "Jade",
+      "code": "021",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#03535A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cathedral View",
+        "hex": "#015158",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "monument/061",
+      "name": "Khaki",
+      "code": "061",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#AC9E6B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zucchini Garden",
+        "hex": "#AFA170",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "monument/026",
+      "name": "Light Bronze",
+      "code": "026",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#9C8D64",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Willow Tree",
+        "hex": "#9E8F66",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "monument/018",
+      "name": "Light Umber",
+      "code": "018",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#5E4433",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boston Brown Bread",
+        "hex": "#614432",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "monument/011",
+      "name": "Magenta",
+      "code": "011",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#A14D6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Fuchsia",
+        "hex": "#A44769",
+        "delta_e": 1.99
+      }
+    },
+    {
+      "id": "monument/009",
+      "name": "Mahogany",
+      "code": "009",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#261410",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Severely Burnt Toast",
+        "hex": "#241005",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "monument/s23",
+      "name": "Matt Cexwish Bone",
+      "code": "S23",
+      "set": "Monument Pro Signature Series",
+      "hex": "#8D857E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hagstone Choir",
+        "hex": "#8B837D",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "monument/s22",
+      "name": "Matt Cexwish Brown Grey",
+      "code": "S22",
+      "set": "Monument Pro Signature Series",
+      "hex": "#4B4945",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stealth Jet",
+        "hex": "#4B4844",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "monument/s24",
+      "name": "Matt Cexwish Dark Bronze",
+      "code": "S24",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3F311F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clinker",
+        "hex": "#463623",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "monument/s19",
+      "name": "Matt Cexwish Dark Crimson",
+      "code": "S19",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3E1714",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Sienna",
+        "hex": "#3C1414",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "monument/s20",
+      "name": "Matt Cexwish Dark Emerald",
+      "code": "S20",
+      "set": "Monument Pro Signature Series",
+      "hex": "#194245",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pine Hollow",
+        "hex": "#204242",
+        "delta_e": 1.77
+      }
+    },
+    {
+      "id": "monument/s21",
+      "name": "Matt Cexwish Heavy Titanium White",
+      "code": "S21",
+      "set": "Monument Pro Signature Series",
+      "hex": "#E6E6E6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Extraordinary Abundance of Tinge",
+        "hex": "#E6E6E6",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/033",
+      "name": "Metallic Medium",
+      "code": "033",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#D3D4CC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Silverpointe",
+        "hex": "#D1D2CB",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "monument/075",
+      "name": "Neutral Grey",
+      "code": "075",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#5E5E5E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iron",
+        "hex": "#5E5E5E",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/s07",
+      "name": "Ninjon Dark Ivory",
+      "code": "S07",
+      "set": "Monument Pro Signature Series",
+      "hex": "#B7B4A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Digital Garage",
+        "hex": "#B7B3A4",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "monument/s10",
+      "name": "Ninjon Dark Magenta",
+      "code": "S10",
+      "set": "Monument Pro Signature Series",
+      "hex": "#80303F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bicyclette",
+        "hex": "#802C3A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "monument/s11",
+      "name": "Ninjon Dark Plum",
+      "code": "S11",
+      "set": "Monument Pro Signature Series",
+      "hex": "#4E3B3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Bamboo",
+        "hex": "#4D3B3C",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "monument/s08",
+      "name": "Ninjon Dark Warm Flesh",
+      "code": "S08",
+      "set": "Monument Pro Signature Series",
+      "hex": "#C59157",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bosc Pear",
+        "hex": "#C09056",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "monument/s12",
+      "name": "Ninjon Red Grey",
+      "code": "S12",
+      "set": "Monument Pro Signature Series",
+      "hex": "#837876",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Complex Grey",
+        "hex": "#847975",
+        "delta_e": 1.19
+      }
+    },
+    {
+      "id": "monument/s09",
+      "name": "Ninjon Warm Brown",
+      "code": "S09",
+      "set": "Monument Pro Signature Series",
+      "hex": "#6B4B38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Guitar",
+        "hex": "#6B4C37",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "monument/041",
+      "name": "Olive Flesh",
+      "code": "041",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#CCC6AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Beige",
+        "hex": "#CCC7B1",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "monument/007",
+      "name": "Orange",
+      "code": "007",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E56B20",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "24 Carrot",
+        "hex": "#E56E24",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "monument/002p",
+      "name": "PRIME Black",
+      "code": "002P",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#18191B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gluon Grey",
+        "hex": "#1A1B1C",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "monument/011p",
+      "name": "PRIME Black Brown",
+      "code": "011P",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#404240",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vulcanised",
+        "hex": "#424443",
+        "delta_e": 0.95
+      }
+    },
+    {
+      "id": "monument/007p",
+      "name": "PRIME Dark Camo Green",
+      "code": "007P",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#3A3F39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dead Sea Mud",
+        "hex": "#3A403B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "monument/005p",
+      "name": "PRIME Dark Neutral Grey",
+      "code": "005P",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#303839",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nocturnal Green",
+        "hex": "#2F3738",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "monument/003p",
+      "name": "PRIME White",
+      "code": "003P",
+      "set": "Monument Pro Acrylic Primer",
+      "hex": "#E7E9E4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winsome Grey",
+        "hex": "#E7E9E4",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/043",
+      "name": "Pale Pink",
+      "code": "043",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E0CABF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ancient Ruins",
+        "hex": "#E0CAC0",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "monument/060",
+      "name": "Pale Yellow",
+      "code": "060",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E8E7D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Iced Tea",
+        "hex": "#E8E8D4",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "monument/071",
+      "name": "Pink",
+      "code": "071",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#EBA59F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mad About Maddie",
+        "hex": "#EDA69E",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "monument/070",
+      "name": "Plum",
+      "code": "070",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#8E5384",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Grape Candy",
+        "hex": "#905284",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "monument/010",
+      "name": "Purple",
+      "code": "010",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#63306B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Byzantine Robe",
+        "hex": "#602F6B",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "monument/028",
+      "name": "Rich Gold",
+      "code": "028",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#B47A30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mandalay",
+        "hex": "#B57B2E",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "monument/s36",
+      "name": "Rogue Hobbies Bismuth Yellow",
+      "code": "S36",
+      "set": "Monument Pro Signature Series",
+      "hex": "#F9D967",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Huáng Jīn Zhōu Gold",
+        "hex": "#FADA6A",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "monument/s33",
+      "name": "Rogue Hobbies Bright Green",
+      "code": "S33",
+      "set": "Monument Pro Signature Series",
+      "hex": "#12A361",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alhambra Green",
+        "hex": "#00A465",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "monument/s32",
+      "name": "Rogue Hobbies Dark Hot Pink",
+      "code": "S32",
+      "set": "Monument Pro Signature Series",
+      "hex": "#C32C5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maroon Light",
+        "hex": "#BF3160",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "monument/s34",
+      "name": "Rogue Hobbies Dark Turquoise",
+      "code": "S34",
+      "set": "Monument Pro Signature Series",
+      "hex": "#167D94",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mosaic Blue",
+        "hex": "#007C94",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "monument/s31",
+      "name": "Rogue Hobbies Orange Red",
+      "code": "S31",
+      "set": "Monument Pro Signature Series",
+      "hex": "#E53941",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Vermilion Cinnabar",
+        "hex": "#E34244",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "monument/s35",
+      "name": "Rogue Hobbies Ultramarine",
+      "code": "S35",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3D5EAB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kakitsubata Blue",
+        "hex": "#3E62AD",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "monument/042",
+      "name": "Shadow Flesh",
+      "code": "042",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#8D5345",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Earth Crust",
+        "hex": "#8C4F42",
+        "delta_e": 1.34
+      }
+    },
+    {
+      "id": "monument/025",
+      "name": "Silver",
+      "code": "025",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#9A9E9D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cosmic Quest",
+        "hex": "#9EA19F",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "monument/012",
+      "name": "Sky Blue",
+      "code": "012",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#248CCB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zürich Blue",
+        "hex": "#248BCC",
+        "delta_e": 0.56
+      }
+    },
+    {
+      "id": "monument/024",
+      "name": "Tan Flesh",
+      "code": "024",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#C39F85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweetwood",
+        "hex": "#C39F87",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "monument/053",
+      "name": "Transparent Black",
+      "code": "053",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#1D1E22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inkwell Inception",
+        "hex": "#1E1E21",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "monument/046",
+      "name": "Transparent Blue",
+      "code": "046",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#09125D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Space Colonisation",
+        "hex": "#150F5B",
+        "delta_e": 1.64
+      }
+    },
+    {
+      "id": "monument/052",
+      "name": "Transparent Brown",
+      "code": "052",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#372525",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hornblende",
+        "hex": "#332222",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "monument/048",
+      "name": "Transparent Green",
+      "code": "048",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#082930",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Chasm",
+        "hex": "#102C33",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "monument/050",
+      "name": "Transparent Orange",
+      "code": "050",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#A22207",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnt Red",
+        "hex": "#9F2305",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "monument/051",
+      "name": "Transparent Purple",
+      "code": "051",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#16172B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sambucus",
+        "hex": "#17182B",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "monument/047",
+      "name": "Transparent Red",
+      "code": "047",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#90111C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sacred Scarlet",
+        "hex": "#950C1B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "monument/064",
+      "name": "Transparent White",
+      "code": "064",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#F5F5F5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White Smoke",
+        "hex": "#F5F5F5",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "monument/049",
+      "name": "Transparent Yellow",
+      "code": "049",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#E6B802",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gold Ore",
+        "hex": "#ECBC14",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "monument/054",
+      "name": "Turquoise",
+      "code": "054",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#75F1F1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dead Sea",
+        "hex": "#77EEEE",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "monument/s05",
+      "name": "Vince Venturella Beige Red",
+      "code": "S05",
+      "set": "Monument Pro Signature Series",
+      "hex": "#A68E86",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Irish Tea",
+        "hex": "#A38D86",
+        "delta_e": 0.91
+      }
+    },
+    {
+      "id": "monument/s01",
+      "name": "Vince Venturella Dark Jade",
+      "code": "S01",
+      "set": "Monument Pro Signature Series",
+      "hex": "#2C4855",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Sea Blue",
+        "hex": "#2A4B5A",
+        "delta_e": 1.42
+      }
+    },
+    {
+      "id": "monument/s06",
+      "name": "Vince Venturella Dark Yellow Green",
+      "code": "S06",
+      "set": "Monument Pro Signature Series",
+      "hex": "#6A7546",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dill Pickle",
+        "hex": "#67744A",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "monument/s02",
+      "name": "Vince Venturella Payne's Grey",
+      "code": "S02",
+      "set": "Monument Pro Signature Series",
+      "hex": "#2D3844",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Anchorman",
+        "hex": "#2C3641",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "monument/s03",
+      "name": "Vince Venturella Royal Purple",
+      "code": "S03",
+      "set": "Monument Pro Signature Series",
+      "hex": "#3B3053",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Violet Purple",
+        "hex": "#3A2F52",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "monument/s04",
+      "name": "Vince Venturella White Blue",
+      "code": "S04",
+      "set": "Monument Pro Signature Series",
+      "hex": "#AFBDBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Watery",
+        "hex": "#AEBDBB",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "monument/073",
+      "name": "Warm Flesh",
+      "code": "073",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#F6C67C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cheddar Chunk",
+        "hex": "#F9C982",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "monument/074",
+      "name": "Warm Grey",
+      "code": "074",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#54544A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shell Brown",
+        "hex": "#56564B",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "monument/072",
+      "name": "Warm Yellow",
+      "code": "072",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#F6C847",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunny Mood",
+        "hex": "#F7C84A",
+        "delta_e": 0.47
+      }
+    },
+    {
+      "id": "monument/029",
+      "name": "White Gold",
+      "code": "029",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#9E9B8A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Milk Thistle",
+        "hex": "#9E9B88",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "monument/065",
+      "name": "Yellow Green",
+      "code": "065",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#879245",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Pea Green",
+        "hex": "#8E9549",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "monument/038",
+      "name": "Yellow Ochre",
+      "code": "038",
+      "set": "Monument Pro Acrylic Paints",
+      "hex": "#AE7F31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Release the Hounds",
+        "hex": "#AC7C2E",
+        "delta_e": 1.04
+      }
+    }
+  ]
+}

@@ -1,0 +1,1417 @@
+{
+  "brand": "Italeri",
+  "slug": "italeri",
+  "md_file": "Italeri.md",
+  "logo": "logos/Italeri.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "italeri/4677ap",
+      "name": "Aluminium",
+      "code": "4677AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#898C85",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Naturalist Grey",
+        "hex": "#8B8C83",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "italeri/4711ap",
+      "name": "Armor Sand",
+      "code": "4711AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#99925C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cardamom Green",
+        "hex": "#989057",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "italeri/4308ap",
+      "name": "Azure Blue",
+      "code": "4308AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4385C5",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Casting Sea",
+        "hex": "#4586C7",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "italeri/4768ap",
+      "name": "Black",
+      "code": "4768AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4695ap",
+      "name": "Black",
+      "code": "4695AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#000000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black",
+        "hex": "#000000",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4687ap",
+      "name": "Blue Angels Blue",
+      "code": "4687AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#1E2C4F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rurikon Blue",
+        "hex": "#1B294B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "italeri/4672ap",
+      "name": "Brass",
+      "code": "4672AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#AA7D2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chai Tea",
+        "hex": "#A97B2D",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "italeri/4644ap",
+      "name": "Bruno Mimetico",
+      "code": "4644AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#836854",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pastel Brown",
+        "hex": "#836953",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "italeri/4636ap",
+      "name": "Clear Acryl",
+      "code": "4636AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4637ap",
+      "name": "Clear Acryl",
+      "code": "4637AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4638ap",
+      "name": "Clear Acryl",
+      "code": "4638AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F9F9F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Doctor",
+        "hex": "#F9F9F9",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4303ap",
+      "name": "Dark Earth",
+      "code": "4303AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7A5936",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cold Brew Coffee",
+        "hex": "#785736",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "italeri/4846ap",
+      "name": "Dark Earth Ana 617",
+      "code": "4846AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#846954",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pastel Brown",
+        "hex": "#836953",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "italeri/4761ap",
+      "name": "Dark Ghost Gray",
+      "code": "4761AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7E8E9A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "London Square",
+        "hex": "#7F909D",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "italeri/4754ap",
+      "name": "Dark Gray",
+      "code": "4754AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#657776",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trade Secret",
+        "hex": "#6A7978",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "italeri/4726ap",
+      "name": "Dark Green",
+      "code": "4726AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#5C6750",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inland",
+        "hex": "#606B54",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "italeri/4755ap",
+      "name": "Dark Gull Gray",
+      "code": "4755AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#556B71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moody Blues",
+        "hex": "#586E75",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "italeri/4311ap",
+      "name": "Dark Slate Grey",
+      "code": "4311AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2D3122",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rangitoto",
+        "hex": "#2E3222",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "italeri/4709ap",
+      "name": "Dark Tan",
+      "code": "4709AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#9E765B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walking Stick",
+        "hex": "#A2785D",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "italeri/4781ap",
+      "name": "Dunkelgrün RLM 71",
+      "code": "4781AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#354531",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kornerupine",
+        "hex": "#324632",
+        "delta_e": 1.46
+      }
+    },
+    {
+      "id": "italeri/4707ap",
+      "name": "Earth Red",
+      "code": "4707AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#855F30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bronze Brown",
+        "hex": "#825E2F",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "italeri/4729ap",
+      "name": "Euro I Dark Green",
+      "code": "4729AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3B6657",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Isle of Pines",
+        "hex": "#3E6655",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "italeri/4312ap",
+      "name": "Extra Dark Sea Grey",
+      "code": "4312AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#353F3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dead Sea Mud",
+        "hex": "#3A403B",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "italeri/4708ap",
+      "name": "Field Drab",
+      "code": "4708AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#725B3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bee Master",
+        "hex": "#735B3B",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "italeri/4858ap",
+      "name": "Flat Brown 383",
+      "code": "4858AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4F4239",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paco",
+        "hex": "#4F4037",
+        "delta_e": 1.22
+      }
+    },
+    {
+      "id": "italeri/4859ap",
+      "name": "Flat Desert Tan",
+      "code": "4859AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B19F7B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Paper Sack",
+        "hex": "#B4A07A",
+        "delta_e": 0.92
+      }
+    },
+    {
+      "id": "italeri/4862ap",
+      "name": "Flat Green",
+      "code": "4862AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#636750",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yew Hedge",
+        "hex": "#656952",
+        "delta_e": 0.75
+      }
+    },
+    {
+      "id": "italeri/4857ap",
+      "name": "Flat Green 383",
+      "code": "4857AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E4B39",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Copper Pyrite Green",
+        "hex": "#3E4939",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "italeri/4853ap",
+      "name": "Flat Grey Green RLM. 66",
+      "code": "4853AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#5B5E5F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphic Charcoal",
+        "hex": "#5C5E5F",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "italeri/4855ap",
+      "name": "Flat Italian Interior Green",
+      "code": "4855AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A8BB9A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ash Tree",
+        "hex": "#AABB99",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "italeri/4854ap",
+      "name": "Flat Ocean Grey",
+      "code": "4854AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#74797B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Philosophical",
+        "hex": "#757B7D",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "italeri/4861ap",
+      "name": "Flat Rubber",
+      "code": "4861AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#585B5B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zen Retreat",
+        "hex": "#5B5D5C",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "italeri/4860ap",
+      "name": "Flat Sandgelb RAL.1002",
+      "code": "4860AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C6A664",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flickering Gold",
+        "hex": "#C6A668",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "italeri/4856ap",
+      "name": "Flat Sky Type's",
+      "code": "4856AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B6C4AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Desolace Dew",
+        "hex": "#B5C1A9",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "italeri/4659ap",
+      "name": "French Blue",
+      "code": "4659AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#0068AD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wing Commander",
+        "hex": "#0065AC",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "italeri/4645ap",
+      "name": "Giallo Mimetico 3",
+      "code": "4645AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C9973B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Spice",
+        "hex": "#C6973F",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "italeri/4646ap",
+      "name": "Giallo Mimetico 4",
+      "code": "4646AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A68249",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Caramel Suede",
+        "hex": "#A78045",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "italeri/4671ap",
+      "name": "Gold",
+      "code": "4671AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#EAB124",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sun Drops",
+        "hex": "#EAAF11",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "italeri/4770ap",
+      "name": "Grau RLM 02",
+      "code": "4770AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#645B42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pinyon Pine",
+        "hex": "#625A42",
+        "delta_e": 0.7
+      }
+    },
+    {
+      "id": "italeri/4784ap",
+      "name": "Graugrün RLM 74",
+      "code": "4784AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#323B3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tàn Hēi Soot",
+        "hex": "#323939",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "italeri/4785ap",
+      "name": "Grauviolett RLM 75",
+      "code": "4785AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#6C6A65",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcanic Rock",
+        "hex": "#6B6965",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "italeri/4669ap",
+      "name": "Green",
+      "code": "4669AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#006D44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainforest Retreat",
+        "hex": "#016D43",
+        "delta_e": 0.29
+      }
+    },
+    {
+      "id": "italeri/4632ap",
+      "name": "Guards Red",
+      "code": "4632AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C42127",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Star and Crescent Red",
+        "hex": "#C51F26",
+        "delta_e": 0.24
+      }
+    },
+    {
+      "id": "italeri/4763ap",
+      "name": "Gull Gray",
+      "code": "4763AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E1E1D7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bannister White",
+        "hex": "#E1E0D6",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "italeri/4681ap",
+      "name": "Gun Metal",
+      "code": "4681AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2F3739",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nocturnal Green",
+        "hex": "#2F3738",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "italeri/4752ap",
+      "name": "Gunship Gray",
+      "code": "4752AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#1D343A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ore Bluish Black",
+        "hex": "#1C3339",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "italeri/4778ap",
+      "name": "Hellblau RLM 65",
+      "code": "4778AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8BB8B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Morning Green",
+        "hex": "#89BAB2",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "italeri/4714ap",
+      "name": "Insigna Red",
+      "code": "4714AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A71E29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red-Hot Mama",
+        "hex": "#A91F29",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "italeri/4721ap",
+      "name": "Insigna Yellow",
+      "code": "4721AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FEE000",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tibetan Yellow",
+        "hex": "#FEDF00",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "italeri/4736ap",
+      "name": "Interior Green",
+      "code": "4736AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#6D6129",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bean Green",
+        "hex": "#685C27",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "italeri/4301ap",
+      "name": "Interior Grey Green",
+      "code": "4301AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#325E2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Into the Wood",
+        "hex": "#306030",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "italeri/4674ap",
+      "name": "Leather",
+      "code": "4674AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#933E31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carmen Miranda",
+        "hex": "#903E2F",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "italeri/4786ap",
+      "name": "Lichtblau RLM 76",
+      "code": "4786AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C8D5D2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Winter Garden",
+        "hex": "#C4D2D0",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "italeri/4650ap",
+      "name": "Light Blue",
+      "code": "4650AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3DC1C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turquoise Surf",
+        "hex": "#00C5CD",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "italeri/4305ap",
+      "name": "Light Brown",
+      "code": "4305AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A27156",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whetstone Brown",
+        "hex": "#9F6F55",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "italeri/4390ap",
+      "name": "Light Flesh",
+      "code": "4390AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E0C68F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clay Bake",
+        "hex": "#E1C68F",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "italeri/4762ap",
+      "name": "Light Ghost Gray",
+      "code": "4762AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#97A7B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wave Goodbye",
+        "hex": "#9AAAB6",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "italeri/4765ap",
+      "name": "Light Gray",
+      "code": "4765AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#EFEEEF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crystal Bell",
+        "hex": "#EFEEEF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4309ap",
+      "name": "Light Green",
+      "code": "4309AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#66702F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Forest Spirit",
+        "hex": "#667028",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "italeri/4640ap",
+      "name": "Marrone Mimetico",
+      "code": "4640AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#843630",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heirloom Tomato",
+        "hex": "#833633",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "italeri/4641ap",
+      "name": "Marrone Mimetico 2",
+      "code": "4641AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#725B3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bee Master",
+        "hex": "#735B3B",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "italeri/4307ap",
+      "name": "Medium Blue",
+      "code": "4307AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#0058A9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raiden Blue",
+        "hex": "#0056A8",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "italeri/4306ap",
+      "name": "Medium Brown",
+      "code": "4306AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8F5141",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruskin Red",
+        "hex": "#935242",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "italeri/4746ap",
+      "name": "Medium Gray",
+      "code": "4746AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#71787B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcanic Ash",
+        "hex": "#6F7678",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "italeri/4314ap",
+      "name": "Medium Green I",
+      "code": "4314AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#4B6553",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cucumber Green",
+        "hex": "#466353",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "italeri/4734ap",
+      "name": "Medium Green II",
+      "code": "4734AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#48633F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lady Luck",
+        "hex": "#47613C",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "italeri/4313ap",
+      "name": "Medium Sea Grey",
+      "code": "4313AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#8E9493",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Storms Mountain",
+        "hex": "#8D9390",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "italeri/4304ap",
+      "name": "Middle Stone",
+      "code": "4304AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A87F48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tosty Crust",
+        "hex": "#A67E4B",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "italeri/4852ap",
+      "name": "Military Green",
+      "code": "4852AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#585138",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Marsh",
+        "hex": "#5C5337",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "italeri/4643ap",
+      "name": "Nocciola Chiaro",
+      "code": "4643AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#9E765B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Walking Stick",
+        "hex": "#A2785D",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "italeri/4766ap",
+      "name": "Non Specular Blue Grey",
+      "code": "4766AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E6066",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Wanderlust",
+        "hex": "#426267",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "italeri/4639ap",
+      "name": "Non Specular Intermediate Blue",
+      "code": "4639AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#607C7F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Uniform Green Grey",
+        "hex": "#5F7B7E",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "italeri/4604ap",
+      "name": "Non Specular Sea Blue",
+      "code": "4604AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#32393D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Inkwell",
+        "hex": "#31363A",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "italeri/4315ap",
+      "name": "Olive Drab",
+      "code": "4315AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#575C44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tree of Life",
+        "hex": "#595D45",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "italeri/4842ap",
+      "name": "Olive Drab Ana 613",
+      "code": "4842AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3E442F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rifle Green",
+        "hex": "#414833",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "italeri/4728ap",
+      "name": "Olive Drab US Army",
+      "code": "4728AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3F4742",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rich Olive",
+        "hex": "#3E4740",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "italeri/4682ap",
+      "name": "Orange",
+      "code": "4682AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E55C00",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tobiko Orange",
+        "hex": "#E45C10",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "italeri/4302ap",
+      "name": "Orange",
+      "code": "4302AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#E84925",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scoville High",
+        "hex": "#E34B26",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "italeri/4739ap",
+      "name": "Pale Green",
+      "code": "4739AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#64A879",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shiny Shamrock",
+        "hex": "#5FA778",
+        "delta_e": 0.74
+      }
+    },
+    {
+      "id": "italeri/4796ap",
+      "name": "Panzer Dunkelgelb 1943",
+      "code": "4796AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#A2924C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Backroom Ember",
+        "hex": "#A19250",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "italeri/4798ap",
+      "name": "Panzer Olivgrün 1943",
+      "code": "4798AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#00461F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Pond",
+        "hex": "#014420",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "italeri/4797ap",
+      "name": "Pz. Schokobraun RAL 8017",
+      "code": "4797AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3D2624",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ethereal Espresso",
+        "hex": "#3E2723",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "italeri/4795ap",
+      "name": "Pz. Schwarzgrau RAL 7021",
+      "code": "4795AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#24403B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pine Grove",
+        "hex": "#273F39",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "italeri/4605ap",
+      "name": "Red",
+      "code": "4605AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C13027",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cadillac Coupe",
+        "hex": "#C0362C",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "italeri/4606ap",
+      "name": "Red",
+      "code": "4606AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#D52B27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yorktown Red",
+        "hex": "#D7302D",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "italeri/4807ap",
+      "name": "Russian Armor Green",
+      "code": "4807AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#3D5346",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Jungle",
+        "hex": "#3F564A",
+        "delta_e": 1.15
+      }
+    },
+    {
+      "id": "italeri/4675ap",
+      "name": "Rust",
+      "code": "4675AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#823430",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Heirloom Tomato",
+        "hex": "#833633",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "italeri/4720ap",
+      "name": "Sand",
+      "code": "4720AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B99E6C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Buffalo Hide",
+        "hex": "#BB9F6A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "italeri/4789ap",
+      "name": "Sandgelb RLM 79",
+      "code": "4789AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#AA7958",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "New England Roast",
+        "hex": "#AA7755",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "italeri/4780ap",
+      "name": "Schwarzgrün RLM 70",
+      "code": "4780AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#173233",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Pine Green",
+        "hex": "#193232",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "italeri/4678ap",
+      "name": "Silver",
+      "code": "4678AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#C5CECB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Scottish Heath",
+        "hex": "#C2CDCA",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "italeri/4601ap",
+      "name": "Skin Tone Tint Base - Light",
+      "code": "4601AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F5BA86",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Camel Hair Coat",
+        "hex": "#F5B784",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "italeri/4603ap",
+      "name": "Skin Tone Warm Tint",
+      "code": "4603AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#DFAB6E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Corn Maze",
+        "hex": "#DEAA6E",
+        "delta_e": 0.35
+      }
+    },
+    {
+      "id": "italeri/4679ap",
+      "name": "Steel",
+      "code": "4679AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#7B7C74",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Attitude Grey",
+        "hex": "#7C7D75",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "italeri/4812ap",
+      "name": "US Army / Mar.Gulf Arm Sand",
+      "code": "4812AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#BB7A47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Palomino",
+        "hex": "#BB7744",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "italeri/4723ap",
+      "name": "Verde Mimetico 2",
+      "code": "4723AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#2F483F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Government Green",
+        "hex": "#32493E",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "italeri/4696ap",
+      "name": "White",
+      "code": "4696AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4769ap",
+      "name": "White",
+      "code": "4769AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "italeri/4673ap",
+      "name": "Wood",
+      "code": "4673AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#B48F41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Venetian Gold",
+        "hex": "#B39142",
+        "delta_e": 1.11
+      }
+    },
+    {
+      "id": "italeri/4642ap",
+      "name": "Yellow",
+      "code": "4642AP",
+      "set": "Italeri Acrylic Paint",
+      "hex": "#F39A1F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "DodgeRoll Gold",
+        "hex": "#F79A12",
+        "delta_e": 0.91
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "brand": "Acrilex",
+    "slug": "acrilex",
+    "logo": "logos/Acrilex.png",
+    "count": 95
+  },
+  {
+    "brand": "AK",
+    "slug": "ak",
+    "logo": "logos/AK.png",
+    "count": 892
+  },
+  {
+    "brand": "A K R C",
+    "slug": "akrc",
+    "logo": "logos/AKRC.png",
+    "count": 432
+  },
+  {
+    "brand": "Apple Barrel",
+    "slug": "applebarrel",
+    "logo": "logos/AppleBarrel.png",
+    "count": 213
+  },
+  {
+    "brand": "Army Painter",
+    "slug": "army-painter",
+    "logo": "logos/Army_Painter.png",
+    "count": 704
+  },
+  {
+    "brand": "Arteza",
+    "slug": "arteza",
+    "logo": "logos/Arteza.png",
+    "count": 96
+  },
+  {
+    "brand": "Citadel Colour",
+    "slug": "citadel-colour",
+    "logo": "logos/Citadel_Colour.png",
+    "count": 452
+  },
+  {
+    "brand": "Coat D Armes",
+    "slug": "coatdarmes",
+    "logo": "logos/CoatDArmes.png",
+    "count": 157
+  },
+  {
+    "brand": "Creature",
+    "slug": "creature",
+    "logo": "logos/Creature.png",
+    "count": 53
+  },
+  {
+    "brand": "Duncan",
+    "slug": "duncan",
+    "logo": "logos/Duncan.png",
+    "count": 180
+  },
+  {
+    "brand": "Folk Art",
+    "slug": "folkart",
+    "logo": "logos/FolkArt.png",
+    "count": 436
+  },
+  {
+    "brand": "Foundry",
+    "slug": "foundry",
+    "logo": "logos/Foundry.png",
+    "count": 360
+  },
+  {
+    "brand": "Golden",
+    "slug": "golden",
+    "logo": "logos/Golden.png",
+    "count": 346
+  },
+  {
+    "brand": "Green Stuff World",
+    "slug": "greenstuffworld",
+    "logo": "logos/GreenStuffWorld.png",
+    "count": 220
+  },
+  {
+    "brand": "Humbrol",
+    "slug": "humbrol",
+    "logo": "logos/Humbrol.png",
+    "count": 115
+  },
+  {
+    "brand": "Italeri",
+    "slug": "italeri",
+    "logo": "logos/Italeri.png",
+    "count": 100
+  },
+  {
+    "brand": "Kimera Kolors",
+    "slug": "kimerakolors",
+    "logo": "logos/KimeraKolors.png",
+    "count": 39
+  },
+  {
+    "brand": "Liquitex",
+    "slug": "liquitex",
+    "logo": "logos/Liquitex.png",
+    "count": 105
+  },
+  {
+    "brand": "Mig",
+    "slug": "mig",
+    "logo": "logos/Mig.png",
+    "count": 252
+  },
+  {
+    "brand": "Mission Models",
+    "slug": "missionmodels",
+    "logo": "logos/MissionModels.png",
+    "count": 202
+  },
+  {
+    "brand": "Monument",
+    "slug": "monument",
+    "logo": "logos/Monument.png",
+    "count": 131
+  },
+  {
+    "brand": "Mr Hobby",
+    "slug": "mrhobby",
+    "logo": "logos/MrHobby.png",
+    "count": 669
+  },
+  {
+    "brand": "Mr Paint",
+    "slug": "mrpaint",
+    "logo": "logos/MrPaint.png",
+    "count": 568
+  },
+  {
+    "brand": "P3",
+    "slug": "p3",
+    "logo": "logos/P3.png",
+    "count": 131
+  },
+  {
+    "brand": "Pantone",
+    "slug": "pantone",
+    "logo": "logos/Pantone.png",
+    "count": 1341
+  },
+  {
+    "brand": "RAL",
+    "slug": "ral",
+    "logo": "logos/RAL.png",
+    "count": 193
+  },
+  {
+    "brand": "Reaper",
+    "slug": "reaper",
+    "logo": "logos/Reaper.png",
+    "count": 438
+  },
+  {
+    "brand": "Revell",
+    "slug": "revell",
+    "logo": "logos/Revell.png",
+    "count": 88
+  },
+  {
+    "brand": "Scale75",
+    "slug": "scale75",
+    "logo": "logos/Scale75.png",
+    "count": 358
+  },
+  {
+    "brand": "Tamiya",
+    "slug": "tamiya",
+    "logo": "logos/Tamiya.png",
+    "count": 320
+  },
+  {
+    "brand": "Tom Color",
+    "slug": "tomcolor",
+    "logo": "logos/TomColor.png",
+    "count": 271
+  },
+  {
+    "brand": "Turbo Dork",
+    "slug": "turbodork",
+    "logo": "logos/TurboDork.png",
+    "count": 40
+  },
+  {
+    "brand": "Vallejo",
+    "slug": "vallejo",
+    "logo": "logos/Vallejo.png",
+    "count": 1276
+  },
+  {
+    "brand": "Warcolours",
+    "slug": "warcolours",
+    "logo": "logos/Warcolours.png",
+    "count": 178
+  }
+]

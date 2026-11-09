@@ -1,0 +1,4861 @@
+{
+  "brand": "Golden",
+  "slug": "golden",
+  "md_file": "Golden.md",
+  "logo": "logos/Golden.png",
+  "columns": [
+    "Name",
+    "Code",
+    "Set",
+    "R",
+    "G",
+    "B",
+    "Hex"
+  ],
+  "paints": [
+    {
+      "id": "golden/7450",
+      "name": "Alizarin Crimson Hue",
+      "code": "7450",
+      "set": "OPEN Acrylics",
+      "hex": "#99403F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lychee",
+        "hex": "#9B4040",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "golden/1450",
+      "name": "Alizarin Crimson Hue",
+      "code": "1450",
+      "set": "Heavy Body",
+      "hex": "#9C3E40",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sappanwood",
+        "hex": "#9E3D3F",
+        "delta_e": 0.51
+      }
+    },
+    {
+      "id": "golden/2435",
+      "name": "Alizarin Crimson Hue",
+      "code": "2435",
+      "set": "Fluid",
+      "hex": "#662631",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackberry Pie",
+        "hex": "#64242E",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "golden/8521",
+      "name": "Alizarin Crimson Hue",
+      "code": "8521",
+      "set": "High Flow",
+      "hex": "#662631",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blackberry Pie",
+        "hex": "#64242E",
+        "delta_e": 0.81
+      }
+    },
+    {
+      "id": "golden/8522",
+      "name": "Anthraquinone Blue",
+      "code": "8522",
+      "set": "High Flow",
+      "hex": "#231D3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Velvet",
+        "hex": "#2A2243",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "golden/1005",
+      "name": "Anthraquinone Blue",
+      "code": "1005",
+      "set": "Heavy Body",
+      "hex": "#182551",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Space Cadet",
+        "hex": "#1D2951",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "golden/7005",
+      "name": "Anthraquinone Blue",
+      "code": "7005",
+      "set": "OPEN Acrylics",
+      "hex": "#171F4D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fly-by-Night",
+        "hex": "#1C1E4D",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "golden/2005",
+      "name": "Anthraquinone Blue",
+      "code": "2005",
+      "set": "Fluid",
+      "hex": "#231D3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Velvet",
+        "hex": "#2A2243",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "golden/1464",
+      "name": "Azurite Hue",
+      "code": "1464",
+      "set": "Heavy Body",
+      "hex": "#4078A7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sleep",
+        "hex": "#4579AC",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "golden/1009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "1009",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8554",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "8554",
+      "set": "High Flow",
+      "hex": "#F7E925",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Banana Bombshell",
+        "hex": "#F7E82E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "golden/2009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "2009",
+      "set": "Fluid",
+      "hex": "#F7E925",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Banana Bombshell",
+        "hex": "#F7E82E",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "golden/7009",
+      "name": "Benzimidazolone Yellow Light",
+      "code": "7009",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8553",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "8553",
+      "set": "High Flow",
+      "hex": "#FFD91D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Simpsons Yellow",
+        "hex": "#FFD90F",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "golden/2008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "2008",
+      "set": "Fluid",
+      "hex": "#FFD91D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Simpsons Yellow",
+        "hex": "#FFD90F",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "golden/1008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "1008",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/7008",
+      "name": "Benzimidazolone Yellow Medium",
+      "code": "7008",
+      "set": "OPEN Acrylics",
+      "hex": "#EFDB4B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Longlure Frogfish",
+        "hex": "#EBD84B",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/1007",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "1007",
+      "set": "Heavy Body",
+      "hex": "#FFF256",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lemon Seed",
+        "hex": "#FFF45A",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "golden/6510",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "6510",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFEA03",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Middle Yellow",
+        "hex": "#FFEB00",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "golden/7007",
+      "name": "Bismuth Vanadate Yellow",
+      "code": "7007",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF256",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sweet Lemon Seed",
+        "hex": "#FFF45A",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "golden/6745",
+      "name": "Black",
+      "code": "6745",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#1F2420",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Underworld",
+        "hex": "#1E231C",
+        "delta_e": 1.92
+      }
+    },
+    {
+      "id": "golden/6605",
+      "name": "Blue Violet",
+      "code": "6605",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2E3569",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Koamaru",
+        "hex": "#343467",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "golden/7010",
+      "name": "Bone Black",
+      "code": "7010",
+      "set": "OPEN Acrylics",
+      "hex": "#2A2925",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maire",
+        "hex": "#2A2922",
+        "delta_e": 1.87
+      }
+    },
+    {
+      "id": "golden/1010",
+      "name": "Bone Black",
+      "code": "1010",
+      "set": "Heavy Body",
+      "hex": "#3C3B37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zeus",
+        "hex": "#3B3C38",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "golden/2010",
+      "name": "Bone Black",
+      "code": "2010",
+      "set": "Fluid",
+      "hex": "#2C2C2B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shoe Wax",
+        "hex": "#2B2B2B",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/1020",
+      "name": "Burnt Sienna",
+      "code": "1020",
+      "set": "Heavy Body",
+      "hex": "#552F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Momoshio Brown",
+        "hex": "#542D24",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "golden/7020",
+      "name": "Burnt Sienna",
+      "code": "7020",
+      "set": "OPEN Acrylics",
+      "hex": "#563027",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Momoshio Brown",
+        "hex": "#542D24",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/6730",
+      "name": "Burnt Sienna",
+      "code": "6730",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#833215",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rogan Josh",
+        "hex": "#883311",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "golden/8523",
+      "name": "Burnt Sienna",
+      "code": "8523",
+      "set": "High Flow",
+      "hex": "#7A4029",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnished Russet",
+        "hex": "#794029",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "golden/2020",
+      "name": "Burnt Sienna",
+      "code": "2020",
+      "set": "Fluid",
+      "hex": "#7A4029",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burnished Russet",
+        "hex": "#794029",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "golden/1030",
+      "name": "Burnt Umber",
+      "code": "1030",
+      "set": "Heavy Body",
+      "hex": "#382A27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Betel Nut Dye",
+        "hex": "#352925",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "golden/7030",
+      "name": "Burnt Umber",
+      "code": "7030",
+      "set": "OPEN Acrylics",
+      "hex": "#342B26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Industrial Black",
+        "hex": "#322B26",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "golden/6735",
+      "name": "Burnt Umber",
+      "code": "6735",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#402B1A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Iroko",
+        "hex": "#433120",
+        "delta_e": 2.45
+      }
+    },
+    {
+      "id": "golden/1035",
+      "name": "Burnt Umber Light",
+      "code": "1035",
+      "set": "Heavy Body",
+      "hex": "#382924",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Betel Nut Dye",
+        "hex": "#352925",
+        "delta_e": 1.61
+      }
+    },
+    {
+      "id": "golden/2035",
+      "name": "Burnt Umber Light",
+      "code": "2035",
+      "set": "Fluid",
+      "hex": "#624B44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spiceberry",
+        "hex": "#604941",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "golden/7070",
+      "name": "Cadmium Orange",
+      "code": "7070",
+      "set": "OPEN Acrylics",
+      "hex": "#FD4500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Red",
+        "hex": "#FE4401",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "golden/6530",
+      "name": "Cadmium Orange",
+      "code": "6530",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FE670E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Piñata",
+        "hex": "#FF6611",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "golden/1070",
+      "name": "Cadmium Orange",
+      "code": "1070",
+      "set": "Heavy Body",
+      "hex": "#FD4500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Red",
+        "hex": "#FE4401",
+        "delta_e": 0.27
+      }
+    },
+    {
+      "id": "golden/6505",
+      "name": "Cadmium Primrose",
+      "code": "6505",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FEF116",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Asfar Yellow",
+        "hex": "#FCEF01",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "golden/6565",
+      "name": "Cadmium Red Dark",
+      "code": "6565",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#8A1F17",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Netherworld",
+        "hex": "#881111",
+        "delta_e": 1.85
+      }
+    },
+    {
+      "id": "golden/1080",
+      "name": "Cadmium Red Dark",
+      "code": "1080",
+      "set": "Heavy Body",
+      "hex": "#89181C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shinshu",
+        "hex": "#8F1D21",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "golden/7080",
+      "name": "Cadmium Red Dark",
+      "code": "7080",
+      "set": "OPEN Acrylics",
+      "hex": "#8A191D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shinshu",
+        "hex": "#8F1D21",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "golden/6545",
+      "name": "Cadmium Red Light",
+      "code": "6545",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EF2D11",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arcade Fire",
+        "hex": "#EE3311",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/7090",
+      "name": "Cadmium Red Light",
+      "code": "7090",
+      "set": "OPEN Acrylics",
+      "hex": "#DA4C41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gladiola",
+        "hex": "#D54F43",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/1090",
+      "name": "Cadmium Red Light",
+      "code": "1090",
+      "set": "Heavy Body",
+      "hex": "#D94B41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gladiola",
+        "hex": "#D54F43",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/7100",
+      "name": "Cadmium Red Medium",
+      "code": "7100",
+      "set": "OPEN Acrylics",
+      "hex": "#B91B1C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fiery Garnet",
+        "hex": "#B71E1E",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "golden/1100",
+      "name": "Cadmium Red Medium",
+      "code": "1100",
+      "set": "Heavy Body",
+      "hex": "#C01C1D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Evil Sunz Scarlet",
+        "hex": "#C2191F",
+        "delta_e": 0.72
+      }
+    },
+    {
+      "id": "golden/1552",
+      "name": "Cadmium Red Medium Hue",
+      "code": "1552",
+      "set": "Heavy Body",
+      "hex": "#D50505",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hot Fever",
+        "hex": "#D40301",
+        "delta_e": 0.53
+      }
+    },
+    {
+      "id": "golden/2425",
+      "name": "Cadmium Red Medium Hue",
+      "code": "2425",
+      "set": "Fluid",
+      "hex": "#C04340",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ablaze",
+        "hex": "#C04641",
+        "delta_e": 0.69
+      }
+    },
+    {
+      "id": "golden/1110",
+      "name": "Cadmium Yellow Dark",
+      "code": "1110",
+      "set": "Heavy Body",
+      "hex": "#FFC211",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Yipee",
+        "hex": "#FFC217",
+        "delta_e": 0.21
+      }
+    },
+    {
+      "id": "golden/7110",
+      "name": "Cadmium Yellow Dark",
+      "code": "7110",
+      "set": "OPEN Acrylics",
+      "hex": "#FEC10E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Yipee",
+        "hex": "#FFC217",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "golden/1120",
+      "name": "Cadmium Yellow Light",
+      "code": "1120",
+      "set": "Heavy Body",
+      "hex": "#FFED41",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hollandaise",
+        "hex": "#FFEE44",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "golden/1130",
+      "name": "Cadmium Yellow Medium",
+      "code": "1130",
+      "set": "Heavy Body",
+      "hex": "#FFF12C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Níng Méng Huáng Lemon",
+        "hex": "#FFEF19",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/6520",
+      "name": "Cadmium Yellow Medium",
+      "code": "6520",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFD200",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shining Gold",
+        "hex": "#FFD200",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/7130",
+      "name": "Cadmium Yellow Medium",
+      "code": "7130",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF12C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Níng Méng Huáng Lemon",
+        "hex": "#FFEF19",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/1554",
+      "name": "Cadmium Yellow Medium Hue",
+      "code": "1554",
+      "set": "Heavy Body",
+      "hex": "#FFEC3A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow-Bellied",
+        "hex": "#FFEE33",
+        "delta_e": 0.76
+      }
+    },
+    {
+      "id": "golden/2428",
+      "name": "Cadmium Yellow Medium Hue",
+      "code": "2428",
+      "set": "Fluid",
+      "hex": "#FDC413",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunflower",
+        "hex": "#FFC512",
+        "delta_e": 0.36
+      }
+    },
+    {
+      "id": "golden/1135",
+      "name": "Cadmium Yellow Primrose",
+      "code": "1135",
+      "set": "Heavy Body",
+      "hex": "#F8EE87",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Staff",
+        "hex": "#F7EB83",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/7135",
+      "name": "Cadmium Yellow Primrose",
+      "code": "7135",
+      "set": "OPEN Acrylics",
+      "hex": "#F9F088",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Staff",
+        "hex": "#F7EB83",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "golden/2040",
+      "name": "Carbon Black",
+      "code": "2040",
+      "set": "Fluid",
+      "hex": "#171512",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Kong",
+        "hex": "#161410",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "golden/1040",
+      "name": "Carbon Black",
+      "code": "1040",
+      "set": "Heavy Body",
+      "hex": "#222220",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Petroleum",
+        "hex": "#21211D",
+        "delta_e": 1.43
+      }
+    },
+    {
+      "id": "golden/7040",
+      "name": "Carbon Black",
+      "code": "7040",
+      "set": "OPEN Acrylics",
+      "hex": "#373736",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lacquered Liquorice",
+        "hex": "#383838",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/8524",
+      "name": "Carbon Black",
+      "code": "8524",
+      "set": "High Flow",
+      "hex": "#171512",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "King Kong",
+        "hex": "#161410",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "golden/2051",
+      "name": "Cerulean Blue Deep",
+      "code": "2051",
+      "set": "Fluid",
+      "hex": "#00548D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bandana",
+        "hex": "#01578F",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "golden/1051",
+      "name": "Cerulean Blue Deep",
+      "code": "1051",
+      "set": "Heavy Body",
+      "hex": "#1D3863",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Navy Trim",
+        "hex": "#203462",
+        "delta_e": 2.06
+      }
+    },
+    {
+      "id": "golden/8526",
+      "name": "Cerulean Blue Hue",
+      "code": "8526",
+      "set": "High Flow",
+      "hex": "#0058AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raiden Blue",
+        "hex": "#0056A8",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/6630",
+      "name": "Cerulean Blue Hue",
+      "code": "6630",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#0363AF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cobalt Stone",
+        "hex": "#0264AE",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "golden/7050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "7050",
+      "set": "OPEN Acrylics",
+      "hex": "#3B7AE1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Skies of Cyberspace",
+        "hex": "#4477DD",
+        "delta_e": 1.69
+      }
+    },
+    {
+      "id": "golden/2050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "2050",
+      "set": "Fluid",
+      "hex": "#0058AE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raiden Blue",
+        "hex": "#0056A8",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/1050",
+      "name": "Cerulean Blue, Chromium",
+      "code": "1050",
+      "set": "Heavy Body",
+      "hex": "#4B88E3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Seljuk Blue",
+        "hex": "#4488EE",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "golden/1060",
+      "name": "Chromium Oxide Green",
+      "code": "1060",
+      "set": "Heavy Body",
+      "hex": "#41613A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lady Luck",
+        "hex": "#47613C",
+        "delta_e": 1.57
+      }
+    },
+    {
+      "id": "golden/7060",
+      "name": "Chromium Oxide Green",
+      "code": "7060",
+      "set": "OPEN Acrylics",
+      "hex": "#41643C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Friendly Fairway",
+        "hex": "#3F663E",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "golden/2060",
+      "name": "Chromium Oxide Green",
+      "code": "2060",
+      "set": "Fluid",
+      "hex": "#3C6B3B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arcala Green",
+        "hex": "#3B6C3F",
+        "delta_e": 1.03
+      }
+    },
+    {
+      "id": "golden/7061",
+      "name": "Chromium Oxide Green Dark",
+      "code": "7061",
+      "set": "OPEN Acrylics",
+      "hex": "#365033",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nettle Green",
+        "hex": "#364C2E",
+        "delta_e": 1.73
+      }
+    },
+    {
+      "id": "golden/1061",
+      "name": "Chromium Oxide Green Dark",
+      "code": "1061",
+      "set": "Heavy Body",
+      "hex": "#2B432B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Kornerupine",
+        "hex": "#324632",
+        "delta_e": 2.38
+      }
+    },
+    {
+      "id": "golden/2140",
+      "name": "Cobalt Blue",
+      "code": "2140",
+      "set": "Fluid",
+      "hex": "#0052B4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blizzy Blueberry",
+        "hex": "#1151B4",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/1140",
+      "name": "Cobalt Blue",
+      "code": "1140",
+      "set": "Heavy Body",
+      "hex": "#1F52D1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "New Car",
+        "hex": "#214FC6",
+        "delta_e": 1.65
+      }
+    },
+    {
+      "id": "golden/7140",
+      "name": "Cobalt Blue",
+      "code": "7140",
+      "set": "OPEN Acrylics",
+      "hex": "#1546C6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flying Fish Blue",
+        "hex": "#024ACA",
+        "delta_e": 1.51
+      }
+    },
+    {
+      "id": "golden/1556",
+      "name": "Cobalt Blue Hue",
+      "code": "1556",
+      "set": "Heavy Body",
+      "hex": "#2049B2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night in Manchester",
+        "hex": "#324AB2",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "golden/1142",
+      "name": "Cobalt Green",
+      "code": "1142",
+      "set": "Heavy Body",
+      "hex": "#487065",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Christmas Ivy",
+        "hex": "#477266",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "golden/7142",
+      "name": "Cobalt Green",
+      "code": "7142",
+      "set": "OPEN Acrylics",
+      "hex": "#43695E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smoke Pine",
+        "hex": "#446B61",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/2145",
+      "name": "Cobalt Teal",
+      "code": "2145",
+      "set": "Fluid",
+      "hex": "#00329A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Smalt",
+        "hex": "#003399",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "golden/7145",
+      "name": "Cobalt Teal",
+      "code": "7145",
+      "set": "OPEN Acrylics",
+      "hex": "#569AB6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Steel Light Blue",
+        "hex": "#5599B6",
+        "delta_e": 0.48
+      }
+    },
+    {
+      "id": "golden/1145",
+      "name": "Cobalt Teal",
+      "code": "1145",
+      "set": "Heavy Body",
+      "hex": "#3A9DBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sailfish",
+        "hex": "#2E9CBB",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "golden/6645",
+      "name": "Cobalt Teal",
+      "code": "6645",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#00A6A6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Royal Cloak",
+        "hex": "#16A5A3",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "golden/1144",
+      "name": "Cobalt Turquoise",
+      "code": "1144",
+      "set": "Heavy Body",
+      "hex": "#244F60",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rugged Teal",
+        "hex": "#254E5D",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "golden/7144",
+      "name": "Cobalt Turquoise",
+      "code": "7144",
+      "set": "OPEN Acrylics",
+      "hex": "#245262",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Glitch",
+        "hex": "#2C5463",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "golden/2144",
+      "name": "Cobalt Turquoise",
+      "code": "2144",
+      "set": "Fluid",
+      "hex": "#006677",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Spool",
+        "hex": "#006474",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/1465",
+      "name": "Cobalt Violet Hue",
+      "code": "1465",
+      "set": "Heavy Body",
+      "hex": "#512036",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chilli Black Red",
+        "hex": "#4B1C35",
+        "delta_e": 1.96
+      }
+    },
+    {
+      "id": "golden/6665",
+      "name": "Dark Green",
+      "code": "6665",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#415D44",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Horsetail",
+        "hex": "#3D5D42",
+        "delta_e": 1.24
+      }
+    },
+    {
+      "id": "golden/7147",
+      "name": "Diarylide Yellow",
+      "code": "7147",
+      "set": "OPEN Acrylics",
+      "hex": "#FEBF18",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Yipee",
+        "hex": "#FFC217",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/8527",
+      "name": "Diarylide Yellow",
+      "code": "8527",
+      "set": "High Flow",
+      "hex": "#FFA401",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yamabuki Gold",
+        "hex": "#FFA400",
+        "delta_e": 0.03
+      }
+    },
+    {
+      "id": "golden/2147",
+      "name": "Diarylide Yellow",
+      "code": "2147",
+      "set": "Fluid",
+      "hex": "#FFA401",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yamabuki Gold",
+        "hex": "#FFA400",
+        "delta_e": 0.03
+      }
+    },
+    {
+      "id": "golden/1147",
+      "name": "Diarylide Yellow",
+      "code": "1147",
+      "set": "Heavy Body",
+      "hex": "#FDBC16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mantella Frog",
+        "hex": "#FFBC02",
+        "delta_e": 0.6
+      }
+    },
+    {
+      "id": "golden/1150",
+      "name": "Dioxazine Purple",
+      "code": "1150",
+      "set": "Heavy Body",
+      "hex": "#1F1E3D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Market",
+        "hex": "#222244",
+        "delta_e": 1.62
+      }
+    },
+    {
+      "id": "golden/2150",
+      "name": "Dioxazine Purple",
+      "code": "2150",
+      "set": "Fluid",
+      "hex": "#272142",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Velvet",
+        "hex": "#2A2243",
+        "delta_e": 0.79
+      }
+    },
+    {
+      "id": "golden/7150",
+      "name": "Dioxazine Purple",
+      "code": "7150",
+      "set": "OPEN Acrylics",
+      "hex": "#191B30",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sambucus",
+        "hex": "#17182B",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "golden/6600",
+      "name": "Dioxazine Violet Deep",
+      "code": "6600",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#212032",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Velvet",
+        "hex": "#222233",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "golden/4605",
+      "name": "Fluorescent Blue",
+      "code": "4605",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#018CFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Chill",
+        "hex": "#1E90FF",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "golden/8566",
+      "name": "Fluorescent Blue",
+      "code": "8566",
+      "set": "High Flow",
+      "hex": "#018CFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Clear Chill",
+        "hex": "#1E90FF",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "golden/8567",
+      "name": "Fluorescent Chartreuse",
+      "code": "8567",
+      "set": "High Flow",
+      "hex": "#DCE202",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Gun",
+        "hex": "#DDDD00",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "golden/4615",
+      "name": "Fluorescent Chartreuse",
+      "code": "4615",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#DCE202",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Gun",
+        "hex": "#DDDD00",
+        "delta_e": 1.54
+      }
+    },
+    {
+      "id": "golden/8568",
+      "name": "Fluorescent Green",
+      "code": "8568",
+      "set": "High Flow",
+      "hex": "#50D93A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Juice",
+        "hex": "#3BDE39",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "golden/4620",
+      "name": "Fluorescent Green",
+      "code": "4620",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#50D93A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Juice",
+        "hex": "#3BDE39",
+        "delta_e": 1.58
+      }
+    },
+    {
+      "id": "golden/6795",
+      "name": "Fluorescent Green",
+      "code": "6795",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#01FC5D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cathode Green",
+        "hex": "#00FF55",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "golden/4625",
+      "name": "Fluorescent Magenta",
+      "code": "4625",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF00A0",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nemesia",
+        "hex": "#FF00A0",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/6775",
+      "name": "Fluorescent Orange",
+      "code": "6775",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FF950E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Merin’s Fire",
+        "hex": "#FF9408",
+        "delta_e": 0.26
+      }
+    },
+    {
+      "id": "golden/4630",
+      "name": "Fluorescent Orange",
+      "code": "4630",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF7600",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lucky Orange",
+        "hex": "#FF7700",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "golden/8569",
+      "name": "Fluorescent Orange",
+      "code": "8569",
+      "set": "High Flow",
+      "hex": "#FF7600",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lucky Orange",
+        "hex": "#FF7700",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "golden/4640",
+      "name": "Fluorescent Orange-Yellow",
+      "code": "4640",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FFAE29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sunshine Surprise",
+        "hex": "#FCB02F",
+        "delta_e": 1.12
+      }
+    },
+    {
+      "id": "golden/4645",
+      "name": "Fluorescent Pink",
+      "code": "4645",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FF14A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shocking Pink",
+        "hex": "#FE02A2",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "golden/6785",
+      "name": "Fluorescent Pink",
+      "code": "6785",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FE408A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raspberry Shortcake",
+        "hex": "#FF3888",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/8570",
+      "name": "Fluorescent Pink",
+      "code": "8570",
+      "set": "High Flow",
+      "hex": "#FF14A3",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Shocking Pink",
+        "hex": "#FE02A2",
+        "delta_e": 0.68
+      }
+    },
+    {
+      "id": "golden/6780",
+      "name": "Fluorescent Red",
+      "code": "6780",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FD5D47",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bruschetta Tomato",
+        "hex": "#FF6347",
+        "delta_e": 1.7
+      }
+    },
+    {
+      "id": "golden/4650",
+      "name": "Fluorescent Red",
+      "code": "4650",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#FD4245",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tomato Frog",
+        "hex": "#FF4444",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/6790",
+      "name": "Fluorescent Violet",
+      "code": "6790",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#D213BB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Explosive Purple",
+        "hex": "#CC11BB",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "golden/6770",
+      "name": "Fluorescent Yellow",
+      "code": "6770",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#F5FF3C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pickled Pineapple",
+        "hex": "#EEFF33",
+        "delta_e": 1.32
+      }
+    },
+    {
+      "id": "golden/1160",
+      "name": "Graphite Gray",
+      "code": "1160",
+      "set": "Heavy Body",
+      "hex": "#464543",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ravenwood",
+        "hex": "#464543",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1170",
+      "name": "Green Gold",
+      "code": "1170",
+      "set": "Heavy Body",
+      "hex": "#576122",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tabbouleh Green",
+        "hex": "#526525",
+        "delta_e": 2.79
+      }
+    },
+    {
+      "id": "golden/2170",
+      "name": "Green Gold",
+      "code": "2170",
+      "set": "Fluid",
+      "hex": "#667400",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Topiary Green",
+        "hex": "#667700",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "golden/8528",
+      "name": "Green Gold",
+      "code": "8528",
+      "set": "High Flow",
+      "hex": "#667400",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Topiary Green",
+        "hex": "#667700",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "golden/7170",
+      "name": "Green Gold",
+      "code": "7170",
+      "set": "OPEN Acrylics",
+      "hex": "#808028",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Trendy Green",
+        "hex": "#7E8424",
+        "delta_e": 2.11
+      }
+    },
+    {
+      "id": "golden/2191",
+      "name": "Hansa Yellow Opaque",
+      "code": "2191",
+      "set": "Fluid",
+      "hex": "#FFD500",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinag Gold",
+        "hex": "#FFD500",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1191",
+      "name": "Hansa Yellow Opaque",
+      "code": "1191",
+      "set": "Heavy Body",
+      "hex": "#FFF436",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Ginkgo",
+        "hex": "#F9F525",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "golden/7191",
+      "name": "Hansa Yellow Opaque",
+      "code": "7191",
+      "set": "OPEN Acrylics",
+      "hex": "#FFF436",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Ginkgo",
+        "hex": "#F9F525",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "golden/1454",
+      "name": "Hookers Green Hue",
+      "code": "1454",
+      "set": "Heavy Body",
+      "hex": "#222627",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Graphite Black",
+        "hex": "#262A2B",
+        "delta_e": 1.26
+      }
+    },
+    {
+      "id": "golden/2436",
+      "name": "India Yellow Hue",
+      "code": "2436",
+      "set": "Fluid",
+      "hex": "#DC7600",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Outburst",
+        "hex": "#DD7700",
+        "delta_e": 0.34
+      }
+    },
+    {
+      "id": "golden/1455",
+      "name": "India Yellow Hue",
+      "code": "1455",
+      "set": "Heavy Body",
+      "hex": "#FFA01E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Fruit",
+        "hex": "#FE9E13",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "golden/7455",
+      "name": "India Yellow Hue",
+      "code": "7455",
+      "set": "OPEN Acrylics",
+      "hex": "#F59A16",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "DodgeRoll Gold",
+        "hex": "#F79A12",
+        "delta_e": 0.4
+      }
+    },
+    {
+      "id": "golden/8571",
+      "name": "Iridescent Copper (Fine)",
+      "code": "8571",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Bell Pepper",
+        "hex": "#FFDD33",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8572",
+      "name": "Iridescent Gold (Fine)",
+      "code": "8572",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Bell Pepper",
+        "hex": "#FFDD33",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8574",
+      "name": "Iridescent Pearl (Fine)",
+      "code": "8574",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Bell Pepper",
+        "hex": "#FFDD33",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8573",
+      "name": "Iridescent Silver (Fine)",
+      "code": "8573",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Bell Pepper",
+        "hex": "#FFDD33",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1195",
+      "name": "Jenkins Green",
+      "code": "1195",
+      "set": "Heavy Body",
+      "hex": "#1E2424",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Charleston Green",
+        "hex": "#232B2B",
+        "delta_e": 2.31
+      }
+    },
+    {
+      "id": "golden/2195",
+      "name": "Jenkins Green",
+      "code": "2195",
+      "set": "Fluid",
+      "hex": "#0D2100",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yuzu Soy",
+        "hex": "#112200",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "golden/7195",
+      "name": "Jenkins Green",
+      "code": "7195",
+      "set": "OPEN Acrylics",
+      "hex": "#191E21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Satin Deep Black",
+        "hex": "#1C1E21",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "golden/1574",
+      "name": "Light Bismuth Yellow",
+      "code": "1574",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1558",
+      "name": "Light Green (blue Shade)",
+      "code": "1558",
+      "set": "Heavy Body",
+      "hex": "#55C66C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zombie Green",
+        "hex": "#54C571",
+        "delta_e": 1.06
+      }
+    },
+    {
+      "id": "golden/1560",
+      "name": "Light Green (yellow Shade)",
+      "code": "1560",
+      "set": "Heavy Body",
+      "hex": "#82D873",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Lacewing",
+        "hex": "#8AD370",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "golden/1562",
+      "name": "Light Magenta",
+      "code": "1562",
+      "set": "Heavy Body",
+      "hex": "#FD879F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strawberry Soap",
+        "hex": "#F7879A",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "golden/1575",
+      "name": "Light Orange",
+      "code": "1575",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1577",
+      "name": "Light Phthalo Blue",
+      "code": "1577",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1578",
+      "name": "Light Phthalo Green",
+      "code": "1578",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1564",
+      "name": "Light Turquoise (phthalo)",
+      "code": "1564",
+      "set": "Heavy Body",
+      "hex": "#287683",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Panorama",
+        "hex": "#327A88",
+        "delta_e": 1.9
+      }
+    },
+    {
+      "id": "golden/1566",
+      "name": "Light Ultramarine Blue",
+      "code": "1566",
+      "set": "Heavy Body",
+      "hex": "#6797EB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Guilliman Blue",
+        "hex": "#6495ED",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "golden/7566",
+      "name": "Light Ultramarine Blue",
+      "code": "7566",
+      "set": "OPEN Acrylics",
+      "hex": "#6595E9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Guilliman Blue",
+        "hex": "#6495ED",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "golden/1568",
+      "name": "Light Violet",
+      "code": "1568",
+      "set": "Heavy Body",
+      "hex": "#625BA9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yuè Guāng Lán Moonlight",
+        "hex": "#5959AB",
+        "delta_e": 2.1
+      }
+    },
+    {
+      "id": "golden/2437",
+      "name": "Manganese Blue Hue",
+      "code": "2437",
+      "set": "Fluid",
+      "hex": "#0160A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Directoire Blue",
+        "hex": "#0061A8",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "golden/7457",
+      "name": "Manganese Blue Hue",
+      "code": "7457",
+      "set": "OPEN Acrylics",
+      "hex": "#6299CF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Lothern Blue",
+        "hex": "#6699CC",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "golden/1457",
+      "name": "Manganese Blue Hue",
+      "code": "1457",
+      "set": "Heavy Body",
+      "hex": "#5489C4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blueberry Popover",
+        "hex": "#5488C0",
+        "delta_e": 0.57
+      }
+    },
+    {
+      "id": "golden/1200",
+      "name": "Mars Black",
+      "code": "1200",
+      "set": "Heavy Body",
+      "hex": "#272725",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dire Wolf",
+        "hex": "#282828",
+        "delta_e": 1.5
+      }
+    },
+    {
+      "id": "golden/7202",
+      "name": "Mars Yellow",
+      "code": "7202",
+      "set": "OPEN Acrylics",
+      "hex": "#963F2C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Tia Maria",
+        "hex": "#97422D",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "golden/1202",
+      "name": "Mars Yellow",
+      "code": "1202",
+      "set": "Heavy Body",
+      "hex": "#913C27",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fire",
+        "hex": "#8F3F2A",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "golden/6705",
+      "name": "Mars Yellow Deep",
+      "code": "6705",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#AF7B32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Billet",
+        "hex": "#AD7C35",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "golden/1570",
+      "name": "Medium Magenta",
+      "code": "1570",
+      "set": "Heavy Body",
+      "hex": "#CE3D7E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pink Yarrow",
+        "hex": "#D13D82",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/1572",
+      "name": "Medium Violet",
+      "code": "1572",
+      "set": "Heavy Body",
+      "hex": "#3C2C50",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Operetta Mauve",
+        "hex": "#3A284C",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "golden/1442",
+      "name": "N2 Neutral Gray",
+      "code": "1442",
+      "set": "Heavy Body",
+      "hex": "#433C36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turkish Coffee",
+        "hex": "#483F39",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "golden/1443",
+      "name": "N3 Neutral Gray",
+      "code": "1443",
+      "set": "Heavy Body",
+      "hex": "#3A3935",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Zeus",
+        "hex": "#3B3C38",
+        "delta_e": 1.53
+      }
+    },
+    {
+      "id": "golden/1444",
+      "name": "N4 Neutral Gray",
+      "code": "1444",
+      "set": "Heavy Body",
+      "hex": "#4A4A48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thunder",
+        "hex": "#4D4D4B",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "golden/7445",
+      "name": "N5 Neutral Gray",
+      "code": "7445",
+      "set": "OPEN Acrylics",
+      "hex": "#6D6968",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dotted Dove",
+        "hex": "#6C6868",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "golden/8533",
+      "name": "N5 Neutral Gray",
+      "code": "8533",
+      "set": "High Flow",
+      "hex": "#848589",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Victorian Pewter",
+        "hex": "#828388",
+        "delta_e": 0.9
+      }
+    },
+    {
+      "id": "golden/1445",
+      "name": "N5 Neutral Gray",
+      "code": "1445",
+      "set": "Heavy Body",
+      "hex": "#6F6B6A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Strait Fog",
+        "hex": "#6F6A68",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "golden/1446",
+      "name": "N6 Neutral Gray",
+      "code": "1446",
+      "set": "Heavy Body",
+      "hex": "#979392",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flint Rock",
+        "hex": "#989493",
+        "delta_e": 0.33
+      }
+    },
+    {
+      "id": "golden/1447",
+      "name": "N7 Neutral Gray",
+      "code": "1447",
+      "set": "Heavy Body",
+      "hex": "#BBB7B6",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Essential Grey",
+        "hex": "#BCB8B6",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/1448",
+      "name": "N8 Neutral Gray",
+      "code": "1448",
+      "set": "Heavy Body",
+      "hex": "#E3DFDE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Snow Peak",
+        "hex": "#E0DCDB",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "golden/6570",
+      "name": "Naphthol Pink",
+      "code": "6570",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#ED4350",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Watermelonade",
+        "hex": "#EB4652",
+        "delta_e": 0.5
+      }
+    },
+    {
+      "id": "golden/8532",
+      "name": "Naphthol Red Light",
+      "code": "8532",
+      "set": "High Flow",
+      "hex": "#C83E34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "100 Mph",
+        "hex": "#C93F38",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "golden/2210",
+      "name": "Naphthol Red Light",
+      "code": "2210",
+      "set": "Fluid",
+      "hex": "#C83E34",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "100 Mph",
+        "hex": "#C93F38",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "golden/7210",
+      "name": "Naphthol Red Light",
+      "code": "7210",
+      "set": "OPEN Acrylics",
+      "hex": "#E60203",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Little Red Corvette",
+        "hex": "#E50102",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "golden/6550",
+      "name": "Naphthol Red Light",
+      "code": "6550",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EF290F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rage of Quel’Danas",
+        "hex": "#F32507",
+        "delta_e": 0.86
+      }
+    },
+    {
+      "id": "golden/1210",
+      "name": "Naphthol Red Light",
+      "code": "1210",
+      "set": "Heavy Body",
+      "hex": "#E80A09",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "KU Crimson",
+        "hex": "#E8000D",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "golden/7220",
+      "name": "Naphthol Red Medium",
+      "code": "7220",
+      "set": "OPEN Acrylics",
+      "hex": "#950810",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Stizza",
+        "hex": "#900910",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "golden/1220",
+      "name": "Naphthol Red Medium",
+      "code": "1220",
+      "set": "Heavy Body",
+      "hex": "#A10614",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dear Darling",
+        "hex": "#A30112",
+        "delta_e": 0.52
+      }
+    },
+    {
+      "id": "golden/2220",
+      "name": "Naphthol Red Medium",
+      "code": "2220",
+      "set": "Fluid",
+      "hex": "#A32832",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Japanese Carmine",
+        "hex": "#9F2832",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "golden/6695",
+      "name": "Naples Yellow Deep",
+      "code": "6695",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EAA435",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Acorn Squash",
+        "hex": "#EDA740",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "golden/7459",
+      "name": "Naples Yellow Hue",
+      "code": "7459",
+      "set": "OPEN Acrylics",
+      "hex": "#F0CD71",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bee Pollen",
+        "hex": "#EBCA70",
+        "delta_e": 0.97
+      }
+    },
+    {
+      "id": "golden/1459",
+      "name": "Naples Yellow Hue",
+      "code": "1459",
+      "set": "Heavy Body",
+      "hex": "#F3D074",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Summertime",
+        "hex": "#F2D178",
+        "delta_e": 0.67
+      }
+    },
+    {
+      "id": "golden/2438",
+      "name": "Naples Yellow Hue",
+      "code": "2438",
+      "set": "Fluid",
+      "hex": "#DFC07B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chalky",
+        "hex": "#DFC281",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "golden/1225",
+      "name": "Nickel Azo Yellow",
+      "code": "1225",
+      "set": "Heavy Body",
+      "hex": "#C36B12",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Thai Curry",
+        "hex": "#BD6B1C",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "golden/8534",
+      "name": "Nickel Azo Yellow",
+      "code": "8534",
+      "set": "High Flow",
+      "hex": "#AF791B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Falafel",
+        "hex": "#AA7711",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "golden/2225",
+      "name": "Nickel Azo Yellow",
+      "code": "2225",
+      "set": "Fluid",
+      "hex": "#AF791B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Falafel",
+        "hex": "#AA7711",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "golden/7225",
+      "name": "Nickel Azo Yellow",
+      "code": "7225",
+      "set": "OPEN Acrylics",
+      "hex": "#E4982A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Persimmon",
+        "hex": "#E59B34",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "golden/6500",
+      "name": "Pale Yellow",
+      "code": "6500",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FCEF6F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Witch Hazel",
+        "hex": "#FBF073",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "golden/1240",
+      "name": "Payne's Gray",
+      "code": "1240",
+      "set": "Heavy Body",
+      "hex": "#282C37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sky Captain",
+        "hex": "#242933",
+        "delta_e": 1.4
+      }
+    },
+    {
+      "id": "golden/7240",
+      "name": "Payne's Gray",
+      "code": "7240",
+      "set": "OPEN Acrylics",
+      "hex": "#262B31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Space Echo",
+        "hex": "#292E35",
+        "delta_e": 1.16
+      }
+    },
+    {
+      "id": "golden/6750",
+      "name": "Payne's Gray",
+      "code": "6750",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#151B1B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Neverything",
+        "hex": "#13181B",
+        "delta_e": 2.74
+      }
+    },
+    {
+      "id": "golden/2240",
+      "name": "Payne's Gray",
+      "code": "2240",
+      "set": "Fluid",
+      "hex": "#2C3149",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ahoy",
+        "hex": "#2A3149",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "golden/6660",
+      "name": "Permanent Green",
+      "code": "6660",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#027441",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Succulents",
+        "hex": "#007744",
+        "delta_e": 1.05
+      }
+    },
+    {
+      "id": "golden/1250",
+      "name": "Permanent Green Light",
+      "code": "1250",
+      "set": "Heavy Body",
+      "hex": "#175445",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bagpiper",
+        "hex": "#1C5544",
+        "delta_e": 1.01
+      }
+    },
+    {
+      "id": "golden/2250",
+      "name": "Permanent Green Light",
+      "code": "2250",
+      "set": "Fluid",
+      "hex": "#007740",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gale of the Wind",
+        "hex": "#007844",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/8535",
+      "name": "Permanent Green Light",
+      "code": "8535",
+      "set": "High Flow",
+      "hex": "#007740",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gale of the Wind",
+        "hex": "#007844",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/7250",
+      "name": "Permanent Green Light",
+      "code": "7250",
+      "set": "OPEN Acrylics",
+      "hex": "#1A5446",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bagpiper",
+        "hex": "#1C5544",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "golden/7252",
+      "name": "Permanent Maroon",
+      "code": "7252",
+      "set": "OPEN Acrylics",
+      "hex": "#3E1B19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rustic Red",
+        "hex": "#3A181A",
+        "delta_e": 2.25
+      }
+    },
+    {
+      "id": "golden/1252",
+      "name": "Permanent Maroon",
+      "code": "1252",
+      "set": "Heavy Body",
+      "hex": "#5D1C22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Spinel Red",
+        "hex": "#59181C",
+        "delta_e": 1.67
+      }
+    },
+    {
+      "id": "golden/7253",
+      "name": "Permanent Violet Dark",
+      "code": "7253",
+      "set": "OPEN Acrylics",
+      "hex": "#3A1A2F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightly Voyager",
+        "hex": "#391531",
+        "delta_e": 2.59
+      }
+    },
+    {
+      "id": "golden/8536",
+      "name": "Permanent Violet Dark",
+      "code": "8536",
+      "set": "High Flow",
+      "hex": "#442146",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Void",
+        "hex": "#442244",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/1253",
+      "name": "Permanent Violet Dark",
+      "code": "1253",
+      "set": "Heavy Body",
+      "hex": "#3A1A32",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nightly Voyager",
+        "hex": "#391531",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "golden/2253",
+      "name": "Permanent Violet Dark",
+      "code": "2253",
+      "set": "Fluid",
+      "hex": "#442146",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Purple Void",
+        "hex": "#442244",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/6515",
+      "name": "Permanent Yellow",
+      "code": "6515",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFE900",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Genoa Lemon",
+        "hex": "#FDE910",
+        "delta_e": 0.55
+      }
+    },
+    {
+      "id": "golden/6525",
+      "name": "Permanent Yellow Deep",
+      "code": "6525",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFAF02",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Turmeric Root",
+        "hex": "#FEAE0D",
+        "delta_e": 0.49
+      }
+    },
+    {
+      "id": "golden/4900",
+      "name": "Phosphorescent Green",
+      "code": "4900",
+      "set": "Fluorescent & Phosphorescent Colors",
+      "hex": "#CCFF99",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Celery Mousse",
+        "hex": "#C1FD95",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "golden/8537",
+      "name": "Phthalo Blue (Green Shade)",
+      "code": "8537",
+      "set": "High Flow",
+      "hex": "#000050",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alucard’s Night",
+        "hex": "#000055",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "golden/2255",
+      "name": "Phthalo Blue (Green Shade)",
+      "code": "2255",
+      "set": "Fluid",
+      "hex": "#000050",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Alucard’s Night",
+        "hex": "#000055",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "golden/2260",
+      "name": "Phthalo Blue (Red Shade)",
+      "code": "2260",
+      "set": "Fluid",
+      "hex": "#002F7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Below the Surface",
+        "hex": "#0A2F7C",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/1255",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "1255",
+      "set": "Heavy Body",
+      "hex": "#0B3371",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atlantic Navy",
+        "hex": "#13336F",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "golden/7255",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "7255",
+      "set": "OPEN Acrylics",
+      "hex": "#10357B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cobalt Blue Tarantula",
+        "hex": "#02367D",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "golden/6620",
+      "name": "Phthalo Blue (green Shade)",
+      "code": "6620",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2F3A70",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Good Karma",
+        "hex": "#333C76",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "golden/1260",
+      "name": "Phthalo Blue (red Shade)",
+      "code": "1260",
+      "set": "Heavy Body",
+      "hex": "#0E41AA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indian Peafowl",
+        "hex": "#0044AA",
+        "delta_e": 1.35
+      }
+    },
+    {
+      "id": "golden/7260",
+      "name": "Phthalo Blue (red Shade)",
+      "code": "7260",
+      "set": "OPEN Acrylics",
+      "hex": "#1B43A2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indian Peafowl",
+        "hex": "#0044AA",
+        "delta_e": 1.47
+      }
+    },
+    {
+      "id": "golden/2270",
+      "name": "Phthalo Green (Blue Shade)",
+      "code": "2270",
+      "set": "Fluid",
+      "hex": "#002932",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daintree",
+        "hex": "#012731",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "golden/8538",
+      "name": "Phthalo Green (Blue Shade)",
+      "code": "8538",
+      "set": "High Flow",
+      "hex": "#002932",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Daintree",
+        "hex": "#012731",
+        "delta_e": 1.25
+      }
+    },
+    {
+      "id": "golden/2275",
+      "name": "Phthalo Green (Yellow Shade)",
+      "code": "2275",
+      "set": "Fluid",
+      "hex": "#00382F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Night Turquoise",
+        "hex": "#003833",
+        "delta_e": 2.05
+      }
+    },
+    {
+      "id": "golden/6650",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "6650",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#074D42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Fjord Green",
+        "hex": "#005043",
+        "delta_e": 1.38
+      }
+    },
+    {
+      "id": "golden/1270",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "1270",
+      "set": "Heavy Body",
+      "hex": "#185A59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Sea Green",
+        "hex": "#095859",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "golden/7270",
+      "name": "Phthalo Green (blue Shade)",
+      "code": "7270",
+      "set": "OPEN Acrylics",
+      "hex": "#0B373A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Artist Blue",
+        "hex": "#01343A",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "golden/7275",
+      "name": "Phthalo Green (yellow Shade)",
+      "code": "7275",
+      "set": "OPEN Acrylics",
+      "hex": "#146847",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Greens",
+        "hex": "#016844",
+        "delta_e": 1.17
+      }
+    },
+    {
+      "id": "golden/1275",
+      "name": "Phthalo Green (yellow Shade)",
+      "code": "1275",
+      "set": "Heavy Body",
+      "hex": "#1B8B59",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Center Field",
+        "hex": "#008B56",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "golden/2420",
+      "name": "Primary Cyan",
+      "code": "2420",
+      "set": "Fluid",
+      "hex": "#004EAC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aarhusian Sky",
+        "hex": "#1150AF",
+        "delta_e": 0.93
+      }
+    },
+    {
+      "id": "golden/1500",
+      "name": "Primary Cyan",
+      "code": "1500",
+      "set": "Heavy Body",
+      "hex": "#193E8E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mystery Oceans",
+        "hex": "#063C89",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "golden/2421",
+      "name": "Primary Magenta",
+      "code": "2421",
+      "set": "Fluid",
+      "hex": "#BA1A22",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ruby Star",
+        "hex": "#BB1122",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "golden/1510",
+      "name": "Primary Magenta",
+      "code": "1510",
+      "set": "Heavy Body",
+      "hex": "#D61625",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cherry Shine",
+        "hex": "#D81D26",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/1530",
+      "name": "Primary Yellow",
+      "code": "1530",
+      "set": "Heavy Body",
+      "hex": "#FEF43A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow-Bellied",
+        "hex": "#FFEE33",
+        "delta_e": 1.89
+      }
+    },
+    {
+      "id": "golden/2422",
+      "name": "Primary Yellow",
+      "code": "2422",
+      "set": "Fluid",
+      "hex": "#FFD115",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Happy Face",
+        "hex": "#FFD10B",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "golden/1460",
+      "name": "Prussian Blue Hue",
+      "code": "1460",
+      "set": "Heavy Body",
+      "hex": "#1A2541",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cool Balaclavas Are Forever",
+        "hex": "#18233D",
+        "delta_e": 0.98
+      }
+    },
+    {
+      "id": "golden/7460",
+      "name": "Prussian Blue Hue",
+      "code": "7460",
+      "set": "OPEN Acrylics",
+      "hex": "#222F51",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Boatswain",
+        "hex": "#243256",
+        "delta_e": 1.13
+      }
+    },
+    {
+      "id": "golden/2439",
+      "name": "Prussian Blue Hue",
+      "code": "2439",
+      "set": "Fluid",
+      "hex": "#251947",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Prune Plum",
+        "hex": "#211640",
+        "delta_e": 1.52
+      }
+    },
+    {
+      "id": "golden/1276",
+      "name": "Pyrrole Orange",
+      "code": "1276",
+      "set": "Heavy Body",
+      "hex": "#FF2904",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maraschino",
+        "hex": "#FF2600",
+        "delta_e": 0.3
+      }
+    },
+    {
+      "id": "golden/2276",
+      "name": "Pyrrole Orange",
+      "code": "2276",
+      "set": "Fluid",
+      "hex": "#F3491E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reddish Orange",
+        "hex": "#F8481C",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/7276",
+      "name": "Pyrrole Orange",
+      "code": "7276",
+      "set": "OPEN Acrylics",
+      "hex": "#FD2901",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Maraschino",
+        "hex": "#FF2600",
+        "delta_e": 0.32
+      }
+    },
+    {
+      "id": "golden/8539",
+      "name": "Pyrrole Orange",
+      "code": "8539",
+      "set": "High Flow",
+      "hex": "#F3491E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Reddish Orange",
+        "hex": "#F8481C",
+        "delta_e": 0.87
+      }
+    },
+    {
+      "id": "golden/7277",
+      "name": "Pyrrole Red",
+      "code": "7277",
+      "set": "OPEN Acrylics",
+      "hex": "#BD0004",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloody Mary",
+        "hex": "#BA0105",
+        "delta_e": 0.62
+      }
+    },
+    {
+      "id": "golden/6555",
+      "name": "Pyrrole Red",
+      "code": "6555",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#D3301D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pure Red",
+        "hex": "#D22D1D",
+        "delta_e": 0.64
+      }
+    },
+    {
+      "id": "golden/2277",
+      "name": "Pyrrole Red",
+      "code": "2277",
+      "set": "Fluid",
+      "hex": "#C23739",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crimson Glow",
+        "hex": "#C13939",
+        "delta_e": 0.41
+      }
+    },
+    {
+      "id": "golden/1277",
+      "name": "Pyrrole Red",
+      "code": "1277",
+      "set": "Heavy Body",
+      "hex": "#C50003",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Threatening Red",
+        "hex": "#C30305",
+        "delta_e": 0.43
+      }
+    },
+    {
+      "id": "golden/1278",
+      "name": "Pyrrole Red Dark",
+      "code": "1278",
+      "set": "Heavy Body",
+      "hex": "#8D1018",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noble Red",
+        "hex": "#92181D",
+        "delta_e": 1.45
+      }
+    },
+    {
+      "id": "golden/7278",
+      "name": "Pyrrole Red Dark",
+      "code": "7278",
+      "set": "OPEN Acrylics",
+      "hex": "#860710",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodthirsty",
+        "hex": "#880011",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "golden/1279",
+      "name": "Pyrrole Red Light",
+      "code": "1279",
+      "set": "Heavy Body",
+      "hex": "#E91509",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Electric Red",
+        "hex": "#E60000",
+        "delta_e": 1.37
+      }
+    },
+    {
+      "id": "golden/2279",
+      "name": "Pyrrole Red Light",
+      "code": "2279",
+      "set": "Fluid",
+      "hex": "#D13E37",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blade Runner Red",
+        "hex": "#D43C35",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "golden/7301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "7301",
+      "set": "OPEN Acrylics",
+      "hex": "#DA4E19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Firebird Tail Lights",
+        "hex": "#DD5522",
+        "delta_e": 1.76
+      }
+    },
+    {
+      "id": "golden/8542",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "8542",
+      "set": "High Flow",
+      "hex": "#893F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Niçoise",
+        "hex": "#88432E",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "golden/1301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "1301",
+      "set": "Heavy Body",
+      "hex": "#E96125",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Halloween Party",
+        "hex": "#EB6123",
+        "delta_e": 0.44
+      }
+    },
+    {
+      "id": "golden/2301",
+      "name": "Quinacridone  Nickel Azo Gold",
+      "code": "2301",
+      "set": "Fluid",
+      "hex": "#893F26",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Olive Niçoise",
+        "hex": "#88432E",
+        "delta_e": 1.84
+      }
+    },
+    {
+      "id": "golden/8540",
+      "name": "Quinacridone Magenta",
+      "code": "8540",
+      "set": "High Flow",
+      "hex": "#870412",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodthirsty",
+        "hex": "#880011",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "golden/7305",
+      "name": "Quinacridone Magenta",
+      "code": "7305",
+      "set": "OPEN Acrylics",
+      "hex": "#611321",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Humour",
+        "hex": "#661122",
+        "delta_e": 1.09
+      }
+    },
+    {
+      "id": "golden/2305",
+      "name": "Quinacridone Magenta",
+      "code": "2305",
+      "set": "Fluid",
+      "hex": "#870412",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bloodthirsty",
+        "hex": "#880011",
+        "delta_e": 0.31
+      }
+    },
+    {
+      "id": "golden/1305",
+      "name": "Quinacridone Magenta",
+      "code": "1305",
+      "set": "Heavy Body",
+      "hex": "#991431",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "French Winery",
+        "hex": "#991133",
+        "delta_e": 0.94
+      }
+    },
+    {
+      "id": "golden/7310",
+      "name": "Quinacridone Red",
+      "code": "7310",
+      "set": "OPEN Acrylics",
+      "hex": "#BF0218",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Tolumnia Orchid",
+        "hex": "#BE0119",
+        "delta_e": 0.39
+      }
+    },
+    {
+      "id": "golden/2310",
+      "name": "Quinacridone Red",
+      "code": "2310",
+      "set": "Fluid",
+      "hex": "#B91D14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinoper Red",
+        "hex": "#BB1111",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "golden/1310",
+      "name": "Quinacridone Red",
+      "code": "1310",
+      "set": "Heavy Body",
+      "hex": "#B80113",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Red Baron",
+        "hex": "#BB0011",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "golden/8541",
+      "name": "Quinacridone Red",
+      "code": "8541",
+      "set": "High Flow",
+      "hex": "#B91D14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sinoper Red",
+        "hex": "#BB1111",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "golden/2330",
+      "name": "Quinacridone Violet",
+      "code": "2330",
+      "set": "Fluid",
+      "hex": "#87001D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Barbera",
+        "hex": "#8B031C",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "golden/1330",
+      "name": "Quinacridone Violet",
+      "code": "1330",
+      "set": "Heavy Body",
+      "hex": "#5C1823",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pohutukawa",
+        "hex": "#651C26",
+        "delta_e": 2.08
+      }
+    },
+    {
+      "id": "golden/7340",
+      "name": "Raw Sienna",
+      "code": "7340",
+      "set": "OPEN Acrylics",
+      "hex": "#915A31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Carrageen Moss",
+        "hex": "#905D36",
+        "delta_e": 1.28
+      }
+    },
+    {
+      "id": "golden/1340",
+      "name": "Raw Sienna",
+      "code": "1340",
+      "set": "Heavy Body",
+      "hex": "#9E5A33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Indochine",
+        "hex": "#9C5B34",
+        "delta_e": 0.71
+      }
+    },
+    {
+      "id": "golden/2340",
+      "name": "Raw Sienna",
+      "code": "2340",
+      "set": "Fluid",
+      "hex": "#A77846",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Butter Caramel",
+        "hex": "#A67A4C",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "golden/8543",
+      "name": "Raw Sienna",
+      "code": "8543",
+      "set": "High Flow",
+      "hex": "#A77846",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Butter Caramel",
+        "hex": "#A67A4C",
+        "delta_e": 1.21
+      }
+    },
+    {
+      "id": "golden/7350",
+      "name": "Raw Umber",
+      "code": "7350",
+      "set": "OPEN Acrylics",
+      "hex": "#322D29",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Noir",
+        "hex": "#312B27",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "golden/8544",
+      "name": "Raw Umber",
+      "code": "8544",
+      "set": "High Flow",
+      "hex": "#4A433E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Espresso Beans",
+        "hex": "#4C443E",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/2350",
+      "name": "Raw Umber",
+      "code": "2350",
+      "set": "Fluid",
+      "hex": "#4A433E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Espresso Beans",
+        "hex": "#4C443E",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/1350",
+      "name": "Raw Umber",
+      "code": "1350",
+      "set": "Heavy Body",
+      "hex": "#302D28",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dryad Bark",
+        "hex": "#33312D",
+        "delta_e": 1.48
+      }
+    },
+    {
+      "id": "golden/6740",
+      "name": "Raw Umber",
+      "code": "6740",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#2D2A19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Metal Construction Green",
+        "hex": "#2F2E1F",
+        "delta_e": 1.98
+      }
+    },
+    {
+      "id": "golden/2360",
+      "name": "Red Oxide",
+      "code": "2360",
+      "set": "Fluid",
+      "hex": "#90463A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chocolate Explosion",
+        "hex": "#8E473B",
+        "delta_e": 0.58
+      }
+    },
+    {
+      "id": "golden/7360",
+      "name": "Red Oxide",
+      "code": "7360",
+      "set": "OPEN Acrylics",
+      "hex": "#6D2D24",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cypress Bark Red",
+        "hex": "#6F3028",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "golden/6720",
+      "name": "Red Oxide",
+      "code": "6720",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#742916",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hazelnut Kisses",
+        "hex": "#742719",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "golden/1360",
+      "name": "Red Oxide",
+      "code": "1360",
+      "set": "Heavy Body",
+      "hex": "#6A2A21",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cypress Bark Red",
+        "hex": "#6F3028",
+        "delta_e": 1.88
+      }
+    },
+    {
+      "id": "golden/6595",
+      "name": "Red Violet",
+      "code": "6595",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#6F3568",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Gloxinia",
+        "hex": "#693162",
+        "delta_e": 1.63
+      }
+    },
+    {
+      "id": "golden/2440",
+      "name": "Sap Green Hue",
+      "code": "2440",
+      "set": "Fluid",
+      "hex": "#242D14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Pines",
+        "hex": "#17240B",
+        "delta_e": 3.72
+      }
+    },
+    {
+      "id": "golden/7461",
+      "name": "Sap Green Hue",
+      "code": "7461",
+      "set": "OPEN Acrylics",
+      "hex": "#5C5B42",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Devlan Mud",
+        "hex": "#5A573F",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "golden/1461",
+      "name": "Sap Green Hue",
+      "code": "1461",
+      "set": "Heavy Body",
+      "hex": "#565640",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Second Nature",
+        "hex": "#585642",
+        "delta_e": 1.44
+      }
+    },
+    {
+      "id": "golden/8545",
+      "name": "Sap Green Hue",
+      "code": "8545",
+      "set": "High Flow",
+      "hex": "#242D14",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Midnight Pines",
+        "hex": "#17240B",
+        "delta_e": 3.72
+      }
+    },
+    {
+      "id": "golden/8546",
+      "name": "Sepia",
+      "code": "8546",
+      "set": "High Flow",
+      "hex": "#3C2814",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Black Slug",
+        "hex": "#332211",
+        "delta_e": 2.58
+      }
+    },
+    {
+      "id": "golden/1467",
+      "name": "Smalt Hue",
+      "code": "1467",
+      "set": "Heavy Body",
+      "hex": "#4A5A95",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Dude",
+        "hex": "#4A5C94",
+        "delta_e": 0.82
+      }
+    },
+    {
+      "id": "golden/1369",
+      "name": "Teal",
+      "code": "1369",
+      "set": "Heavy Body",
+      "hex": "#F6F6F4",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bleached Silk",
+        "hex": "#F3F3F2",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/8547",
+      "name": "Teal",
+      "code": "8547",
+      "set": "High Flow",
+      "hex": "#00BCC1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Montego Bay",
+        "hex": "#3FBABD",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "golden/7369",
+      "name": "Teal",
+      "code": "7369",
+      "set": "OPEN Acrylics",
+      "hex": "#3A9DBA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sailfish",
+        "hex": "#2E9CBB",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "golden/2369",
+      "name": "Teal",
+      "code": "2369",
+      "set": "Fluid",
+      "hex": "#00BCC1",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Montego Bay",
+        "hex": "#3FBABD",
+        "delta_e": 1.97
+      }
+    },
+    {
+      "id": "golden/7468",
+      "name": "Terre Verte Hue",
+      "code": "7468",
+      "set": "OPEN Acrylics",
+      "hex": "#76825C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Green Relict",
+        "hex": "#7B8762",
+        "delta_e": 1.95
+      }
+    },
+    {
+      "id": "golden/1468",
+      "name": "Terre Verte Hue",
+      "code": "1468",
+      "set": "Heavy Body",
+      "hex": "#95A17B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Renkon Beige",
+        "hex": "#989F7A",
+        "delta_e": 1.75
+      }
+    },
+    {
+      "id": "golden/8548",
+      "name": "Titan Buff",
+      "code": "8548",
+      "set": "High Flow",
+      "hex": "#E0D4BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Shimmer",
+        "hex": "#E2D6BD",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/7370",
+      "name": "Titan Buff",
+      "code": "7370",
+      "set": "OPEN Acrylics",
+      "hex": "#F3E4C7",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Afterglow",
+        "hex": "#F2E3C5",
+        "delta_e": 0.42
+      }
+    },
+    {
+      "id": "golden/2370",
+      "name": "Titan Buff",
+      "code": "2370",
+      "set": "Fluid",
+      "hex": "#E0D4BA",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orange Shimmer",
+        "hex": "#E2D6BD",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/1370",
+      "name": "Titan Buff",
+      "code": "1370",
+      "set": "Heavy Body",
+      "hex": "#F6E7C8",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cottonseed",
+        "hex": "#F5E6C7",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "golden/7371",
+      "name": "Titan Green Pale",
+      "code": "7371",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/2371",
+      "name": "Titan Green Pale",
+      "code": "2371",
+      "set": "Fluid",
+      "hex": "#BAC09B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Beige and Sage",
+        "hex": "#BBC199",
+        "delta_e": 0.85
+      }
+    },
+    {
+      "id": "golden/1371",
+      "name": "Titan Green Pale",
+      "code": "1371",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1576",
+      "name": "Titan Mars Pale",
+      "code": "1576",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1573",
+      "name": "Titan Violet Pale",
+      "code": "1573",
+      "set": "Heavy Body",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1375",
+      "name": "Titanate Yellow",
+      "code": "1375",
+      "set": "Heavy Body",
+      "hex": "#FFF596",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Goldilocks",
+        "hex": "#FFF39A",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "golden/6755",
+      "name": "Titanium White",
+      "code": "6755",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#F2F6F9",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Child of Light",
+        "hex": "#F0F4F8",
+        "delta_e": 0.65
+      }
+    },
+    {
+      "id": "golden/8549",
+      "name": "Titanium White",
+      "code": "8549",
+      "set": "High Flow",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/7380",
+      "name": "Titanium White",
+      "code": "7380",
+      "set": "OPEN Acrylics",
+      "hex": "#FFFFFF",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/1380",
+      "name": "Titanium White",
+      "code": "1380",
+      "set": "Heavy Body",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/2380",
+      "name": "Titanium White",
+      "code": "2380",
+      "set": "Fluid",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8555",
+      "name": "Transparent Benzimidazolone Yellow Medium",
+      "code": "8555",
+      "set": "High Flow",
+      "hex": "#FFDD33",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Yellow Bell Pepper",
+        "hex": "#FFDD33",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/7383",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "7383",
+      "set": "OPEN Acrylics",
+      "hex": "#762C11",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Drip Coffee",
+        "hex": "#7A280A",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "golden/1383",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "1383",
+      "set": "Heavy Body",
+      "hex": "#702C19",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Moussaka",
+        "hex": "#6D2A13",
+        "delta_e": 1.6
+      }
+    },
+    {
+      "id": "golden/8562",
+      "name": "Transparent Brown Iron Oxide",
+      "code": "8562",
+      "set": "High Flow",
+      "hex": "#4D3111",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Bavarian Sweet Mustard",
+        "hex": "#4D3113",
+        "delta_e": 0.63
+      }
+    },
+    {
+      "id": "golden/8556",
+      "name": "Transparent Dioxazine Purple",
+      "code": "8556",
+      "set": "High Flow",
+      "hex": "#270786",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Orbital Kingdom",
+        "hex": "#220088",
+        "delta_e": 1.02
+      }
+    },
+    {
+      "id": "golden/8558",
+      "name": "Transparent Naphthol Red Light",
+      "code": "8558",
+      "set": "High Flow",
+      "hex": "#ED584E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Amour",
+        "hex": "#EE5851",
+        "delta_e": 0.83
+      }
+    },
+    {
+      "id": "golden/8559",
+      "name": "Transparent Phthalo Blue GS",
+      "code": "8559",
+      "set": "High Flow",
+      "hex": "#024EAC",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Aarhusian Sky",
+        "hex": "#1150AF",
+        "delta_e": 0.89
+      }
+    },
+    {
+      "id": "golden/8560",
+      "name": "Transparent Phthalo Green BS",
+      "code": "8560",
+      "set": "High Flow",
+      "hex": "#05C383",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Píng Gǔo Lǜ Green",
+        "hex": "#23C48B",
+        "delta_e": 1.59
+      }
+    },
+    {
+      "id": "golden/8561",
+      "name": "Transparent Quinacridone Red",
+      "code": "8561",
+      "set": "High Flow",
+      "hex": "#D90C45",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Eternal Cherry",
+        "hex": "#DD0044",
+        "delta_e": 0.73
+      }
+    },
+    {
+      "id": "golden/7385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "7385",
+      "set": "OPEN Acrylics",
+      "hex": "#9A1800",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dramatical Red",
+        "hex": "#991100",
+        "delta_e": 0.99
+      }
+    },
+    {
+      "id": "golden/8563",
+      "name": "Transparent Red Iron Oxide",
+      "code": "8563",
+      "set": "High Flow",
+      "hex": "#84301E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warmth of Teamwork",
+        "hex": "#803020",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "golden/2385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "2385",
+      "set": "Fluid",
+      "hex": "#84301E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Warmth of Teamwork",
+        "hex": "#803020",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "golden/1385",
+      "name": "Transparent Red Iron Oxide",
+      "code": "1385",
+      "set": "Heavy Body",
+      "hex": "#B53011",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Crimson Sword",
+        "hex": "#B53111",
+        "delta_e": 0.22
+      }
+    },
+    {
+      "id": "golden/8564",
+      "name": "Transparent Shading Gray",
+      "code": "8564",
+      "set": "High Flow",
+      "hex": "#C1C0AB",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Swing Sage",
+        "hex": "#C2C0A9",
+        "delta_e": 0.78
+      }
+    },
+    {
+      "id": "golden/7386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "7386",
+      "set": "OPEN Acrylics",
+      "hex": "#F6AE36",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Raichu Orange",
+        "hex": "#F6AD3A",
+        "delta_e": 0.77
+      }
+    },
+    {
+      "id": "golden/8565",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "8565",
+      "set": "High Flow",
+      "hex": "#A95B15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mid Century Furniture",
+        "hex": "#AE5C1B",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "golden/2386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "2386",
+      "set": "Fluid",
+      "hex": "#A95B15",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mid Century Furniture",
+        "hex": "#AE5C1B",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "golden/1386",
+      "name": "Transparent Yellow Iron Oxide",
+      "code": "1386",
+      "set": "Heavy Body",
+      "hex": "#EFAA31",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Whisky Sour",
+        "hex": "#EEAA33",
+        "delta_e": 0.25
+      }
+    },
+    {
+      "id": "golden/6640",
+      "name": "Turquoise",
+      "code": "6640",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#00626F",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Lagoon",
+        "hex": "#00626F",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/8550",
+      "name": "Turquoise (Phthalo)",
+      "code": "8550",
+      "set": "High Flow",
+      "hex": "#002239",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyanophobia",
+        "hex": "#001F33",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "golden/2390",
+      "name": "Turquoise (Phthalo)",
+      "code": "2390",
+      "set": "Fluid",
+      "hex": "#002239",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Cyanophobia",
+        "hex": "#001F33",
+        "delta_e": 1.55
+      }
+    },
+    {
+      "id": "golden/1390",
+      "name": "Turquoise (phthalo)",
+      "code": "1390",
+      "set": "Heavy Body",
+      "hex": "#0F152B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dark Knight",
+        "hex": "#151931",
+        "delta_e": 1.81
+      }
+    },
+    {
+      "id": "golden/2400",
+      "name": "Ultramarine Blue",
+      "code": "2400",
+      "set": "Fluid",
+      "hex": "#1C1B7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Ranger",
+        "hex": "#00177D",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "golden/8551",
+      "name": "Ultramarine Blue",
+      "code": "8551",
+      "set": "High Flow",
+      "hex": "#1C1B7C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Blue Ranger",
+        "hex": "#00177D",
+        "delta_e": 1.86
+      }
+    },
+    {
+      "id": "golden/7400",
+      "name": "Ultramarine Blue",
+      "code": "7400",
+      "set": "OPEN Acrylics",
+      "hex": "#44549C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Nuthatch Back",
+        "hex": "#445599",
+        "delta_e": 0.66
+      }
+    },
+    {
+      "id": "golden/1400",
+      "name": "Ultramarine Blue",
+      "code": "1400",
+      "set": "Heavy Body",
+      "hex": "#40519B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Deep Ultramarine",
+        "hex": "#404F95",
+        "delta_e": 1.1
+      }
+    },
+    {
+      "id": "golden/6610",
+      "name": "Ultramarine Blue",
+      "code": "6610",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#0028CE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Arcade Glow",
+        "hex": "#0022CC",
+        "delta_e": 1.2
+      }
+    },
+    {
+      "id": "golden/2401",
+      "name": "Ultramarine Violet",
+      "code": "2401",
+      "set": "Fluid",
+      "hex": "#4B4069",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Geode",
+        "hex": "#4B3F69",
+        "delta_e": 0.45
+      }
+    },
+    {
+      "id": "golden/1401",
+      "name": "Ultramarine Violet",
+      "code": "1401",
+      "set": "Heavy Body",
+      "hex": "#3E397B",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sage Violet",
+        "hex": "#413C7B",
+        "delta_e": 1.07
+      }
+    },
+    {
+      "id": "golden/7401",
+      "name": "Ultramarine Violet",
+      "code": "7401",
+      "set": "OPEN Acrylics",
+      "hex": "#2C2A5C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Ceremonial Purple",
+        "hex": "#2A2756",
+        "delta_e": 1.3
+      }
+    },
+    {
+      "id": "golden/2442",
+      "name": "VanDyke Brown Hue",
+      "code": "2442",
+      "set": "Fluid",
+      "hex": "#3B3330",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Six Feet Under",
+        "hex": "#3D322E",
+        "delta_e": 1.68
+      }
+    },
+    {
+      "id": "golden/1462",
+      "name": "Vandyke Brown Hue",
+      "code": "1462",
+      "set": "Heavy Body",
+      "hex": "#332920",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Coffee Bean",
+        "hex": "#362D26",
+        "delta_e": 1.74
+      }
+    },
+    {
+      "id": "golden/7462",
+      "name": "Vandyke Brown Hue",
+      "code": "7462",
+      "set": "OPEN Acrylics",
+      "hex": "#4C352D",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Chicory Coffee",
+        "hex": "#4D3730",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "golden/2403",
+      "name": "Vat Orange",
+      "code": "2403",
+      "set": "Fluid",
+      "hex": "#D64409",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Torii Red",
+        "hex": "#DB3E00",
+        "delta_e": 1.08
+      }
+    },
+    {
+      "id": "golden/1403",
+      "name": "Vat Orange",
+      "code": "1403",
+      "set": "Heavy Body",
+      "hex": "#FB3100",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Jasper Red",
+        "hex": "#FA2B00",
+        "delta_e": 0.84
+      }
+    },
+    {
+      "id": "golden/1405",
+      "name": "Violet Oxide",
+      "code": "1405",
+      "set": "Heavy Body",
+      "hex": "#4D2523",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcano",
+        "hex": "#4E2728",
+        "delta_e": 1.71
+      }
+    },
+    {
+      "id": "golden/2405",
+      "name": "Violet Oxide",
+      "code": "2405",
+      "set": "Fluid",
+      "hex": "#6B3F3E",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Burgundy Wine",
+        "hex": "#6C403E",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "golden/7405",
+      "name": "Violet Oxide",
+      "code": "7405",
+      "set": "OPEN Acrylics",
+      "hex": "#502826",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Volcano",
+        "hex": "#4E2728",
+        "delta_e": 1.56
+      }
+    },
+    {
+      "id": "golden/2443",
+      "name": "Viridian Green Hue",
+      "code": "2443",
+      "set": "Fluid",
+      "hex": "#004D48",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Action Green",
+        "hex": "#00504B",
+        "delta_e": 0.96
+      }
+    },
+    {
+      "id": "golden/1469",
+      "name": "Viridian Green Hue",
+      "code": "1469",
+      "set": "Heavy Body",
+      "hex": "#2B4752",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Rainstorm",
+        "hex": "#244653",
+        "delta_e": 1.41
+      }
+    },
+    {
+      "id": "golden/7469",
+      "name": "Viridian Green Hue",
+      "code": "7469",
+      "set": "OPEN Acrylics",
+      "hex": "#307676",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Atoll",
+        "hex": "#2B797A",
+        "delta_e": 1.27
+      }
+    },
+    {
+      "id": "golden/6675",
+      "name": "Yellow Green",
+      "code": "6675",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#ACE735",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Dynamic Green",
+        "hex": "#A7E142",
+        "delta_e": 1.98
+      }
+    },
+    {
+      "id": "golden/2407",
+      "name": "Yellow Ochre",
+      "code": "2407",
+      "set": "Fluid",
+      "hex": "#B78B38",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Mayan Gold",
+        "hex": "#B68C37",
+        "delta_e": 0.8
+      }
+    },
+    {
+      "id": "golden/1407",
+      "name": "Yellow Ochre",
+      "code": "1407",
+      "set": "Heavy Body",
+      "hex": "#C9834A",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Sticky Toffee",
+        "hex": "#CC8149",
+        "delta_e": 1.33
+      }
+    },
+    {
+      "id": "golden/7407",
+      "name": "Yellow Ochre",
+      "code": "7407",
+      "set": "OPEN Acrylics",
+      "hex": "#D38952",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Flaming Torch",
+        "hex": "#D2864E",
+        "delta_e": 0.88
+      }
+    },
+    {
+      "id": "golden/1410",
+      "name": "Yellow Oxide",
+      "code": "1410",
+      "set": "Heavy Body",
+      "hex": "#CF8C35",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Brown Beige",
+        "hex": "#CC8833",
+        "delta_e": 1.29
+      }
+    },
+    {
+      "id": "golden/6700",
+      "name": "Yellow Oxide",
+      "code": "6700",
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#CD951C",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Duck Sauce",
+        "hex": "#CC9922",
+        "delta_e": 1.66
+      }
+    },
+    {
+      "id": "golden/8552",
+      "name": "Yellow Oxide",
+      "code": "8552",
+      "set": "High Flow",
+      "hex": "#C5A045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Field",
+        "hex": "#C39E44",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/2410",
+      "name": "Yellow Oxide",
+      "code": "2410",
+      "set": "Fluid",
+      "hex": "#C5A045",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Golden Field",
+        "hex": "#C39E44",
+        "delta_e": 0.61
+      }
+    },
+    {
+      "id": "golden/7410",
+      "name": "Yellow Oxide",
+      "code": "7410",
+      "set": "OPEN Acrylics",
+      "hex": "#DA9339",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Hint of Caramel",
+        "hex": "#D5933D",
+        "delta_e": 1.18
+      }
+    },
+    {
+      "id": "golden/1415",
+      "name": "Zinc White",
+      "code": "1415",
+      "set": "Heavy Body",
+      "hex": "#CAD3E2",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Pale Periwinkle",
+        "hex": "#C8D2E2",
+        "delta_e": 0.54
+      }
+    },
+    {
+      "id": "golden/2415",
+      "name": "Zinc White",
+      "code": "2415",
+      "set": "Fluid",
+      "hex": "#FEFEFE",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "White as Heaven",
+        "hex": "#FEFEFE",
+        "delta_e": 0.0
+      }
+    },
+    {
+      "id": "golden/7415",
+      "name": "Zinc White",
+      "code": "7415",
+      "set": "OPEN Acrylics",
+      "hex": "#9FACBD",
+      "status": "active",
+      "color_source": "miniaturepainterpro",
+      "nearest_color_name": {
+        "name": "Feather Soft Blue",
+        "hex": "#A2AEBF",
+        "delta_e": 0.76
+      }
+    }
+  ]
+}

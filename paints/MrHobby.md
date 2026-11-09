@@ -3,7 +3,6 @@
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
-||UG1|Mr Color Gundam Color|241|247|250|![#F1F7FA](https://placehold.co/15x15/F1F7FA/F1F7FA.png) `#F1F7FA`|
 |A.E.U.G'.s MS Blue|UG14|Mr Color Gundam Color|66|123|191|![#427BBF](https://placehold.co/15x15/427BBF/427BBF.png) `#427BBF`|
 |A.E.U.G'.s MS Blue|SG14|Gundam Color Spray|66|123|191|![#427BBF](https://placehold.co/15x15/427BBF/427BBF.png) `#427BBF`|
 |Air Superiority Blue|74|Mr Color|0|109|121|![#006D79](https://placehold.co/15x15/006D79/006D79.png) `#006D79`|
@@ -635,6 +634,7 @@
 |Turquoise Green|XC07|Mr Crystal Color|170|196|229|![#AAC4E5](https://placehold.co/15x15/AAC4E5/AAC4E5.png) `#AAC4E5`|
 |U.N.T'.s MS Gray|UG6|Mr Color Gundam Color|142|175|140|![#8EAF8C](https://placehold.co/15x15/8EAF8C/8EAF8C.png) `#8EAF8C`|
 |U.N.T'.s MS Gray|SG6|Gundam Color Spray|142|175|140|![#8EAF8C](https://placehold.co/15x15/8EAF8C/8EAF8C.png) `#8EAF8C`|
+|UG1|UG1|Mr Color Gundam Color|241|247|250|![#F1F7FA](https://placehold.co/15x15/F1F7FA/F1F7FA.png) `#F1F7FA`|
 |Ueno Black|GX2|Mr Color GX|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
 |Violet|N49|Acrysion|115|132|193|![#7384C1](https://placehold.co/15x15/7384C1/7384C1.png) `#7384C1`|
 |Violet|H49|Aqueous Hobby Color|115|132|193|![#7384C1](https://placehold.co/15x15/7384C1/7384C1.png) `#7384C1`|

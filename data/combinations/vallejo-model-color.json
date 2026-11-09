@@ -1,0 +1,346 @@
+{
+  "source": "ferror/vallejo-model-color-data",
+  "type": "highlight-base-shadow",
+  "combinations": [
+    {
+      "highlight": "vallejo/70-951",
+      "base": "vallejo/70-820",
+      "shadow": "vallejo/70-918"
+    },
+    {
+      "highlight": "vallejo/70-802",
+      "base": "vallejo/70-812",
+      "shadow": "vallejo/70-749"
+    },
+    {
+      "highlight": "vallejo/70-758",
+      "base": "vallejo/70-968",
+      "shadow": "vallejo/70-980"
+    },
+    {
+      "highlight": "vallejo/70-917",
+      "base": "vallejo/70-914",
+      "shadow": "vallejo/70-880"
+    },
+    {
+      "highlight": "vallejo/70-918",
+      "base": "vallejo/70-986",
+      "shadow": "vallejo/70-821"
+    },
+    {
+      "highlight": "vallejo/70-959",
+      "base": "vallejo/70-810",
+      "shadow": "vallejo/70-751"
+    },
+    {
+      "highlight": "vallejo/70-758",
+      "base": "vallejo/70-891",
+      "shadow": "vallejo/70-979"
+    },
+    {
+      "highlight": "vallejo/70-880",
+      "base": "vallejo/70-872",
+      "shadow": "vallejo/70-822"
+    },
+    {
+      "highlight": "vallejo/70-835",
+      "base": "vallejo/70-803",
+      "shadow": "vallejo/70-745"
+    },
+    {
+      "highlight": "vallejo/70-750",
+      "base": "vallejo/70-811",
+      "shadow": "vallejo/70-960"
+    },
+    {
+      "highlight": "vallejo/70-954",
+      "base": "vallejo/70-827",
+      "shadow": "vallejo/70-922"
+    },
+    {
+      "highlight": "vallejo/70-767",
+      "base": "vallejo/70-874",
+      "shadow": "vallejo/70-768"
+    },
+    {
+      "highlight": "vallejo/70-928",
+      "base": "vallejo/70-835",
+      "shadow": "vallejo/70-805"
+    },
+    {
+      "highlight": "vallejo/70-902",
+      "base": "vallejo/70-965",
+      "shadow": "vallejo/70-899"
+    },
+    {
+      "highlight": "vallejo/70-827",
+      "base": "vallejo/70-922",
+      "shadow": "vallejo/70-975"
+    },
+    {
+      "highlight": "vallejo/70-873",
+      "base": "vallejo/70-871",
+      "shadow": "vallejo/70-822"
+    },
+    {
+      "highlight": "vallejo/70-815",
+      "base": "vallejo/70-876",
+      "shadow": "vallejo/70-746"
+    },
+    {
+      "highlight": "vallejo/70-901",
+      "base": "vallejo/70-962",
+      "shadow": "vallejo/70-965"
+    },
+    {
+      "highlight": "vallejo/70-758",
+      "base": "vallejo/70-967",
+      "shadow": "vallejo/70-823"
+    },
+    {
+      "highlight": "vallejo/70-765",
+      "base": "vallejo/70-761",
+      "shadow": "vallejo/70-768"
+    },
+    {
+      "highlight": "vallejo/70-928",
+      "base": "vallejo/70-845",
+      "shadow": "vallejo/70-843"
+    },
+    {
+      "highlight": "vallejo/70-901",
+      "base": "vallejo/70-930",
+      "shadow": "vallejo/70-752"
+    },
+    {
+      "highlight": "vallejo/70-885",
+      "base": "vallejo/70-760",
+      "shadow": "vallejo/70-924"
+    },
+    {
+      "highlight": "vallejo/70-916",
+      "base": "vallejo/70-977",
+      "shadow": "vallejo/70-770"
+    },
+    {
+      "highlight": "vallejo/70-845",
+      "base": "vallejo/70-860",
+      "shadow": "vallejo/70-929"
+    },
+    {
+      "highlight": "vallejo/70-961",
+      "base": "vallejo/70-844",
+      "shadow": "vallejo/70-963"
+    },
+    {
+      "highlight": "vallejo/70-886",
+      "base": "vallejo/70-759",
+      "shadow": "vallejo/70-896"
+    },
+    {
+      "highlight": "vallejo/70-977",
+      "base": "vallejo/70-875",
+      "shadow": "vallejo/70-983"
+    },
+    {
+      "highlight": "vallejo/70-766",
+      "base": "vallejo/70-837",
+      "shadow": "vallejo/70-858"
+    },
+    {
+      "highlight": "vallejo/70-809",
+      "base": "vallejo/70-925",
+      "shadow": "vallejo/70-752"
+    },
+    {
+      "highlight": "vallejo/70-924",
+      "base": "vallejo/70-890",
+      "shadow": "vallejo/70-894"
+    },
+    {
+      "highlight": "vallejo/70-846",
+      "base": "vallejo/70-984",
+      "shadow": "vallejo/70-771"
+    },
+    {
+      "highlight": "vallejo/70-858",
+      "base": "vallejo/70-949",
+      "shadow": "vallejo/70-948"
+    },
+    {
+      "highlight": "vallejo/70-962",
+      "base": "vallejo/70-930",
+      "shadow": "vallejo/70-899"
+    },
+    {
+      "highlight": "vallejo/70-893",
+      "base": "vallejo/70-892",
+      "shadow": "vallejo/70-741"
+    },
+    {
+      "highlight": "vallejo/70-982",
+      "base": "vallejo/70-814",
+      "shadow": "vallejo/70-985"
+    },
+    {
+      "highlight": "vallejo/70-948",
+      "base": "vallejo/70-911",
+      "shadow": "vallejo/70-851"
+    },
+    {
+      "highlight": "vallejo/70-902",
+      "base": "vallejo/70-807",
+      "shadow": "vallejo/70-752"
+    },
+    {
+      "highlight": "vallejo/70-885",
+      "base": "vallejo/70-886",
+      "shadow": "vallejo/70-830"
+    },
+    {
+      "highlight": "vallejo/70-877",
+      "base": "vallejo/70-981",
+      "shadow": "vallejo/70-814"
+    },
+    {
+      "highlight": "vallejo/70-911",
+      "base": "vallejo/70-851",
+      "shadow": "vallejo/70-956"
+    },
+    {
+      "highlight": "vallejo/70-753",
+      "base": "vallejo/70-840",
+      "shadow": "vallejo/70-966"
+    },
+    {
+      "highlight": "vallejo/70-986",
+      "base": "vallejo/70-884",
+      "shadow": "vallejo/70-988"
+    },
+    {
+      "highlight": "vallejo/70-913",
+      "base": "vallejo/70-856",
+      "shadow": "vallejo/70-818"
+    },
+    {
+      "highlight": "vallejo/70-851",
+      "base": "vallejo/70-909",
+      "shadow": "vallejo/70-926"
+    },
+    {
+      "highlight": "vallejo/70-840",
+      "base": "vallejo/70-966",
+      "shadow": "vallejo/70-898"
+    },
+    {
+      "highlight": "vallejo/70-987",
+      "base": "vallejo/70-740",
+      "shadow": "vallejo/70-941"
+    },
+    {
+      "highlight": "vallejo/70-907",
+      "base": "vallejo/70-943",
+      "shadow": "vallejo/70-816"
+    },
+    {
+      "highlight": "vallejo/70-747",
+      "base": "vallejo/70-947",
+      "shadow": "vallejo/70-946"
+    },
+    {
+      "highlight": "vallejo/70-753",
+      "base": "vallejo/70-808",
+      "shadow": "vallejo/70-966"
+    },
+    {
+      "highlight": "vallejo/70-986",
+      "base": "vallejo/70-821",
+      "shadow": "vallejo/70-763"
+    },
+    {
+      "highlight": "vallejo/70-993",
+      "base": "vallejo/70-907",
+      "shadow": "vallejo/70-964"
+    },
+    {
+      "highlight": "vallejo/70-908",
+      "base": "vallejo/70-926",
+      "shadow": "vallejo/70-946"
+    },
+    {
+      "highlight": "vallejo/70-755",
+      "base": "vallejo/70-838",
+      "shadow": "vallejo/70-754"
+    },
+    {
+      "highlight": "vallejo/70-806",
+      "base": "vallejo/70-978",
+      "shadow": "vallejo/70-881"
+    },
+    {
+      "highlight": "vallejo/70-989",
+      "base": "vallejo/70-992",
+      "shadow": "vallejo/70-867"
+    },
+    {
+      "highlight": "vallejo/70-829",
+      "base": "vallejo/70-817",
+      "shadow": "vallejo/70-947"
+    },
+    {
+      "highlight": "vallejo/70-969",
+      "base": "vallejo/70-970",
+      "shadow": "vallejo/70-980"
+    },
+    {
+      "highlight": "vallejo/70-921",
+      "base": "vallejo/70-826",
+      "shadow": "vallejo/70-889"
+    },
+    {
+      "highlight": "vallejo/70-870",
+      "base": "vallejo/70-773",
+      "shadow": "vallejo/70-862"
+    },
+    {
+      "highlight": "vallejo/70-957",
+      "base": "vallejo/70-946",
+      "shadow": "vallejo/70-859"
+    },
+    {
+      "highlight": "vallejo/70-974",
+      "base": "vallejo/70-756",
+      "shadow": "vallejo/70-970"
+    },
+    {
+      "highlight": "vallejo/70-976",
+      "base": "vallejo/70-764",
+      "shadow": "vallejo/70-921"
+    },
+    {
+      "highlight": "vallejo/70-836",
+      "base": "vallejo/70-868",
+      "shadow": "vallejo/70-950"
+    },
+    {
+      "highlight": "vallejo/70-748",
+      "base": "vallejo/70-958",
+      "shadow": "vallejo/70-945"
+    },
+    {
+      "highlight": "vallejo/70-757",
+      "base": "vallejo/70-895",
+      "shadow": "vallejo/70-897"
+    },
+    {
+      "highlight": "vallejo/70-976",
+      "base": "vallejo/70-879",
+      "shadow": "vallejo/70-826"
+    },
+    {
+      "highlight": "vallejo/70-774",
+      "base": "vallejo/70-866",
+      "shadow": "vallejo/70-950"
+    }
+  ]
+}
