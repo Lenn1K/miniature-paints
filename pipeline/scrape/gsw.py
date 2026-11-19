@@ -5,7 +5,7 @@ PrestaShop liefert Kategorieseiten als JSON, wenn man sie per XHR anfragt
 (Header 'X-Requested-With: XMLHttpRequest' + Accept JSON); Fallback: HTML parsen.
 
 GSW hat keine Farbcodes im klassischen Sinn – Abgleich über Name + Serie.
-Die Referenz (EAN + 'ES') wird als extra.reference mitgeführt.
+Die Referenz (EAN + 'ES') liefert die EAN (nur im JSON-Weg; der HTML-Fallback hat sie nicht).
 """
 from __future__ import annotations
 
@@ -13,7 +13,8 @@ import re
 
 from bs4 import BeautifulSoup
 
-from .base import Product, Scraper, clean, looks_like_set, smart_title
+from ..ean import gsw_ean
+from .base import Product, Scraper, clean, looks_like_set, smart_title, strip_size
 
 BASE = "https://www.greenstuffworld.com"
 CATEGORY = f"{BASE}/en/118-model-paints"
@@ -27,9 +28,11 @@ TITLE_RULES = [
     ("Candy Ink Metallic", r"^Candy Ink\s*-?\s*(?P<name>.+)$"),
     ("Chameleon Colorshift Metallic", r"^Colorshift (?:Chameleon )?(?:Paint|Metallic)?\s*-?\s*(?P<name>.+)$"),
     ("Chameleon Colorshift Metallic", r"^Chameleon\s+(?P<name>.+)$"),
+    ("Fluor Acrylic Inks", r"^Fluor(?:escent)? Acrylic Ink\s*-?\s*(?P<name>.+)$"),
     ("Fluor Metallic", r"^Fluor(?:escent)? (?:Metallic|Paint)?\s*-?\s*(?P<name>.+)$"),
     ("Metallic Colors", r"^Metallic (?:Paint|Colou?r)\s*-?\s*(?P<name>.+)$"),
     ("Opaque Colors", r"^Opaque Colou?rs?\s*-?\s*(?P<name>.+)$"),
+    ("Opaque Acrylic Inks", r"^Acrylic Ink\s+Opaque\s*-?\s*(?P<name>.+)$"),
     ("Acrylic Inks", r"^Acrylic Ink\s*-?\s*(?P<name>.+)$"),
     ("Matt Surface", r"^(?P<name>.+?)\s*-?\s*Matt(?:e)? Surface(?: Primer)?$"),
 ]
@@ -80,14 +83,14 @@ class GreenStuffWorldScraper(Scraper):
 
     def parse(self, title: str, url: str | None, ref: str | None, img: str | None) -> Product | None:
         title = clean(title)
-        if looks_like_set(title) or IGNORE.search(title):
+        if looks_like_set(title) or IGNORE.search(title) or "/effect-paints/" in (url or ""):
             self.skipped.append(title)
             return None
         for set_name, rx in TITLE_RULES:
             m = re.match(rx, title, re.I)
             if m:
                 name = re.sub(r"^(?:Airbrush\s+)?(?:Paint|Acrylic Ink|Ink|Colou?r)\s*-?\s*", "", m["name"], flags=re.I)
-                return Product(name=smart_title(name), set=set_name, code=None, url=url,
-                               image=img, extra={"reference": ref, "title": title})
+                return Product(name=smart_title(strip_size(name)), set=set_name, code=None, url=url,
+                               image=img, ean=gsw_ean(ref), extra={"reference": ref, "title": title})
         self.unmapped.add(title)
         return None

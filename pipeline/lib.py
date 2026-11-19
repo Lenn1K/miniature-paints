@@ -19,7 +19,7 @@ TODAY = date.today().isoformat()
 # Feldreihenfolge in den JSON-Dateien (stabile Diffs). RGB wird nicht gespeichert,
 # sondern beim Build aus hex abgeleitet – eine Quelle, keine Inkonsistenzen.
 FIELD_ORDER = [
-    "id", "name", "code", "set", "hex", "status",
+    "id", "name", "code", "ean", "ean_source", "set", "hex", "status",
     "names", "url", "image", "color_source", "alt_colors",
     "nearest_color_name", "first_seen", "last_seen",
 ]

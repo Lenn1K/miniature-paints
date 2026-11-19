@@ -34,6 +34,20 @@ def test_army_painter_parse():
                     "variants": [{"sku": "BNDL212"}]}) is None
     assert s.parse({**marker, "title": "Speedpaint Marker: Replacement Tips"}) is None
     assert s.parse({**marker, "tags": ["tap-shop-bundle"]}) is None
+    p = s.parse({**marker, "title": "Warpaints Air Metallics: Azure Magic", "variants": [{"sku": "AW1486P"}]})
+    assert (p.set, p.code, p.match_sets) == ("Warpaints Air Metallics", "AW1486", ["Warpaints Air"])
+    assert s.parse({**marker, "title": "Colour Primer: Ash Grey", "variants": [{"sku": "CP3029S"}]}).code == "CP3029"
+    assert s.parse({**marker, "title": "Historical: Beret Maroon"}).set == "Warpaints Historical"
+    assert s.parse({**marker, "title": "Warpaints Air: Gloss Varnish, 100 ml"}) is None
+    assert not s.unmapped
+
+
+def test_army_painter_lookup_ean(monkeypatch):
+    s = ArmyPainterScraper()
+    monkeypatch.setattr(s, "get_json", lambda url, **kw: {"variants": [{"barcode": ""}, {"barcode": "5713799200715"}]})
+    assert s.lookup_ean(Product(name="x", set=None, extra={"handle": "h"})) == "5713799200715"
+    monkeypatch.setattr(s, "get_json", lambda url, **kw: {"variants": [{"barcode": "123"}]})
+    assert s.lookup_ean(Product(name="x", set=None, extra={"handle": "h"})) is None
 
 
 def test_ak_parse():
@@ -61,6 +75,44 @@ def test_gsw_parse():
     assert s.parse("Empty Dropper Bottles 17ml with Mixing Balls", "u", None, None) is None
     assert s.parse("Opaque Acrylic Paint Set - Flesh Colours", "u", None, None) is None
     assert s.parse("Fluor Airbrush Paint - RED", "u", None, None).name == "Red"
+    p = s.parse("Dipping ink 60 ml - ACID GREEN DIP", "u", "8435646508580ES", None)
+    assert p.ean == "8435646508580"
+    p = s.parse("Acrylic Ink Opaque- OSL WHITE", "u", None, None)
+    assert (p.name, p.set, p.ean) == ("OSL White", "Opaque Acrylic Inks", None)
+    assert s.parse("Fluor Acrylic Ink MAGENTA", "u", None, None).set == "Fluor Acrylic Inks"
+    assert s.parse("Fluor ALIEN OOZE 10ml", "https://gsw/en/effect-paints/4934-x.html", None, None) is None
+    assert s.parse("Metallic Paint COSMIC SILVER 17ml", "u", None, None).name == "Cosmic Silver"
+
+
+def test_vallejo_parse_spanish_skipped():
+    s = VallejoScraper()
+    es = {"sku": "74.249", "name": "Acero Divino", "images": [],
+          "permalink": "https://acrylicosvallejo.com/producto/modelismo/squidmar-color/acero-divino-74249/"}
+    assert s.parse(es, "Squidmar Color") is None
+    assert any("nicht englisch" in u for u in s.unmapped)
+
+
+def test_vallejo_pick_api_rejects_spanish(monkeypatch):
+    s = VallejoScraper()
+
+    class R:
+        def __init__(self, items): self.items = items
+        def json(self): return self.items
+
+    es = [{"permalink": "https://acrylicosvallejo.com/producto/x/"}]
+    en = [{"permalink": "https://acrylicosvallejo.com/en/product/x/"}]
+    calls = []
+
+    def fake_get(url, params=None, **kw):
+        calls.append((url, params.get("lang")))
+        return R(en if params.get("lang") == "en" else es)
+
+    monkeypatch.setattr(s, "get", fake_get)
+    url, extra = s.pick_api()
+    assert extra == {"lang": "en"} and len(calls) == 2
+    monkeypatch.setattr(s, "get", lambda url, params=None, **kw: R(es))
+    with pytest.raises(RuntimeError, match="keine englischen"):
+        s.pick_api()
 
 
 def test_vallejo_parse():
@@ -70,13 +122,26 @@ def test_vallejo_parse():
             "categories": [{"slug": "model-air-en"}]}
     p = s.parse(item, "Model Air")
     assert (p.name, p.set, p.code) == ("Traffic Blue", "Model Air", "71.242")
+    assert p.ean == "8429551712422"
     assert s.parse({**item, "sku": "76109"}, "Game Air").code == "76.109"
     assert s.parse({**item, "name": "Acrylic Gloss Spray Varnish"}, "Hobby Paint") is None
     assert s.parse({**item, "sku": "71.154", "name": "Bluelight Set"}, "Model Air") is None
 
 
+def test_ean_helpers():
+    from pipeline.ean import gsw_ean, is_valid_ean, normalize_ean, vallejo_ean
+    assert vallejo_ean("74.265") == "8429551742658" and vallejo_ean("76109") == "8429551761093"
+    assert vallejo_ean("AK11001") is None and vallejo_ean(None) is None
+    assert is_valid_ean("8429551742658") and not is_valid_ean("8429551742659")
+    assert is_valid_ean("96385074") and not is_valid_ean("12345")
+    assert normalize_ean("036000291452") == "0036000291452"
+    assert normalize_ean("8429551742659") is None
+    assert gsw_ean("8435646508580es") == "8435646508580" and gsw_ean("ABC") is None
+
+
 def test_smart_title():
     assert smart_title("MOON MIST GREY") == "Moon Mist Grey"
+    assert smart_title("OSL WHITE") == "OSL White"
     assert smart_title("Moon Mist GREY") == "Moon Mist GREY"
 
 
@@ -105,6 +170,57 @@ def test_sync_fills_missing_code_by_name(data_copy):
     assert r["matched"] == 1 and not r["new"]
     brand = json.loads((data_copy / "army-painter.json").read_text())
     assert next(p for p in brand["paints"] if p["id"] == target["id"])["code"] == "WP3999"
+
+
+def test_sync_match_sets(data_copy):
+    from pipeline.sync_shops import sync_brand
+    brand = json.loads((data_copy / "army-painter.json").read_text())
+    target = next(p for p in brand["paints"] if not p["code"] and p["set"] == "Warpaints Air")
+    prod = Product(name=target["name"], set="Warpaints Air Metallics", code="AW1999", match_sets=["Warpaints Air"])
+    r = sync_brand("army-painter", [prod], None)
+    assert r["matched"] == 1 and not r["new"]
+    # ohne verwandte Serie -> neue Farbe (z. B. Speedpaint Marker mit gleichem Namen wie ein Topf)
+    other = Product(name=target["name"], set="Speedpaint Marker", code="SM1999")
+    assert len(sync_brand("army-painter", [other], None)["new"]) == 1
+
+
+def test_sync_ean(data_copy):
+    from pipeline.sync_shops import sync_brand
+    products = [Product(name="White", set="Intense (3rd Gen)", code="AK11001", ean="8435568303102"),
+                Product(name="Brand New", set="Standard (3rd Gen)", code="AK19999", ean="8435568303102")]
+    r = sync_brand("ak", products, None)
+    brand = {p["code"]: p for p in json.loads((data_copy / "ak.json").read_text())["paints"]}
+    assert (brand["AK11001"]["ean"], brand["AK11001"]["ean_source"]) == ("8435568303102", "hersteller")
+    assert "ean" not in brand["AK19999"] and len(r["conflicts"]) == 1   # Dublette
+    assert r["with_ean"] == 1
+    # gespeicherte Hersteller-EAN wird nicht überschrieben
+    r = sync_brand("ak", [Product(name="White", set="Intense (3rd Gen)", code="AK11001", ean="8429551742658")], None)
+    assert r["conflicts"] and json.loads((data_copy / "ak.json").read_text())
+
+
+def test_sync_ean_lookup_budget(data_copy, monkeypatch):
+    import pipeline.sync_shops as ss
+
+    class Fake:
+        skipped, unmapped = [], set()
+        calls = 0
+
+        def lookup_ean(self, prod):
+            Fake.calls += 1
+            return "5713799200715"
+
+    monkeypatch.setattr(ss, "MAX_EAN_LOOKUPS", 1)
+    prods = [Product(name="Neu A", set="Warpaints", code="WP9998"), Product(name="Neu B", set="Warpaints", code="WP9999")]
+    r = ss.sync_brand("army-painter", prods, Fake())
+    assert Fake.calls == 1 and r["ean_lookups"] == 1 and r["with_ean"] == 1
+
+
+def test_derive_ean(data_copy):
+    from pipeline.derive_ean import derive
+    added, total = derive("vallejo")
+    assert added == 0   # schon im Repo
+    p = next(x for x in lib.load_brand("vallejo")["paints"] if x["code"] == "70.951")
+    assert (p["ean"], p["ean_source"]) == ("8429551709514", "berechnet")
 
 
 # ---------- Build ----------
