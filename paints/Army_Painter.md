@@ -49,7 +49,7 @@
 |Autumn Sage|WP3064|Warpaints Fanatic|117|173|152|![#75AD98](https://placehold.co/15x15/75AD98/75AD98.png) `#75AD98`|
 |Aztec Gold|WP2075|Speedpaint Set 2.0|98|115|47|![#62732F](https://placehold.co/15x15/62732F/62732F.png) `#62732F`|
 |Azure Magic|null|Metallic Colours Paint Set|0|93|120|![#005D78](https://placehold.co/15x15/005D78/005D78.png) `#005D78`|
-|Azure Magic|null|Warpaints Air|21|63|81|![#153F51](https://placehold.co/15x15/153F51/153F51.png) `#153F51`|
+|Azure Magic|AW1486|Warpaints Air|21|63|81|![#153F51](https://placehold.co/15x15/153F51/153F51.png) `#153F51`|
 |Babe Blonde|WP1403|Warpaints|251|220|4|![#FBDC04](https://placehold.co/15x15/FBDC04/FBDC04.png) `#FBDC04`|
 |Banshee Brown|WP1404|Warpaints|191|165|155|![#BFA59B](https://placehold.co/15x15/BFA59B/BFA59B.png) `#BFA59B`|
 |Barbarian Flesh|AW1126|Warpaints Air|210|141|87|![#D28D57](https://placehold.co/15x15/D28D57/D28D57.png) `#D28D57`|
@@ -70,7 +70,7 @@
 |Blood Chalice|WP3119|Warpaints Fanatic|219|75|80|![#DB4B50](https://placehold.co/15x15/DB4B50/DB4B50.png) `#DB4B50`|
 |Blood Red|WP2010|Speedpaint Set 2.0|219|48|22|![#DB3016](https://placehold.co/15x15/DB3016/DB3016.png) `#DB3016`|
 |Blood Red|null|Speedpaint Set|168|20|31|![#A8141F](https://placehold.co/15x15/A8141F/A8141F.png) `#A8141F`|
-|Blue Flux|null|Warpaints Air|0|139|189|![#008BBD](https://placehold.co/15x15/008BBD/008BBD.png) `#008BBD`|
+|Blue Flux|AW1502|Warpaints Air|0|139|189|![#008BBD](https://placehold.co/15x15/008BBD/008BBD.png) `#008BBD`|
 |Blue Tone|null|Quickshade Washes Set|13|37|64|![#0D2540](https://placehold.co/15x15/0D2540/0D2540.png) `#0D2540`|
 |Blue Tone|WP1139|Warpaints Tone|17|42|71|![#112A47](https://placehold.co/15x15/112A47/112A47.png) `#112A47`|
 |Blue Tone|WP3210|Warpaints Fanatic Wash|19|43|71|![#132B47](https://placehold.co/15x15/132B47/132B47.png) `#132B47`|
@@ -151,7 +151,7 @@
 |Dark Blue Tone|WP3211|Warpaints Fanatic Wash|23|32|46|![#17202E](https://placehold.co/15x15/17202E/17202E.png) `#17202E`|
 |Dark Emerald|WP3196|Warpaints Fanatic|59|74|37|![#3B4A25](https://placehold.co/15x15/3B4A25/3B4A25.png) `#3B4A25`|
 |Dark Red Tone|null|Warpaints Fanatic Wash|46|19|26|![#2E131A](https://placehold.co/15x15/2E131A/2E131A.png) `#2E131A`|
-|Dark Rust|null|Warpaints Fanatic Wash|41|15|18|![#290F12](https://placehold.co/15x15/290F12/290F12.png) `#290F12`|
+|Dark Rust|WP3166|Warpaints Fanatic Wash|41|15|18|![#290F12](https://placehold.co/15x15/290F12/290F12.png) `#290F12`|
 |Dark Skin Shade|WP3215|Warpaints Fanatic Wash|68|54|56|![#443638](https://placehold.co/15x15/443638/443638.png) `#443638`|
 |Dark Skin Wash|null|Skin Tones Paint Set - Washes|51|33|35|![#332123](https://placehold.co/15x15/332123/332123.png) `#332123`|
 |Dark Sky|AW1415|Warpaints Air|53|70|83|![#354653](https://placehold.co/15x15/354653/354653.png) `#354653`|
@@ -162,7 +162,7 @@
 |Dark Tone|WP1136|Warpaints Tone|5|5|5|![#050505](https://placehold.co/15x15/050505/050505.png) `#050505`|
 |Dark Wood|WP2005|Speedpaint Set 2.0|72|45|26|![#482D1A](https://placehold.co/15x15/482D1A/482D1A.png) `#482D1A`|
 |Dark Wood|null|Speedpaint Set|58|36|21|![#3A2415](https://placehold.co/15x15/3A2415/3A2415.png) `#3A2415`|
-|Data System Glow|null|Warpaints Fanatic Wash|135|200|102|![#87C866](https://placehold.co/15x15/87C866/87C866.png) `#87C866`|
+|Data System Glow|WP3177|Warpaints Fanatic Wash|135|200|102|![#87C866](https://placehold.co/15x15/87C866/87C866.png) `#87C866`|
 |Death Metal|WP3195|Warpaints Fanatic|43|43|43|![#2B2B2B](https://placehold.co/15x15/2B2B2B/2B2B2B.png) `#2B2B2B`|
 |Deep Azure|WP3037|Warpaints Fanatic|0|107|121|![#006B79](https://placehold.co/15x15/006B79/006B79.png) `#006B79`|
 |Deep Blue|WP1116|Warpaints|14|78|118|![#0E4E76](https://placehold.co/15x15/0E4E76/0E4E76.png) `#0E4E76`|
@@ -176,7 +176,7 @@
 |Desolate Brown|WP2040|Speedpaint Set 2.0|122|112|59|![#7A703B](https://placehold.co/15x15/7A703B/7A703B.png) `#7A703B`|
 |Diabolic Plum|WP3133|Warpaints Fanatic|86|45|116|![#562D74](https://placehold.co/15x15/562D74/562D74.png) `#562D74`|
 |Dirt Spatter|WP1416|Warpaints|96|57|32|![#603920](https://placehold.co/15x15/603920/603920.png) `#603920`|
-|Disgusting Slime|null|Warpaints Fanatic Wash|165|195|69|![#A5C345](https://placehold.co/15x15/A5C345/A5C345.png) `#A5C345`|
+|Disgusting Slime|WP3163|Warpaints Fanatic Wash|165|195|69|![#A5C345](https://placehold.co/15x15/A5C345/A5C345.png) `#A5C345`|
 |Disgusting Slime|WP1477|Warpaints|203|181|3|![#CBB503](https://placehold.co/15x15/CBB503/CBB503.png) `#CBB503`|
 |Diviner Light|WP3138|Warpaints Fanatic|213|159|197|![#D59FC5](https://placehold.co/15x15/D59FC5/D59FC5.png) `#D59FC5`|
 |Doomfire Drab|WP3126|Warpaints Fanatic|249|217|230|![#F9D9E6](https://placehold.co/15x15/F9D9E6/F9D9E6.png) `#F9D9E6`|
@@ -190,7 +190,7 @@
 |Dragonfire Red|null|D&D Nolzur's Marvelous Pigments|207|37|41|![#CF2529](https://placehold.co/15x15/CF2529/CF2529.png) `#CF2529`|
 |Drake Tooth|WP1417|Warpaints|213|210|189|![#D5D2BD](https://placehold.co/15x15/D5D2BD/D5D2BD.png) `#D5D2BD`|
 |Drakolich Scales|null|D&D Undead Set|109|127|163|![#6D7FA3](https://placehold.co/15x15/6D7FA3/6D7FA3.png) `#6D7FA3`|
-|Dry Blood|null|Warpaints Fanatic Wash|36|0|14|![#24000E](https://placehold.co/15x15/24000E/24000E.png) `#24000E`|
+|Dry Blood|WP3164|Warpaints Fanatic Wash|36|0|14|![#24000E](https://placehold.co/15x15/24000E/24000E.png) `#24000E`|
 |Dry Rust|WP1479|Warpaints|231|79|53|![#E74F35](https://placehold.co/15x15/E74F35/E74F35.png) `#E74F35`|
 |Dryad Brown|WP3111|Warpaints Fanatic|97|54|48|![#613630](https://placehold.co/15x15/613630/613630.png) `#613630`|
 |Duergar Metal|null|D&D Underdark Set|88|33|33|![#582121](https://placehold.co/15x15/582121/582121.png) `#582121`|
@@ -205,7 +205,7 @@
 |Elemental Bolt|WP1419|Warpaints|21|142|118|![#158E76](https://placehold.co/15x15/158E76/158E76.png) `#158E76`|
 |Elemental Bolt|AW1419|Warpaints Air|0|129|108|![#00816C](https://placehold.co/15x15/00816C/00816C.png) `#00816C`|
 |Elf Green|WP1420|Warpaints|75|82|18|![#4B5212](https://placehold.co/15x15/4B5212/4B5212.png) `#4B5212`|
-|Elven Armor|null|Warpaints Air|27|48|97|![#1B3061](https://placehold.co/15x15/1B3061/1B3061.png) `#1B3061`|
+|Elven Armor|AW1483|Warpaints Air|27|48|97|![#1B3061](https://placehold.co/15x15/1B3061/1B3061.png) `#1B3061`|
 |Elven Armour|null|Metallic Colours Paint Set|0|61|129|![#003D81](https://placehold.co/15x15/003D81/003D81.png) `#003D81`|
 |Elven Flesh|AW1421|Warpaints Air|230|173|134|![#E6AD86](https://placehold.co/15x15/E6AD86/E6AD86.png) `#E6AD86`|
 |Elven Flesh|WP1421|Warpaints|249|190|148|![#F9BE94](https://placehold.co/15x15/F9BE94/F9BE94.png) `#F9BE94`|
@@ -219,11 +219,11 @@
 |Evergreen Fog|WP3061|Warpaints Fanatic|57|99|96|![#396360](https://placehold.co/15x15/396360/396360.png) `#396360`|
 |Evil Chrome|null|Metallic Colours Paint Set|164|96|73|![#A46049](https://placehold.co/15x15/A46049/A46049.png) `#A46049`|
 |Evil Chrome|WP3185|Warpaints Fanatic|91|59|47|![#5B3B2F](https://placehold.co/15x15/5B3B2F/5B3B2F.png) `#5B3B2F`|
-|Evil Chrome|null|Warpaints Air|100|65|51|![#644133](https://placehold.co/15x15/644133/644133.png) `#644133`|
+|Evil Chrome|AW1491|Warpaints Air|100|65|51|![#644133](https://placehold.co/15x15/644133/644133.png) `#644133`|
 |Exile Green|AW4112|Warpaints Air|76|104|91|![#4C685B](https://placehold.co/15x15/4C685B/4C685B.png) `#4C685B`|
 |Faerzress Purple|null|D&D Underdark Set|135|20|110|![#87146E](https://placehold.co/15x15/87146E/87146E.png) `#87146E`|
 |Fair Skin|null|D&D Nolzur's Marvelous Pigments|234|205|173|![#EACDAD](https://placehold.co/15x15/EACDAD/EACDAD.png) `#EACDAD`|
-|Fairy Dust|null|Warpaints Air|140|140|140|![#8C8C8C](https://placehold.co/15x15/8C8C8C/8C8C8C.png) `#8C8C8C`|
+|Fairy Dust|AW1489|Warpaints Air|140|140|140|![#8C8C8C](https://placehold.co/15x15/8C8C8C/8C8C8C.png) `#8C8C8C`|
 |Fairy Dust|null|Metallic Colours Paint Set|169|60|39|![#A93C27](https://placehold.co/15x15/A93C27/A93C27.png) `#A93C27`|
 |Fairy Pink|AW3447|Warpaints Air|129|55|95|![#81375F](https://placehold.co/15x15/81375F/81375F.png) `#81375F`|
 |Familiar Pink|WP2033|Speedpaint Set 2.0|214|47|127|![#D62F7F](https://placehold.co/15x15/D62F7F/D62F7F.png) `#D62F7F`|
@@ -250,7 +250,7 @@
 |Forbidden Fruit|WP3142|Warpaints Fanatic|205|136|169|![#CD88A9](https://placehold.co/15x15/CD88A9/CD88A9.png) `#CD88A9`|
 |Forest Faun|WP3065|Warpaints Fanatic|161|199|175|![#A1C7AF](https://placehold.co/15x15/A1C7AF/A1C7AF.png) `#A1C7AF`|
 |Forest Sprite|WP2044|Speedpaint Set 2.0|111|160|69|![#6FA045](https://placehold.co/15x15/6FA045/6FA045.png) `#6FA045`|
-|Fresh Rust|null|Warpaints Fanatic Wash|194|84|40|![#C25428](https://placehold.co/15x15/C25428/C25428.png) `#C25428`|
+|Fresh Rust|WP3167|Warpaints Fanatic Wash|194|84|40|![#C25428](https://placehold.co/15x15/C25428/C25428.png) `#C25428`|
 |Frost Blue|null|D&D Nolzur's Marvelous Pigments|0|128|191|![#0080BF](https://placehold.co/15x15/0080BF/0080BF.png) `#0080BF`|
 |Frost Blue|WP3018|Warpaints Fanatic|154|190|222|![#9ABEDE](https://placehold.co/15x15/9ABEDE/9ABEDE.png) `#9ABEDE`|
 |Fur Brown|AW1122|Warpaints Air|132|53|29|![#84351D](https://placehold.co/15x15/84351D/84351D.png) `#84351D`|
@@ -259,10 +259,10 @@
 |Fur Brown|WP1122|Warpaints|161|58|15|![#A13A0F](https://placehold.co/15x15/A13A0F/A13A0F.png) `#A13A0F`|
 |Gargoyle Grey|WP3008|Warpaints Fanatic|168|162|146|![#A8A292](https://placehold.co/15x15/A8A292/A8A292.png) `#A8A292`|
 |Garment Pigment Toner|null|Skin Tones Paint Set|117|35|48|![#752330](https://placehold.co/15x15/752330/752330.png) `#752330`|
-|Gauss Green|null|Warpaints Air|99|163|60|![#63A33C](https://placehold.co/15x15/63A33C/63A33C.png) `#63A33C`|
+|Gauss Green|AW1503|Warpaints Air|99|163|60|![#63A33C](https://placehold.co/15x15/63A33C/63A33C.png) `#63A33C`|
 |Gelatinous Blue|null|D&D Nolzur's Marvelous Pigments|199|207|227|![#C7CFE3](https://placehold.co/15x15/C7CFE3/C7CFE3.png) `#C7CFE3`|
 |Gemstone|null|Metallic Colours Paint Set|174|28|40|![#AE1C28](https://placehold.co/15x15/AE1C28/AE1C28.png) `#AE1C28`|
-|Gemstone|null|Warpaints Air|105|25|31|![#69191F](https://placehold.co/15x15/69191F/69191F.png) `#69191F`|
+|Gemstone|AW1487|Warpaints Air|105|25|31|![#69191F](https://placehold.co/15x15/69191F/69191F.png) `#69191F`|
 |Gemstone Red|WP3198|Warpaints Fanatic|130|29|35|![#821D23](https://placehold.co/15x15/821D23/821D23.png) `#821D23`|
 |Ghillie Dew|WP2042|Speedpaint Set 2.0|144|172|35|![#90AC23](https://placehold.co/15x15/90AC23/90AC23.png) `#90AC23`|
 |Ghostly Blue|null|D&D Nolzur's Marvelous Pigments|58|157|213|![#3A9DD5](https://placehold.co/15x15/3A9DD5/3A9DD5.png) `#3A9DD5`|
@@ -272,7 +272,7 @@
 |Glistening Blood|WP1476|Warpaints|179|8|45|![#B3082D](https://placehold.co/15x15/B3082D/B3082D.png) `#B3082D`|
 |Glistening Blood|null|D&D Nolzur's Marvelous Pigments Wash|187|41|41|![#BB2929](https://placehold.co/15x15/BB2929/BB2929.png) `#BB2929`|
 |Glitter Green|null|Metallic Colours Paint Set|0|123|58|![#007B3A](https://placehold.co/15x15/007B3A/007B3A.png) `#007B3A`|
-|Glitter Green|null|Warpaints Air|46|90|47|![#2E5A2F](https://placehold.co/15x15/2E5A2F/2E5A2F.png) `#2E5A2F`|
+|Glitter Green|AW1484|Warpaints Air|46|90|47|![#2E5A2F](https://placehold.co/15x15/2E5A2F/2E5A2F.png) `#2E5A2F`|
 |Glittering Green|WP3197|Warpaints Fanatic|46|121|74|![#2E794A](https://placehold.co/15x15/2E794A/2E794A.png) `#2E794A`|
 |Glittering Loot|WP2070|Speedpaint Set 2.0|131|102|8|![#836608](https://placehold.co/15x15/836608/836608.png) `#836608`|
 |Gloss Varnish|WP1473|Warpaints|247|247|247|![#F7F7F7](https://placehold.co/15x15/F7F7F7/F7F7F7.png) `#F7F7F7`|
@@ -291,7 +291,7 @@
 |Great Hall Grey|WP3009|Warpaints Fanatic|187|180|166|![#BBB4A6](https://placehold.co/15x15/BBB4A6/BBB4A6.png) `#BBB4A6`|
 |Greedy Gold|WP1132|Warpaints|204|125|0|![#CC7D00](https://placehold.co/15x15/CC7D00/CC7D00.png) `#CC7D00`|
 |Greedy Gold|WP3188|Warpaints Fanatic|116|82|24|![#745218](https://placehold.co/15x15/745218/745218.png) `#745218`|
-|Greedy Gold|null|Warpaints Air|163|88|25|![#A35819](https://placehold.co/15x15/A35819/A35819.png) `#A35819`|
+|Greedy Gold|AW1132|Warpaints Air|163|88|25|![#A35819](https://placehold.co/15x15/A35819/A35819.png) `#A35819`|
 |Green Flame|null|D&D Nolzur's Marvelous Pigments|129|172|54|![#81AC36](https://placehold.co/15x15/81AC36/81AC36.png) `#81AC36`|
 |Green Tone|null|Quickshade Washes Set|15|43|24|![#0F2B18](https://placehold.co/15x15/0F2B18/0F2B18.png) `#0F2B18`|
 |Green Tone|WP3208|Warpaints Fanatic Wash|31|54|37|![#1F3625](https://placehold.co/15x15/1F3625/1F3625.png) `#1F3625`|
@@ -310,7 +310,7 @@
 |Grotesque Green|WP3072|Warpaints Fanatic|179|194|157|![#B3C29D](https://placehold.co/15x15/B3C29D/B3C29D.png) `#B3C29D`|
 |Grung Green|WP1731|D&D Nolzur's Marvelous Pigments|157|194|158|![#9DC29E](https://placehold.co/15x15/9DC29E/9DC29E.png) `#9DC29E`|
 |Guardian Green|WP3050|Warpaints Fanatic|34|98|72|![#226248](https://placehold.co/15x15/226248/226248.png) `#226248`|
-|Gun Metal|null|Warpaints Air|95|93|92|![#5F5D5C](https://placehold.co/15x15/5F5D5C/5F5D5C.png) `#5F5D5C`|
+|Gun Metal|AW1131|Warpaints Air|95|93|92|![#5F5D5C](https://placehold.co/15x15/5F5D5C/5F5D5C.png) `#5F5D5C`|
 |Gun Metal|WP3193|Warpaints Fanatic|79|80|83|![#4F5053](https://placehold.co/15x15/4F5053/4F5053.png) `#4F5053`|
 |Gun Metal|CP3025|Warpaints Primer|133|129|128|![#858180](https://placehold.co/15x15/858180/858180.png) `#858180`|
 |Gun Metal|WP1131|Warpaints|126|124|123|![#7E7C7B](https://placehold.co/15x15/7E7C7B/7E7C7B.png) `#7E7C7B`|
@@ -330,7 +330,7 @@
 |Holy White|null|Speedpaint Set|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Holy White|WP2003|Speedpaint Set 2.0|226|225|220|![#E2E1DC](https://placehold.co/15x15/E2E1DC/E2E1DC.png) `#E2E1DC`|
 |Hoplite Gold|WP2028|Speedpaint Set 2.0|144|115|23|![#907317](https://placehold.co/15x15/907317/907317.png) `#907317`|
-|Hot Pink|null|Warpaints Air|203|68|133|![#CB4485](https://placehold.co/15x15/CB4485/CB4485.png) `#CB4485`|
+|Hot Pink|AW1506|Warpaints Air|203|68|133|![#CB4485](https://placehold.co/15x15/CB4485/CB4485.png) `#CB4485`|
 |Howling Sand|WP2077|Speedpaint Set 2.0|206|207|176|![#CECFB0](https://placehold.co/15x15/CECFB0/CECFB0.png) `#CECFB0`|
 |Husk Brown|AW3122|Warpaints Air|86|47|34|![#562F22](https://placehold.co/15x15/562F22/562F22.png) `#562F22`|
 |Hydra Turqoise|WP1141|Warpaints|30|147|156|![#1E939C](https://placehold.co/15x15/1E939C/1E939C.png) `#1E939C`|
@@ -366,7 +366,7 @@
 |Leather Brown|CP3004|Warpaints Primer|113|62|41|![#713E29](https://placehold.co/15x15/713E29/713E29.png) `#713E29`|
 |Leather Brown|AW1123|Warpaints Air|103|71|30|![#67471E](https://placehold.co/15x15/67471E/67471E.png) `#67471E`|
 |Legendary Red|WP3105|Warpaints Fanatic|239|75|62|![#EF4B3E](https://placehold.co/15x15/EF4B3E/EF4B3E.png) `#EF4B3E`|
-|Lens Flare Glow|null|Warpaints Fanatic Wash|255|244|100|![#FFF464](https://placehold.co/15x15/FFF464/FFF464.png) `#FFF464`|
+|Lens Flare Glow|WP3178|Warpaints Fanatic Wash|255|244|100|![#FFF464](https://placehold.co/15x15/FFF464/FFF464.png) `#FFF464`|
 |Leopard Stone Skin|WP3156|Warpaints Fanatic|231|180|177|![#E7B4B1](https://placehold.co/15x15/E7B4B1/E7B4B1.png) `#E7B4B1`|
 |Leviathan Light|AW4437|Warpaints Air|181|210|186|![#B5D2BA](https://placehold.co/15x15/B5D2BA/B5D2BA.png) `#B5D2BA`|
 |Lich Blue|null|D&D Underdark Set|9|64|115|![#094073](https://placehold.co/15x15/094073/094073.png) `#094073`|
@@ -432,9 +432,9 @@
 |Necrotic Flesh|WP1108|Warpaints|182|167|137|![#B6A789](https://placehold.co/15x15/B6A789/B6A789.png) `#B6A789`|
 |Necrotic Flesh|CP3013|Warpaints Primer|188|190|140|![#BCBE8C](https://placehold.co/15x15/BCBE8C/BCBE8C.png) `#BCBE8C`|
 |Necrotic Flesh|WP3071|Warpaints Fanatic|154|169|132|![#9AA984](https://placehold.co/15x15/9AA984/9AA984.png) `#9AA984`|
-|Neon Yellow|null|Warpaints Air|254|222|64|![#FEDE40](https://placehold.co/15x15/FEDE40/FEDE40.png) `#FEDE40`|
+|Neon Yellow|AW1504|Warpaints Air|254|222|64|![#FEDE40](https://placehold.co/15x15/FEDE40/FEDE40.png) `#FEDE40`|
 |Neptune Glow|WP3041|Warpaints Fanatic|117|206|212|![#75CED4](https://placehold.co/15x15/75CED4/75CED4.png) `#75CED4`|
-|Night Scales|null|Warpaints Air|35|32|35|![#232023](https://placehold.co/15x15/232023/232023.png) `#232023`|
+|Night Scales|AW1490|Warpaints Air|35|32|35|![#232023](https://placehold.co/15x15/232023/232023.png) `#232023`|
 |Night Scales|null|Metallic Colours Paint Set|49|44|47|![#312C2F](https://placehold.co/15x15/312C2F/312C2F.png) `#312C2F`|
 |Night Sky|WP3013|Warpaints Fanatic|48|67|88|![#304358](https://placehold.co/15x15/304358/304358.png) `#304358`|
 |Noble Skin|WP2063|Speedpaint Set 2.0|79|73|61|![#4F493D](https://placehold.co/15x15/4F493D/4F493D.png) `#4F493D`|
@@ -448,13 +448,13 @@
 |Occultist Cloak|WP2027|Speedpaint Set 2.0|48|50|62|![#30323E](https://placehold.co/15x15/30323E/30323E.png) `#30323E`|
 |Ocean Depths|AW3141|Warpaints Air|5|76|91|![#054C5B](https://placehold.co/15x15/054C5B/054C5B.png) `#054C5B`|
 |Ochre Clay|WP2066|Speedpaint Set 2.0|184|169|54|![#B8A936](https://placehold.co/15x15/B8A936/B8A936.png) `#B8A936`|
-|Oil Stains|null|Warpaints Fanatic Wash|29|37|43|![#1D252B](https://placehold.co/15x15/1D252B/1D252B.png) `#1D252B`|
+|Oil Stains|WP3169|Warpaints Fanatic Wash|29|37|43|![#1D252B](https://placehold.co/15x15/1D252B/1D252B.png) `#1D252B`|
 |Olive Drab|WP3070|Warpaints Fanatic|122|144|95|![#7A905F](https://placehold.co/15x15/7A905F/7A905F.png) `#7A905F`|
 |Omega Blue|AW3115|Warpaints Air|31|56|99|![#1F3863](https://placehold.co/15x15/1F3863/1F3863.png) `#1F3863`|
 |Onyx Skin|null|Skin Tones Paint Set|54|50|49|![#363231](https://placehold.co/15x15/363231/363231.png) `#363231`|
 |Onyx Skin|WP3158|Warpaints Fanatic|102|74|77|![#664A4D](https://placehold.co/15x15/664A4D/664A4D.png) `#664A4D`|
 |Oozing Purple|WP1445|Warpaints|178|157|183|![#B29DB7](https://placehold.co/15x15/B29DB7/B29DB7.png) `#B29DB7`|
-|Oozing Vomit|null|Warpaints Fanatic Wash|123|92|29|![#7B5C1D](https://placehold.co/15x15/7B5C1D/7B5C1D.png) `#7B5C1D`|
+|Oozing Vomit|WP3170|Warpaints Fanatic Wash|123|92|29|![#7B5C1D](https://placehold.co/15x15/7B5C1D/7B5C1D.png) `#7B5C1D`|
 |Opal Skin|null|Skin Tones Paint Set|214|195|193|![#D6C3C1](https://placehold.co/15x15/D6C3C1/D6C3C1.png) `#D6C3C1`|
 |Opal Skin|WP3149|Warpaints Fanatic|255|210|200|![#FFD2C8](https://placehold.co/15x15/FFD2C8/FFD2C8.png) `#FFD2C8`|
 |Orange Magma|AW4106|Warpaints Air|197|40|34|![#C52822](https://placehold.co/15x15/C52822/C52822.png) `#C52822`|
@@ -489,10 +489,10 @@
 |Pixie Pink|AW1447|Warpaints Air|185|79|140|![#B94F8C](https://placehold.co/15x15/B94F8C/B94F8C.png) `#B94F8C`|
 |Pixie Pink|WP3123|Warpaints Fanatic|217|111|174|![#D96FAE](https://placehold.co/15x15/D96FAE/D96FAE.png) `#D96FAE`|
 |Pixiedust Pink|null|D&D Nolzur's Marvelous Pigments|210|127|132|![#D27F84](https://placehold.co/15x15/D27F84/D27F84.png) `#D27F84`|
-|Plasma Coil Glow|null|Warpaints Fanatic Wash|94|205|244|![#5ECDF4](https://placehold.co/15x15/5ECDF4/5ECDF4.png) `#5ECDF4`|
+|Plasma Coil Glow|WP3176|Warpaints Fanatic Wash|94|205|244|![#5ECDF4](https://placehold.co/15x15/5ECDF4/5ECDF4.png) `#5ECDF4`|
 |Plasmatic Bolt|null|Speedpaint Set|0|129|108|![#00816C](https://placehold.co/15x15/00816C/00816C.png) `#00816C`|
 |Plasmatic Bolt|WP2019|Speedpaint Set 2.0|10|155|140|![#0A9B8C](https://placehold.co/15x15/0A9B8C/0A9B8C.png) `#0A9B8C`|
-|Plate Mail Metal|null|Warpaints Air|106|107|104|![#6A6B68](https://placehold.co/15x15/6A6B68/6A6B68.png) `#6A6B68`|
+|Plate Mail Metal|AW1130|Warpaints Air|106|107|104|![#6A6B68](https://placehold.co/15x15/6A6B68/6A6B68.png) `#6A6B68`|
 |Plate Mail Metal|CP3008|Warpaints Primer|133|133|132|![#858584](https://placehold.co/15x15/858584/858584.png) `#858584`|
 |Plate Mail Metal|WP1130|Warpaints|148|148|148|![#949494](https://placehold.co/15x15/949494/949494.png) `#949494`|
 |Plate Mail Metal|WP3192|Warpaints Fanatic|104|106|110|![#686A6E](https://placehold.co/15x15/686A6E/686A6E.png) `#686A6E`|
@@ -500,7 +500,7 @@
 |Polished Silver|null|Speedpaint Set 2.0|136|135|130|![#888782](https://placehold.co/15x15/888782/888782.png) `#888782`|
 |Poppy Red|WP2056|Speedpaint Set 2.0|200|69|59|![#C8453B](https://placehold.co/15x15/C8453B/C8453B.png) `#C8453B`|
 |Potion Green|AW4466|Warpaints Air|97|138|114|![#618A72](https://placehold.co/15x15/618A72/618A72.png) `#618A72`|
-|Power Node Glow|null|Warpaints Fanatic Wash|242|134|181|![#F286B5](https://placehold.co/15x15/F286B5/F286B5.png) `#F286B5`|
+|Power Node Glow|WP3180|Warpaints Fanatic Wash|242|134|181|![#F286B5](https://placehold.co/15x15/F286B5/F286B5.png) `#F286B5`|
 |Prairie Ochre|WP3080|Warpaints Fanatic|105|98|66|![#696242](https://placehold.co/15x15/696242/696242.png) `#696242`|
 |Princess Pink|WP2086|Speedpaint Set 2.0|226|159|176|![#E29FB0](https://placehold.co/15x15/E29FB0/E29FB0.png) `#E29FB0`|
 |Psychic Shock|AW4419|Warpaints Air|93|164|144|![#5DA490](https://placehold.co/15x15/5DA490/5DA490.png) `#5DA490`|
@@ -518,7 +518,7 @@
 |Putrid Slime|null|D&D Underdark Set|196|177|7|![#C4B107](https://placehold.co/15x15/C4B107/C4B107.png) `#C4B107`|
 |Quartz Skin|WP3162|Warpaints Fanatic|240|208|180|![#F0D0B4](https://placehold.co/15x15/F0D0B4/F0D0B4.png) `#F0D0B4`|
 |Quickshade Wash Mixing Medium|WP1474|Warpaints Wash|238|239|239|![#EEEFEF](https://placehold.co/15x15/EEEFEF/EEEFEF.png) `#EEEFEF`|
-|Radiation Glow|null|Warpaints Fanatic Wash|251|179|117|![#FBB375](https://placehold.co/15x15/FBB375/FBB375.png) `#FBB375`|
+|Radiation Glow|WP3179|Warpaints Fanatic Wash|251|179|117|![#FBB375](https://placehold.co/15x15/FBB375/FBB375.png) `#FBB375`|
 |Raging Rose|WP3120|Warpaints Fanatic|233|102|99|![#E96663](https://placehold.co/15x15/E96663/E96663.png) `#E96663`|
 |Raging Rouge|WP3108|Warpaints Fanatic|246|143|130|![#F68F82](https://placehold.co/15x15/F68F82/F68F82.png) `#F68F82`|
 |Raging Sea|WP2053|Speedpaint Set 2.0|27|149|164|![#1B95A4](https://placehold.co/15x15/1B95A4/1B95A4.png) `#1B95A4`|
@@ -536,13 +536,13 @@
 |Rigid Leather|null|D&D Underdark Set|82|28|2|![#521C02](https://placehold.co/15x15/521C02/521C02.png) `#521C02`|
 |Rigor Mortis|WP2080|Speedpaint Set 2.0|173|173|111|![#ADAD6F](https://placehold.co/15x15/ADAD6F/ADAD6F.png) `#ADAD6F`|
 |Rosy Skin|null|D&D Nolzur's Marvelous Pigments|247|191|150|![#F7BF96](https://placehold.co/15x15/F7BF96/F7BF96.png) `#F7BF96`|
-|Rough Iron|null|Warpaints Air|32|19|14|![#20130E](https://placehold.co/15x15/20130E/20130E.png) `#20130E`|
+|Rough Iron|AW1468|Warpaints Air|32|19|14|![#20130E](https://placehold.co/15x15/20130E/20130E.png) `#20130E`|
 |Rough Iron|WP3181|Warpaints Fanatic|53|45|37|![#352D25](https://placehold.co/15x15/352D25/352D25.png) `#352D25`|
 |Rough Iron|WP1468|Warpaints|34|19|15|![#22130F](https://placehold.co/15x15/22130F/22130F.png) `#22130F`|
 |Royal Blue|WP3027|Warpaints Fanatic|1|98|175|![#0162AF](https://placehold.co/15x15/0162AF/0162AF.png) `#0162AF`|
 |Royal Cloak|WP1449|Warpaints|28|144|149|![#1C9095](https://placehold.co/15x15/1C9095/1C9095.png) `#1C9095`|
 |Royal Purple|null|Metallic Colours Paint Set|112|27|85|![#701B55](https://placehold.co/15x15/701B55/701B55.png) `#701B55`|
-|Royal Purple|null|Warpaints Air|67|23|59|![#43173B](https://placehold.co/15x15/43173B/43173B.png) `#43173B`|
+|Royal Purple|AW1488|Warpaints Air|67|23|59|![#43173B](https://placehold.co/15x15/43173B/43173B.png) `#43173B`|
 |Royal Robes|WP2050|Speedpaint Set 2.0|83|99|161|![#5363A1](https://placehold.co/15x15/5363A1/5363A1.png) `#5363A1`|
 |Ruby Skin|null|Skin Tones Paint Set|229|171|171|![#E5ABAB](https://placehold.co/15x15/E5ABAB/E5ABAB.png) `#E5ABAB`|
 |Ruby Skin|WP3148|Warpaints Fanatic|251|185|157|![#FBB99D](https://placehold.co/15x15/FBB99D/FBB99D.png) `#FBB99D`|
@@ -556,7 +556,7 @@
 |Rust Monster|null|D&D Nolzur's Marvelous Pigments|229|88|30|![#E5581E](https://placehold.co/15x15/E5581E/E5581E.png) `#E5581E`|
 |Rust Tone|WP3204|Warpaints Fanatic Wash|69|42|17|![#452A11](https://placehold.co/15x15/452A11/452A11.png) `#452A11`|
 |Sacred Scarlet|WP3106|Warpaints Fanatic|241|99|76|![#F1634C](https://placehold.co/15x15/F1634C/F1634C.png) `#F1634C`|
-|Safety Orange|null|Warpaints Air|222|143|88|![#DE8F58](https://placehold.co/15x15/DE8F58/DE8F58.png) `#DE8F58`|
+|Safety Orange|AW1505|Warpaints Air|222|143|88|![#DE8F58](https://placehold.co/15x15/DE8F58/DE8F58.png) `#DE8F58`|
 |Sand Golem|WP2020|Speedpaint Set 2.0|203|148|19|![#CB9413](https://placehold.co/15x15/CB9413/CB9413.png) `#CB9413`|
 |Sand Golem|null|Speedpaint Set|186|144|41|![#BA9029](https://placehold.co/15x15/BA9029/BA9029.png) `#BA9029`|
 |Sapphire Gem|AW3114|Warpaints Air|28|71|126|![#1C477E](https://placehold.co/15x15/1C477E/1C477E.png) `#1C477E`|
@@ -571,7 +571,7 @@
 |Shark White|AW3102|Warpaints Air|149|159|156|![#959F9C](https://placehold.co/15x15/959F9C/959F9C.png) `#959F9C`|
 |Shieldwall Blue|WP3035|Warpaints Fanatic|8|161|204|![#08A1CC](https://placehold.co/15x15/08A1CC/08A1CC.png) `#08A1CC`|
 |Shining Silver|WP3191|Warpaints Fanatic|134|136|140|![#86888C](https://placehold.co/15x15/86888C/86888C.png) `#86888C`|
-|Shining Silver|null|Warpaints Air|169|169|167|![#A9A9A7](https://placehold.co/15x15/A9A9A7/A9A9A7.png) `#A9A9A7`|
+|Shining Silver|AW1129|Warpaints Air|169|169|167|![#A9A9A7](https://placehold.co/15x15/A9A9A7/A9A9A7.png) `#A9A9A7`|
 |Shining Silver|WP1129|Warpaints|177|177|175|![#B1B1AF](https://placehold.co/15x15/B1B1AF/B1B1AF.png) `#B1B1AF`|
 |Silver Dragon|null|D&D Nolzur's Marvelous Pigments|178|178|179|![#B2B2B3](https://placehold.co/15x15/B2B2B3/B2B2B3.png) `#B2B2B3`|
 |Skeleton Bone|null|D&D Nolzur's Marvelous Pigments|102|109|116|![#666D74](https://placehold.co/15x15/666D74/666D74.png) `#666D74`|
@@ -602,7 +602,7 @@
 |Strong Tone|null|Quickshade Washes Set|59|40|38|![#3B2826](https://placehold.co/15x15/3B2826/3B2826.png) `#3B2826`|
 |Succubus Red|null|D&D Underdark Set|170|38|47|![#AA262F](https://placehold.co/15x15/AA262F/AA262F.png) `#AA262F`|
 |Sulfide Ochre|WP1456|Warpaints|199|134|0|![#C78600](https://placehold.co/15x15/C78600/C78600.png) `#C78600`|
-|Tainted Gold|null|Warpaints Air|70|66|44|![#46422C](https://placehold.co/15x15/46422C/46422C.png) `#46422C`|
+|Tainted Gold|AW1482|Warpaints Air|70|66|44|![#46422C](https://placehold.co/15x15/46422C/46422C.png) `#46422C`|
 |Tainted Gold|null|Metallic Colours Paint Set|104|97|57|![#686139](https://placehold.co/15x15/686139/686139.png) `#686139`|
 |Tainted Gold|WP3187|Warpaints Fanatic|87|82|53|![#575235](https://placehold.co/15x15/575235/575235.png) `#575235`|
 |Talisman Purple|AW4451|Warpaints Air|206|133|156|![#CE859C](https://placehold.co/15x15/CE859C/CE859C.png) `#CE859C`|
@@ -632,11 +632,11 @@
 |Troglodyte Blue|WP1458|Warpaints|37|136|185|![#2588B9](https://placehold.co/15x15/2588B9/2588B9.png) `#2588B9`|
 |Troll Claws|WP1459|Warpaints|203|136|62|![#CB883E](https://placehold.co/15x15/CB883E/CB883E.png) `#CB883E`|
 |Troll Skin|null|D&D Nolzur's Marvelous Pigments|6|56|31|![#06381F](https://placehold.co/15x15/06381F/06381F.png) `#06381F`|
-|True Blood|null|Warpaints Fanatic Wash|141|4|34|![#8D0422](https://placehold.co/15x15/8D0422/8D0422.png) `#8D0422`|
+|True Blood|WP3165|Warpaints Fanatic Wash|141|4|34|![#8D0422](https://placehold.co/15x15/8D0422/8D0422.png) `#8D0422`|
 |True Brass|WP3186|Warpaints Fanatic|99|93|88|![#635D58](https://placehold.co/15x15/635D58/635D58.png) `#635D58`|
 |True Copper|WP1467|Warpaints|224|125|45|![#E07D2D](https://placehold.co/15x15/E07D2D/E07D2D.png) `#E07D2D`|
 |True Copper|WP3184|Warpaints Fanatic|107|71|49|![#6B4731](https://placehold.co/15x15/6B4731/6B4731.png) `#6B4731`|
-|True Copper|null|Warpaints Air|189|82|37|![#BD5225](https://placehold.co/15x15/BD5225/BD5225.png) `#BD5225`|
+|True Copper|AW1467|Warpaints Air|189|82|37|![#BD5225](https://placehold.co/15x15/BD5225/BD5225.png) `#BD5225`|
 |Tundra Taupe|WP3079|Warpaints Fanatic|75|77|62|![#4B4D3E](https://placehold.co/15x15/4B4D3E/4B4D3E.png) `#4B4D3E`|
 |Turquoise Siren|WP3039|Warpaints Fanatic|41|179|185|![#29B3B9](https://placehold.co/15x15/29B3B9/29B3B9.png) `#29B3B9`|
 |Twilight Sky|AW4415|Warpaints Air|27|69|95|![#1B455F](https://placehold.co/15x15/1B455F/1B455F.png) `#1B455F`|
@@ -657,11 +657,11 @@
 |Vampire Garments|null|D&D Undead Set|161|47|36|![#A12F24](https://placehold.co/15x15/A12F24/A12F24.png) `#A12F24`|
 |Vampire Red|WP1460|Warpaints|152|23|42|![#98172A](https://placehold.co/15x15/98172A/98172A.png) `#98172A`|
 |Venom Wyrm|WP1461|Warpaints|106|101|62|![#6A653E](https://placehold.co/15x15/6A653E/6A653E.png) `#6A653E`|
-|Verdigris|null|Warpaints Fanatic Wash|97|184|155|![#61B89B](https://placehold.co/15x15/61B89B/61B89B.png) `#61B89B`|
+|Verdigris|WP3168|Warpaints Fanatic Wash|97|184|155|![#61B89B](https://placehold.co/15x15/61B89B/61B89B.png) `#61B89B`|
 |Viking Blue|WP1462|Warpaints|28|91|152|![#1C5B98](https://placehold.co/15x15/1C5B98/1C5B98.png) `#1C5B98`|
 |Violent Vermillion|null|Warpaints Fanatic|243|121|100|![#F37964](https://placehold.co/15x15/F37964/F37964.png) `#F37964`|
 |Violet Coven|WP3131|Warpaints Fanatic|169|153|199|![#A999C7](https://placehold.co/15x15/A999C7/A999C7.png) `#A999C7`|
-|Violet Volt|null|Warpaints Air|118|66|135|![#764287](https://placehold.co/15x15/764287/764287.png) `#764287`|
+|Violet Volt|AW1501|Warpaints Air|118|66|135|![#764287](https://placehold.co/15x15/764287/764287.png) `#764287`|
 |Viper Brown|AW4122|Warpaints Air|155|95|76|![#9B5F4C](https://placehold.co/15x15/9B5F4C/9B5F4C.png) `#9B5F4C`|
 |Vivid Volt|WP3059|Warpaints Fanatic|207|220|81|![#CFDC51](https://placehold.co/15x15/CFDC51/CFDC51.png) `#CFDC51`|
 |Voidshield Blue|WP1452|Warpaints|91|188|215|![#5BBCD7](https://placehold.co/15x15/5BBCD7/5BBCD7.png) `#5BBCD7`|
@@ -677,7 +677,7 @@
 |Wasteland Soil|WP1463|Warpaints|132|72|87|![#844857](https://placehold.co/15x15/844857/844857.png) `#844857`|
 |Weapon Bronze|WP3183|Warpaints Fanatic|149|86|16|![#955610](https://placehold.co/15x15/955610/955610.png) `#955610`|
 |Weapon Bronze|WP1133|Warpaints|228|117|51|![#E47533](https://placehold.co/15x15/E47533/E47533.png) `#E47533`|
-|Weapon Bronze|null|Warpaints Air|173|91|51|![#AD5B33](https://placehold.co/15x15/AD5B33/AD5B33.png) `#AD5B33`|
+|Weapon Bronze|AW1133|Warpaints Air|173|91|51|![#AD5B33](https://placehold.co/15x15/AD5B33/AD5B33.png) `#AD5B33`|
 |Weird Elixir|WP3124|Warpaints Fanatic|224|146|191|![#E092BF](https://placehold.co/15x15/E092BF/E092BF.png) `#E092BF`|
 |Werewolf Fur|WP1464|Warpaints|121|99|82|![#796352](https://placehold.co/15x15/796352/796352.png) `#796352`|
 |Wet Mud|WP1478|Warpaints|158|62|53|![#9E3E35](https://placehold.co/15x15/9E3E35/9E3E35.png) `#9E3E35`|
@@ -704,7 +704,7 @@
 |Zealot Yellow|WP2013|Speedpaint Set 2.0|244|208|8|![#F4D008](https://placehold.co/15x15/F4D008/F4D008.png) `#F4D008`|
 |Zealot Yellow|null|Speedpaint Set|241|209|47|![#F1D12F](https://placehold.co/15x15/F1D12F/F1D12F.png) `#F1D12F`|
 |Zephyr Pink|null|Metallic Colours Paint Set|180|64|111|![#B4406F](https://placehold.co/15x15/B4406F/B4406F.png) `#B4406F`|
-|Zephyr Pink|null|Warpaints Air|107|48|77|![#6B304D](https://placehold.co/15x15/6B304D/6B304D.png) `#6B304D`|
+|Zephyr Pink|AW1485|Warpaints Air|107|48|77|![#6B304D](https://placehold.co/15x15/6B304D/6B304D.png) `#6B304D`|
 |Zombie Flesh|null|D&D Nolzur's Marvelous Pigments|176|193|148|![#B0C194](https://placehold.co/15x15/B0C194/B0C194.png) `#B0C194`|
 |Zombie Flesh|AW4108|Warpaints Air|175|179|149|![#AFB395](https://placehold.co/15x15/AFB395/AFB395.png) `#AFB395`|
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>
