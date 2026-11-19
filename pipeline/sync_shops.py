@@ -1,7 +1,7 @@
 """Herstellerseiten abfragen und neue Produkte in data/brands/*.json eintragen.
 
 Regeln:
-  - Abgleich: 1) Code  2) Name + Serie  3) Name allein, wenn in der Marke eindeutig und kein Code
+  - Abgleich: 1) Code  2) Name + Serie (nur wenn eine Seite keinen Code hat)  3) Name allein, wenn in der Marke eindeutig und kein Code
   - Abgleich 2b: Name in einer verwandten Serie (Product.match_sets), wenn die Altdaten dort keinen Code haben
   - Bekannte Farben: url, image, last_seen aktualisieren, fehlenden Code und fehlende EAN ergänzen
   - EAN: nie überschreiben, außer eine berechnete durch eine vom Hersteller; Abweichungen und
@@ -46,7 +46,10 @@ def match(brand: dict, prod: Product) -> dict | None:
             same_set = [p for p in hits if p.get("set") == prod.set]
             return (same_set or hits)[0]
     nn = norm_name(prod.name)
-    hits = [p for p in paints if norm_name(p["name"]) == nn and p.get("set") == prod.set]
+    # Name + Serie nur, wenn nicht zwei verschiedene Codes aufeinandertreffen
+    # (z. B. Model Air 71.223 und 71.329 heißen beide „Green“; Game Air 72.7xx -> 76.0xx neu nummeriert)
+    hits = [p for p in paints if norm_name(p["name"]) == nn and p.get("set") == prod.set
+            and not (prod.code and p.get("code"))]
     if hits:
         return hits[0]
     if prod.code and prod.match_sets:

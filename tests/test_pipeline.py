@@ -224,6 +224,41 @@ def test_derive_ean(data_copy):
     assert (p["ean"], p["ean_source"]) == ("8429551709514", "berechnet")
 
 
+def test_sync_name_match_needs_missing_code(data_copy):
+    from pipeline.sync_shops import sync_brand
+    brand = json.loads((data_copy / "vallejo.json").read_text())
+    target = next(p for p in brand["paints"] if p["code"] and p["status"] == "active")
+    r = sync_brand("vallejo", [Product(name=target["name"], set=target["set"], code="99.999")], None)
+    assert not r["matched"] and len(r["new"]) == 1
+    after = next(p for p in lib.load_brand("vallejo")["paints"] if p["id"] == target["id"])
+    assert after.get("url") == target.get("url")
+
+
+def test_get_retries_connection_errors(monkeypatch):
+    import requests
+    import pipeline.scrape.base as base
+    monkeypatch.setattr(base.time, "sleep", lambda s: None)
+    s = base.Scraper()
+    calls = []
+
+    class Ok:
+        status_code = 200
+        def raise_for_status(self): pass
+
+    def fake(url, **kw):
+        calls.append(url)
+        if len(calls) < 3:
+            raise requests.ConnectionError("Remote end closed connection")
+        return Ok()
+
+    monkeypatch.setattr(s.session, "get", fake)
+    assert s.get("https://x").status_code == 200 and len(calls) == 3
+    calls.clear()
+    monkeypatch.setattr(s.session, "get", lambda url, **kw: (_ for _ in ()).throw(requests.ConnectionError("x")))
+    with pytest.raises(requests.ConnectionError):
+        s.get("https://x")
+
+
 # ---------- Build ----------
 
 def test_markdown_up_to_date():
