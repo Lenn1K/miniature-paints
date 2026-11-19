@@ -43,7 +43,13 @@ class Scraper:
     def get(self, url: str, *, params=None, headers=None, retries: int = 3) -> requests.Response:
         for attempt in range(retries):
             time.sleep(self.delay * (attempt + 1))
-            r = self.session.get(url, params=params, headers=headers, timeout=30)
+            try:
+                r = self.session.get(url, params=params, headers=headers, timeout=30)
+            except (requests.ConnectionError, requests.Timeout):
+                if attempt == retries - 1:
+                    raise
+                time.sleep(10 * (attempt + 1))  # Verbindung abgebrochen -> kurz warten, neu versuchen
+                continue
             if r.status_code in (429, 503):
                 time.sleep(10 * (attempt + 1))
                 continue
