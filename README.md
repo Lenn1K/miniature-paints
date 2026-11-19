@@ -39,6 +39,7 @@ data/combinations/*.json        Farbkombinationen (z. B. Vallejo Highlight/Base/
 dist/paints.json                flache Liste aller Farben inkl. rgb – für die App
 dist/brands.json                Markenübersicht
 dist/brands/<marke>.json        kompakt je Marke (name, code, set, hex, ean, status) – für die Label-Suite
+docs/label-suite.md             Format, das die Label-Suite erwartet (vor Änderungen an dist/brands/ lesen)
 paints/*.md                     generierte Tabellen (Format wie im Original)
 reports/*.md                    Berichte der letzten Läufe
 pipeline/                       Migration, Importer, Scraper, Build
