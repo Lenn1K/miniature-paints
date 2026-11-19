@@ -211,7 +211,8 @@ def main(argv=None) -> int:
             rep += ["", f"## {r['brand']}: seit >{STALE_DAYS} Tagen nicht mehr im Shop", ""]
             rep += [f"- {p['code'] or ''} {p['name']} ({p['set']}), zuletzt {p['last_seen']}" for p in r["stale"]]
     path = write_report("sync-shops", rep)
-    print(f"Report: {path}")
+    print(f"Report: {path}\n")
+    print("\n".join(rep))  # auch ins Job-Log, damit der Bericht ohne Artefakt lesbar ist
     return 1 if errors and not results else 0
 
 

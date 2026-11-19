@@ -192,7 +192,7 @@ def test_sync_ean(data_copy):
     brand = {p["code"]: p for p in json.loads((data_copy / "ak.json").read_text())["paints"]}
     assert (brand["AK11001"]["ean"], brand["AK11001"]["ean_source"]) == ("8435568303102", "hersteller")
     assert "ean" not in brand["AK19999"] and len(r["conflicts"]) == 1   # Dublette
-    assert r["with_ean"] == 1
+    assert r["with_ean"] == sum(1 for p in lib.load_brand("ak")["paints"] if p.get("ean"))
     # gespeicherte Hersteller-EAN wird nicht überschrieben
     r = sync_brand("ak", [Product(name="White", set="Intense (3rd Gen)", code="AK11001", ean="8429551742658")], None)
     assert r["conflicts"] and json.loads((data_copy / "ak.json").read_text())
@@ -210,9 +210,10 @@ def test_sync_ean_lookup_budget(data_copy, monkeypatch):
             return "5713799200715"
 
     monkeypatch.setattr(ss, "MAX_EAN_LOOKUPS", 1)
+    before = sum(1 for p in lib.load_brand("army-painter")["paints"] if p.get("ean"))
     prods = [Product(name="Neu A", set="Warpaints", code="WP9998"), Product(name="Neu B", set="Warpaints", code="WP9999")]
     r = ss.sync_brand("army-painter", prods, Fake())
-    assert Fake.calls == 1 and r["ean_lookups"] == 1 and r["with_ean"] == 1
+    assert Fake.calls == 1 and r["ean_lookups"] == 1 and r["with_ean"] == before + 1
 
 
 def test_derive_ean(data_copy):
