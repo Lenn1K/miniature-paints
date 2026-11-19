@@ -89,8 +89,11 @@ python -m pytest -q tests
 | **Status** | Übersicht + offene Farben ohne Farbwert mit IDs | nichts |
 | **Neu erzeugen** | automatisch nach Änderungen an `data/` auf main (z. B. Web-Editor); manuell mit Farbnamen-Neuzuordnung | direkt auf main |
 | **CI: Tests & Build-Check** | prüft jeden PR | nichts |
+| **Release: Datenstand** | automatisch, sobald sich `dist/brands/` auf main ändert (auch nach „Neu erzeugen“/„Farbe bearbeiten“); manuell möglich | Release „Farbdaten TT.MM.JJJJ“, Tag `data-JJJJ-MM-TT` (am selben Tag `.2` …), Notizen mit Zahlen je Marke und neuen Farben |
 
-Typischer Ablauf: Sync-PR mergen → **Status** zeigt neue Farben ohne Farbwert → per
+Die Label-Suite bietet die letzten drei Releases in den Einstellungen zur Auswahl an.
+
+Typischer Ablauf: Sync-PR mergen → Release entsteht automatisch → **Status** zeigt neue Farben ohne Farbwert → per
 **Farbe bearbeiten** Hex eintragen (Status springt automatisch auf `active`).
 
 Repo-Einstellung nötig: *Settings → Actions → General → Workflow permissions* auf
