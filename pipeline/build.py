@@ -2,6 +2,8 @@
   - paints/<Marke>.md      (gleiches Format wie das Original-Repo)
   - dist/paints.json       (flache Liste für die App)
   - dist/brands.json       (Markenübersicht)
+  - dist/brands/<slug>.json (kompakt je Marke: name, code, set, hex, ean, status; ohne eingestellte
+                             Farben – für Apps mit Größenlimit, z. B. die Label-Suite)
   - README-Markenübersicht zwischen <!-- START --> / <!-- END -->
 
 Aufruf: python -m pipeline.build
@@ -64,6 +66,16 @@ def readme_table(brands: list[dict]) -> str:
     return "\n".join(rows)
 
 
+COMPACT_FIELDS = ("name", "code", "set", "hex", "ean", "status")
+
+
+def compact(brand: dict) -> dict:
+    """Kleine Fassung einer Marke: nur die Felder für Kataloge, leere weggelassen."""
+    paints = [{k: p[k] for k in COMPACT_FIELDS if p.get(k) is not None}
+              for p in brand["paints"] if p.get("status") != "discontinued"]
+    return {"brand": brand["brand"], "slug": brand["slug"], "paints": paints}
+
+
 def main() -> int:
     brands = [load_brand(s) for s in all_brand_slugs()]
     PAINTS_DIR.mkdir(exist_ok=True)
@@ -76,6 +88,10 @@ def main() -> int:
                          "rgb": hex_to_rgb(p["hex"]) if p["hex"] else None})
     (DIST_DIR / "paints.json").write_text(
         json.dumps(flat, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    (DIST_DIR / "brands").mkdir(exist_ok=True)
+    for b in brands:
+        (DIST_DIR / "brands" / f"{b['slug']}.json").write_text(
+            json.dumps(compact(b), ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     (DIST_DIR / "brands.json").write_text(json.dumps([
         {"brand": b["brand"], "slug": b["slug"], "logo": b["logo"], "count": len(b["paints"])}
         for b in brands], ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

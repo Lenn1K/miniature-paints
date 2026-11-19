@@ -269,6 +269,20 @@ def test_markdown_up_to_date():
         assert (lib.ROOT / "paints" / b["md_file"]).read_text(encoding="utf-8") == build_md(b), slug
 
 
+def test_compact_brand_files():
+    """dist/brands/<slug>.json: klein genug für Apps mit 2-MB-Limit, ohne eingestellte Farben."""
+    from pipeline.build import compact
+    for slug in lib.all_brand_slugs():
+        b = lib.load_brand(slug)
+        path = lib.DIST_DIR / "brands" / f"{slug}.json"
+        assert json.loads(path.read_text(encoding="utf-8")) == compact(b), slug
+        assert path.stat().st_size < 1_000_000, slug
+    c = compact({"brand": "X", "slug": "x", "paints": [
+        {"name": "A", "code": None, "set": "S", "hex": "#000000", "status": "active", "url": "u"},
+        {"name": "B", "code": "1", "set": None, "hex": None, "status": "discontinued"}]})
+    assert c["paints"] == [{"name": "A", "set": "S", "hex": "#000000", "status": "active"}]
+
+
 # ---------- Bearbeiten ----------
 
 def test_edit_paint(data_copy):
