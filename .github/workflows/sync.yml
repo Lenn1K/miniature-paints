@@ -73,6 +73,9 @@ jobs:
         continue-on-error: true   # ein blockierter Shop stoppt den Rest nicht
         run: python -m pipeline.sync_shops --brands ${{ steps.brands.outputs.list }} --save-raw raw/
 
+      - name: EAN herleiten (Vallejo)
+        run: python -m pipeline.derive_ean
+
       - name: Farbnamen zuordnen
         if: env.ALL == 'true' || inputs.farbnamen
         run: python -m pipeline.import_colornames

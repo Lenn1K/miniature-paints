@@ -49,6 +49,7 @@ pipeline/                       Migration, Importer, Scraper, Build
 |---|---|
 | `id` | stabil: `<marke>/<code>` oder `<marke>/<serie>--<name>` |
 | `name`, `code`, `set` | Name, Herstellercode (oder `null`), Serie |
+| `ean`, `ean_source` | EAN-13 und Herkunft: `hersteller` (Herstellerseite) oder `berechnet` (Vallejo: `8429551` + Code + Prüfziffer) |
 | `hex` | Farbwert oder `null`, wenn noch nicht bekannt |
 | `status` | `active`, `new` (vom Scraper gefunden, ungeprüft), `discontinued` |
 | `names` | weitere Sprachen, z. B. `{"es": "Blanco"}` |
@@ -72,6 +73,7 @@ pipeline/                       Migration, Importer, Scraper, Build
 pip install -r requirements.txt
 python -m pipeline.import_ferror        # Vallejo Model Color (Ferror)
 python -m pipeline.sync_shops           # Herstellerseiten; --brands ak vallejo
+python -m pipeline.derive_ean           # EANs herleiten (Vallejo)
 python -m pipeline.import_colornames    # Farbnamen zuordnen
 python -m pipeline.build                # Markdown + dist erzeugen
 python -m pytest -q tests

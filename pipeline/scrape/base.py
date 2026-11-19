@@ -24,6 +24,9 @@ class Product:
     code: str | None = None
     url: str | None = None
     image: str | None = None
+    ean: str | None = None
+    # Serien, in denen eine gleichnamige Farbe OHNE Code dieselbe ist (Abgleich, wenn der Code nicht trifft)
+    match_sets: list[str] = field(default_factory=list)
     extra: dict = field(default_factory=dict)
 
 
@@ -59,6 +62,7 @@ class Scraper:
 # ---------- Hilfen für Namen ----------
 
 SMALL_WORDS = {"of", "the", "and", "de", "a", "in", "on"}
+ACRONYMS = {"osl", "nmm", "afv", "us", "usa", "uk", "ww1", "wwi", "wwii", "raf", "rlm", "ijn", "ija", "dak", "nato", "uv"}
 
 
 def clean(text: str) -> str:
@@ -71,7 +75,16 @@ def smart_title(text: str) -> str:
     if text != text.upper():
         return text
     words = text.lower().split(" ")
-    return " ".join(w if (i and w in SMALL_WORDS) else w[:1].upper() + w[1:] for i, w in enumerate(words))
+    return " ".join(w.upper() if w in ACRONYMS else w if (i and w in SMALL_WORDS) else w[:1].upper() + w[1:]
+                    for i, w in enumerate(words))
+
+
+SIZE = re.compile(r"[\s,]*\b\d+(?:[.,]\d+)?\s*ml\b\.?", re.I)
+
+
+def strip_size(text: str) -> str:
+    """'Alien Ooze 10ml' -> 'Alien Ooze'; 'Gloss Varnish, 100 ml' -> 'Gloss Varnish'."""
+    return clean(SIZE.sub("", text)).strip(" -,")
 
 
 SET_WORDS = re.compile(r"\b(set|sets|bundle|triad|triads|case|box|pack|kit|collection|starter|display|expansion|"
