@@ -283,6 +283,23 @@ def test_compact_brand_files():
     assert c["paints"] == [{"name": "A", "set": "S", "hex": "#000000", "status": "active"}]
 
 
+def test_release_tag_and_summary():
+    from datetime import date
+    from pipeline.release_notes import next_tag, notes, summarize
+    d = date(2026, 11, 19)
+    assert next_tag(d, []) == ("data-2026-11-19", "Farbdaten 19.11.2026")
+    assert next_tag(d, ["data-2026-11-19", "data-2026-11-19.2"]) == ("data-2026-11-19.3", "Farbdaten 19.11.2026 (3)")
+    old = {"brand": "X", "paints": [{"name": "A", "code": "1"}, {"name": "Gone", "code": "9"}]}
+    new = {"brand": "X", "paints": [{"name": "A", "code": "1", "ean": "4006381333931", "hex": "#000000"},
+                                    {"name": "B", "set": "S"}]}
+    r = summarize(new, old)
+    assert (r["count"], r["hex"], r["ean"], r["ean_added"]) == (2, 1, 1, 1)
+    assert [p["name"] for p in r["added"]] == ["B"] and [p["name"] for p in r["removed"]] == ["Gone"]
+    first = summarize(new, None)
+    assert not first["added"] and "Erster" in notes([first], None)
+    assert "| X | 2 | 1 | 1 | 1 | 1 |" in notes([r], "data-2026-11-01")
+
+
 # ---------- Bearbeiten ----------
 
 def test_edit_paint(data_copy):

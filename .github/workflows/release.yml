@@ -1,0 +1,52 @@
+name: "Release: Datenstand"
+
+# Erzeugt ein Release „Farbdaten TT.MM.JJJJ“ (Tag data-JJJJ-MM-TT), sobald sich dist/brands/ ändert.
+# Die Label-Suite bietet die letzten drei Releases zur Auswahl an. Ohne Änderung seit dem letzten
+# Release passiert nichts, mehrfaches Auslösen ist also harmlos.
+
+on:
+  push:
+    branches: [main]
+    paths: ["dist/brands/**"]
+  workflow_run:   # Commits mit GITHUB_TOKEN (Neu erzeugen, Farbe bearbeiten) lösen kein push aus
+    workflows: ["Neu erzeugen (Markdown + dist)", "Farbe bearbeiten"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: ./.github/actions/setup
+
+      - name: Notizen erzeugen
+        id: notes
+        run: python -m pipeline.release_notes --out release.md >> "$GITHUB_OUTPUT"
+
+      - name: Release erstellen
+        if: steps.notes.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.notes.outputs.tag }}
+          TITLE: ${{ steps.notes.outputs.title }}
+        run: |
+          gh release create "$TAG" --target "$(git rev-parse HEAD)" --title "$TITLE" --notes-file release.md
+          { echo "## $TITLE ($TAG)"; echo; cat release.md; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Nichts zu tun
+        if: steps.notes.outputs.skip == 'true'
+        run: echo "dist/brands/ unverändert seit dem letzten Release." >> "$GITHUB_STEP_SUMMARY"
