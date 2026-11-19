@@ -300,6 +300,30 @@ def test_release_tag_and_summary():
     assert "| X | 2 | 1 | 1 | 1 | 1 |" in notes([r], "data-2026-11-01")
 
 
+def test_label_suite_contract():
+    """Was die Label-Suite von dist/brands/ erwartet (siehe docs/label-suite.md)."""
+    import re
+    from pipeline.ean import is_valid_ean
+    for slug in ("vallejo", "army-painter", "ak", "greenstuffworld"):
+        path = lib.DIST_DIR / "brands" / f"{slug}.json"
+        assert path.exists(), f"{slug}: Datei fehlt"
+        assert path.stat().st_size < 1_000_000, f"{slug}: zu groß"
+        data = json.loads(path.read_text(encoding="utf-8"))
+        assert isinstance(data.get("paints"), list), slug
+        usable, seen_ean = 0, set()
+        for p in data["paints"]:
+            name = " ".join(str(p.get("name") or "").split())
+            if 1 <= len(name) <= 80:
+                usable += 1
+            if p.get("hex") is not None:
+                assert re.fullmatch(r"#[0-9A-Fa-f]{6}", p["hex"]), (slug, p)
+            if p.get("ean") is not None:
+                assert isinstance(p["ean"], str) and is_valid_ean(p["ean"]), (slug, p)
+                assert p["ean"] not in seen_ean, (slug, "EAN doppelt", p["ean"])
+                seen_ean.add(p["ean"])
+        assert 0 < usable <= 5000, slug
+
+
 # ---------- Bearbeiten ----------
 
 def test_edit_paint(data_copy):
