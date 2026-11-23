@@ -1,4 +1,4 @@
-# Import ferror/vallejo-model-color-data (2026-11-19)
+# Import ferror/vallejo-model-color-data (2026-11-23)
 
 - spanische Namen ergänzt: 194
 - neue Farben: 0
